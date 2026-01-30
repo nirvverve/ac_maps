@@ -47,8 +47,8 @@ import { EmptyState } from './empty-state'
 import { MiamiFilterBar } from './miami-filter-bar'
 import { FilterProvider } from '@/contexts/filter-context'
 import { TerritoryProvider } from '@/contexts/territory-context'
+import { getViewComponent, ViewMode } from '@/lib/view-registry'
 
-type ViewMode = 'territory' | 'kmlScenario' | 'assignmentTool' | 'miamiFinal' | 'miami10pct' | 'miamiZipOptimized' | 'miamiZipOptimized2' | 'radicalReroute' | 'miamiCommercialRoutes' | 'miamiFutureCommercialRoutes' | 'density' | 'market' | 'revenue' | 'employees' | 'commercial' | 'routes' | 'lookup' | 'ancillarySales' | 'jaxRevenue' | 'jaxCommercial' | 'jaxRoutes' | 'locRevenue' | 'locCommercial' | 'locRoutes'
 type DensityMode = 'active' | 'terminated' | 'both' | 'lifetime'
 type Location = 'arizona' | 'miami' | 'dallas' | 'orlando' | 'jacksonville' | 'portCharlotte'
 
@@ -683,30 +683,25 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
         </CardContent>
       </Card>
 
-      {viewMode === 'territory' ? (
-        <>
-          {/* Show Miami Territory View if location is Miami */}
-          {location === 'miami' ? (
-            <>
-              {/* Miami Summary Stats Card */}
-              <Card className="bg-white/80 backdrop-blur-sm border-0 shadow-lg">
-                <CardContent className="p-6">
-                  <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
-                    <div className="text-center">
-                      <div className="flex items-center justify-center mb-2">
-                        <Building2 className="h-5 w-5 text-blue-600 mr-2" />
-                        <span className="text-sm font-medium text-slate-600">Total Territories</span>
-                      </div>
-                      <p className="text-3xl font-bold text-slate-900">3</p>
-                      <p className="text-xs text-slate-500 mt-1">North, Central, South</p>
-                    </div>
-                    <div className="text-center">
-                      <div className="flex items-center justify-center mb-2">
-                        <MapPin className="h-5 w-5 text-green-600 mr-2" />
-                        <span className="text-sm font-medium text-slate-600">ZIP Codes</span>
-                      </div>
-                      <p className="text-3xl font-bold text-slate-900">{miamiData.length}</p>
-                      <p className="text-xs text-slate-500 mt-1">Across Miami-Dade County</p>
+      {/* Dynamic View Rendering using ViewRegistry */}
+      {(() => {
+        const ViewComponent = getViewComponent(viewMode)
+
+        // Prepare props based on location and view
+        const viewProps = {
+          location,
+          areaFilter: location === 'miami' ? miamiAreaFilter : areaFilter,
+          onAreaChange: location === 'miami' ? toggleMiamiAreaFilter : toggleAreaFilter,
+          onResetFilters: location === 'miami' ? resetMiamiFilters : resetFilters,
+          territoryData: filteredData,
+          miamiData,
+          userRole,
+          densityMode,
+          accountType,
+        }
+
+        return <ViewComponent {...viewProps} />
+      })()}
                     </div>
                     <div className="text-center">
                       <div className="flex items-center justify-center mb-2">
