@@ -1,13 +1,13 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/admin/page": "app/admin/page.js",
-  "/(auth)/register/page": "app/(auth)/register/page.js",
-  "/(auth)/login/page": "app/(auth)/login/page.js",
   "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
-  "/api/zip-boundaries/route": "app/api/zip-boundaries/route.js",
-  "/api/auth/verify-code/route": "app/api/auth/verify-code/route.js",
   "/api/auth/send-verification/route": "app/api/auth/send-verification/route.js",
+  "/api/auth/verify-code/route": "app/api/auth/verify-code/route.js",
+  "/admin/page": "app/admin/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/api/zip-boundaries/route": "app/api/zip-boundaries/route.js",
   "/page": "app/page.js",
-  "/api/admin/users/route": "app/api/admin/users/route.js",
-  "/api/auth/register/route": "app/api/auth/register/route.js"
+  "/(auth)/register/page": "app/(auth)/register/page.js",
+  "/api/auth/register/route": "app/api/auth/register/route.js",
+  "/api/admin/users/route": "app/api/admin/users/route.js"
 }

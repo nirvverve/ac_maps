@@ -3,6 +3,7 @@
 
 import { useState, useEffect, useCallback } from 'react'
 import { useSession } from 'next-auth/react'
+import { useTerritoryData, useCustomerData } from '@/hooks/use-location-data'
 import { Card, CardContent } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
@@ -49,9 +50,9 @@ import { FilterProvider } from '@/contexts/filter-context'
 import { TerritoryProvider } from '@/contexts/territory-context'
 import { getViewComponent, ViewMode } from '@/lib/view-registry'
 import { getLocationConfig, getDataEndpoint, getTerritories, locationSupportsView } from '@/config/locations.config'
+import { LocationKey } from '@/lib/map-config'
 
 type DensityMode = 'active' | 'terminated' | 'both' | 'lifetime'
-type LocationKey = string
 
 interface TerritoryMapProps {
   location: LocationKey
@@ -64,8 +65,24 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
   const [viewMode, setViewMode] = useState<ViewMode>('territory')
   const [densityMode, setDensityMode] = useState<DensityMode>('active')
   const [accountType, setAccountType] = useState<'residential' | 'commercial'>('residential')
-  const [territoryData, setTerritoryData] = useState<TerritoryData[]>([])
+
+  // TanStack Query data hooks (replaces manual fetch)
+  const {
+    data: territoryData = [],
+    isLoading: territoryLoading,
+    error: territoryError,
+    refetch: refetchTerritory
+  } = useTerritoryData(location)
+
+  const {
+    data: miamiData = [],
+    isLoading: customerLoading,
+    error: customerError,
+    refetch: refetchCustomer
+  } = useCustomerData(location)
+
   const [filteredData, setFilteredData] = useState<TerritoryData[]>([])
+
   // Dynamic area filter based on location config
   const getInitialAreaFilter = (currentLocation: LocationKey) => {
     const config = getLocationConfig(currentLocation)
@@ -86,24 +103,14 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
     South: true
   })
   const [areaStats, setAreaStats] = useState<AreaStats | null>(null)
-  const [miamiData, setMiamiData] = useState<any[]>([])
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState<string | null>(null)
+
+  // Computed loading and error states
+  const loading = territoryLoading || customerLoading
+  const error = territoryError?.message || customerError?.message || null
 
   useEffect(() => {
-    loadTerritoryData()
     // Reset area filter when location changes
     setAreaFilter(getInitialAreaFilter(location))
-  }, [location])
-
-  useEffect(() => {
-    loadTerritoryData()
-  }, [])
-
-  useEffect(() => {
-    if (location === 'miami') {
-      loadMiamiData()
-    }
   }, [location])
 
   useEffect(() => {
@@ -116,56 +123,6 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
     }
   }, [territoryData, areaFilter, location])
 
-  const loadTerritoryData = async () => {
-    try {
-      setLoading(true)
-      console.log('📊 Starting to load territory data for location:', location)
-
-      // Get data endpoint from location config
-      const endpoint = getDataEndpoint(location, 'territory')
-      if (!endpoint) {
-        console.log('📊 No territory endpoint configured for location:', location)
-        setTerritoryData([])
-        return
-      }
-
-      const response = await fetch(endpoint)
-      console.log('📊 Fetch response received:', response?.status, response?.ok)
-      if (!response?.ok) throw new Error(`Failed to load territory data from ${endpoint}`)
-
-      const data = await response.json()
-      console.log('📊 Data loaded successfully:', data?.length, 'records')
-      setTerritoryData(data || [])
-      console.log('📊 State updated with data')
-    } catch (error) {
-      console.error('❌ Error loading territory data:', error)
-      setError(`Failed to load territory data: ${error}`)
-    } finally {
-      setLoading(false)
-      console.log('📊 Loading complete')
-    }
-  }
-
-  const loadMiamiData = async () => {
-    try {
-      // Get customers endpoint from location config
-      const endpoint = getDataEndpoint(location, 'customers')
-      if (!endpoint) {
-        console.log('📊 No customers endpoint configured for location:', location)
-        setMiamiData([])
-        return
-      }
-
-      const response = await fetch(endpoint)
-      if (!response?.ok) throw new Error(`Failed to load location data from ${endpoint}`)
-      const data = await response.json()
-      setMiamiData(data || [])
-      console.log('📊 Location data loaded successfully:', data?.length, 'records')
-    } catch (error) {
-      console.error('❌ Error loading location data:', error)
-      setMiamiData([])
-    }
-  }
 
   const calculateStats = (data: TerritoryData[]) => {
     // Dynamic stats based on location's territories
@@ -244,7 +201,7 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
         icon={MapPin}
         iconClassName="text-red-500"
         action={
-          <Button onClick={loadTerritoryData} className="w-full">
+          <Button onClick={() => { refetchTerritory(); refetchCustomer(); }} className="w-full">
             Try Again
           </Button>
         }
