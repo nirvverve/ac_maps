@@ -702,20 +702,6 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
 
         return <ViewComponent {...viewProps} />
       })()}
-                    </div>
-                    <div className="text-center">
-                      <div className="flex items-center justify-center mb-2">
-                        <Users className="h-5 w-5 text-orange-600 mr-2" />
-                        <span className="text-sm font-medium text-slate-600">Total Accounts</span>
-                      </div>
-                      <p className="text-3xl font-bold text-slate-900">
-                        {miamiData.reduce((sum, zip) => sum + (zip.accountCount || 0), 0)}
-                      </p>
-                      <p className="text-xs text-slate-500 mt-1">Residential customers</p>
-                    </div>
-                    <div className="text-center">
-                      <div className="flex items-center justify-center mb-2">
-                        <BarChart3 className="h-5 w-5 text-purple-600 mr-2" />
                         <span className="text-sm font-medium text-slate-600">Avg per ZIP</span>
                       </div>
                       <p className="text-3xl font-bold text-slate-900">
