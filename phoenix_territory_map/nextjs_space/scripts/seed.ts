@@ -1,29 +1,30 @@
-import { UserRole } from '@prisma/client'
 import { prisma } from '../lib/db'
 
-const users = [
+type SeedUserRole = 'ADMIN' | 'LEVEL2' | 'LEVEL1'
+
+const users: Array<{ email: string; role: SeedUserRole }> = [
   // Admin
-  { email: 'sjohnson@amenitypool.com', role: 'ADMIN' as UserRole },
+  { email: 'sjohnson@amenitypool.com', role: 'ADMIN' },
   
   // Level 2 Users (Donnie, Todd, Chris, Troy)
-  { email: 'doneal@amenitypool.com', role: 'LEVEL2' as UserRole },
-  { email: 'tjohnston@amenitypool.com', role: 'LEVEL2' as UserRole },
-  { email: 'jbentley@amenitypool.com', role: 'LEVEL2' as UserRole },
-  { email: 'tlindbeck@amenitypool.com', role: 'LEVEL2' as UserRole },
+  { email: 'doneal@amenitypool.com', role: 'LEVEL2' },
+  { email: 'tjohnston@amenitypool.com', role: 'LEVEL2' },
+  { email: 'jbentley@amenitypool.com', role: 'LEVEL2' },
+  { email: 'tlindbeck@amenitypool.com', role: 'LEVEL2' },
   
   // Level 1 Users
-  { email: 'larry@amenitypool.com', role: 'LEVEL1' as UserRole },
-  { email: 'npearo@amenitypool.com', role: 'LEVEL1' as UserRole },
-  { email: 'swesterman@amenitypool.com', role: 'LEVEL1' as UserRole },
-  { email: 'ttheobold@amenitypool.com', role: 'LEVEL1' as UserRole },
-  { email: 'scotte@amenitypool.com', role: 'LEVEL1' as UserRole },
-  { email: 'jtritsch@amenitypool.com', role: 'LEVEL1' as UserRole },
-  { email: 'mflener@amenitypool.com', role: 'LEVEL1' as UserRole },
-  { email: 'nelly@amenitypool.com', role: 'LEVEL1' as UserRole },
-  { email: 'dlawler@amenitycollective.com', role: 'LEVEL1' as UserRole },
-  { email: 'bbergeski@amenitycollective.com', role: 'LEVEL1' as UserRole },
-  { email: 'sfickus@amenitycollective.com', role: 'LEVEL1' as UserRole },
-  { email: 'ERowell@amenitycollective.com', role: 'LEVEL1' as UserRole },
+  { email: 'larry@amenitypool.com', role: 'LEVEL1' },
+  { email: 'npearo@amenitypool.com', role: 'LEVEL1' },
+  { email: 'swesterman@amenitypool.com', role: 'LEVEL1' },
+  { email: 'ttheobold@amenitypool.com', role: 'LEVEL1' },
+  { email: 'scotte@amenitypool.com', role: 'LEVEL1' },
+  { email: 'jtritsch@amenitypool.com', role: 'LEVEL1' },
+  { email: 'mflener@amenitypool.com', role: 'LEVEL1' },
+  { email: 'nelly@amenitypool.com', role: 'LEVEL1' },
+  { email: 'dlawler@amenitycollective.com', role: 'LEVEL1' },
+  { email: 'bbergeski@amenitycollective.com', role: 'LEVEL1' },
+  { email: 'sfickus@amenitycollective.com', role: 'LEVEL1' },
+  { email: 'ERowell@amenitycollective.com', role: 'LEVEL1' },
 ]
 
 async function main() {

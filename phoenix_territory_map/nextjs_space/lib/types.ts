@@ -5,13 +5,7 @@ export interface TerritoryData {
   accounts: number
 }
 
-export interface AreaFilter {
-  West: boolean
-  Central: boolean
-  East: boolean
-  Tucson: boolean
-  Commercial: boolean
-}
+export type AreaFilter = Record<string, boolean>
 
 export interface AreaStat {
   zipCodes: number

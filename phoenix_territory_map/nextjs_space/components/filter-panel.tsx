@@ -12,7 +12,7 @@ import { Card, CardContent } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Filter } from 'lucide-react'
-import { getLocationConfig, getTerritories, getTerritoryColor } from '@/config/locations.config'
+import { getLocationConfig, getTerritories } from '@/config/locations.config'
 
 // ---------------------------------------------------------------------------
 // Types
@@ -112,6 +112,19 @@ export function findFilterConfig(area: string, configs: FilterConfig[]): FilterC
   return configs.find(config => config.key === area)
 }
 
+/**
+ * Build generic filter configs from raw filter keys when none are provided.
+ */
+export function buildGenericFilterConfigs(filters: AreaFilterConfig): FilterConfig[] {
+  return Object.keys(filters).map(key => ({
+    key,
+    label: key.replace(/-/g, ' ').replace(/([A-Z])/g, ' $1').trim(),
+    emoji: '🗺️',
+    activeColor: 'bg-slate-500 hover:bg-slate-600',
+    hoverColor: 'hover:bg-slate-50',
+  }))
+}
+
 // ---------------------------------------------------------------------------
 // Component
 // ---------------------------------------------------------------------------
@@ -126,7 +139,7 @@ export function FilterPanel({
   hideCard = false,
 }: FilterPanelProps) {
   // Use provided configs or default to generic
-  const configs = filterConfigs || GENERIC_FILTER_CONFIGS
+  const configs = filterConfigs || buildGenericFilterConfigs(filters)
 
   // Filter out configs that don't exist in the current filters object
   const availableConfigs = configs.filter(config => config.key in filters)

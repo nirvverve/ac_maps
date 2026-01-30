@@ -322,7 +322,7 @@ export default function GoogleMapView({ territoryData, areaFilter }: GoogleMapVi
         {/* Render zip code boundary polygons */}
         {mapLoaded && zipBoundaries?.map((boundary) => {
           // Check if this area should be shown based on filter
-          const shouldShow = areaFilter[boundary.area as keyof AreaFilter]
+          const shouldShow = areaFilter[boundary.area]
           if (!shouldShow || !boundary.paths?.length) return null
           
           const isHighlighted = highlightedZip === boundary.zipCode.toString()

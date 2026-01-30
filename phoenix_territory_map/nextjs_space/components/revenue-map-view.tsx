@@ -35,7 +35,7 @@ interface CustomerAccount {
 
 interface RevenueMapViewProps {
   areaFilter: AreaFilter
-  onToggleArea: (area: keyof AreaFilter) => void
+  onToggleArea: (area: string) => void
   onResetFilters: () => void
 }
 
