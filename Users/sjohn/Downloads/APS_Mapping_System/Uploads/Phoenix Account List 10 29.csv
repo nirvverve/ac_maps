@@ -1,0 +1,1469 @@
+﻿Short Branch Name,Name,Customer_Number__c,StartDate,Name,Account_Status__c,ShippingStreet,ShippingStateCode,ShippingPostalCode,Active Contracts As Of,Sum of xAnnualValue__c
+Phoenix,"2 Kohl, Jackie",A-066635,2024-12-06 00:00:00,PHX - SC2,Active,10505 East Mary Katherine Drive,AZ,85259,1,1980
+Phoenix,7125 Paradise LLC,A-032800,2022-07-28 00:00:00,PHX - SC2,Active,7125 East Paradise Drive,AZ,85254,1,2104.12
+Phoenix,"Abbott, Chris",A-011082,2025-06-30 00:00:00,PHX - E3,Active,6902 W Ivanhoe St,AZ,85226,1,2340
+Phoenix,"Abdelkarim, Moawia",A-011681,2020-02-04 00:00:00,PHX - E3,Active,661 N Cordoba Ave,AZ,85226,1,1833.4
+Phoenix,"Abdelmonem, Yousef",A-047670,2022-03-23 00:00:00,PHX - E2,Active,1431 East Century Avenue,AZ,85296,1,1895.2
+Phoenix,"Ackerman, Andrew",A-012642,2019-03-22 00:00:00,PHX - E3,Active,990 S Pueblo St,AZ,85233,1,1833.4
+Phoenix,"Adams, Barbara",A-067873,2025-05-01 00:00:00,PHX - W2,Active,15881 West Berkeley Road,AZ,85395,1,1980
+Phoenix,"Adkins, Theresa",A-008616,2018-12-04 00:00:00,PHX - W1,Active,12502 W Cherry Hills Dr,AZ,85335,1,1980
+Phoenix,"Adrian, Eunice",A-013071,2024-10-31 00:00:00,PHX - SC1,Active,11522 E Chama Rd,AZ,85255,1,1980
+Phoenix,"Aggarwal, Vikrant",A-052285,2022-10-03 00:00:00,PHX - SC2,Active,12955 East Desert Trail,AZ,85259,1,3634
+Phoenix,"Aguilera, Janice",A-008704,2007-06-05 00:00:00,PHX - W4,Active,17407 N 39th Dr,AZ,85308,1,1980
+Phoenix,"Ahuja, Satuyajeet",A-033765,2025-10-16 00:00:00,PHX - SC1,Active,28511 North 25th Avenue,AZ,85085,1,1980
+Phoenix,"Ahuja, Satyajee",A-032870,2021-05-27 00:00:00,PHX - SC2,Active,16807 North 50th Way,AZ,85254,1,1980
+Phoenix,"Ahuja, Satyajeet",A-034297,2025-01-14 00:00:00,PHX - SC2,Active,15050 North 55th Place,AZ,85254,1,2340
+Phoenix,"Ahuja, Satyajeet",A-035320,2022-02-23 00:00:00,PHX - SC1,Active,2518 West Bent Tree Drive,AZ,85085,1,2021.2
+Phoenix,"Ahumada, Bill",A-023883,2019-11-01 00:00:00,PHX - E3,Active,4202 E Silverwood Dr,AZ,85048,1,1833.4
+Phoenix,"Al Gbeuri, Hikma",A-010375,2025-01-16 00:00:00,PHX - SC2,Active,17629 N 55th Pl,AZ,85254,1,2340
+Phoenix,"Alberts, Rhonda and Jeff",A-035274,2024-08-09 00:00:00,PHX - E2,Active,20154 East Via Del Oro,AZ,85142,1,2340
+Phoenix,Aldaco Residence,A-025053,2020-05-07 00:00:00,PHX - W2,Active,11205 W Elm Ln,AZ,85323,1,1200
+Phoenix,"Aldeguer, Sandra & Herbert",A-048121,2022-05-24 00:00:00,PHX - W2,Active,2577 North 133rd Avenue,AZ,85395,1,1980
+Phoenix,"Alexandrovich, Michael",A-025228,2018-05-25 00:00:00,PHX - W2,Active,13655 W Montebello,AZ,85340,1,1833.4
+Phoenix,"Alger, Richard",A-068295,2025-09-15 00:00:00,PHX - E1,Active,3358 East Downing Street,AZ,85213,1,1980
+Phoenix,"Alharthi, Dalal",A-069004,2025-08-25 00:00:00,PHX - E2,Active,988 South Quinn Court,AZ,85296,1,1980
+Phoenix,"Alietti, Jessica",A-025032,2019-11-01 00:00:00,PHX - W1,Active,4223 West Whispering Wind Drive,AZ,85310,1,1833.4
+Phoenix,"Allbritton, Glenn",A-000017,2013-07-15 00:00:00,PHX - SC2,Active,9505 E Gary Rd.,AZ,85260,1,1771.6
+Phoenix,"Allen, Doug",A-000895,2018-04-23 00:00:00,PHX - W1,Active,24314 N 89th Ave,AZ,85383,1,1771.6
+Phoenix,"Allen, Ryan",A-053693,2023-01-19 00:00:00,PHX - E4,Active,701 East Brentrup Drive,AZ,85283,1,1894
+Phoenix,"Allison, Anothony",A-055934,2023-05-16 00:00:00,PHX - W4,Active,4804 West Caron Street,AZ,85302,1,1900
+Phoenix,"Allison, Rebecca",A-008632,2012-11-01 00:00:00,PHX - SC4,Active,10636 N 11th St,AZ,85020,1,1771.6
+Phoenix,"Amos, Christopher and Joleen",A-006362,2017-01-30 00:00:00,PHX - W1,Active,18495 W Rimrock St,AZ,85388,1,1980
+Phoenix,"Andersen, Chris",A-047058,2022-03-23 00:00:00,PC 1 - Resi/Comm,Active,2130 Kenton Way,AZ,85142,1,1881.64
+Phoenix,"Anderson, Dell",A-022316,2024-07-23 00:00:00,PHX - W1,Active,25806 N Lawler Loop,AZ,85083,1,2340
+Phoenix,"Anderson, Evert",A-022457,2022-01-14 00:00:00,PHX - W4,Active,14231 N 33rd Dr,AZ,85053,1,1895.2
+Phoenix,"Anderson, Forest",A-023637,2024-10-30 00:00:00,PHX - SC1,Active,20638 N 16th Way,AZ,85024,1,2340
+Phoenix,"Anderson, Jack & Melinda",A-023028,2022-01-28 00:00:00,PHX - SC2,Active,6136 E Joan De Arc Ave,AZ,85254,1,1895.2
+Phoenix,"Anderson, Steven K",A-022645,2006-02-01 00:00:00,PHX - E4,Active,235 E. Hermosa Dr.,AZ,85282,1,1980
+Phoenix,"Anglin, Robert",A-008664,2023-06-12 00:00:00,PHX - SC2,Active,8507 E San Marcos Dr,AZ,85258,1,1894
+Phoenix,"Ankrah, Henry",A-062706,2024-01-17 00:00:00,PHX - E2,Active,783 East Gemini Place,AZ,85249,1,1840
+Phoenix,"Ansaldo, Faith",A-007266,2025-04-30 00:00:00,PHX - W2,Active,22734 W. Ashleigh Marie Dr.,AZ,85326,1,1980
+Phoenix,"Ansley, Ben",A-009354,2024-05-28 00:00:00,PHX - SC4,Active,2503 E Christy Dr,AZ,85028,1,1980
+Phoenix,"Appel, Jan",A-007624,2010-05-06 00:00:00,PHX - E3,Active,1422 E Desert Trumpet Rd,AZ,85048,1,1771.6
+Phoenix,"Applegate, Kay",A-005242,2024-10-30 00:00:00,PHX - W1,Active,4751 W. Ponderosa Lane,AZ,85308,1,1980
+Phoenix,"Araya, Efrem",A-023503,2021-07-01 00:00:00,PHX - W3,Active,2228 W Pinchot Drive,AZ,85015,1,1980
+Phoenix,"Arballo, Liz",A-012731,2003-09-03 00:00:00,PHX - E4,Active,2159 E. Fremont Dr.,AZ,85282,1,1980
+Phoenix,"Arbogast, Todd",A-002085,2014-06-01 00:00:00,PHX - E3,Active,441 N. Chase Ct,AZ,85225,1,1833.4
+Phoenix,Arbor Realty,A-022236,2014-11-11 00:00:00,PHX - E1,Active,304 S York Circle,AZ,85204,1,1633.04
+Phoenix,"Archuleta, Cynthia",A-011673,2020-10-30 00:00:00,PHX - SC1,Active,5519 E Dusty Wren Dr,AZ,85331,1,1691.26
+Phoenix,"Arenas, Jose",A-008622,2024-07-31 00:00:00,PHX - W2,Active,10417 W Ashbrook Pl,AZ,85392,1,2340
+Phoenix,"Arens, Hank",A-009648,2017-05-22 00:00:00,PHX - SC3,Active,4448 E Camelback Rd Unit 14,AZ,85018,1,1771.6
+Phoenix,"Arkfeld, Louraine",A-007063,2024-12-02 00:00:00,PHX - E4,Active,2615 S. Sierra Vista Cir.,AZ,85282,1,2340
+Phoenix,"Armenta, Rosie",A-034122,2021-07-27 00:00:00,PHX - W2,Active,12747 West Edgemont Avenue,AZ,85392,1,1895.2
+Phoenix,"Arvallo, Frances",A-023755,2020-06-01 00:00:00,PHX - W3,Active,5635 S 5th Street,AZ,85040,1,1833.4
+Phoenix,"Asa, Sam",A-007699,2018-04-03 00:00:00,PHX - SC4,Active,307 E. El Camino Dr.,AZ,85020,1,1980
+Phoenix,Aulerich. Kyle,A-024735,2019-11-01 00:00:00,PHX - E2,Active,2855 E Carob Dr,AZ,85286,1,1833.4
+Phoenix,"Avellino, Jennifer and Anthony",A-034124,2021-08-20 00:00:00,PHX - SC1,Active,34301 North 86th Place,AZ,85266,1,1957
+Phoenix,"Avery, Ben and Kenna",A-010107,2020-01-03 00:00:00,PHX - E2,Active,11251 E. Sheridan Ave.,AZ,85212,1,1980
+Phoenix,"Avila, Pilar & Vanessa",A-002130,2015-05-05 00:00:00,PHX - W2,Active,12226 W Harrison St.,AZ,85323,1,1771.6
+Phoenix,"Azab, Bilal",A-066276,2024-10-17 00:00:00,PHX - E1,Active,1236 East Granada Street,AZ,85203,1,1980
+Phoenix,"Azulay, Judd",A-011453,2018-08-27 00:00:00,PHX - SC2,Active,9832 N 77th St,AZ,85258,1,1833.4
+Phoenix,B&B Enterprises,A-007753,2013-11-06 00:00:00,PHX - E4,Active,1314 S. Polly Ann Dr.,AZ,85281,1,2021.2
+Phoenix,"Babee, Robert",A-025045,2012-11-28 00:00:00,PHX - W2,Active,11722 W. Cocopah St,AZ,85323,1,1980
+Phoenix,"Baca, Senovia",A-006577,2016-08-15 00:00:00,PHX - E4,Active,2231 W Catalina Ave,AZ,85202,1,2021.2
+Phoenix,"Bachtel, Forrest and Carol",A-008316,2024-07-29 00:00:00,PHX - W4,Active,15015 N. 22nd Ln.,AZ,85023,1,2340
+Phoenix,"Baddgor, Rodger & Rita",A-009770,2017-07-28 00:00:00,PHX - SC2,Active,6328 East Marilyn Road,AZ,85254,1,1980
+Phoenix,"Baker, Harvey & Jessica",A-000807,2016-09-22 00:00:00,PHX - W3,Active,4712 W Allen St,AZ,85339,1,1980
+Phoenix,"Baker, Ken & Kris",A-022780,2019-07-09 00:00:00,PHX - W2,Active,11159 W Rio Vista Ln,AZ,85323,1,1771.6
+Phoenix,"Balbo, Marisa",A-003430,2016-03-18 00:00:00,PHX - SC2,Active,4440 E. Annette Dr.,AZ,85032,1,1980
+Phoenix,"Baldenegro, Denise",A-028056,2024-07-18 00:00:00,PHX - W3,Active,3408 N 24th Drive,AZ,85015,1,2340
+Phoenix,"Ballard, Kim",A-033880,2021-10-26 00:00:00,PHX - SC1,Active,18605 North 90th Way,AZ,85255,1,1895.2
+Phoenix,"Bambenek, Michelle",A-005878,2024-06-26 00:00:00,PHX - E2,Active,3341 E Hampton Lane,AZ,85295,1,1740
+Phoenix,"Barber, Richard",A-011747,2018-08-21 00:00:00,PHX - SC3,Active,5108 N 33Rd St,AZ,85018,1,1833.4
+Phoenix,"Barchas, David",A-033266,2021-06-08 00:00:00,PHX - SC2,Active,12571 East Jenan Drive,AZ,85259,1,1895.2
+Phoenix,"Barganski, Jeryl",A-002088,2014-07-08 00:00:00,PHX - E3,Active,1707 W. Desert Ln.,AZ,85233,1,1771.6
+Phoenix,"Barger, Justin",A-001365,2015-03-31 00:00:00,PHX - W1,Active,7159 W. Irma Ln.,AZ,85308,1,1980
+Phoenix,"Bargnesi, John",A-006929,2014-05-20 00:00:00,PHX - E4,Active,221 E. 15th St.,AZ,85281,1,1771.6
+Phoenix,"Barker, Charlotte",A-051394,2022-08-16 00:00:00,PHX - E1,Active,1425 North Ananea,AZ,85207,1,1955.8
+Phoenix,"Barlow, Mike & Iris",A-004962,2024-09-26 00:00:00,PHX - SC2,Active,7618 E. Sweetwater Ave.,AZ,85260,1,1980
+Phoenix,"Barnes, Dorothy",A-000565,2016-06-27 00:00:00,PHX - SC1,Active,23206 N 41st St,AZ,85050,1,1771.6
+Phoenix,"Barnes, Kip",A-049394,2022-05-16 00:00:00,PHX - W2,Active,13226 West Beverly Road,AZ,85338,1,2080.6
+Phoenix,"Barnes, Kristen",A-053228,2025-06-11 00:00:00,PHX - E1,Inactive,2921 North 34th Place,AZ,85213,1,1980
+Phoenix,"Barnes, Tim",A-022514,2006-02-01 00:00:00,PHX - SC4,Active,144 E Eugie Ave,AZ,85022,1,1980
+Phoenix,"Barnett, Maurica",A-008675,2024-07-29 00:00:00,PHX - W4,Active,3216 W Becker Ln,AZ,85029,1,2340
+Phoenix,"Barssoom, Mousa",A-025000,2020-06-01 00:00:00,PHX - W1,Active,19718 N 66th Drive,AZ,85308,1,1833.4
+Phoenix,"Bartoletti, Anthoney",A-009035,2001-12-06 00:00:00,PHX - SC2,Active,5515 E Janice Way,AZ,85254,1,1771.6
+Phoenix,"Bash, Denny & Anne",A-003046,2024-07-17 00:00:00,PHX - W1,Active,10702 N 146th Ave,AZ,85379,1,1980
+Phoenix,"Batman, Ed",A-049012,2023-04-26 00:00:00,PHX - SC4,Active,2022 East Gardenia Avenue,AZ,85020,1,1900
+Phoenix,"Bay, Beth & Steve",A-012322,2024-10-21 00:00:00,PHX - SC1,Active,4025 E Hashknife Rd,AZ,85050,1,2340
+Phoenix,"Beall, Vicki",A-068066,2025-06-06 00:00:00,PHX - E2,Active,1802 East Park Avenue,AZ,85234,1,1980
+Phoenix,"Beardslee, Susan and John",A-009738,2017-07-17 00:00:00,PHX - E2,Active,2311 W Maplewood St,AZ,85286,1,1691.26
+Phoenix,"Beason, Fritz",A-024714,2023-04-26 00:00:00,PHX - E3,Active,1715 E  La Vieve Ln,AZ,85284,1,1740
+Phoenix,"Bechmann, Kathie",A-004851,2024-10-14 00:00:00,PHX - SC2,Active,14201 N 45th St,AZ,85032,1,1980
+Phoenix,"Beck, Andy",A-023456,2025-01-07 00:00:00,PHX - W3,Active,1746 N 15th Avenue,AZ,85007,1,2340
+Phoenix,"Beckman, Jay & Kristen",A-024342,2020-06-01 00:00:00,PHX - E3,Active,4850 W Flint St,AZ,85226,1,1833.4
+Phoenix,"Becvar, Steven",A-007694,2001-12-06 00:00:00,PHX - E3,Active,205 E Mountain Sky Ave,AZ,85048,1,1980
+Phoenix,"Beer, Alana",A-035665,2025-06-19 00:00:00,PHX - SC1,Active,29126 North 22nd Lane,AZ,85085,1,2340
+Phoenix,"Begnaud, Mary Ann",A-001344,2013-12-10 00:00:00,PHX - E2,Active,1042 E Encinas Ave,AZ,85234,1,1980
+Phoenix,"Bell, Randy",A-009658,2003-03-10 00:00:00,PHX - SC2,Active,13803 E Geronimo Rd,AZ,85259,1,1980
+Phoenix,"Bell, Trevor",A-032286,2021-05-04 00:00:00,PHX - W2,Active,2147 South 257th Drive,AZ,85326,1,1895.2
+Phoenix,"Bellino, Anthony",A-002115,2024-07-16 00:00:00,PHX - SC3,Active,6508 N 81st Pl,AZ,85250,1,2340
+Phoenix,"Bender, Scott and Anne",A-004140,2025-06-12 00:00:00,PHX - E2,Active,893 South Gardner Drive,AZ,85224,1,2340
+Phoenix,"Bennett, William",A-005929,2024-10-28 00:00:00,PHX - W4,Active,8806 W Carole Ln,AZ,85305,1,2020
+Phoenix,"Benter, Tim",A-065386,2024-11-06 00:00:00,PHX - SC1,Active,9290 East Thompson Peak Parkway #403,AZ,85255,1,1980
+Phoenix,"Berard, Jody And Jeff",A-012117,2019-03-07 00:00:00,PHX - W4,Active,13432 N 33rd Avenue,AZ,85029,1,1980
+Phoenix,"Berg, Trina and William",A-022191,2021-08-16 00:00:00,PHX - W4,Active,3103 W Anderson Dr,AZ,85053,1,1895.2
+Phoenix,"Berkland, Cindy",A-024638,2020-06-01 00:00:00,PHX - SC1,Active,9782 E Troon North Drive,AZ,85262,1,1833.4
+Phoenix,"Bernstein, Laurie",A-005264,2009-01-21 00:00:00,PHX - E3,Active,15235 S 17th Ave,AZ,85045,1,1833.4
+Phoenix,"Berrier,  Austin",A-004520,2013-02-25 00:00:00,PHX - W2,Active,13287 S. 183rd Dr.,AZ,85338,1,1980
+Phoenix,"Berryman, Chris",A-063710,2024-04-30 00:00:00,PHX - W3,Active,4519 W Summerside Rd,AZ,85339,1,1980
+Phoenix,"Besso, Sandy",A-033873,2021-07-13 00:00:00,PHX - E2,Active,227 North Date Palm Drive,AZ,85234,1,1759.24
+Phoenix,"Betancourt, John and Patricia",A-001254,2015-06-30 00:00:00,PHX - E4,Active,2171 E Fremont Dr,AZ,85282,1,1833.4
+Phoenix,"Bickley, Tim",A-007310,2013-07-16 00:00:00,PHX - SC1,Active,26340 N Wrangler Rd,AZ,85255,1,1980
+Phoenix,Bickoff. Jim,A-010095,2024-05-10 00:00:00,PHX - SC1,Active,28660 N 45th Way,AZ,85331,1,1980
+Phoenix,"Bigg, Stephen J.",A-007344,2023-10-17 00:00:00,PHX - SC2,Active,7324 E. Griswold,AZ,85258,1,1840
+Phoenix,"Biglari, David",A-010794,2018-06-04 00:00:00,PHX - SC1,Active,25355 N 90th Way,AZ,85255,1,1771.6
+Phoenix,"Bill, Bruce",A-068176,2025-05-30 00:00:00,PHX - SC4,Active,1002 East Grandview Road,AZ,85022,1,1980
+Phoenix,"Bird, Wendy",A-069138,2025-09-05 00:00:00,PHX - E1,Active,9759 East Inglewood Circle,AZ,85207,1,1980
+Phoenix,"Birrenkott, Tom",A-024005,2020-03-11 00:00:00,PHX - E1,Active,47882 N. Navidad Crt.,AZ,85118,1,1833.4
+Phoenix,"Birt, Ashley & Ian",A-024742,2024-08-30 00:00:00,PHX - E2,Active,2326 E. Balsam Dr,AZ,85286,1,2020
+Phoenix,"Blach, Gail & Dennis",A-001350,2022-02-10 00:00:00,PHX - W1,Active,10935 W Golden Lane,AZ,85345,1,1895.2
+Phoenix,"Blackwell, Carl",A-007041,2024-04-18 00:00:00,PHX - W4,Active,7323 N. 72nd Dr.,AZ,85303,1,1980
+Phoenix,"Blumenfeld, Dan & Lauren",A-004264,2021-08-04 00:00:00,PHX - E3,Active,4426 E Cottonwood Lane,AZ,85048,1,1980
+Phoenix,"Boddie, Dorian and Bethany",A-002406,2016-04-19 00:00:00,PHX - E3,Active,5605 W. Buffalo St.,AZ,85226,1,1980
+Phoenix,"Bollmeier, Don",A-005274,2015-05-07 00:00:00,PHX - W2,Active,12610 W. Flower St.,AZ,85392,1,1771.6
+Phoenix,"Bolton, Dean",A-006682,2021-08-26 00:00:00,PHX - W1,Active,21461 N 33rd Dr,AZ,85027,1,1980
+Phoenix,"Bonanno, Deborah",A-008414,2007-03-27 00:00:00,PHX - E3,Active,1738 E Jeanine Dr,AZ,85284,1,1771.6
+Phoenix,"Bond, Patricia",A-007345,2013-07-01 00:00:00,PHX - W4,Active,2214 N. 58th Dr,AZ,85035,1,1980
+Phoenix,"Bonini, Ronald & Linda",A-003119,2024-10-29 00:00:00,PHX - SC2,Active,11465 N 128th Place,AZ,85259,1,1980
+Phoenix,"Bonney, Juliana",A-006951,2017-06-02 00:00:00,PHX - W2,Active,13236 W Annika Dr,AZ,85340,1,1833.4
+Phoenix,"Bonney, Juliana",A-025227,2024-01-22 00:00:00,PHX - W2,Active,13201 W Rancho Drive,AZ,85340,1,1960
+Phoenix,"Bonnie, Denise",A-003881,2021-07-01 00:00:00,PHX - SC1,Active,41429 N Club Pointe Dr,AZ,85086,1,1980
+Phoenix,"Boos, Al",A-007981,2024-10-30 00:00:00,PHX - SC2,Active,4559 E. Via Estrella,AZ,85028,1,1980
+Phoenix,"Boos, Amanda",A-002466,2024-07-24 00:00:00,PHX - E2,Active,3028 E Erie St,AZ,85295,1,1920
+Phoenix,"Booze, Randall",A-024829,2024-10-07 00:00:00,PHX - E2,Active,5008 S. Tatum Ln.,AZ,85298,1,2340
+Phoenix,"Borne, Steven",A-034220,2021-08-16 00:00:00,PHX - E2,Active,9543 East Plata Circle,AZ,85212,1,1895.2
+Phoenix,"Bortko, Trina",A-005633,2013-02-04 00:00:00,PHX - W1,Active,13310 W. Blue Bonnet Dr.,AZ,85375,1,1771.6
+Phoenix,"Bos, Cody",A-065098,2024-08-26 00:00:00,PHX - E2,Active,38538 North Beverley Avenue,AZ,85140,1,1980
+Phoenix,"Bosselli, Colleen",A-000093,2024-10-30 00:00:00,PHX - E3,Active,737 S Burk St,AZ,85296,1,1980
+Phoenix,"Bosworth, Lori",A-006962,2024-09-27 00:00:00,PHX - E2,Active,4656 E Ironhorse Rd,AZ,85297,1,1980
+Phoenix,"Bouchard, Sherrill",A-008987,2024-04-22 00:00:00,PHX - E2,Active,1231 E. Douglas Ave.,AZ,85234,1,1800
+Phoenix,"Boughey, Chris",A-007301,2002-04-17 00:00:00,PHX - W1,Active,7446 W. Lone Cactus Dr.,AZ,85308,1,1980
+Phoenix,"Bourne, Christi",A-007761,2019-08-15 00:00:00,PHX - SC2,Active,5501 E Terry Dr,AZ,85254,1,1980
+Phoenix,"Bowden, Sabre",A-034809,2021-10-27 00:00:00,PHX - W1,Active,4409 West Keating Circle,AZ,85308,1,1957
+Phoenix,"Bowers, John",A-000196,2024-10-25 00:00:00,PHX - SC1,Active,1817 W Parnell Dr,AZ,85085,1,2020
+Phoenix,"Bowles, Wyatt",A-000555,2016-06-15 00:00:00,PHX - W2,Active,29843 W Whitton Ave,AZ,85396,1,1980
+Phoenix,"Bowman, Sean and Megan",A-022614,2025-06-26 00:00:00,PHX - SC4,Active,334 W Tam O-Shanter Dr.,AZ,85023,1,2340
+Phoenix,"Bowman, Steve",A-004117,2023-08-11 00:00:00,PHX - E2,Active,1201 E Whitefish Bay Court,AZ,85234,1,1900
+Phoenix,"Boykin, Bobby",A-031814,2021-06-24 00:00:00,PHX - SC3,Active,6846 North 3rd Avenue,AZ,85013,1,1895.2
+Phoenix,"Braat, Sheryl",A-024659,2023-07-11 00:00:00,PHX - SC2,Active,15553 E Thistle Dr,AZ,85268,1,1900
+Phoenix,"Bradbury, Michele & Tom",A-004567,2022-05-18 00:00:00,PHX - E2,Active,3232 S. Emery Cir.,AZ,85212,1,1980
+Phoenix,"Bradley, Sean",A-068647,2025-07-11 00:00:00,PHX - W1,Active,18138 West Robin Lane,AZ,85387,1,1980
+Phoenix,"Bradley, Tracey",A-025475,2020-06-01 00:00:00,PHX - W1,Active,16389 W Cameron Drive,AZ,85388,1,1833.4
+Phoenix,"Bradshaw, Misty and Nathan",A-050191,2022-06-27 00:00:00,PHX - E1,Active,7628 East Hermosa Vista Drive,AZ,85207,1,1895.2
+Phoenix,"Brady, Caitlin & Derek",A-008639,2006-02-01 00:00:00,PHX - E4,Active,5339 S Mill Ave,AZ,85283,1,1980
+Phoenix,"Brady, Kim",A-006670,2024-07-31 00:00:00,PHX - SC1,Active,4633 E. Kirkland Road,AZ,85050,1,1980
+Phoenix,"Brand, Cyndi",A-024697,2019-07-10 00:00:00,PHX - E4,Active,1905 E Vaughn St,AZ,85283,1,1771.6
+Phoenix,"Brannon, Evelyn & Mitchel",A-000036,2017-05-02 00:00:00,PHX - W4,Active,3820 West Phelps Road,AZ,85053,1,1980
+Phoenix,"Braun, Don",A-004151,2013-04-25 00:00:00,PHX - W2,Active,2615 N 149th Ave,AZ,85395,1,1833.4
+Phoenix,"Breading-Goodrich, Sheldon & Jennifer",A-005645,2012-08-07 00:00:00,PHX - W1,Active,17429 W Saguaro Lane,AZ,85388,1,1980
+Phoenix,"Bregman, Paul",A-024500,2020-06-01 00:00:00,PHX - SC2,Active,6841 E Gelding Drive,AZ,85254,1,1771.6
+Phoenix,"Breinholt, Clareen",A-008651,2022-06-02 00:00:00,PHX - E1,Active,845 N. Kachina Cir,AZ,85203,1,1957
+Phoenix,"Brenyah, Frank",A-053309,2025-06-16 00:00:00,PHX - W2,Active,2301 North 51st Drive,AZ,85035,1,1980
+Phoenix,"Brewer, Katie",A-001239,2022-03-04 00:00:00,PHX - E1,Active,1745 E Mallory St,AZ,85203,1,1980
+Phoenix,"Bridges, Stacey",A-009346,2017-04-04 00:00:00,PHX - W4,Active,3728 W Barnes Ln,AZ,85051,1,1980
+Phoenix,"Broderick, Dan",A-007422,2003-07-09 00:00:00,PHX - W3,Active,1226 E. Luke Ave.,AZ,85014,1,1980
+Phoenix,Brown Residence,A-023765,2020-07-13 00:00:00,PHX - W3,Active,7424 S 26th Dr,AZ,85041,1,1833.4
+Phoenix,"Brown, Donna",A-067215,2025-02-11 00:00:00,PHX - E1,Active,277 West 16th Avenue,AZ,85120,1,1980
+Phoenix,"Brown, Jim and Trisha",A-003837,2024-10-28 00:00:00,PHX - W1,Active,18625 W. Kolina Ln.,AZ,85355,1,1980
+Phoenix,"Brown, Terri",A-005963,2012-07-06 00:00:00,PHX - W3,Active,5656 W Pueblo,AZ,85043,1,1980
+Phoenix,"Browne, Jeremy",A-024975,2020-06-04 00:00:00,PHX - W1,Active,6135 W Oraibi Dr,AZ,85308,1,1469.2
+Phoenix,"Browning, Kristy",A-011017,2018-05-23 00:00:00,PHX - W1,Active,2734 W Charleston Ave,AZ,85053,1,1771.6
+Phoenix,"Brunette, Brenda",A-032807,2021-10-29 00:00:00,PHX - W1,Active,7763 West Libby Street,AZ,85308,1,1980
+Phoenix,"Brusha, Eriola and Matt",A-024954,2025-08-15 00:00:00,PHX - W1,Active,5248 West Topeka Drive,AZ,85308,1,1980
+Phoenix,"Brusso , Patty",A-012680,2024-10-30 00:00:00,PHX - E2,Active,1572 W Mead Court,AZ,85248,1,1980
+Phoenix,"Brutlag, Cami",A-004917,2024-10-11 00:00:00,PHX - W1,Active,4832 W Kristal Way,AZ,85308,1,2340
+Phoenix,"Bryce, Lisa",A-062256,2023-11-14 00:00:00,PHX - E1,Active,1033 North Norwalk Circle,AZ,85205,1,1900
+Phoenix,"Budewitz, Thomas",A-025008,2024-05-21 00:00:00,PHX - W1,Active,6253 W Lone Cactus Drive,AZ,85308,1,2340
+Phoenix,"Budzyn, Mark",A-007427,2022-02-15 00:00:00,PHX - SC4,Active,15053 N 2nd St.,AZ,85022,1,1980
+Phoenix,"Buenaventura, Eden",A-006217,2009-05-27 00:00:00,PHX - SC1,Active,11597 E Desert Willow Dr,AZ,85255,1,1771.6
+Phoenix,"Burbank, Megan and KJ",A-028244,2021-06-21 00:00:00,PHX - W1,Active,18401 N 71St Dr,AZ,85308,1,1895.2
+Phoenix,"Burelli, George and Dianne",A-001279,2024-10-28 00:00:00,PHX - E2,Active,229 East Avenida Sierra Madre,AZ,85296,1,1980
+Phoenix,"Burger, Amy",A-001705,2024-07-17 00:00:00,PHX - E3,Active,706 W Del Rio St,AZ,85233,1,1980
+Phoenix,"Burgess, Tyrone & Debra",A-047002,2022-03-07 00:00:00,PHX - W1,Active,15662 West Sierra Street,AZ,85379,1,1980
+Phoenix,"Burklow, Susanne",A-011971,2018-12-20 00:00:00,PHX - E3,Active,1080 W Vera Lane,AZ,85284,1,1833.4
+Phoenix,"Burns, Tammi",A-033281,2021-06-08 00:00:00,PHX - SC1,Active,27505 North Gidiyup Trail,AZ,85085,1,1957
+Phoenix,"Burr, David",A-054168,2023-03-22 00:00:00,PHX - E2,Active,3959 East Runaway Bay Place,AZ,85142,1,2315.8
+Phoenix,"Burrell, James and Monique",A-025531,2020-05-04 00:00:00,PHX - W2,Active,4409 North 179th Drive,AZ,85395,1,1980
+Phoenix,"Butler, Brendan & Michelle",A-009047,2016-09-22 00:00:00,PHX - E4,Active,2004 E Fremont Dr,AZ,85282,1,1980
+Phoenix,"Butler, Bryan and Debbie",A-009398,2024-06-13 00:00:00,PHX - SC1,Active,5435 E Desert Forrest Trl,AZ,85331,1,2340
+Phoenix,"Cababe, Christopher and Stacy",A-024626,2019-07-17 00:00:00,PHX - SC1,Active,29511 N 140th Place,AZ,85262,1,1980
+Phoenix,"Cabral, Arnaldo",A-009762,2018-10-23 00:00:00,PHX - E2,Active,18647 E Lark Dr,AZ,85142,1,1980
+Phoenix,"Caffery, Kaitlyn",A-010970,2018-04-13 00:00:00,PHX - SC1,Active,11562 E Diamond Cholla Dr,AZ,85255,1,1771.6
+Phoenix,"Caiazzo, Gretchen",A-062652,2024-01-05 00:00:00,PHX - E2,Active,3039 East Runaway Bay Place,AZ,85249,1,1900
+Phoenix,"Cairns, Rich",A-067908,2025-04-27 00:00:00,PHX - SC1,Active,4508 West Rushmore Drive,AZ,85087,1,2580
+Phoenix,"Calabrese, Peter",A-013068,2012-05-16 00:00:00,PHX - E3,Active,14206 S. 35th Pl.,AZ,85044,1,1771.6
+Phoenix,"Calhoun, Bruce and Debbie",A-025529,2019-12-23 00:00:00,PHX - W2,Active,13179 W Coronado Rd,AZ,85395,1,1771.6
+Phoenix,"Campbell, Doug",A-004166,2013-05-29 00:00:00,PHX - W2,Active,3241 N. 301st Drive,AZ,85396,1,1980
+Phoenix,"Campbell, John & Ellen",A-022499,2021-07-01 00:00:00,PHX - W4,Active,7214 N 12th Ave,AZ,85021,1,1980
+Phoenix,"Canchola, Jose And Celia",A-023727,2020-05-15 00:00:00,PHX - W4,Active,1615 N 57th Dr,AZ,85035,1,1833.4
+Phoenix,"Cannon, Patrick & Lisa",A-002474,2016-07-01 00:00:00,PHX - E2,Active,4645 S Ranger Ct,AZ,85297,1,1980
+Phoenix,"Cantor, Michael",A-006337,2012-03-30 00:00:00,PHX - SC2,Active,9687 East Cochise Drive,AZ,85258,1,1771.6
+Phoenix,"Caponi, Charles",A-007374,2006-03-06 00:00:00,PHX - SC2,Active,4441 E Emile Zola Ave.,AZ,85032,1,1980
+Phoenix,Capstone Realty,A-033162,2021-06-17 00:00:00,PHX - E2,Active,4133 East Westchester Drive,AZ,85249,1,1586.2
+Phoenix,Capstone Realty,A-047526,2022-05-06 00:00:00,PHX - E1,Active,1813 West Decatur Street,AZ,85201,1,1957
+Phoenix,"Caputo, Paula & Sal",A-005866,2010-11-17 00:00:00,PHX - E3,Active,4239 E La Puente Ave,AZ,85044,1,1771.6
+Phoenix,"Carhart, Michelle",A-023771,2024-06-26 00:00:00,PHX - W3,Active,1541 West Ardmore Road,AZ,85041,1,2340
+Phoenix,"Carlo, Terrin",A-028095,2020-08-28 00:00:00,PHX - W3,Active,4409 W Carson Rd,AZ,85339,1,1691.26
+Phoenix,"Carns, Amanda",A-028241,2020-10-12 00:00:00,PHX - E1,Active,2240 N Ashbrook Circle,AZ,85213,1,1980
+Phoenix,"Carr, Christopher",A-049515,2022-05-24 00:00:00,PHX - E3,Active,15224 South 15th Avenue,AZ,85045,1,1895.2
+Phoenix,"Carrier, John",A-024278,2020-07-14 00:00:00,PHX - E1,Active,6709 E Vanguard St,AZ,85215,1,1980
+Phoenix,"Carruthers, Connie",A-004502,2021-05-06 00:00:00,PHX - E2,Active,9440 E. Pampa Ave.,AZ,85212,1,1895.2
+Phoenix,"Carson, Molly",A-005901,2024-06-17 00:00:00,PHX - W4,Active,718 W Las Palmaritas,AZ,85021,1,1980
+Phoenix,"Carter, Craig",A-007980,2015-06-18 00:00:00,PHX - SC4,Active,3016 E Cheryl Dr,AZ,85028,1,1980
+Phoenix,"Carter, Kristin",A-003818,2019-03-18 00:00:00,PHX - SC3,Active,7332 E. Vernon Ave,AZ,85257,1,1980
+Phoenix,"Caruso, Ashley",A-010133,2023-07-19 00:00:00,PHX - E4,Active,629 W Magdalena Dr,AZ,85283,1,1900
+Phoenix,"Casillas, Rita",A-008439,2021-07-01 00:00:00,PHX - E3,Active,1328 W Palo Verde Drive,AZ,85224,1,1980
+Phoenix,"Cassidy, Tom",A-013010,2023-12-15 00:00:00,PHX - SC1,Active,22169 N 79th Place,AZ,85255,1,1840
+Phoenix,"Catalana, Mary A.",A-007050,2006-02-01 00:00:00,PHX - SC2,Active,10653 N. 44th Ct.,AZ,85028,1,1980
+Phoenix,"Caudill, Dennis",A-005593,2013-04-09 00:00:00,PHX - W1,Active,10602 W Salem Dr,AZ,85351,1,1980
+Phoenix,"Caviness, Carrie (one filter cleaning yearly no charge)",A-005631,2024-10-29 00:00:00,PHX - E2,Active,4113 E. Juanita Ave,AZ,85234,1,1980
+Phoenix,"Cederburg, Tim",A-003113,2014-03-17 00:00:00,PHX - E2,Active,9537 E. Monterey Ave,AZ,85209,1,1980
+Phoenix,"Cerimeli, Tyler and Tasha",A-035547,2022-03-28 00:00:00,PHX - E2,Active,2949 East Marlene Drive,AZ,85296,1,1895.2
+Phoenix,"Cesiel, Toni",A-062279,2023-11-10 00:00:00,PHX - E3,Active,1822 East Calle De Caballos,AZ,85284,1,1900
+Phoenix,"Chapman, Drew",A-025089,2020-02-11 00:00:00,PHX - SC1,Active,5713 E Parnell Dr,AZ,85331,1,1833.4
+Phoenix,"Chapman, Steven",A-034110,2021-08-20 00:00:00,PHX - W3,Active,1114 West Pasadena Avenue,AZ,85013,1,1895.2
+Phoenix,"Christman, Dorothy",A-007610,2001-12-06 00:00:00,PHX - SC2,Active,10457 E Wood Dr,AZ,85260,1,1980
+Phoenix,"Chua, Victor",A-003078,2015-12-03 00:00:00,PHX - SC2,Active,13597 E. Desert Trail,AZ,85259,1,1771.6
+Phoenix,"Ciminelli, Mary",A-010313,2019-01-16 00:00:00,PHX - SC1,Active,13814 E Yolantha St,AZ,85262,1,1980
+Phoenix,"Clapper, Julia & David",A-004269,2016-11-14 00:00:00,PHX - E2,Active,4321 S Antonio,AZ,85212,1,1980
+Phoenix,"Clark, Casey",A-022890,2018-08-08 00:00:00,PHX - SC1,Active,1113 W Spur Drive,AZ,85085,1,1980
+Phoenix,"Clark, Guadalupe",A-000570,2016-08-12 00:00:00,PHX - W4,Active,8708 W. Palmaire Ave.,AZ,85305,1,1771.6
+Phoenix,"Clark, Herb and Nancy",A-011983,2018-08-07 00:00:00,PHX - W2,Active,20438 W Canyon Drive,AZ,85396,1,1980
+Phoenix,"Clark, Janice",A-022294,2015-05-12 00:00:00,PHX - SC4,Active,10611 North 26th Place,AZ,85028,1,1980
+Phoenix,"Clark, Malene",A-067912,2025-05-23 00:00:00,PHX - SC3,Active,3750 North 32nd Street,AZ,85018,1,1980
+Phoenix,"Clark, Trish",A-022674,2017-06-19 00:00:00,PHX - W1,Active,4752 W Fallen Leaf Lane,AZ,85310,1,1771.6
+Phoenix,"Clarke, Dwight",A-032205,2021-04-05 00:00:00,PHX - W2,Active,4510 North 183rd Avenue,AZ,85395,1,1957
+Phoenix,"Clavel, Crystal and Greg",A-004965,2012-05-23 00:00:00,PHX - E4,Active,2243 W Plata Ave,AZ,85202,1,1980
+Phoenix,"Clements, Amanda",A-064804,2024-07-30 00:00:00,PHX - W1,Active,9714 North 185th Lane,AZ,85355,1,1980
+Phoenix,"Cline, John",A-012749,2005-10-21 00:00:00,PHX - E1,Active,1546 N. Diane St.,AZ,85203,1,1980
+Phoenix,"Cline, Jonathan & Amy",A-024965,2025-04-04 00:00:00,PHX - W1,Active,18815 N 68th Ave,AZ,85308,1,2340
+Phoenix,"Cline, Kevin",A-008351,2017-04-03 00:00:00,PHX - E2,Active,758 W Juanita Ave,AZ,85233,1,1771.6
+Phoenix,"Cloutier, Tom",A-000101,2024-10-30 00:00:00,PHX - W1,Active,7185 W. Trails Dr.,AZ,85308,1,1980
+Phoenix,"Cochrane, Kevin",A-022512,2009-06-25 00:00:00,PHX - SC1,Active,2144 E Casitas Del Rio Dr,AZ,85024,1,1980
+Phoenix,"Coffey, Michael",A-028245,2020-09-29 00:00:00,PHX - SC1,Active,2172 E Vista Bonita Dr,AZ,85024,1,1771.6
+Phoenix,"Cohen, Glen",A-024776,2024-12-12 00:00:00,PHX - E2,Active,2219 S Sailors Way,AZ,85295,1,2340
+Phoenix,"Cohen, Wendy And Lenard",A-012431,2019-01-10 00:00:00,PHX - SC1,Active,9678 E Hidden Green Dr,AZ,85262,1,1833.4
+Phoenix,"Coldewe, Robert",A-054768,2023-03-15 00:00:00,PHX - W3,Active,6915 South 71st Drive,AZ,85339,1,1900
+Phoenix,"Cole, Christopher",A-003405,2023-09-18 00:00:00,PHX - SC1,Active,7970 E Wingspan Way,AZ,85255,1,1900
+Phoenix,"Cole, Christopher",A-023959,2022-06-10 00:00:00,PHX - SC1,Active,2413 W Sienna Bouquet Place,AZ,85085,1,1957
+Phoenix,"Coleman, Bryce",A-028112,2024-03-11 00:00:00,PHX - E2,Active,2501 E Shannon St,AZ,85295,1,1800
+Phoenix,"Coler, e Matthew and Natasha",A-047827,2022-04-04 00:00:00,PHX - E2,Active,4445 South Leisure Way,AZ,85297,1,1895.2
+Phoenix,"Colledge, Charee",A-031975,2021-03-24 00:00:00,PHX - E2,Active,"3800 South Clubhouse Drive
+Unit 11",AZ,85248,1,1759.24
+Phoenix,"Collins, Julie",A-022610,2021-07-28 00:00:00,PHX - W3,Active,1021 W Georgia Ave,AZ,85013,1,1895.2
+Phoenix,"Collins, Rebecca and Jeff",A-022304,2018-08-07 00:00:00,PHX - SC3,Active,5715 E Calle Tuberia,AZ,85018,1,1833.4
+Phoenix,"Colombo, Tom and Ana",A-022409,2022-01-31 00:00:00,PHX - W4,Active,2807 N 70th Drive,AZ,85035,1,1895.2
+Phoenix,"Colpitts, Rosie and Bernie",A-003167,2014-07-07 00:00:00,PHX - SC2,Active,16016 N 111th Pl.,AZ,85255,1,1771.6
+Phoenix,"Coltrara, Susan and Mike",A-053998,2023-02-15 00:00:00,PHX - SC2,Active,10596 East Caron Street,AZ,85258,1,1900
+Phoenix,"Compton, Sophie",A-008428,2025-03-03 00:00:00,PHX - E1,Active,340 E. Ivy St.,AZ,85201,1,2340
+Phoenix,"Conly, Diana",A-005161,2009-09-02 00:00:00,PHX - SC3,Active,6900 N 77th St,AZ,85250,1,1231.43
+Phoenix,"Conner, Logan & Christa",A-004574,2012-05-21 00:00:00,PHX - W1,Active,16824 W Rimrock Street,AZ,85388,1,1980
+Phoenix,"Cook, John R.",A-028246,2020-09-28 00:00:00,PHX - SC2,Active,8025 E Del Rubi Dr,AZ,85258,1,1691.26
+Phoenix,"Corbin, David",A-051108,2023-01-19 00:00:00,PHX - SC1,Active,4773 East Coachwhip Rd,AZ,85331,1,1894
+Phoenix,Cornell. Steve,A-032220,2025-06-18 00:00:00,PHX - SC1,Active,36619 North 16th Street,AZ,85086,1,1980
+Phoenix,"Cota, Richard & Katheryn",A-034383,2025-02-05 00:00:00,PHX - W1,Active,7133 West Bloomfield Road,AZ,85381,1,2340
+Phoenix,"Council, Robert",A-001273,2016-02-19 00:00:00,PHX - W2,Active,8149 W Superior Ave,AZ,85043,1,1980
+Phoenix,"Courtright, David",A-005948,2017-03-02 00:00:00,PHX - E2,Active,1242 E Mary Ln,AZ,85295,1,1980
+Phoenix,"Couts, Terry",A-013053,2021-07-01 00:00:00,PHX - E2,Active,2166 S Porter,AZ,85295,1,1980
+Phoenix,"Cox, Danette",A-012975,2013-02-21 00:00:00,PHX - E3,Active,2290 E. Fairview St,AZ,85225,1,1980
+Phoenix,"Coy, Jane & Jeff",A-013005,2024-11-13 00:00:00,PHX - SC1,Active,39401 N. 67th Place,AZ,85331,1,1980
+Phoenix,"Coy, Joshua",A-034817,2021-10-29 00:00:00,PHX - W2,Active,18515 West Acacia Drive,AZ,85338,1,1895.2
+Phoenix,"Crain, Mike and Tami",A-007338,2006-02-01 00:00:00,PHX - SC2,Active,6123 E. Campo Bello Dr.,AZ,85254,1,1980
+Phoenix,"Crenshaw, Jeff",A-051167,2022-08-13 00:00:00,PHX - SC1,Active,7222 East Camino Salida del Sol,AZ,85266,1,1646.8
+Phoenix,"Cronenberg, Stephan",A-053963,2023-04-20 00:00:00,PHX - E2,Active,576 East Beauchamp Drive,AZ,85297,1,1960
+Phoenix,"Cronin, Daniel",A-001296,2024-06-21 00:00:00,PHX - E3,Active,15811 S 25th Way,AZ,85048,1,2340
+Phoenix,"Crosley, Jessica and Clint",A-006003,2023-09-05 00:00:00,PHX - E3,Active,1732 W. Hopi Drive,AZ,85224,1,1840
+Phoenix,"Cross, Alec and Laura",A-005666,2025-08-06 00:00:00,PHX - SC3,Inactive,6709 E. Calle Redondo,AZ,85251,1,1980
+Phoenix,"Cruickshank, John",A-028234,2024-10-28 00:00:00,PHX - SC1,Active,11862 E Chama Rd,AZ,85255,1,2020
+Phoenix,"Cunion, Emily",A-065530,2024-10-07 00:00:00,PHX - W3,Active,1826 E Fawn Dr,AZ,85042,1,1980
+Phoenix,"Cunningham, David & Kennia",A-010980,2018-04-18 00:00:00,PHX - W3,Active,1919 E Latona Rd,AZ,85042,1,1980
+Phoenix,"Cunningham, Kris",A-023936,2019-11-01 00:00:00,PHX - W4,Active,4001 W Monte Cristo,AZ,85053,1,1833.4
+Phoenix,"Curry, Janie",A-063035,2024-02-16 00:00:00,PHX - W2,Active,"3720 N 295th Ave  Buckeye ,AZ",AZ,85396,1,1840
+Phoenix,"Dahn, Kent and Patrick",A-035703,2022-01-17 00:00:00,PHX - SC3,Active,8037 East Tuckey Lane,AZ,85250,1,1469.2
+Phoenix,"Danford, Rick",A-008305,2022-10-26 00:00:00,PHX - W4,Active,1519 W Seldon Way,AZ,85021,1,1620
+Phoenix,"Dankert, Darren",A-008304,2021-07-01 00:00:00,PHX - SC2,Active,4046 E. Shangri La Rd.,AZ,85028,1,1980
+Phoenix,"Darian, Ghasem  (No charge filter cleaning see contract)",A-062733,2024-01-12 00:00:00,PHX - SC2,Active,10916 East Winchcomb Drive,AZ,85255,1,1960
+Phoenix,"Darnell, David",A-032891,2021-05-20 00:00:00,PHX - W4,Active,3728 West Kings Avenue,AZ,85053,1,1980
+Phoenix,"Darvin, Nathan",A-007643,2025-05-21 00:00:00,PHX - SC4,Active,13015 N. 1st St,AZ,85022,1,2340
+Phoenix,"Dash, Christie",A-024243,2019-11-01 00:00:00,PHX - E1,Active,3006 E Norwood St,AZ,85213,1,1833.4
+Phoenix,"Dashneym, Laura",A-000851,2017-10-02 00:00:00,PHX - E1,Active,2104 N Acacia Circle,AZ,85213,1,1980
+Phoenix,"Davidson, Ron",A-022358,2021-09-20 00:00:00,PHX - W1,Active,9453 W. Tonopah Dr,AZ,85382,1,1980
+Phoenix,"Davila, Patricia",A-023915,2019-09-17 00:00:00,PHX - W4,Active,7127 N 28th Dr,AZ,85051,1,1771.6
+Phoenix,"Davis, Charles",A-035246,2025-02-27 00:00:00,PHX - E3,Active,2130 East Briarwood Terrace,AZ,85048,1,2340
+Phoenix,"Davis, Helen",A-068388,2025-06-25 00:00:00,PHX - E3,Active,16834 South 20th Place,AZ,85048,1,1980
+Phoenix,"Davis, Jack and Sara",A-022308,2023-06-05 00:00:00,PHX - SC2,Active,4147 E Mercer Ln,AZ,85028,1,1900
+Phoenix,"Davis, Jessie",A-022619,2001-12-06 00:00:00,PHX - W2,Active,12210 W Cambridge Ave.,AZ,85392,1,1980
+Phoenix,"De La Rosa, David",A-006586,2008-01-03 00:00:00,PHX - E2,Active,1634 W Macaw Dr,AZ,85286,1,1980
+Phoenix,"Dean, Eula",A-022534,2024-10-14 00:00:00,PHX - SC2,Active,11878 N 95th St,AZ,85260,1,2340
+Phoenix,"Deese, Avaline",A-065288,2024-09-19 00:00:00,PHX - W2,Active,22215 West Hilton Avenue,AZ,85326,1,1980
+Phoenix,"Degler, Chris",A-034656,2021-09-30 00:00:00,PHX - E3,Active,942 East Verde Lane,AZ,85284,1,1957
+Phoenix,"Deherrera, Christopher",A-001218,2015-02-25 00:00:00,PHX - SC3,Active,978 N. 85th Pl.,AZ,85257,1,1980
+Phoenix,"Dehghanpisheh, Hassan",A-007974,2014-08-21 00:00:00,PHX - E4,Active,1724 E Pebble Beach Dr,AZ,85282,1,1980
+Phoenix,"Deignan, Casey",A-004495,2022-05-20 00:00:00,PHX - W1,Active,20444 N 37th Dr,AZ,85308,1,1895.2
+Phoenix,"Deis, Melodie",A-033684,2021-07-08 00:00:00,PHX - E1,Active,2337 East Farmdale Circle,AZ,85204,1,1895.2
+Phoenix,"Dekran, Naji",A-067762,2025-04-23 00:00:00,PHX - W3,Active,4511 West Donner Drive,AZ,85339,1,1980
+Phoenix,"Delaware, Olivia",A-007769,2006-02-01 00:00:00,PHX - E4,Active,218 E. Carter Dr.,AZ,85282,1,1980
+Phoenix,Delgado Residence,A-034250,2021-08-23 00:00:00,PHX - SC1,Active,2217 West Apache Rain Road,AZ,85085,1,1980
+Phoenix,"Delgado, Erica",A-068224,2025-05-23 00:00:00,PHX - W3,Active,1317 East Milada Drive,AZ,85042,1,1980
+Phoenix,"Delich, George (Yearly one Free Filter Clean)",A-004865,2024-10-29 00:00:00,PHX - E1,Active,8931 E. Hillview Circle,AZ,85207,1,1980
+Phoenix,"Delph, Suzi",A-007411,2024-11-20 00:00:00,PHX - SC1,Active,6738 E. Montgomery Rd.,AZ,85331,1,2340
+Phoenix,"Denney, Margaret",A-008362,2021-12-14 00:00:00,PHX - SC2,Active,5837 E Larkspur Dr,AZ,85254,1,1895.2
+Phoenix,"Dennis, Carey",A-002035,2024-07-10 00:00:00,PHX - E3,Active,4224 E. Ahwatukee Dr.,AZ,85044,1,2340
+Phoenix,"Denton, Brad & Sherri",A-004156,2022-01-21 00:00:00,PHX - E2,Active,3056 E Kingbird Place,AZ,85286,1,1895.2
+Phoenix,"Deorio Doukas, John & Linda",A-004871,2010-05-21 00:00:00,PHX - SC1,Active,3013 W Eagle Claw Dr,AZ,85086,1,1980
+Phoenix,"DePonti, Cindy",A-011013,2018-05-29 00:00:00,PHX - W3,Active,81 W Lewis Ave,AZ,85003,1,1980
+Phoenix,Desert View Behavioral Health,A-052589,2022-10-27 00:00:00,PHX - W4,Active,9401 North 36th Avenue,AZ,85051,1,1955.8
+Phoenix,"Destree, Alexis",A-033667,2025-01-24 00:00:00,PHX - E3,Active,5750 West Commonwealth Place,AZ,85226,1,2340
+Phoenix,"Devenport, Eddie",A-004222,2024-10-28 00:00:00,PHX - W1,Active,9075 N 88th Ave,AZ,85345,1,1980
+Phoenix,"Devlin, Jenna",A-024574,2019-11-01 00:00:00,PHX - SC3,Active,7812 E Via Del futuro,AZ,85258,1,1833.4
+Phoenix,"DeVore, Lauren",A-005865,2024-10-23 00:00:00,PHX - E3,Active,2811 W. Wildwood Dr.,AZ,85045,1,1980
+Phoenix,"Di Santo, Santino",A-006968,2024-07-23 00:00:00,PHX - SC4,Active,19840 N. 14th St.,AZ,85024,1,1920
+Phoenix,"Dickason, Rich and Cindy",A-011784,2018-08-21 00:00:00,PHX - E2,Active,23727 S Angora Dr,AZ,85248,1,1771.6
+Phoenix,"Dickinson, Betsy",A-005579,2024-07-29 00:00:00,PHX - SC2,Active,9720 E. Desert Cove Ave.,AZ,85260,1,1980
+Phoenix,"Dickson, Stephen",A-035356,2021-12-21 00:00:00,PHX - E2,Active,21211 South 142nd Street,AZ,85286,1,1895.2
+Phoenix,"Diedrich, Elizabeth",A-008086,2023-04-17 00:00:00,PHX - W1,Active,7874 W Calavar Rd.,AZ,85381,1,1780
+Phoenix,"Dietrich, Mike",A-047094,2022-03-21 00:00:00,PHX - W1,Active,8244 West Quail Avenue,AZ,85382,1,1895.2
+Phoenix,"Dietz, Linda",A-012963,2024-10-24 00:00:00,PHX - W1,Active,9788 W. Las Palmaritas Dr.,AZ,85345,1,1980
+Phoenix,"Digerolami, Allen & Dana",A-002763,2014-04-04 00:00:00,PHX - E1,Active,1439 N. Sierra Heights Cir.,AZ,85207,1,1980
+Phoenix,"Dilworth, Cindy",A-047645,2022-03-24 00:00:00,PHX - E1,Active,6501 East Heather Drive,AZ,85215,1,1957
+Phoenix,"DiMaio, Vera",A-006605,2025-01-14 00:00:00,PHX - SC2,Active,15843 E Kipling Dr,AZ,85268,1,2340
+Phoenix,"Dimond, Jason & Misty",A-002450,2024-08-07 00:00:00,PHX - W1,Active,5159 W Kristal Way,AZ,85308,1,2220
+Phoenix,"Dirkse, John & Kathryn",A-001719,2016-04-26 00:00:00,PHX - SC4,Active,1255 E Le Marche Ave,AZ,85022,1,1771.6
+Phoenix,"Dixit, Atul & Sindhu",A-031630,2023-05-31 00:00:00,PHX - SC1,Active,3217 West Espartero Way,AZ,85086,1,1900
+Phoenix,"Dodge, Nancie",A-012961,2004-04-16 00:00:00,PHX - SC2,Active,6202 E Le Marche Ave,AZ,85254,1,1980
+Phoenix,"Dodson, Nancy",A-068433,2025-06-16 00:00:00,PHX - E2,Active,213 East Vaughn Avenue,AZ,85234,1,1980
+Phoenix,"Dogu, Gokce",A-001203,2016-04-19 00:00:00,PHX - E2,Active,958 W Redwood Dr.,AZ,85248,1,1980
+Phoenix,"Dominguez, Antonio",A-002850,2021-07-01 00:00:00,PHX - W3,Active,1911 E Willetta St,AZ,85006,1,1980
+Phoenix,"Dominguez, Antonio",A-023543,2019-11-04 00:00:00,PHX - SC3,Active,3150 N 41st Pl,AZ,85018,1,2021.2
+Phoenix,"Dominguez, Cynthia & Anthony",A-025052,2024-11-05 00:00:00,PHX - W2,Active,202 S 122nd Lane,AZ,85323,1,1980
+Phoenix,"Dominguez, Jesus",A-024068,2024-07-09 00:00:00,PHX - E1,Active,1115 E. Ingram St.,AZ,85203,1,1980
+Phoenix,"Domotor, Steve",A-056372,2024-01-10 00:00:00,PHX - W4,Active,8530 North 48th Lane,AZ,85302,1,1900
+Phoenix,"Donahoe, Ron",A-023789,2020-06-01 00:00:00,PHX - W3,Active,6728 S 36th Lane,AZ,85041,1,1833.4
+Phoenix,"Dorsey, Dave & Cindy",A-005990,2021-11-30 00:00:00,PHX - W1,Active,8255 W. Quail Ave.,AZ,85382,1,1980
+Phoenix,"Douglas, Carolyn",A-003811,2023-11-14 00:00:00,PHX - E3,Active,238 E Smoke Tree Rd,AZ,85296,1,1860
+Phoenix,"Drohman, Valerie and Doug",A-008398,2001-12-06 00:00:00,PHX - SC1,Active,11542 E Desert Holly Dr,AZ,85255,1,1980
+Phoenix,"Drost, Barry",A-002100,2014-06-27 00:00:00,PHX - E3,Active,2419 W Mission Dr,AZ,85224,1,1771.6
+Phoenix,"Drost, Matt",A-002112,2017-06-26 00:00:00,PHX - E4,Active,717 E. Diamond Dr.,AZ,85283,1,1771.6
+Phoenix,"Drozdz, Scott",A-005933,2018-06-29 00:00:00,PHX - E4,Active,958 E Dava Dr,AZ,85283,1,1833.4
+Phoenix,"Dryden, Theodore",A-051072,2022-08-03 00:00:00,PHX - SC3,Active,120 East Marlette Avenue,AZ,85012,1,1894
+Phoenix,"Duchamp, Jodi",A-047193,2022-03-18 00:00:00,PHX - E2,Active,2985 East Santa Fe Lane,AZ,85297,1,1895.2
+Phoenix,"Duffy Powers, Jayne",A-012995,2004-06-24 00:00:00,PHX - E3,Active,1170 N Judd Place,AZ,85226,1,1980
+Phoenix,"Dumity, Alexa",A-031174,2021-02-02 00:00:00,PHX - W4,Active,8021 North 14th Avenue,AZ,85021,1,1895.2
+Phoenix,"Duran, Juan and Regina",A-001723,2024-04-18 00:00:00,PHX - SC4,Active,824 E Royal Palm Road,AZ,85020,1,1800
+Phoenix,"Duval, Earl",A-025211,2020-06-01 00:00:00,PHX - W3,Active,6808 W Burgess Lane,AZ,85339,1,1691.26
+Phoenix,"Dyer, Mary Ann & Thomas",A-049419,2022-05-20 00:00:00,PHX - E2,Active,10024 East Emerald Drive,AZ,85248,1,1895.2
+Phoenix,"Earhar, Ken",A-032845,2021-05-05 00:00:00,PHX - SC1,Active,33668 North 78th Place,AZ,85266,1,1895.2
+Phoenix,"Earl Sr, Toney",A-008376,2024-02-29 00:00:00,PHX - W3,Active,6637 S 57th Ave,AZ,85339,1,1800
+Phoenix,"Easterling, Hattie & Rory",A-049368,2022-06-01 00:00:00,PHX - W3,Active,5226 West Milada Drive,AZ,85339,1,1895.2
+Phoenix,"Eckard, Susie",A-004847,2009-11-04 00:00:00,PHX - E3,Active,3636 E. Coconino Court,AZ,85044,1,1771.6
+Phoenix,"Eden, Daniel",A-048968,2023-10-19 00:00:00,PHX - SC4,Active,6806 North 7th Street,AZ,85014,1,1960
+Phoenix,"Edrington, Jamie",A-067132,2025-01-29 00:00:00,PHX - SC2,Active,11540 North 103rd Place,AZ,85260,1,1980
+Phoenix,"Edrington, Shane",A-002729,2018-03-06 00:00:00,PHX - SC2,Active,9519 E Windrose Dr,AZ,85260,1,1771.6
+Phoenix,"Eger, Karen",A-006993,2025-02-27 00:00:00,PHX - E3,Active,4839 W Tyson St,AZ,85226,1,1980
+Phoenix,"Eggerding, Matthew",A-000916,2024-10-25 00:00:00,PHX - E2,Active,5250 S. Cobalt,AZ,85212,1,2020
+Phoenix,"Ehrhardt, Jamie",A-024766,2019-11-01 00:00:00,PHX - E2,Active,2661 S Palm St,AZ,85295,1,1833.4
+Phoenix,"Einspahr, Holly",A-068338,2025-06-10 00:00:00,PHX - E4,Active,1422 East Bell De Mar Drive,AZ,85283,1,1980
+Phoenix,"Elder, Dan",A-008291,2022-04-27 00:00:00,PHX - SC2,Active,15641 N 60th Way,AZ,85254,1,1895.2
+Phoenix,"Elg, Stephanie",A-024020,2019-11-01 00:00:00,PHX - E2,Active,19835 E Silver Creek Lane,AZ,85142,1,1833.4
+Phoenix,"Elizondo, Al",A-025112,2024-10-23 00:00:00,PHX - SC1,Active,4814 E Baker Dr,AZ,85331,1,2340
+Phoenix,"Elkes-Johnson, Elizabeth",A-032360,2022-03-14 00:00:00,PHX - W2,Active,12539 West Vista Paseo Drive,AZ,85340,1,1957
+Phoenix,"Elliot, April",A-033235,2023-03-02 00:00:00,PHX - E1,Active,6429 East Raftriver Street,AZ,85215,1,1955.8
+Phoenix,"Elliot, Patricia",A-022432,2018-07-18 00:00:00,PHX - E3,Active,810 E Goldenrod St,AZ,85048,1,1771.6
+Phoenix,"Ellis, Christina",A-068351,2025-06-13 00:00:00,PHX - W4,Active,3817 West Davidson Lane,AZ,85051,1,1980
+Phoenix,"Ellis, Cynthia & Irv",A-050274,2022-06-29 00:00:00,PHX - W3,Active,917 East Beth Drive,AZ,85042,1,1957
+Phoenix,"Ellis, Leda",A-002443,2015-07-22 00:00:00,PHX - SC1,Active,11205 E Hedgehog Place,AZ,85262,1,1980
+Phoenix,"Ellis, Lindsay",A-002488,2025-02-28 00:00:00,PHX - W1,Active,6375 W. Quail Ave.,AZ,85308,1,2340
+Phoenix,"Engle, Darryl",A-007692,2020-04-02 00:00:00,PHX - E3,Active,615 W Summit Pl.,AZ,85225,1,1833.4
+Phoenix,"Erickson, Ron & Jennifer",A-022273,2012-10-18 00:00:00,PHX - E3,Active,2524 E Desert Willow Drive,AZ,85048,1,1980
+Phoenix,"Escobar, Estuardo",A-028752,2020-10-23 00:00:00,PC 1 - Resi/Comm,Active,1237 E Julie Court,AZ,85140,1,1980
+Phoenix,"Espinoza, John and Gloria",A-022606,2025-06-10 00:00:00,PHX - W4,Active,4219 W Mountain View Rd.,AZ,85051,1,1980
+Phoenix,"Esquivel, Serena",A-034039,2022-10-02 00:00:00,PHX - E3,Active,3001 West Redwood Lane,AZ,85045,1,1586.2
+Phoenix,"Essegian, Rich",A-039150,2022-02-22 00:00:00,PHX - W1,Active,18357 West Paradise Lane,AZ,85388,1,1980
+Phoenix,"Estrada, Michael",A-034200,2025-08-29 00:00:00,PHX - E2,Active,3755 East Aquarius Place,AZ,85249,1,1980
+Phoenix,"Evans, Amy and Robb",A-009339,2017-08-08 00:00:00,PHX - E1,Active,2852 N Kashmir,AZ,85215,1,1996.18
+Phoenix,"Evans, Saxon And Jenny",A-022969,2018-11-27 00:00:00,PHX - E1,Active,4054 E Fox St,AZ,85205,1,1833.4
+Phoenix,"Facio, Pablo",A-052425,2022-10-05 00:00:00,PHX - W3,Active,9705 South 47th Avenue,AZ,85339,1,1955.8
+Phoenix,"Fahey, Tanya",A-007782,2005-11-16 00:00:00,PHX - SC4,Active,3012 N. Manor Dr. E.,AZ,85014,1,1771.6
+Phoenix,"Falda, Katey",A-068042,2025-06-06 00:00:00,PHX - E3,Active,1845 South Beverly,AZ,85210,1,1980
+Phoenix,"Fallahi, Amir",A-003780,2021-12-03 00:00:00,PHX - SC2,Active,5932 E Beryl Ave,AZ,85253,1,1980
+Phoenix,"Farguson, Chuck & Judy",A-023535,2019-08-30 00:00:00,PHX - SC3,Active,4718 E Arcadia Lane,AZ,85018,1,1771.6
+Phoenix,"Farguson, Chuck And Judy",A-011748,2020-07-16 00:00:00,PHX - SC3,Active,2910 E Minnezona Ave,AZ,85016,1,1771.6
+Phoenix,"Faria, Bambi",A-024726,2019-11-05 00:00:00,PHX - E2,Active,2056 E. Browing Place,AZ,85286,1,1980
+Phoenix,"Farmer, Heather",A-025210,2020-06-01 00:00:00,PHX - W3,Active,6812 W Burgess Lane,AZ,85339,1,1833.4
+Phoenix,"Farmer, Mark",A-002799,2014-06-01 00:00:00,PHX - E3,Active,502 S. Oak St.,AZ,85233,1,1833.4
+Phoenix,"Feddersen, Emma",A-067696,2025-05-07 00:00:00,PHX - W2,Active,25016 West Illini Street,AZ,85326,1,1980
+Phoenix,"Fein, Ray",A-008365,2001-12-06 00:00:00,PHX - SC2,Active,15544 E Sundown Dr,AZ,85268,1,1771.6
+Phoenix,"Fellows, Tom",A-003147,2024-04-26 00:00:00,PHX - SC3,Active,8716 E. Vernon Ave,AZ,85257,1,1800
+Phoenix,"Fernandez, Juan",A-051939,2022-09-06 00:00:00,PHX - SC3,Active,3630 North 51st Place,AZ,85018,1,1955.8
+Phoenix,"Ferrante, Cindy",A-000113,2020-01-29 00:00:00,PHX - SC4,Active,11215 North 27th Place,AZ,85028,1,1771.6
+Phoenix,"Fettig, Laura",A-003499,2014-06-24 00:00:00,PHX - SC2,Active,9848 E Cinnabar Ave,AZ,85258,1,1771.6
+Phoenix,"Fiaschetti, Marjorie",A-010650,2011-02-10 00:00:00,PHX - W4,Active,7822 W Vermont Ave,AZ,85303,1,1980
+Phoenix,"Fielder, Debbie and Mike",A-003149,2021-05-05 00:00:00,PHX - SC4,Active,19430 N 36th Place,AZ,85050,1,1895.2
+Phoenix,"Fife, Stephen and Alyssa",A-000866,2020-08-11 00:00:00,PHX - W1,Active,4601 W Mariposa Grande,AZ,85310,1,1771.6
+Phoenix,"Filli, John S & Barbara K",A-008640,2021-09-01 00:00:00,PHX - E4,Active,1925 E Gemini Dr,AZ,85283,1,2068.24
+Phoenix,"Fimbres, Angel",A-023816,2020-05-26 00:00:00,PHX - W3,Active,1928 E St Anne Ave,AZ,85042,1,1980
+Phoenix,"Fimbres, Joseph and Barbara",A-008052,2024-07-31 00:00:00,PHX - W4,Active,9406 W Elm St,AZ,85037,1,2340
+Phoenix,"Fink, Jeff and Donna",A-002408,2023-10-05 00:00:00,PHX - E2,Active,2842 E Lantana Dr,AZ,85286,1,1900
+Phoenix,Fink. Dan and Nancy,A-024394,2024-08-21 00:00:00,PHX - E2,Active,10105 E. Elmwood Dr,AZ,85248,1,2340
+Phoenix,"Finke, Beverly",A-002801,2019-05-13 00:00:00,PHX - E1,Active,1420 E. Hilton Ave.,AZ,85204,1,1833.4
+Phoenix,"Finley, Jennifer",A-011652,2018-08-22 00:00:00,PHX - E4,Active,5303 S Siesta Lane,AZ,85283,1,1833.4
+Phoenix,"Firestone, Cinda",A-028238,2020-09-25 00:00:00,PHX - SC2,Active,7404 E Dreyfus Ave,AZ,85260,1,1691.26
+Phoenix,"Fishburn, Paul",A-011328,2024-09-06 00:00:00,PHX - E3,Active,5560 W Park Ave,AZ,85226,1,2340
+Phoenix,"Fisk, Shirley",A-006210,2024-05-17 00:00:00,PHX - W4,Active,1628 West Seldon Lane,AZ,85021,1,1800
+Phoenix,"Fitch, Beth",A-008001,2009-06-16 00:00:00,PHX - E3,Active,12014 S Tonalea Dr,AZ,85044,1,1771.6
+Phoenix,"Flaks, Jennifer",A-069008,2025-08-22 00:00:00,PHX - SC3,Active,2205 East Clarendon Avenue,AZ,85016,1,1980
+Phoenix,Flores Residence,A-031298,2022-01-28 00:00:00,PHX - SC1,Active,33608 North 24th Drive,AZ,85085,1,1957
+Phoenix,"Flory, Matthew",A-002731,2024-09-13 00:00:00,PHX - W4,Active,8002 W. Maryland Ave,AZ,85303,1,2340
+Phoenix,"Fontaine, Leon",A-010102,2024-06-26 00:00:00,PHX - W1,Active,17287 N 57th Drive,AZ,85308,1,2340
+Phoenix,"Fontes, Adrian",A-064816,2024-08-12 00:00:00,PHX - W3,Active,801 East Windsor Avenue,AZ,85006,1,2340
+Phoenix,"Foster, Randy & Becky",A-025133,2024-11-06 00:00:00,PHX - W2,Active,14303 S. 181st Ave,AZ,85338,1,1980
+Phoenix,"Fotedar, Shivani",A-009687,2017-06-05 00:00:00,PHX - SC1,Active,21411 North 37th Run,AZ,85050,1,1833.4
+Phoenix,"Foulk, Anita",A-005992,2018-05-29 00:00:00,PHX - SC2,Inactive,9840 E Winchcomb Dr,AZ,85260,1,1980
+Phoenix,"Fowler, Allison",A-062379,2024-04-18 00:00:00,PHX - W1,Active,16336 West Central Street,AZ,85388,1,1980
+Phoenix,"Fox, Wendy",A-024422,2019-11-01 00:00:00,PHX - E2,Active,1545 E Coconino Dr,AZ,85249,1,1691.26
+Phoenix,"Francis, Heather",A-055213,2023-04-06 00:00:00,PHX - E2,Active,21121 East Sparrow Drive,AZ,85142,1,1900
+Phoenix,"Frazier, Rich",A-004500,2011-07-15 00:00:00,PHX - E2,Active,1473 S Chippewa Ct,AZ,85286,1,1980
+Phoenix,"Freeman, Marilyn",A-007401,2010-08-02 00:00:00,PHX - E2,Active,1925 S Jacana Lane,AZ,85295,1,1980
+Phoenix,"Freer, Harold & Kris",A-003573,2023-06-27 00:00:00,PHX - W3,Active,2032 W. Alvarado Rd.,AZ,85009,1,1894
+Phoenix,"Frey, Patty & Ray",A-034638,2025-01-24 00:00:00,PHX - W1,Active,4504 West Park View Lane,AZ,85310,1,2340
+Phoenix,"Fried, James",A-024580,2014-10-17 00:00:00,PHX - SC2,Active,11486 N 131st Way,AZ,85259,1,1771.6
+Phoenix,"Fritsche, Julie",A-055561,2023-05-01 00:00:00,PHX - W2,Active,1737 North 211th Drive,AZ,85396,1,1976.68
+Phoenix,"Fritz, William",A-004916,2024-10-24 00:00:00,PHX - E2,Active,9525 E Arrowvale Dr,AZ,85248,1,1980
+Phoenix,"Frommert, Julie & Allan",A-004936,2011-09-13 00:00:00,PHX - W1,Active,19019 N 73rd Lane,AZ,85308,1,1980
+Phoenix,"Fullmer, Rob",A-025558,2014-04-17 00:00:00,PHX - E4,Active,701 E. Alameda Dr.,AZ,85282,1,1980
+Phoenix,"Gallego, Julie",A-012416,2019-02-20 00:00:00,PHX - E2,Active,2540 E Hazeltine Way,AZ,85249,1,1980
+Phoenix,"Galtieri, Paola",A-007410,2024-09-06 00:00:00,PHX - E3,Active,819 W Plata Ave,AZ,85210,1,2340
+Phoenix,"Galusha, Melanie",A-007768,2009-07-13 00:00:00,PHX - E4,Active,2428 W. Keating Ave,AZ,85202,1,1771.6
+Phoenix,"Galvan-Kuka, Nicole",A-024016,2020-06-09 00:00:00,PHX - E2,Active,1135 W Fir Tree Rd,AZ,85140,1,1833.4
+Phoenix,"Garcia, Anna",A-023018,2024-10-21 00:00:00,PHX - W3,Active,4331 W. Carson Rd.,AZ,85339,1,2340
+Phoenix,"Garcia, Anthony & Tristin",A-032506,2021-04-23 00:00:00,PHX - E2,Active,24184 South 216th Way,AZ,85142,1,1980
+Phoenix,"Garcia, Dana",A-022507,2024-06-26 00:00:00,PHX - E3,Active,2136 E Mountain Sky Ave,AZ,85048,1,2340
+Phoenix,"Garcia, Jordan",A-069162,2025-09-05 00:00:00,PHX - E1,Active,1506 South Alvaro Circle,AZ,85206,1,1980
+Phoenix,"Garcia, Lety",A-022900,2018-08-21 00:00:00,PHX - W3,Active,1913 W Georgia Ave,AZ,85015,1,1833.4
+Phoenix,"Garcia, Mike",A-009343,2023-03-02 00:00:00,PHX - W2,Active,11394 W. Lincoln St.,AZ,85323,1,1894
+Phoenix,"Garland, Gregg",A-012962,2021-07-30 00:00:00,PHX - E2,Active,9835 E Nopal Ave.,AZ,85209,1,1895.2
+Phoenix,"Garriss, Kria",A-024753,2019-11-01 00:00:00,PHX - E2,Active,142 W Macaw Dr,AZ,85286,1,1833.4
+Phoenix,Garza. Evonne and Baldemar,A-007349,2013-05-22 00:00:00,PHX - W3,Active,3115 E. Old Southern Ave.,AZ,85040,1,1980
+Phoenix,"Gaunt, Laura & Jeff",A-012714,2024-10-31 00:00:00,PHX - SC1,Active,4427 E Williams Drive,AZ,85050,1,1980
+Phoenix,"Geake, Lynette & Bob",A-008709,2024-10-29 00:00:00,PHX - SC4,Active,1714 E Sheena Dr.,AZ,85022,1,1980
+Phoenix,"Gebert, Julie (One filter cleaning yearly)",A-001688,2016-01-05 00:00:00,PHX - SC2,Active,11025 E Clinton St,AZ,85259,1,1980
+Phoenix,"Gehrig, Eric",A-008332,2017-02-15 00:00:00,PHX - E3,Active,4768 W Tyson Street,AZ,85226,1,1771.6
+Phoenix,"Gellenbeck, Brian",A-003428,2024-05-09 00:00:00,PHX - SC4,Active,3343 E Renee Dr,AZ,85050,1,1860
+Phoenix,"Gellman, Allen & Traci",A-004192,2011-08-04 00:00:00,PHX - SC2,Active,5321 E. Shaw Butte Dr.,AZ,85254,1,1771.6
+Phoenix,"Gene, Cooper",A-068464,2025-06-18 00:00:00,PHX - SC1,Active,105 West Jomax Road,AZ,85085,1,1980
+Phoenix,"Geneau, Mark & Fran",A-023983,2020-01-09 00:00:00,PHX - SC1,Active,605 W Irvine Rd,AZ,85086,1,1833.4
+Phoenix,"Gerelick, Dan",A-009345,2017-04-26 00:00:00,PHX - E3,Active,8417 S Forest Ave,AZ,85284,1,1980
+Phoenix,"Gerlach /Pearson, Jennifer & Ellen",A-007396,2025-04-22 00:00:00,PHX - W3,Active,5308 N. La Plaza Cir.,AZ,85012,1,2340
+Phoenix,"Gerry, Lawrence",A-008386,2010-08-18 00:00:00,PHX - W4,Active,16602 N 40th Ave,AZ,85053,1,1980
+Phoenix,"Gervais, Steve",A-034182,2024-10-29 00:00:00,PHX - E3,Active,12229 South Honah Lee Court,AZ,85044,1,2340
+Phoenix,"Gibbs-Dajani, Brenda",A-005228,2016-07-06 00:00:00,PHX - W4,Active,840 W Caribbean Ln,AZ,85023,1,1771.6
+Phoenix,"Gibson, Donna and Rudy",A-024900,2022-03-28 00:00:00,PHX - W4,Active,6626 W Bloomfield Rd,AZ,85304,1,3857
+Phoenix,"Gilger, Gary",A-064277,2024-06-18 00:00:00,PHX - W4,Active,717 West Wood Drive,AZ,85029,1,1980
+Phoenix,"Gilkes, Beaulah",A-023454,2020-06-01 00:00:00,PHX - W3,Active,2302 N Dayton Street,AZ,85006,1,1833.4
+Phoenix,"Gillies, Margaret",A-024512,2020-06-01 00:00:00,PHX - SC2,Active,12202 North 63rd Street,AZ,85254,1,1833.4
+Phoenix,"Gillies, Susan & Steve",A-009024,2024-06-07 00:00:00,PHX - E2,Active,558 S Brett,AZ,85296,1,1980
+Phoenix,"Gillis, Christine",A-008662,2024-07-17 00:00:00,PHX - SC4,Active,1120 E Palmaire Ave,AZ,85020,1,2340
+Phoenix,"Glaser, Jerrod and Ann",A-004141,2024-07-11 00:00:00,PHX - SC3,Active,8622 E Heatherbrae Dr,AZ,85251,1,2340
+Phoenix,"Glass, Ron",A-024341,2024-05-23 00:00:00,PHX - E3,Active,645 N Elm St,AZ,85226,1,2340
+Phoenix,"Glennen, Keith",A-008033,2008-04-16 00:00:00,PHX - E2,Active,2141 W Mulberry Dr,AZ,85286,1,1980
+Phoenix,"GMW-AZ, LLC",A-024397,2019-11-01 00:00:00,PHX - E2,Active,1990 W Peninsula Circle,AZ,85248,1,1492.02
+Phoenix,"Gobel, Cindy",A-057302,2023-08-01 00:00:00,PHX - W2,Active,11349 South Santa Fe Lane,AZ,85338,1,1894
+Phoenix,"Goldring, Tami & Adam",A-004928,2011-09-14 00:00:00,PHX - E3,Active,700 N Dobson Rd #36,AZ,85224,1,1771.6
+Phoenix,"Gomez, Cathy",A-025348,2024-05-22 00:00:00,PHX - W1,Active,15833 W Redfield Rd.,AZ,85379,1,1980
+Phoenix,"Gomez, Lupe",A-022683,2024-07-23 00:00:00,PHX - W3,Active,8435 S. 22nd St,AZ,85042,1,2340
+Phoenix,"Gomez, Richard",A-002048,2024-10-25 00:00:00,PHX - W2,Active,8818 W. Magnolia St.,AZ,85353,1,2020
+Phoenix,"Gomm, Stuart",A-006699,2011-08-03 00:00:00,PHX - SC2,Active,12072 E Mescal Street,AZ,85259,1,1771.6
+Phoenix,"Gongaware, Connie",A-024881,2025-05-23 00:00:00,PHX - W4,Active,5434 W North Lane,AZ,85302,1,1980
+Phoenix,"Gonzalez, Ralph & Lorrie",A-002831,2015-07-06 00:00:00,PHX - E3,Active,930 East Knight Lane,AZ,85284,1,1771.6
+Phoenix,"Goodell, Estelle",A-002021,2014-01-20 00:00:00,PHX - W3,Active,76 W Lewis Ave.,AZ,85003,1,1980
+Phoenix,"Goodman, Hannelore",A-022478,2024-06-17 00:00:00,PHX - SC3,Active,6726 E Montecito Ave,AZ,85251,1,2340
+Phoenix,"Gore, Greg & Laura",A-005526,2011-09-01 00:00:00,PHX - E1,Active,1242 W. 13th Ave.,AZ,85120,1,1980
+Phoenix,"Gorton, Dawn",A-048445,2022-04-18 00:00:00,PHX - W2,Active,2502 North 120th Drive,AZ,85392,1,1895.2
+Phoenix,"Gorzynski, Elizabeth",A-007781,2021-07-30 00:00:00,PHX - SC3,Active,6737 E Coronado Rd,AZ,85257,1,1895.2
+Phoenix,"Gotlib, Aaron",A-052522,2022-10-07 00:00:00,PHX - SC1,Active,26225 North 46th Street,AZ,85050,1,1955.8
+Phoenix,"Gowans, Janine",A-008979,2017-08-21 00:00:00,PHX - W1,Active,4642 W Saddlehorn Rd,AZ,85083,1,1771.6
+Phoenix,"Grabowski, Jean",A-008660,2023-11-03 00:00:00,PHX - W4,Active,1907 W. Surrey Ave.,AZ,85029,1,1900
+Phoenix,"Graeber, Ralf",A-012759,2017-09-27 00:00:00,PHX - E2,Active,1721 W Prescott Dr,AZ,85248,1,1566.18
+Phoenix,"Graham, Arthur & Patricia",A-009773,2022-01-04 00:00:00,PHX - W1,Active,10179 W Avenida Del Rey,AZ,85383,1,1895.2
+Phoenix,"Graham, Bruce",A-009097,2017-03-27 00:00:00,PHX - E3,Active,4656 E. La Mirada Way,AZ,85044,1,1771.6
+Phoenix,"Graham, Greg",A-006949,2009-07-17 00:00:00,PHX - W4,Active,9447 N. 64th Drive,AZ,85302,1,1980
+Phoenix,"Graham, Joe",A-025245,2019-11-01 00:00:00,PHX - W1,Active,7110 W Cherry Hills Dr,AZ,85345,1,1833.4
+Phoenix,"Graham, Keenan",A-032146,2021-04-20 00:00:00,PHX - W4,Active,3939 West Joan De Arc Avenue,AZ,85029,1,1957
+Phoenix,"Graham, Morgan",A-024847,2024-05-30 00:00:00,PHX - E2,Active,3413 E Merlot St,AZ,85298,1,2340
+Phoenix,"Gratton, Taylor",A-023881,2024-03-21 00:00:00,PHX - E3,Active,1417 E Glenhaven Dr,AZ,85048,1,1860
+Phoenix,"Graves, Toby",A-012763,2009-07-22 00:00:00,PHX - SC1,Active,11440 E  Desert Troon Ln,AZ,85255,1,2063.05
+Phoenix,"Graves, Will",A-008070,2024-07-30 00:00:00,PHX - E4,Active,523 S. Albert Ave.,AZ,85281,1,1860
+Phoenix,"Gray, Fred",A-003539,2025-08-15 00:00:00,PHX - W3,Active,1812 W Desert View Dr,AZ,85041,1,1980
+Phoenix,"Green, Larry",A-001194,2024-10-30 00:00:00,PHX - W3,Active,1812 W. Summerside Rd,AZ,85041,1,1980
+Phoenix,"Griffin, Stephanie",A-005213,2024-03-25 00:00:00,PHX - W3,Active,4610 W Beautiful Ln,AZ,85339,1,1800
+Phoenix,"Griffith, John",A-006274,2024-10-30 00:00:00,PHX - E1,Active,9853 E Inglewood St,AZ,85207,1,1980
+Phoenix,"Grim, Dan",A-000423,2015-07-28 00:00:00,PHX - W4,Active,3442 W Acoma Dr,AZ,85053,1,1980
+Phoenix,"Grimes, Sara & Pat",A-005225,2010-10-12 00:00:00,PHX - W4,Active,13849 N 64th Dr,AZ,85306,1,1980
+Phoenix,"Grittman, Melissa",A-004843,2009-07-30 00:00:00,PHX - W2,Active,15806 W Jefferson St,AZ,85338,1,1980
+Phoenix,"Gross, Judy & Robert",A-000008,2016-03-02 00:00:00,PHX - E2,Active,20276 E Cloud Rd,AZ,85142,1,1894
+Phoenix,"Gruber, Ann",A-028478,2019-11-01 00:00:00,PHX - E2,Active,20152 E Via Del Ranch,AZ,85142-6263,1,1955.8
+Phoenix,"Guernsey, Mike",A-025010,2020-06-01 00:00:00,PHX - W1,Active,6059 W Irma Ln,AZ,85308,1,1833.4
+Phoenix,Guerrero,A-067875,2025-04-21 00:00:00,PHX - E4,Active,2317 North 30th Place,AZ,85008,1,1980
+Phoenix,"Guerrero, Phillip",A-052279,2023-08-22 00:00:00,PHX - W1,Active,13950 West Desert Cove Road,AZ,85379,1,1900
+Phoenix,"Gunning, Gordon",A-024787,2024-05-09 00:00:00,PHX - E2,Active,2319 E Victor Rd,AZ,85296,1,1800
+Phoenix,"Guru, Seema & Roop",A-009057,2016-10-13 00:00:00,PHX - W1,Active,9355 W Sands Dr,AZ,85383,1,1980
+Phoenix,Gustafson. Scott,A-002747,2021-12-03 00:00:00,PHX - E2,Active,1816 S. 141st Pl.,AZ,85295,1,1895.2
+Phoenix,"Guthrie, William",A-001670,2015-01-14 00:00:00,PHX - E1,Active,1738 E Kramer St,AZ,85203,1,1980
+Phoenix,"Gutierrez, Bobby",A-022718,2020-12-02 00:00:00,PHX - SC4,Active,2109 E Friess,AZ,85022,1,1759.24
+Phoenix,"Gutierrez, Mike",A-022439,2008-06-18 00:00:00,PHX - W3,Active,220 W. Monte Way,AZ,85041,1,1771.6
+Phoenix,"Gutierrez, Sonia",A-022558,2021-07-01 00:00:00,PHX - E3,Active,1350 W Whitten St,AZ,85224,1,1980
+Phoenix,"Gutmann, Bernard",A-008013,2007-06-07 00:00:00,PHX - SC2,Active,11248 E Paradise Ln,AZ,85255,1,1771.6
+Phoenix,"Haag,Gordon & Ray",A-002342,2025-04-30 00:00:00,PHX - E2,Active,1101 S. Crossroads Dr.,AZ,85296,1,2340
+Phoenix,"Hagan, Darlene",A-004811,2025-05-07 00:00:00,PHX - E1,Active,1034 N New Haven,AZ,85205,1,2340
+Phoenix,"Hagemeister, Rob",A-003129,2012-04-16 00:00:00,PHX - E2,Active,1258 E. Vermont Dr.,AZ,85295,1,1980
+Phoenix,"Haggerty, Paul",A-009708,2015-06-30 00:00:00,PHX - W3,Active,310 W. Portland St.,AZ,85003,1,1771.6
+Phoenix,"Haines, George",A-024649,2020-06-01 00:00:00,PHX - SC1,Active,29144 N 69th Place,AZ,85266,1,1833.4
+Phoenix,"Hall, Wendy",A-022576,2024-10-31 00:00:00,PHX - E1,Active,2323 N. Azurite Cir.,AZ,85207,1,1980
+Phoenix,"Hamilton, Angela",A-035973,2022-05-10 00:00:00,PHX - E2,Active,3315 East Los Altos Road,AZ,85297,1,1957
+Phoenix,"Hamilton, Sandra",A-024114,2019-08-23 00:00:00,PHX - E1,Active,9011 E Hobart Street,AZ,85207,1,1771.6
+Phoenix,"Hammes, Myron",A-001264,2016-04-27 00:00:00,PHX - SC3,Active,6526 N 46th St,AZ,85253,1,1771.6
+Phoenix,"Hampton, Charles",A-000011,2024-06-11 00:00:00,PHX - W4,Active,4619 West El Caminito Drive,AZ,85302,1,1980
+Phoenix,"Hamway, Sherrie And Joseph",A-003569,2024-08-19 00:00:00,PHX - W1,Active,7245 W. Monte Cristo Ave.,AZ,85382,1,1860
+Phoenix,"Handman, Nancy",A-008404,2005-09-02 00:00:00,PHX - SC2,Active,6418 E Nisbet,AZ,85254,1,1980
+Phoenix,"Hanks, Larry & Chris",A-024808,2020-06-01 00:00:00,PHX - E2,Active,1000 S Roles Dr,AZ,85296,1,1833.4
+Phoenix,"Hannah, DJ",A-034408,2023-08-04 00:00:00,PHX - SC3,Active,2200 North Normal Avenue,AZ,85281,1,1900
+Phoenix,"Hansen, Robert and Kelly",A-025201,2020-06-03 00:00:00,PHX - W3,Active,3122 W Melody Dr,AZ,85339,1,1771.6
+Phoenix,"Hansen, Thomas & Leeann",A-028066,2020-08-05 00:00:00,PHX - E1,Active,2121 E Decatur St,AZ,85213,1,1833.4
+Phoenix,"Hanson, Russ",A-024072,2022-04-07 00:00:00,PHX - E1,Active,1559 E Bates St,AZ,85203,1,1957
+Phoenix,"Hanson, Shelley",A-036044,2022-06-02 00:00:00,PHX - W2,Active,2115 North Rascon Loop,AZ,85037,1,1895.2
+Phoenix,"Hanson, Steve & Susan",A-002809,2014-06-01 00:00:00,PHX - SC1,Active,37017 N 27th Way,AZ,85331,1,1833.4
+Phoenix,"Harkins, Ron and Joan",A-011009,2018-04-30 00:00:00,PHX - SC3,Active,3301 E Osborn Rd,AZ,85018,1,1980
+Phoenix,Harris Residence,A-055262,2023-04-10 00:00:00,PHX - E1,Active,7642 East Hermosa Vista Drive,,85207,1,1900
+Phoenix,"Harris, Benjamin & Janis",A-008743,2001-12-06 00:00:00,PHX - SC3,Active,516 E Stella Ln,AZ,85012,1,1771.6
+Phoenix,"Harris, Dan",A-004179,2012-03-19 00:00:00,PHX - SC2,Active,6002 E. Ludlow Dr.,AZ,85254,1,1980
+Phoenix,"Harris, Kent",A-045271,2022-02-18 00:00:00,PHX - E4,Active,3816 South Siesta Lane,AZ,85282,1,1957
+Phoenix,"Harris, Melissa",A-024736,2019-11-01 00:00:00,PHX - E2,Active,2064 W Weatherby W,AZ,85286,1,1833.4
+Phoenix,"Harrison, Don & Gale",A-012301,2018-10-09 00:00:00,PHX - W2,Active,12857 W Marlette Ave,AZ,85340,1,1980
+Phoenix,"Hartendrop, Audric",A-005187,2021-07-01 00:00:00,PHX - W1,Active,8961 W. Quail Ave.,AZ,85382,1,1980
+Phoenix,"Harvey, Mary",A-033646,2024-09-06 00:00:00,PHX - SC4,Active,15840 North 3rd Street,AZ,85022,1,2340
+Phoenix,"Haselberger, James and Sandra",A-000519,2022-04-26 00:00:00,PHX - SC1,Active,36402 N Derringer Court,AZ,85331,1,1895.2
+Phoenix,"Hassan, Waghia",A-004232,2023-02-09 00:00:00,PHX - E2,Active,7054 E Meseto Ave.,AZ,85209,1,1894
+Phoenix,"Hatch, Hurley",A-005160,2024-08-15 00:00:00,PHX - W3,Active,1401 E. La Mirada Dr.,AZ,85042,1,2340
+Phoenix,"Haug, Tom",A-007646,2008-07-11 00:00:00,PHX - E2,Active,682 E Park Ave,AZ,85234,1,1980
+Phoenix,"Haugen, Larmon",A-022612,2018-09-24 00:00:00,PHX - SC4,Active,417 E. Brook Hollow Dr.,AZ,85022,1,1771.6
+Phoenix,"Hausmann, Charles",A-004482,2012-01-30 00:00:00,PHX - SC1,Active,8138 E. Wingshadow Rd.,AZ,85255,1,1771.6
+Phoenix,"Havens, Kim",A-002472,2024-10-25 00:00:00,PHX - SC1,Active,2524 E. Parkside Ln,AZ,85024,1,2020
+Phoenix,"Hayden, Tracy",A-001746,2015-10-06 00:00:00,PHX - SC1,Active,9078 E. Foothills Dr,AZ,85255,1,1771.6
+Phoenix,"Hayward, James",A-024882,2021-07-01 00:00:00,PHX - W4,Active,4804 W Laurie Ln,AZ,85302,1,1980
+Phoenix,"Hedine, Jim",A-006222,2019-07-09 00:00:00,PHX - SC1,Active,5410 East Sierra Sunset Trail,AZ,85331,1,1771.6
+Phoenix,"Heidecke, Kris",A-006231,2010-01-25 00:00:00,PHX - E1,Active,1862 N. Barkley St.,AZ,85203,1,2021.2
+Phoenix,"Heiligers, Marc & Tina",A-010393,2019-01-09 00:00:00,PHX - E2,Active,2225 E Vaughn Ave,AZ,85234,1,1771.6
+Phoenix,"Heise, Will",A-010316,2024-08-01 00:00:00,PHX - SC4,Active,1917 E Hillery Dr,AZ,85022,1,2340
+Phoenix,"Hendley, Nancy",A-023953,2019-07-22 00:00:00,PHX - SC1,Active,2109 W Buckhorn Trl,AZ,85085,1,1771.6
+Phoenix,"Hennen, Kristopher",A-003452,2013-03-27 00:00:00,PHX - W3,Active,2816 E. Constance Way,AZ,85042,1,1771.6
+Phoenix,"Hennings, Greg and Pamela",A-005534,2012-03-27 00:00:00,PHX - W1,Active,20810 N 39th Drive,AZ,85308,1,1771.6
+Phoenix,"Herbold, Robert",A-007714,2013-06-10 00:00:00,PHX - SC1,Active,5033 E. Windstone Trl.,AZ,85331,1,1980
+Phoenix,"Hernandez, Amy",A-024897,2020-10-08 00:00:00,PHX - W4,Active,6736 N 76th Dr,AZ,85303,1,1980
+Phoenix,"Hernandez, Lynn",A-022615,2016-05-25 00:00:00,PHX - W4,Active,4614 W Encanto,AZ,85035,1,1771.6
+Phoenix,"Hernandez, Vicente",A-051806,2022-09-15 00:00:00,PHX - E1,Active,1053 North Dresden,AZ,85203,1,1894
+Phoenix,"Herzog, Steven",A-052397,2022-09-28 00:00:00,PHX - SC3,Active,4618 East Glenrosa Avenue,AZ,85018,1,1894
+Phoenix,"Hess, Vernon",A-012949,2004-12-02 00:00:00,PHX - E2,Active,1637 S Ash St,AZ,85233,1,1980
+Phoenix,"Hester, Becky and Sterling",A-006589,2009-08-21 00:00:00,PHX - E2,Active,419 E Vaughn Ave,AZ,85234,1,1980
+Phoenix,"Hester, Linda",A-013006,2009-11-12 00:00:00,PHX - E1,Active,1631 N. Sinova,AZ,85205,1,1771.6
+Phoenix,"Hibbard, Steve & Paula",A-000591,2016-06-14 00:00:00,PHX - W1,Active,4001 W Park view Ln.,AZ,85310,1,2021.2
+Phoenix,"Hibbs, James and Karola",A-006663,2008-06-04 00:00:00,PHX - W1,Active,19246 N 15th Ave,AZ,85027,1,1980
+Phoenix,"Higa, Edith",A-000081,2024-10-30 00:00:00,PHX - W1,Active,6122 W Questa Drive,AZ,85310,1,1980
+Phoenix,Higley Paul and Retha,A-012729,2024-10-28 00:00:00,PHX - E2,Active,3892 East Leah Court,AZ,85234,1,2020
+Phoenix,"Hiler, Monika",A-005620,2016-01-18 00:00:00,PHX - W2,Active,3035 N. 144th Drive,AZ,85395,1,1771.6
+Phoenix,"Hill, Chuck",A-001251,2024-10-25 00:00:00,PHX - W2,Active,12810 West Mulberry Drive,AZ,85392,1,2020
+Phoenix,"Hill, Janelle",A-006289,2025-04-16 00:00:00,PHX - W3,Active,6111 S 45th Glen,AZ,85339,1,2340
+Phoenix,"Hinds, David",A-006355,2017-11-30 00:00:00,PHX - W3,Active,4621 W Donner Drive,AZ,85339,1,1771.6
+Phoenix,"Hinds, Jenna",A-007370,2024-08-09 00:00:00,PHX - W4,Active,10649 N 65th Ave,AZ,85304,1,2340
+Phoenix,"Hinojosa, Judith",A-064988,2024-08-14 00:00:00,PHX - E2,Active,3403 East Sagebrush Street,AZ,85296,1,1980
+Phoenix,"Hinton, Bruce",A-003086,2017-08-07 00:00:00,PHX - SC2,Active,13209 N. 104th Pl.,AZ,85260,1,1771.6
+Phoenix,"Hipps, Andrea",A-002780,2024-10-30 00:00:00,PHX - W4,Active,7331 N 16th Ave,AZ,85021,1,1980
+Phoenix,"Hisaw, Gloria",A-069184,2025-09-10 00:00:00,PHX - W2,Active,9219 West Denton Lane,AZ,85305,1,1980
+Phoenix,"Hoang, Erica",A-010028,2017-09-11 00:00:00,PHX - W4,Active,3908 W Sandra Terrace,AZ,85053,1,1980
+Phoenix,"Hobohm, Dan",A-033841,2022-03-30 00:00:00,PHX - SC4,Active,2210 East Vista Avenue,AZ,85020,1,1957
+Phoenix,"Hodder, Tim",A-031899,2021-03-23 00:00:00,PHX - W1,Active,1528 West Marco Polo Road,AZ,85027,1,1895.2
+Phoenix,"Hodge, Larry",A-005623,2014-02-11 00:00:00,PHX - SC3,Active,3026 N 50th St,AZ,85018,1,185.4
+Phoenix,"Hoffman, Diana and Al",A-023809,2019-11-01 00:00:00,PHX - W3,Active,8019 S 29th Way,AZ,85042,1,1833.4
+Phoenix,"Hoffman, Evan",A-009661,2017-06-01 00:00:00,PHX - E4,Active,7139 S Parkside Dr,AZ,85283,1,1771.6
+Phoenix,"Hofmann, Ivan",A-004182,2010-12-03 00:00:00,PHX - SC2,Active,11819 E Mission Ln,AZ,85259,1,1771.6
+Phoenix,"Hofmann, Ivan",A-004906,2011-04-29 00:00:00,PHX - SC2,Active,14504 E. Charter Oak Dr.,AZ,85259,1,1771.6
+Phoenix,"Hogg, Wayne and Lindsey",A-006288,2024-08-01 00:00:00,PHX - W1,Active,8652 W Rowel Rd,AZ,85383,1,2340
+Phoenix,"Holden, Laura & Gregory",A-003886,2012-06-28 00:00:00,PHX - E3,Active,4752 E Olney Dr,AZ,85044,1,1771.6
+Phoenix,"Holicky, Doug & Kathy",A-008997,2025-06-13 00:00:00,PHX - E2,Active,2101 E La Salle Way,AZ,85234,1,2340
+Phoenix,"Hollis, Branda",A-006630,2022-04-25 00:00:00,PHX - W1,Active,10859 W. Utopia Rd.,AZ,85373,1,1854
+Phoenix,"Hollis, Donita",A-024934,2019-11-13 00:00:00,PHX - W4,Active,4642 W Boca Raton Road,AZ,85306,1,1980
+Phoenix,"Holsome, Justin",A-025177,2019-11-01 00:00:00,PHX - W3,Active,3515 W Thurman,AZ,85339,1,1833.4
+Phoenix,"Holzner, Brian",A-052586,2022-11-14 00:00:00,PHX - W1,Active,8784 West Tierra Buena Lane,AZ,85382,1,1955.8
+Phoenix,"Hope, Julie",A-009985,2021-01-05 00:00:00,PHX - W2,Active,13510 W Colter St,AZ,85340,1,1957
+Phoenix,"Hornack, Christopher",A-008964,2001-12-06 00:00:00,PHX - SC2,Active,5816 E Anderson Dr,AZ,85254,1,1980
+Phoenix,"Horton, Suzanne",A-006258,2024-10-31 00:00:00,PHX - W4,Active,3555 W Hayward Ave,AZ,85051,1,1980
+Phoenix,"Hospelhorn, Paul",A-011766,2018-08-21 00:00:00,PHX - SC1,Active,29064 N 69Th Pl,AZ,85266,1,1833.4
+Phoenix,"Hour, Kim",A-064812,2024-10-15 00:00:00,PHX - W4,Active,7039 West Oregon Avenue,AZ,85303,1,2340
+Phoenix,"Howard, Dawn",A-024551,2025-05-28 00:00:00,PHX - SC3,Active,2145 N Standage,AZ,85256,1,1980
+Phoenix,"Howard, Diane",A-004931,2024-10-28 00:00:00,PHX - E2,Active,18503 E Cattle Drive,AZ,85142,1,2020
+Phoenix,"Hubley, Allen and Roseann",A-008027,2022-07-11 00:00:00,PHX - W2,Active,10821 W Wilshire Dr,AZ,85392,1,1980
+Phoenix,"Huerta-Ruston, Maria & Lawrence",A-011298,2018-06-15 00:00:00,PHX - E4,Active,2113 E Concorda Dr,AZ,85282,1,1980
+Phoenix,"Hughes, Kelley",A-007062,2006-02-01 00:00:00,PHX - E4,Active,1428 S. College Ave.,AZ,85281,1,1980
+Phoenix,"Hullinger, Richard",A-067652,2025-04-07 00:00:00,PHX - E1,Active,2085 North Ironwood Drive,AZ,85120,1,1980
+Phoenix,"Hulsing, Darrell",A-008659,2016-03-02 00:00:00,PHX - SC4,Active,14610 N. 8th Way,AZ,85022,1,1980
+Phoenix,"Hundt, Tim and Judy",A-010461,2018-04-04 00:00:00,PHX - SC2,Active,4146 E Mercer Ln,AZ,85028,1,1771.6
+Phoenix,"Hungerford, Tamara",A-055851,2023-05-15 00:00:00,PHX - W1,Active,17813 North 113th Avenue,AZ,85378,1,2080
+Phoenix,"Hunt, Chad",A-024755,2020-06-01 00:00:00,PHX - E2,Active,1310 W Canary Way,AZ,85286,1,1833.4
+Phoenix,"Hunter, Kenn",A-005189,2010-06-08 00:00:00,PHX - SC3,Active,8449 E Edgemont Ave,AZ,85257,1,1771.6
+Phoenix,"Hunter, Patrick",A-006911,2025-04-30 00:00:00,PHX - W3,Active,8901 S. 10th Dr.,AZ,85041,1,2340
+Phoenix,"Hunter, Scott",A-050457,2024-04-09 00:00:00,PHX - E2,Active,642 West Gum Tree Avenue,AZ,85140,1,1980
+Phoenix,"Huvaere, Greg",A-008317,2005-03-16 00:00:00,PHX - SC2,Active,15649 N 60th Pl,AZ,85254,1,1833.4
+Phoenix,"Hyde, Gary",A-049445,2022-06-16 00:00:00,PHX - W4,Active,5331 West Morten Avenue,AZ,85301,1,1895.2
+Phoenix,"Ingram, Julie And Curtis",A-011413,2018-07-11 00:00:00,PHX - E2,Active,6313 S Gold Leaf Pl,AZ,85249,1,1980
+Phoenix,"Iselin, John & Nancy",A-006256,2010-08-10 00:00:00,PHX - SC1,Active,9926 East Chiricahua Pass,AZ,85262,1,1771.6
+Phoenix,"Jacob, Anish",A-048753,2022-04-26 00:00:00,PHX - W1,Active,9205 West Patrick Lane,AZ,85383,1,1895.2
+Phoenix,"Jacobs, Pat",A-005547,2016-12-06 00:00:00,PHX - E1,Active,8024 E. Fountain St.,AZ,85207,1,1980
+Phoenix,"Jacobson, Tyler",A-052204,2023-05-04 00:00:00,PHX - W3,Active,1624 East Beverly Road,AZ,85042,1,1955.8
+Phoenix,"Jager, Jenefer",A-068139,2025-06-06 00:00:00,PHX - E2,Active,7639 South Sorrell Lane,AZ,85298,1,2340
+Phoenix,"James, Frank",A-066496,2024-11-04 00:00:00,PHX - E1,Active,2241 North Hillridge,AZ,85207,1,1980
+Phoenix,"James, John",A-022548,2007-08-10 00:00:00,PHX - SC2,Active,4552 E Mescal St,AZ,85028,1,1771.6
+Phoenix,"Jamgochian, Elizabeth & Charles",A-000421,2025-03-03 00:00:00,PHX - E2,Active,1145 S Quinn Ave,AZ,85296,1,2340
+Phoenix,"Janco, Bob & Mary",A-039011,2022-02-11 00:00:00,PHX - W1,Active,22015 North 65th Avenue,AZ,85310,1,1895.2
+Phoenix,"Janes, Amy",A-003423,2024-07-22 00:00:00,PHX - SC2,Active,9223 E. Aster Dr.,AZ,85260,1,2280
+Phoenix,"Jara, Perla",A-011105,2024-11-20 00:00:00,PHX - W4,Active,4146 W Meadow Dr,AZ,85308,1,2340
+Phoenix,"Jasna, Wallie",A-008048,2020-08-28 00:00:00,PHX - W4,Active,17220 N 31st Ave,AZ,85053,1,1771.6
+Phoenix,"Jensen, Jaci and Kent",A-022442,2009-07-27 00:00:00,PHX - SC4,Active,16403 N 7th Pl,AZ,85022,1,1980
+Phoenix,"Jensen, Samuel",A-064376,2024-06-19 00:00:00,PHX - W2,Active,12216 South 176th Avenue,AZ,85338,1,1980
+Phoenix,"Jimenez, Martha",A-007016,2022-03-30 00:00:00,PHX - E2,Active,1872 S Comanche Drive,AZ,85286,1,1895.2
+Phoenix,"Jimenez, Rosenna",A-034598,2021-09-27 00:00:00,PHX - E4,Active,905 West Julie Drive,AZ,85283,1,1957
+Phoenix,"Jinks, Jeffrey",A-006255,2019-04-03 00:00:00,PHX - E3,Active,3525 E. Equestrian Trail,AZ,85044,1,1771.6
+Phoenix,"Johnson, Boyd & Brianna",A-024432,2020-04-09 00:00:00,PHX - E2,Active,2160 E Prescott Pl,AZ,85249,1,1771.6
+Phoenix,"Johnson, Cary",A-022449,2012-08-29 00:00:00,PHX - E3,Active,14829 S 5th Ave,AZ,85045,1,1980
+Phoenix,"Johnson, Jeremy",A-023899,2024-05-28 00:00:00,PHX - SC1,Active,3314 E Daley Ln,AZ,85050,1,1800
+Phoenix,"Johnson, Kate",A-051599,2024-04-18 00:00:00,PHX - SC1,Active,26565 North 115th Street,AZ,85255,1,2020
+Phoenix,"Johnson, Kevin",A-022569,2017-04-26 00:00:00,PHX - E1,Active,3104 East Regina Street,AZ,85213,1,1771.6
+Phoenix,"Johnson, Malarie",A-022649,2024-06-10 00:00:00,PHX - E3,Active,1032 S. Buchanan St.,AZ,85233,1,1980
+Phoenix,"Johnson, Marlys and David",A-009646,2017-05-17 00:00:00,PHX - SC1,Active,10129 E Happy Hollow Dr,AZ,85262,1,1771.6
+Phoenix,"Johnson, Rick and Shari",A-022731,2024-10-16 00:00:00,PHX - W1,Active,18083 N 111th Dr,AZ,85378,1,2340
+Phoenix,"Johnson, Robert",A-052313,2022-10-17 00:00:00,PHX - W4,Active,3707 West Las Palmaritas Drive,AZ,85051,1,1980
+Phoenix,"Johnson, Tommy",A-034518,2021-09-17 00:00:00,PHX - W1,Active,14381 West Poinsettia Drive,AZ,85379,1,1895.2
+Phoenix,"Johnson, Victor",A-034472,2021-09-29 00:00:00,PHX - W4,Active,7301 North 23rd Drive,AZ,85021,1,1895.2
+Phoenix,"Johnson, William & Leslie",A-024584,2018-08-21 00:00:00,PHX - SC2,Active,10800 E Cactus Rd #31,AZ,85259,1,2178.84
+Phoenix,"Jones, Jim & Patti",A-011982,2018-08-21 00:00:00,PHX - E1,Active,1644 E Menlo St,AZ,85203,1,1771.6
+Phoenix,"Jones, Rita & Rodney",A-005606,2024-10-28 00:00:00,PHX - W1,Active,7257 W Laurel Lane,AZ,85345,1,2020
+Phoenix,"Jones, Ryan",A-003547,2011-08-10 00:00:00,PHX - SC1,Active,6330 E Bent Tree,AZ,85266,1,1771.6
+Phoenix,"Jones, Stephen",A-034238,2021-10-26 00:00:00,PHX - W1,Active,12842 West Rosewood Drive,AZ,85335,1,1895.2
+Phoenix,"Jordan, Mike & Laura",A-023521,2019-07-29 00:00:00,PHX - SC3,Active,2017 E Marshall Ave,AZ,85016,1,1833.4
+Phoenix,"Jordan, Nancey",A-023806,2019-08-07 00:00:00,PHX - W3,Active,520 E. Greenway Rd,AZ,85042,1,1833.4
+Phoenix,"Joslin, Chris",A-003138,2015-07-06 00:00:00,PHX - SC2,Active,3139 E Calaveros Drive,AZ,85028,1,1771.6
+Phoenix,"Kai, Leonard",A-001604,2013-11-20 00:00:00,PHX - E2,Active,4229 S. Marble St.,AZ,85297,1,1980
+Phoenix,"Kapelle, Daniel",A-034432,2021-09-02 00:00:00,PHX - W1,Active,17421 North 85th Drive,AZ,85382,1,1980
+Phoenix,"Kapetanovic, Don",A-009682,2020-07-13 00:00:00,PHX - W2,Active,18338 W. Montebello Ave,AZ,85340,1,1980
+Phoenix,"Kappas, Esther",A-048357,2022-04-29 00:00:00,PHX - E3,Active,5841 West Geronimo Street,AZ,85226,1,1980
+Phoenix,Karanbir Sandhu Property #2,A-068137,2025-05-23 00:00:00,PHX - SC2,Active,6530 East Shea Boulevard,AZ,85254,1,2340
+Phoenix,Karanbir Sandhu Proprety #1,A-068138,2025-05-23 00:00:00,PHX - SC2,Active,6411 East Thunderbird Road,AZ,85254,1,2340
+Phoenix,"Kavathia, Hasmukh",A-011035,2018-05-29 00:00:00,PHX - SC1,Active,9462 E Sonoran Sunset Pass,AZ,85255,1,1771.6
+Phoenix,"Kaye, Karen and Ralph",A-013018,2024-09-13 00:00:00,PHX - SC2,Active,16971 E Malta Dr,AZ,85268,1,1860
+Phoenix,"Keene, Thomas",A-023885,2020-08-03 00:00:00,PHX - E3,Active,3620 E Saltsage Dr,AZ,85048,1,1771.6
+Phoenix,Keller Residence,A-055254,2023-04-10 00:00:00,PHX - E4,Active,1110 W Hillview St,,85201,1,1900
+Phoenix,"Kelly, David and Katia",A-002082,2014-06-18 00:00:00,PHX - SC1,Active,5335 E Calle De Baca,AZ,85331,1,1771.6
+Phoenix,"Kelly, Flynn & Dina",A-002745,2024-06-07 00:00:00,PHX - W4,Active,6313 W Shangri La Road,AZ,85304,1,2340
+Phoenix,"Kennedy, Mary",A-007975,2008-03-13 00:00:00,PHX - E3,Active,2101 W Silvergate Dr,AZ,85224,1,1771.6
+Phoenix,"Kent, Arley",A-006367,2015-07-31 00:00:00,PHX - W1,Active,17462 W. Meadow Ln.,AZ,85388,1,1980
+Phoenix,"Kentola, Kevin",A-034500,2021-09-15 00:00:00,PHX - W3,Active,5802 North 13th Place,AZ,85014,1,1957
+Phoenix,"Kerr, Steve & Tammie",A-004914,2011-04-12 00:00:00,PHX - W1,Active,16765 W Windermere Way,AZ,85374,1,1980
+Phoenix,"Kettenhofen, Andrew",A-064795,2024-07-25 00:00:00,PHX - W4,Active,3044 W Sierra Vista Dr,AZ,85017,1,1980
+Phoenix,"Kevan, Jesse",A-024365,2024-09-23 00:00:00,PHX - E2,Active,631 E Stonebridge Dr,AZ,85234,1,2340
+Phoenix,Kevin & Pam Murphy,A-004915,2024-08-07 00:00:00,PHX - E1,Active,5954 E Enrose Cir,AZ,85205,1,2340
+Phoenix,"Kiefer, George",A-067464,2025-03-07 00:00:00,PHX - W1,Active,28503 North 67th Drive,AZ,85383,1,1980
+Phoenix,"Kieffer, Dennis",A-002840,2016-04-25 00:00:00,PHX - W1,Active,23440 N. 45th Ave,AZ,85310,1,1980
+Phoenix,"Kim, Chongwoo",A-002854,2014-10-21 00:00:00,PHX - SC2,Active,9625 E Pine Valley Rd,AZ,85260,1,1980
+Phoenix,"Kim, Elizabeth",A-008380,2018-04-17 00:00:00,PHX - E2,Active,6111 S Kimberlee Way,AZ,85249,1,1980
+Phoenix,"Kimball, Perry",A-023884,2019-11-01 00:00:00,PHX - E3,Active,16650 S 28th Pl,AZ,85048,1,1833.4
+Phoenix,"Kinateder, Mike",A-012028,2018-09-25 00:00:00,PHX - SC1,Active,49624 N 11th Ave,AZ,85087,1,1980
+Phoenix,"King, Patricia",A-008397,2024-08-09 00:00:00,PHX - W2,Active,2987 North 152nd Drive,AZ,85395,1,2340
+Phoenix,"Kipnes, Sandra and Adam",A-004198,2025-06-30 00:00:00,PHX - SC4,Active,11235 N 26th St,AZ,85028,1,2340
+Phoenix,"Kirby, Tyler",A-067665,2025-04-09 00:00:00,PHX - E4,Active,1898 East Carmen Street,AZ,85283,1,1980
+Phoenix,"Kirk, Kathleen",A-028229,2020-09-28 00:00:00,PHX - E1,Active,2923 E Leland,AZ,85213,1,1980
+Phoenix,"Kluczenko, Laura",A-004613,2016-02-29 00:00:00,PHX - SC2,Active,14948 N 94th Pl,AZ,85260,1,1980
+Phoenix,"Klutz, Teresa and Korey",A-005295,2022-05-05 00:00:00,PHX - W2,Active,29852 W Whitton Ave,AZ,85396,1,1895.2
+Phoenix,"Knaeble, Michelle",A-006628,2015-06-05 00:00:00,PHX - SC4,Active,2967 E Bloomfield Rd,AZ,85032,1,1771.6
+Phoenix,Knight  Residence,A-004525,2023-05-17 00:00:00,PHX - SC3,Inactive,8201 E Virginia Ave,AZ,85257,1,1900
+Phoenix,"Knowles, Deborah & Hugh",A-005288,2015-06-15 00:00:00,PHX - W1,Active,6393 W Campo Bello Dr.,AZ,85308,1,1980
+Phoenix,"Knutson, Kathy",A-001578,2018-04-12 00:00:00,PHX - E2,Active,10938 E. Bella Via Ave,AZ,85212,1,1771.6
+Phoenix,"Knutson, Lauren",A-006974,2008-08-13 00:00:00,PHX - E2,Active,2353 E Amber Lane,AZ,85296,1,1980
+Phoenix,"Koch, Madeline",A-012994,2004-06-21 00:00:00,PHX - E2,Active,2133 S Nielson St,AZ,85295,1,1980
+Phoenix,"Kocmond, Warren",A-011761,2022-01-27 00:00:00,PHX - SC1,Active,6924 E Whispering Mesquite Dr,AZ,85262,1,1153.6
+Phoenix,"Koenig, Jeff",A-024718,2024-10-23 00:00:00,PHX - E3,Active,922 E Knight Ln,AZ,85284,1,2340
+Phoenix,"Koenig, Kathryn",A-004807,2023-11-06 00:00:00,PHX - SC2,Active,16216 E Saguaro Blvd,AZ,85268,1,1840
+Phoenix,"Koger, Carol and Jerry",A-004206,2013-06-04 00:00:00,PHX - W3,Active,2805 E. Gary Way,AZ,85042,1,1771.6
+Phoenix,"Kolacinski, Phillip",A-024295,2019-11-01 00:00:00,PHX - E3,Active,1953 N Lexington Dr,AZ,85224,1,1833.4
+Phoenix,"Konteh, Amadu",A-006955,2024-06-25 00:00:00,PHX - E3,Active,5502 W Orchid Ln,AZ,85226,1,2340
+Phoenix,"Korf, Nole",A-011780,2018-08-21 00:00:00,PHX - SC2,Active,8879 E Camino Del Santo,AZ,85260,1,1833.4
+Phoenix,"Koser, Christine",A-050308,2022-07-01 00:00:00,PHX - W4,Active,3835 West Sunnyside Drive,AZ,85029,1,1840
+Phoenix,"Kosiorek, Robert",A-002819,2015-11-10 00:00:00,PHX - E1,Active,3849 E Enrose St,AZ,85205,1,1771.6
+Phoenix,"Koufidakis, Angela",A-050523,2022-08-15 00:00:00,PHX - E1,Active,7544 East Laurel Street,AZ,85207,1,1894
+Phoenix,"Kowalski, William",A-010073,2022-10-06 00:00:00,PHX - W4,Active,11035 N 47th Dr,AZ,85304,1,1955.8
+Phoenix,"Koza, Dana",A-031443,2021-02-22 00:00:00,PHX - E3,Active,1517 West Kiowa Avenue,AZ,85202,1,1895.2
+Phoenix,"Kranz, Mike & Jane",A-005977,2013-08-02 00:00:00,PHX - E2,Active,607 E Runaway Bay Pl,AZ,85249,1,1771.6
+Phoenix,"Kraut, Steve",A-012955,2019-04-01 00:00:00,PHX - SC2,Active,4505 E Blanche Drive,AZ,85032,1,1833.4
+Phoenix,"Kride, Justin",A-039020,2023-08-17 00:00:00,PHX - SC4,Active,8009 North 6th Street,AZ,85020,1,1900
+Phoenix,"Kritzer , Harvey",A-005973,2024-10-29 00:00:00,PHX - SC2,Active,8319 E Welsh,AZ,85258,1,1980
+Phoenix,"Kroeger, Stephanie",A-000135,2022-03-09 00:00:00,PHX - E2,Active,1655 E Heather Ave,AZ,85234,1,1980
+Phoenix,"Kronenberg, Jeanne and Robert",A-013056,2009-09-14 00:00:00,PHX - W1,Active,8743 W Tierra Buena,AZ,85382,1,1980
+Phoenix,"Kropidlowski, Michael",A-006552,2024-12-04 00:00:00,PHX - SC2,Active,16301 E. Crystal Point,AZ,85268,1,2340
+Phoenix,"Krutzik, Ramona",A-024543,2020-09-02 00:00:00,PHX - SC1,Active,22042 North 79th Place,AZ,85255,1,1771.6
+Phoenix,"Krzyston, Mike",A-005254,2024-07-08 00:00:00,PHX - W4,Active,14010 North Moon Mountain Trail,AZ,85023,1,2340
+Phoenix,"Kubik,Paul",A-012613,2019-02-14 00:00:00,PHX - SC4,Active,616 E Meadow Ln,AZ,85022,1,1980
+Phoenix,"Kulma, Kenneth & Norma",A-005272,2009-11-24 00:00:00,PHX - SC1,Active,7419 E. Pontebella Dr.,AZ,85266,1,1771.6
+Phoenix,"Kunce, Michael & Karen",A-008980,2024-05-08 00:00:00,PHX - E3,Active,3166 E Dry Creek Rd.,AZ,85048,1,1800
+Phoenix,"Kuppannagari, Sasi",A-051333,2022-08-25 00:00:00,PHX - SC2,Active,8440 East Thoroughbred Trail,AZ,85258,1,1894
+Phoenix,"Kusilek, Colton",A-023758,2020-04-07 00:00:00,PHX - W3,Active,9006 S. 10th Dr,AZ,85041,1,1833.4
+Phoenix,"La Rose, Thomas",A-063764,2024-05-14 00:00:00,PHX - E2,Active,401 East Bellerive Place,AZ,85249,1,1980
+Phoenix,"Lacy, Eddie",A-024501,2020-06-01 00:00:00,PHX - SC2,Active,5317 E Kathleen Rd,AZ,85254,1,1833.4
+Phoenix,"Laing, Jim",A-007954,2011-06-07 00:00:00,PHX - SC3,Active,8327 E Virginia Ave,AZ,85257,1,1980
+Phoenix,"Laird, Robert (BOB)",A-062965,2024-02-08 00:00:00,PHX - SC3,Active,3239 East Osborn Road,AZ,85018,1,1900
+Phoenix,"Lamberty, Maria",A-004514,2024-10-30 00:00:00,PHX - W1,Active,10821 W. Quail Ave.,AZ,85373,1,1980
+Phoenix,"Lametti, Kyle",A-034642,2021-10-12 00:00:00,PHX - SC2,Active,16425 North 64th Place,AZ,85254,1,1895.2
+Phoenix,"Lammers, Rickie",A-005879,2010-06-25 00:00:00,PHX - E2,Active,11539 E. Ramblewood Ave.,AZ,85212,1,1980
+Phoenix,"Lanciloti, Tamara",A-068557,2025-06-30 00:00:00,PHX - E1,Active,3060 North Ridgecrest unit 172,AZ,85207,1,1980
+Phoenix,"Langham, David",A-011731,2018-08-21 00:00:00,PHX - E4,Active,2330 W Calle Iglesia Ave,AZ,85202,1,1833.4
+Phoenix,"Lapre, Mike",A-024545,2009-05-08 00:00:00,PHX - SC1,Active,20070 N 95th St,AZ,85255,1,1980
+Phoenix,"Larsen, Troy & Sheila",A-007696,2006-05-16 00:00:00,PHX - E1,Active,2056 E Laurel St,AZ,85213,1,1980
+Phoenix,"Larson, Janna",A-001669,2024-07-23 00:00:00,PHX - SC2,Active,14623 N. 49th Pl.,AZ,85254,1,2340
+Phoenix,"Lateiner, Roger",A-006012,2022-08-19 00:00:00,PHX - SC4,Active,601 E Tam-O-Shanter Dr.,AZ,85022,1,1894
+Phoenix,"Laufman, JD",A-007663,2004-06-01 00:00:00,PHX - SC3,Active,3816 N 51st St,AZ,85018,1,1771.6
+Phoenix,"Lauro, Donna and Dan",A-004494,2018-03-01 00:00:00,PHX - SC3,Active,6734 E Cheney Dr,AZ,85253,1,1771.6
+Phoenix,"Lavine, Georgia & Scott",A-009662,2017-05-31 00:00:00,PHX - W1,Active,6999 West Antelope Drive,AZ,85383,1,1980
+Phoenix,"Lawrence, Darlene",A-009736,2017-06-28 00:00:00,PHX - E2,Active,977 E Volk Ln,AZ,85140,1,1771.6
+Phoenix,"Lay, Walter",A-022245,2023-04-18 00:00:00,PHX - W3,Active,4305 W Ivanhoe St,AZ,85339,1,1894
+Phoenix,Lebron James,A-057824,2024-08-08 00:00:00,PHX - W3,Active,2939 West Culver Street,AZ,85009,1,1606.8
+Phoenix,Lebron James,A-057824,2024-10-10 00:00:00,PHX - W3,Active,2939 West Culver Street,AZ,85009,1,1980
+Phoenix,"Lee, Gary",A-002757,2014-04-29 00:00:00,PHX - W1,Active,20399 N. 74th Ln.,AZ,85308,1,1980
+Phoenix,"Lee, Karyn",A-012691,2024-10-30 00:00:00,PHX - E2,Active,2105 East Indian Wells Drive,AZ,85249,1,1980
+Phoenix,"Lee, Loretta",A-024852,2019-11-01 00:00:00,PHX - E2,Active,4137 E Ravenswood,AZ,85298,1,1833.4
+Phoenix,"Leggat, Jen & Andy",A-001951,2015-08-31 00:00:00,PHX - SC2,Active,5301 E Danbury Road,AZ,85254,1,1980
+Phoenix,"Lehr, Christian",A-047642,2022-04-01 00:00:00,PHX - SC4,Active,101 East Pershing Avenue,AZ,85022,1,1895.2
+Phoenix,"Lehr, Christian & Debbie",A-003197,2013-07-09 00:00:00,PHX - SC1,Active,2258 E. Heston Dr.,AZ,85024,1,1980
+Phoenix,"Leitzell, Steve",A-024216,2019-06-17 00:00:00,PHX - E2,Active,10462 E Thatcher Avenue,AZ,85212,1,1980
+Phoenix,"Lemoine, Maurice",A-056870,2023-07-10 00:00:00,PHX - W4,Active,131 West Diana Avenue,AZ,85021,1,2080
+Phoenix,"Letrich, Susan",A-007973,2021-07-01 00:00:00,PHX - E2,Active,409 E. Princeton Ave.,AZ,85234,1,1980
+Phoenix,"Lewis, David",A-022670,2024-11-25 00:00:00,PHX - SC2,Active,13379 E Del Timbre,AZ,85259,1,2340
+Phoenix,"Lewis, Emily",A-007777,2021-12-20 00:00:00,PHX - E3,Active,1513 W. Chilton Ave.,AZ,85233,1,1980
+Phoenix,"Lewis, Timothy and Nancy",A-025101,2020-01-13 00:00:00,PHX - SC1,Active,5434 E Desert Forest Trail,AZ,85331,1,1980
+Phoenix,"Lewis, William",A-032639,2021-04-26 00:00:00,PHX - SC2,Active,15296 North 102nd Street,AZ,85255,1,1957
+Phoenix,"Light, Jason",A-006308,2010-08-20 00:00:00,PHX - SC2,Active,8625 E. San Marcos Drive,AZ,85258,1,1980
+Phoenix,"Lilla, Sandy",A-010668,2018-02-21 00:00:00,PHX - W1,Active,18149 W Vogel Ave,AZ,85355,1,1980
+Phoenix,"Lima, Pete and Elizabeth",A-008710,2020-12-02 00:00:00,PHX - SC4,Active,2438 E Sahuaro Dr.,AZ,85028,1,1759.24
+Phoenix,"Liu, Jenny",A-065532,2024-10-08 00:00:00,PHX - E3,Active,4730 East Monte Way,AZ,85044,1,1980
+Phoenix,"Livers, Daniel",A-004484,2024-06-21 00:00:00,PHX - SC4,Active,19815 N. 33rd St.,AZ,85050,1,2340
+Phoenix,"Livingston, Richard",A-025141,2020-06-01 00:00:00,PHX - W2,Active,13322 S 186th Avenue,AZ,85338,1,1833.4
+Phoenix,"Livingstone, Alvin",A-025182,2019-10-29 00:00:00,PHX - W3,Active,10017 South 28th Drive,AZ,85339,1,1980
+Phoenix,"Logan, Josh",A-049859,2023-04-04 00:00:00,PHX - W3,Active,6025 South 15th Drive,AZ,85041,1,1900
+Phoenix,"Lohn, Duane",A-003751,2002-07-31 00:00:00,PHX - SC2,Active,12565 N 88th Way,AZ,85260,1,1771.6
+Phoenix,"Long, Catherine",A-024531,2020-01-15 00:00:00,PHX - SC1,Active,24200 N Alma School Rd Lot 51,AZ,85255,1,1833.4
+Phoenix,"Long, Dan",A-053727,2025-05-16 00:00:00,PHX - SC3,Active,5612 North 20th Place,AZ,85016,1,1980
+Phoenix,"Long, Dan And Olivia",A-002457,2018-07-05 00:00:00,PHX - SC4,Active,1431 E San Juan Ave,AZ,85014,1,1833.4
+Phoenix,"Long, Jerry",A-008740,2021-06-25 00:00:00,PHX - SC2,Active,6001 E Voltaire,AZ,85254,1,1895.2
+Phoenix,"Long, Kathey",A-030682,2020-12-08 00:00:00,PHX - E2,Active,494 W Princeton Ave,AZ,85233,1,1586.2
+Phoenix,"Long, Tamera",A-022564,2011-09-08 00:00:00,PHX - W3,Active,350 E. Orange Dr.,AZ,85012,1,1980
+Phoenix,"Longstaff, David",A-030906,2021-01-22 00:00:00,PHX - SC2,Active,4628 East Cholla Street,AZ,85028,1,1895.2
+Phoenix,"Looff, Kevin",A-056454,2023-06-13 00:00:00,PHX - E1,Active,9018 East Range Rider Trail,AZ,85207,1,2494
+Phoenix,"Lopez Roska, Berry",A-048375,2022-04-18 00:00:00,PHX - E2,Active,20674 East Pummelos Road,AZ,85142,1,1957
+Phoenix,"Lopez, Hector",A-022461,2017-02-01 00:00:00,PHX - SC3,Active,2026 N. 27th Pl.,AZ,85008,1,1980
+Phoenix,"Lopez, Jazmin",A-062241,2023-11-07 00:00:00,PHX - W1,Active,9186 West Irma Lane,AZ,85382,1,1840
+Phoenix,"Love, Karri",A-032569,2021-04-22 00:00:00,PHX - E2,Active,7430 East Kilarea Avenue,AZ,85209,1,1980
+Phoenix,"Lueken, John",A-054165,2023-03-07 00:00:00,PHX - SC1,Active,36038 North 58th Street,AZ,85331,1,1955.8
+Phoenix,"Lujan, Jess",A-067944,2025-05-01 00:00:00,PHX - W3,Active,1202 East Milada Drive,AZ,85042,1,1980
+Phoenix,"Lundberg, David and Maralee",A-008956,2019-07-09 00:00:00,PHX - SC2,Active,5436 East Charleston Avenue,AZ,85254,1,1980
+Phoenix,"Lunsford, Leanne",A-004615,2022-01-04 00:00:00,PHX - W1,Active,8968 W. Tony Ct.,AZ,85382,1,1895.2
+Phoenix,"Lutton, John",A-009378,2023-05-30 00:00:00,PHX - SC2,Active,6802 E Presidio Rd,AZ,85254,1,1900
+Phoenix,"Lutz, Laura",A-023365,2024-10-30 00:00:00,PHX - E2,Active,4676 S Southwind Dr,AZ,85297,1,1980
+Phoenix,"Lynch, Amanda & Casey",A-001629,2025-01-24 00:00:00,PHX - E1,Active,6547 E Virginia St,AZ,85215,1,2340
+Phoenix,"Lynch, Jessicah",A-005522,2010-09-27 00:00:00,PHX - W1,Active,14912 N 74th Ln,AZ,85381,1,1980
+Phoenix,"Machen, Brooke and Craig",A-000027,2014-10-24 00:00:00,PHX - W3,Active,354 E. Orange Dr.,AZ,85012,1,1771.6
+Phoenix,"Mackey, Felicia & James",A-000945,2024-10-30 00:00:00,PHX - W3,Active,5435 W. St. Kateri Dr,AZ,85339,1,1980
+Phoenix,"Madison, Mary Jane",A-002385,2018-01-12 00:00:00,PHX - E3,Active,609 E. Goldenrod St,AZ,85048,1,1771.6
+Phoenix,"Magee, Larry & Janet",A-003760,2015-04-09 00:00:00,PHX - SC1,Active,9451 E Calle De Las  Brisas,AZ,85255,1,1771.6
+Phoenix,"Maher, John",A-035293,2022-01-04 00:00:00,PHX - E3,Active,85 West Pecan Place,AZ,85284,1,1980
+Phoenix,"Mahmoud, Linda R",A-007960,2006-02-01 00:00:00,PHX - E2,Active,6918 E. Monte Ave.,AZ,85209,1,1980
+Phoenix,Mahmud. Arif,A-002691,2022-05-25 00:00:00,PHX - E2,Active,784 E Gemini Pl,AZ,85249,1,1895.2
+Phoenix,"Mailhiot, Tom -REMAX",A-033520,2024-10-24 00:00:00,PHX - SC2,Active,10120 East Larkspur Drive,AZ,85260,1,1860
+Phoenix,"Makas, Rita MAIL INVOICES",A-011790,2018-08-21 00:00:00,PHX - E2,Active,23817 S Glenburn Dr,AZ,85248,1,1833.4
+Phoenix,"Maldonado, Angie and Frank",A-024219,2019-11-01 00:00:00,PHX - E2,Active,9801 E Posada Ave,AZ,85212,1,1771.6
+Phoenix,"Maldonado, Daniel",A-011360,2024-11-25 00:00:00,PHX - E2,Active,2732 E Daniel Drive,AZ,85298,1,2340
+Phoenix,"Maldonado, Emmanuell and Ana",A-036025,2024-12-12 00:00:00,PHX - SC2,Active,6415 East Le Marche Avenue,AZ,85254,1,2340
+Phoenix,"Malouf, Rick",A-006947,2009-07-30 00:00:00,PHX - SC2,Active,5467 E Oakhurst Way,AZ,85254,1,1771.6
+Phoenix,"Mandarino, Gary",A-006603,2021-03-20 00:00:00,PHX - E2,Active,439 E. Mary Ln.,AZ,85295,1,1980
+Phoenix,"Marifke, Denise & Jerry",A-028303,2020-11-03 00:00:00,PHX - SC2,Active,13625 E Charter Oak Dr,AZ,85259,1,1586.2
+Phoenix,"Markham, Marla",A-022293,2024-11-25 00:00:00,PHX - E2,Active,2831 E. Ranch Ct,AZ,85296,1,2340
+Phoenix,"Marmolejo, Jennifer & Manny",A-001978,2020-05-08 00:00:00,PHX - W2,Active,14765 W Reade Ave,AZ,85340,1,1771.6
+Phoenix,"Marquez, Mercedes",A-004150,2024-08-09 00:00:00,PHX - SC3,Active,8425 E Sheridan St,AZ,85257,1,2340
+Phoenix,"Marsh, Allen & Sandra",A-000568,2024-10-30 00:00:00,PHX - W2,Active,2056 S 162nd Lane,AZ,85338,1,1980
+Phoenix,"Marshall, Robert",A-001182,2022-01-05 00:00:00,PHX - E3,Active,1051 E Tyson Crt,AZ,85225,1,1895.2
+Phoenix,"Martin, Sherry",A-033669,2021-06-29 00:00:00,PHX - W1,Active,6415 West Poinsettia Drive,AZ,85304,1,1980
+Phoenix,"Martin, Torry & Debbie",A-022155,2015-07-20 00:00:00,PHX - W4,Active,6233 W Sunnyside Dr,AZ,85304,1,2021.2
+Phoenix,"Martinez, Amy",A-050541,2022-08-22 00:00:00,PHX - W1,Active,17610 North 85th Lane,AZ,85382,1,1894
+Phoenix,"Mason, Kris",A-007701,2024-07-26 00:00:00,PHX - E1,Active,7343 E. Sierra Morena Cir.,AZ,85207,1,1860
+Phoenix,"Mathew, Naveen",A-027972,2024-10-31 00:00:00,PHX - SC2,Active,11840 N. Blackheath Rd,AZ,85254,1,1980
+Phoenix,"Matthews, Nicole",A-004252,2022-01-24 00:00:00,PHX - W3,Active,1513 E. San Juan Ave.,AZ,85014,1,1895.2
+Phoenix,Mattouk. Pierre,A-049838,2022-08-03 00:00:00,PHX - E2,Active,5248 South Luke Drive,AZ,85249,1,1894
+Phoenix,"Mauldin, Sheryl",A-008062,2025-04-28 00:00:00,PHX - E3,Active,853 W Javelina Ave,AZ,85210,1,2340
+Phoenix,"Maxfield, Sue",A-067719,2025-04-09 00:00:00,PHX - W4,Active,5201 West Shangri-la Road,AZ,85304,1,1980
+Phoenix,"McAnerney, Steve",A-007055,2023-07-13 00:00:00,PHX - W4,Active,15614 N 56th Dr,AZ,85306,1,1900
+Phoenix,"McBride, Bud",A-006695,2024-10-28 00:00:00,PHX - E3,Active,16611 S 34th Way,AZ,85048,1,2020
+Phoenix,"McCaig, Carol",A-023606,2020-06-01 00:00:00,PHX - SC4,Active,801 E Grandview Rd,AZ,85022,1,1833.4
+Phoenix,"McCarthy, Amanda & Patricia",A-048285,2022-04-11 00:00:00,PHX - SC3,Active,3423 North 35th Street,AZ,85018,1,1957
+Phoenix,"Mccarthy, Michael & Lorretta",A-024306,2022-06-21 00:00:00,PHX - E3,Active,252 N Danielson Way,AZ,85225,1,1895.2
+Phoenix,"McCarthy, Sharyl",A-063419,2024-04-09 00:00:00,PHX - E3,Active,651 North Lisbon Court,AZ,85226,1,1980
+Phoenix,"McCollum, Marilyn",A-005215,2020-05-07 00:00:00,PHX - W4,Active,3705 West Acoma Drive,AZ,85053,1,1980
+Phoenix,"McCormick, Kathy & James",A-003449,2013-05-08 00:00:00,PHX - E2,Active,1874 E. Locust Pl,AZ,85286,1,1980
+Phoenix,"McCormick, Matthew",A-003500,2022-03-23 00:00:00,PHX - E4,Active,1920 E Loma Vista,AZ,85282,1,1895.2
+Phoenix,"McCullough, Steve",A-012982,2017-02-21 00:00:00,PHX - SC1,Active,37007 N 11th Ave,AZ,85086,1,1980
+Phoenix,"McDaniel, Susan",A-005650,2013-03-22 00:00:00,PHX - W3,Active,2215 W Earll Dr,AZ,85015,1,1771.6
+Phoenix,"McDonald-Ramsey , Candace",A-047211,2024-07-24 00:00:00,PHX - W3,Active,2012 West Harwell Road,AZ,85041,1,1860
+Phoenix,"McDowell, Jim",A-000456,2024-09-20 00:00:00,PHX - SC1,Active,7836 E. Softwind Dr,AZ,85255,1,2100
+Phoenix,"McFadden, Michael",A-008075,2024-10-29 00:00:00,PHX - E4,Active,4718 S Clark Drive,AZ,85282,1,1980
+Phoenix,"McFadden, Sherry",A-003796,2016-12-19 00:00:00,PHX - E3,Active,15223 S 14th Place,AZ,85048,1,1771.6
+Phoenix,"McFarland, Sean",A-024031,2019-11-01 00:00:00,PHX - E2,Active,17706 E Happy rd,AZ,85142,1,1833.4
+Phoenix,"McFate, Ashley & Mark",A-023582,2019-11-14 00:00:00,PHX - W4,Active,822 W Linger Lane,AZ,85021,1,1980
+Phoenix,"McGee, Tom & Pat",A-004582,2024-08-01 00:00:00,PHX - SC1,Active,30708 N 65th St,AZ,85331,1,2340
+Phoenix,"Mcgincy, Sean",A-063408,2024-04-05 00:00:00,PHX - E2,Active,4073 South Huachuca Way,AZ,85249,1,1980
+Phoenix,"McGlynn, Claudia And Paraic",A-024611,2020-10-23 00:00:00,PHX - SC2,Active,13362 N 102nd Place,AZ,85260,1,1771.6
+Phoenix,"McGready, Mark",A-008057,2006-04-19 00:00:00,PHX - W1,Active,7710 W Carlota Ln,AZ,85383,1,1980
+Phoenix,"McInnis, Ann",A-000182,2024-11-13 00:00:00,PHX - E2,Active,2061 E Runaway Bay Place,AZ,85249,1,1980
+Phoenix,"McKinstry, Melissa",A-006956,2009-04-03 00:00:00,PHX - W4,Active,3631 W Hartford Ave,AZ,85308,1,1771.6
+Phoenix,"McLamb, Matt and Virginia",A-008426,2002-02-20 00:00:00,PHX - W4,Active,5541 W Saguaro,AZ,85304,1,1771.6
+Phoenix,"McLaughlin, Dallas",A-024704,2020-06-01 00:00:00,PHX - E4,Active,1260 E Divot Drive,AZ,85283,1,1980
+Phoenix,"McLuhan, John",A-009351,2019-08-15 00:00:00,PHX - SC1,Active,1324 W Medinah Ct,AZ,85086,1,1980
+Phoenix,"McNelis, Laura (ONE free filter clean A year)",A-006291,2010-09-07 00:00:00,PHX - SC2,Active,14049 N 106th Pl,AZ,85255,1,1980
+Phoenix,"McQueen, Adam",A-068423,2025-06-13 00:00:00,PHX - W2,Active,12951 West Campbell Avenue,AZ,85340,1,1980
+Phoenix,"McQueen, Jon",A-055698,2023-05-04 00:00:00,PHX - SC2,Active,9745 East Mission Lane,AZ,85258,1,2080
+Phoenix,"McReynolds, RC",A-008960,2001-12-06 00:00:00,PHX - E2,Active,24409 S Boxwood Dr,AZ,85248,1,1771.6
+Phoenix,"McRoberts, Brad & Susan",A-007654,2007-06-22 00:00:00,PHX - SC1,Active,36264 N 12th St,AZ,85086,1,1980
+Phoenix,"McVey, Chris",A-003792,2023-04-18 00:00:00,PHX - W4,Active,4925 W Frier Dr,AZ,85301,1,1894
+Phoenix,"Meador, Tina & Jason",A-008100,2020-06-16 00:00:00,PHX - W4,Active,3832 W Flynn Ln,AZ,85019,1,1833.4
+Phoenix,"Mecham, Allison",A-033636,2025-02-26 00:00:00,PHX - W2,Active,29516 West Whitton Avenue,AZ,85396,1,1980
+Phoenix,"Medico, Cheryl",A-062872,2024-01-29 00:00:00,PHX - W1,Active,10637 West Mimosa Drive,AZ,85373,1,1900
+Phoenix,"Mehta, Jamsheed",A-003191,2024-01-05 00:00:00,PHX - W3,Active,2715 E. Gary Way,AZ,85042,1,1840
+Phoenix,"Melo, Miguel",A-009307,2017-07-13 00:00:00,PHX - W1,Active,7358 W Cholla St,AZ,85345,1,1980
+Phoenix,"Mendez, Soledad",A-056875,2023-07-12 00:00:00,PHX - W4,Active,4807 West Flower Street,AZ,85031,1,1900
+Phoenix,"Mendoza, Martin",A-069075,2025-08-22 00:00:00,PHX - E1,Active,2115 North Almond,AZ,85213,1,1980
+Phoenix,Merill. Jennifer,A-024245,2019-11-01 00:00:00,PHX - E1,Active,3347 N Loma Vista,AZ,85213,1,1833.4
+Phoenix,"Mermelstein, Dan",A-008076,2015-07-27 00:00:00,PHX - E2,Active,534 E. Rawhide,AZ,85296,1,1771.6
+Phoenix,"Meskill, Jade",A-034614,2021-10-01 00:00:00,PHX - E2,Active,19024 East Vía De Palmas,AZ,85142,1,1895.2
+Phoenix,"Messer, Brad",A-000442,2024-10-30 00:00:00,PHX - W1,Active,31345 N 137th Ln,AZ,85383,1,1980
+Phoenix,"Messinger, Glen",A-003504,2015-07-24 00:00:00,PHX - W1,Active,7156 W Willow Ave,AZ,85381,1,1980
+Phoenix,Mestaz Daniel,A-002415,2014-06-01 00:00:00,PHX - SC3,Active,1446 N La Rosa Dr,AZ,85281,1,1833.4
+Phoenix,"Metz, Rae and Kelly",A-002114,2014-07-30 00:00:00,PHX - SC2,Active,8544 E Irish Hunter Trail,AZ,85258,1,1980
+Phoenix,"Meyer, Karen and Jeff",A-000120,2024-10-29 00:00:00,PHX - E2,Active,1801 S Carriage Lane,AZ,85286,1,1980
+Phoenix,"Meyer, Marley",A-049855,2022-06-08 00:00:00,PHX - SC1,Active,40920 North Hawk Ridge Trail,AZ,85086,1,1895.2
+Phoenix,Michelle Blunt,A-007294,2021-04-19 00:00:00,PHX - E2,Active,6741 S Callaway Dr,AZ,85249,1,1895.2
+Phoenix,"Mickevicious, Nina",A-004467,2025-05-23 00:00:00,PHX - E4,Active,5611 S Jolly Roger Road,AZ,85283,1,2340
+Phoenix,"Mihlbauer, Bret & Marjorie -Send Monthly Statement",A-025103,2020-06-24 00:00:00,PHX - SC1,Active,32837 N 54th St,AZ,85331,1,1771.6
+Phoenix,"Milano, Bambi",A-068171,2025-05-23 00:00:00,PHX - E1,Active,10188 East Open Sky Drive,AZ,85118,1,1980
+Phoenix,"Milder, Ken",A-008982,2005-06-07 00:00:00,PHX - SC3,Active,6121 E Calle Rosa,AZ,85251,1,1771.6
+Phoenix,"Miles, Ann",A-011741,2018-08-21 00:00:00,PHX - W4,Active,4102 W Port Au Prince Lane,AZ,85053,1,1833.4
+Phoenix,"Miles, Miles",A-003168,2024-07-01 00:00:00,PHX - E2,Active,682 E. Capricorn Way,AZ,85249,1,1860
+Phoenix,"Miller, Arthur",A-022646,2001-12-06 00:00:00,PHX - SC3,Active,3192 E Marlette Ave.,AZ,85016,1,1771.6
+Phoenix,"Miller, Bret",A-022200,2014-11-25 00:00:00,PHX - W1,Active,17107 W Tara Ln,AZ,85388,1,1980
+Phoenix,"Miller, Garrett",A-024423,2022-03-23 00:00:00,PHX - E2,Active,732 E Beechnut Dr,AZ,85249,1,1895.2
+Phoenix,"Milligan, Katie",A-067027,2025-02-06 00:00:00,PHX - SC1,Active,3710 East Louise Drive,AZ,85050,1,1980
+Phoenix,"Millman, Michele",A-004609,2021-09-28 00:00:00,PHX - E2,Active,642 E Leah Lane,AZ,85234,1,1980
+Phoenix,"Miroballi, Barbara",A-006597,2002-04-04 00:00:00,PHX - E1,Active,1253 N 86th Pl,AZ,85207,1,1980
+Phoenix,"Mitchell, George A.",A-007765,2024-06-14 00:00:00,PHX - E2,Active,3056 E. Jerome Ave.,AZ,85204,1,2340
+Phoenix,"Mitchell, Lucas",A-033789,2021-07-09 00:00:00,PHX - W1,Active,4137 West Cielo Grande,AZ,85310,1,1980
+Phoenix,"Mnichowicz, Mike",A-002358,2014-08-29 00:00:00,PHX - SC3,Active,8419 E Redwing Rd,AZ,85250,1,1980
+Phoenix,"Moe, David & Else",A-005919,2024-06-14 00:00:00,PHX - SC1,Active,6657 E. Oberlin Way,AZ,85266,1,2340
+Phoenix,"Moelk True, Linda",A-005205,2011-07-20 00:00:00,PHX - E2,Active,9613 E Sundune Dr,AZ,85248,1,1980
+Phoenix,"Mohr, Donna",A-005654,2013-06-05 00:00:00,PHX - E1,Active,7130 E. Saddleback St. #21,AZ,85207,1,1980
+Phoenix,"Mojica, Juan & Michelle",A-003433,2018-09-14 00:00:00,PHX - W2,Active,2172 N 144th Dr,AZ,85395,1,1980
+Phoenix,"Mojica, Michelle & Juan",A-010706,2018-04-12 00:00:00,PHX - W4,Active,316 W El Camino Dr,AZ,85021,1,1771.6
+Phoenix,"Molinar, Art",A-007754,2005-08-02 00:00:00,PHX - E3,Active,401 W Straford Dr,AZ,85225,1,1980
+Phoenix,"Molony, Chris",A-006690,2024-06-27 00:00:00,PHX - W4,Active,2461 W Winchcomb Dr,AZ,85023,1,1740
+Phoenix,"Moltich, Milton",A-005904,2010-05-19 00:00:00,PHX - E3,Active,677 S Dodge St,AZ,85233,1,1771.6
+Phoenix,"Montenyor, Jesus",A-000789,2016-06-07 00:00:00,PHX - E3,Active,1124 S Oak Ct.,AZ,85233,1,1771.6
+Phoenix,Montes Diana,A-007280,2006-04-24 00:00:00,PHX - SC3,Active,4149 E. Coronado Rd.,AZ,85008,1,1980
+Phoenix,"Montgomery, Chad",A-005546,2016-12-05 00:00:00,PHX - SC1,Active,8730 E Remuda,AZ,85255,1,1980
+Phoenix,"Montgomery, Jennifer & Trevor",A-005634,2024-07-12 00:00:00,PHX - SC1,Active,22807 N 55th Street,AZ,85054,1,2340
+Phoenix,"Montgomery, Ruth",A-001616,2008-05-12 00:00:00,PHX - W1,Active,7933 N. 177th Ave,AZ,85355,1,1980
+Phoenix,"Monti, David",A-024310,2020-04-14 00:00:00,PHX - E3,Active,1319 E Flint St,AZ,85225,1,1771.6
+Phoenix,"Montoya, Frank",A-012953,2004-03-26 00:00:00,PHX - E3,Active,170 W Calle Monte Vista,AZ,85284,1,1980
+Phoenix,"Moore, Ashley",A-000198,2024-10-30 00:00:00,PHX - E1,Active,10264 E Diamond Ave,AZ,85208,1,1980
+Phoenix,"Moore, Mary",A-028201,2025-03-07 00:00:00,PHX - SC4,Active,1345 E Christy Dr,AZ,85020,1,2340
+Phoenix,"Mora, Angel",A-069081,2025-08-25 00:00:00,PHX - W2,Active,2634 South 63rd Drive,AZ,85043,1,1980
+Phoenix,"Mora, Daniel and Olga",A-022476,2006-02-01 00:00:00,PHX - W4,Active,9031 W Glenrosa Ave.,AZ,85037,1,1980
+Phoenix,"Morales, Mike & Leticia",A-007726,2024-03-15 00:00:00,PHX - W4,Active,8950 W Citrus Way,AZ,85305,1,1800
+Phoenix,"Morazan, Ramona",A-006651,2007-12-06 00:00:00,PHX - E2,Active,2599 E Kaibab Pl,AZ,85249,1,1980
+Phoenix,"Mordhorst, Becky",A-001971,2017-03-07 00:00:00,PHX - E1,Active,9655 E Glencove Circle,AZ,85207,1,1771.6
+Phoenix,"Moreland, Christopher",A-025066,2022-05-02 00:00:00,PHX - W2,Active,11579 W Hopi St,AZ,85323,1,1957
+Phoenix,"Morgan, Bill & Olivia",A-004127,2024-09-06 00:00:00,PHX - W4,Active,4230 W Mescal St,AZ,85029,1,2340
+Phoenix,"Morgan, Debbie",A-009102,2017-03-15 00:00:00,PHX - W1,Active,7701 W Alexandria Way,AZ,85381,1,1980
+Phoenix,"Moritz, Lynne",A-009352,2022-06-20 00:00:00,PHX - W3,Active,9018 S 12th St,AZ,85042,1,1895.2
+Phoenix,"Morrisroe, Frank",A-006901,2008-02-19 00:00:00,PHX - SC1,Active,8536 E Preserve Way,AZ,85266,1,1771.6
+Phoenix,"Motley-Lee, Susan",A-028271,2020-10-07 00:00:00,PHX - SC4,Active,1511 E Pinchot Ave,AZ,85014,1,1586.2
+Phoenix,"Mulder, Glen and Deborah",A-003420,2013-09-17 00:00:00,PHX - W1,Active,5201 W Campo Bello Dr,AZ,85308,1,1980
+Phoenix,"Mulgrew, Shawn",A-003876,2017-06-27 00:00:00,PHX - SC2,Active,7044 E Sheena Dr,AZ,85254,1,1771.6
+Phoenix,"Mundis, Michael",A-004596,2022-02-01 00:00:00,PHX - E4,Active,1851 E La Jolla Drive,AZ,85282,1,1895.2
+Phoenix,"Munson, Jody",A-024377,2024-07-10 00:00:00,PHX - E2,Active,1425 E Encinas Ave,AZ,85234,1,2340
+Phoenix,"Munson, Nina & Brian",A-004838,2020-03-24 00:00:00,PHX - SC2,Active,9083 N Cerrito Vista Dr,AZ,85258,1,1771.6
+Phoenix,"Munson, Tom",A-008401,2001-12-06 00:00:00,PHX - W4,Active,7601 N 13th Ave.,AZ,85021,1,1771.6
+Phoenix,"Murphy, David",A-024781,2019-11-01 00:00:00,PHX - E2,Active,697 E Boston St,AZ,85295,1,1833.4
+Phoenix,"Murphy, Mike",A-022714,2018-03-29 00:00:00,PHX - W4,Active,11618 N 20th Ave,AZ,85029,1,1771.6
+Phoenix,"Musa, Edward and Tiffany",A-003409,2013-07-22 00:00:00,PHX - W1,Active,15130 W. Rachel Cir.,AZ,85374,1,1980
+Phoenix,"Muthart, John",A-024750,2019-11-01 00:00:00,PHX - E2,Active,1301 S Crossbow Pl,AZ,85286,1,1833.4
+Phoenix,"Myers, Matthew",A-031763,2021-03-10 00:00:00,PHX - SC2,Active,3915 East Yucca Street,AZ,85028,1,1895.2
+Phoenix,"Nachman, Dave",A-007689,2021-12-10 00:00:00,PHX - E4,Active,1933 E La Jolla Dr.,AZ,85282,1,1895.2
+Phoenix,"Nakanishi, Jin",A-062356,2023-11-20 00:00:00,PHX - W4,Active,4044 West Mercer Lane,AZ,85029,1,1900
+Phoenix,"Nappa, Theresa",A-008324,2001-12-06 00:00:00,PHX - E2,Active,1164 E Windsor Dr.,AZ,85296,1,1980
+Phoenix,"Narwani, Guarav",A-000065,2016-08-02 00:00:00,PHX - SC2,Active,12239 E Cortez Dr,AZ,85259,1,1833.4
+Phoenix,"Nary, David",A-007669,2024-04-25 00:00:00,PHX - E4,Active,2049 E. Alameda Dr.,AZ,85282,1,1860
+Phoenix,"Navarro, Alex",A-006919,2008-07-10 00:00:00,PHX - W1,Active,9562 W. Diana Ave,AZ,85345,1,1980
+Phoenix,"Neal, James",A-003175,2016-03-17 00:00:00,PHX - SC3,Active,6651 North Cardinal Drive West,AZ,85253,1,1771.6
+Phoenix,"Neanover, Darrell",A-024955,2024-07-08 00:00:00,PHX - W1,Active,5418 W Michigan Ave,AZ,85308,1,2340
+Phoenix,"Neff, Michael",A-025224,2024-08-06 00:00:00,PHX - W3,Active,2723 W Avion Way,AZ,85339,1,2340
+Phoenix,"Neitch, Kammy",A-006243,2018-05-08 00:00:00,PHX - W1,Active,29768 N 69th Dr,AZ,85383,1,1980
+Phoenix,"Neligan, Peter",A-011369,2024-10-26 00:00:00,PHX - W4,Active,1515 W Winter Drive,AZ,85021,1,1980
+Phoenix,"Nelson, Leah",A-066274,2024-10-09 00:00:00,PHX - E3,Active,737 East Mountain Sky Avenue,AZ,85048,1,2020
+Phoenix,"Nelson, Mark",A-007029,2023-10-17 00:00:00,PHX - E3,Active,7964 S. Dromedary,AZ,85284,1,1840
+Phoenix,"Neuberg, Erika & Steve",A-012739,2014-06-04 00:00:00,PHX - E3,Active,700 N Dobson Lot#9,AZ,85224,1,1980
+Phoenix,"Neumeyer, David & Pamela",A-024115,2024-08-12 00:00:00,PHX - E1,Active,2227 N Hillridge,AZ,85207,1,2280
+Phoenix,"Nevarez, Gabriel and Myra",A-004967,2019-04-18 00:00:00,PHX - W1,Active,16828 W. Saguaro Ln.,AZ,85388,1,1771.6
+Phoenix,"Newman, Richard",A-053957,2023-02-02 00:00:00,PHX - W2,Active,12513 West Buchanan Street,AZ,85323,1,1720
+Phoenix,"Newson, Valerie",A-024047,2019-11-01 00:00:00,PHX - E2,Active,18108 E Bellerive Dr,AZ,85142,1,1833.4
+Phoenix,"Newton, Robert",A-010128,2024-12-02 00:00:00,PHX - W1,Active,4305 W Sandra Cir,AZ,85308,1,2340
+Phoenix,"Ng,  Jonathan",A-005890,2024-08-30 00:00:00,PHX - SC1,Active,3940 E Crest Lane,AZ,85050,1,2380
+Phoenix,"Ngn, Helen",A-024985,2020-06-01 00:00:00,PHX - W4,Active,4010 W Muriel Drive,AZ,85308,1,1833.4
+Phoenix,"Ngy, Christin",A-051071,2022-08-04 00:00:00,PHX - E2,Active,10137 East Tiburon Avenue,AZ,85212,1,1955.8
+Phoenix,"Nickeson, Kathleen",A-004831,2021-08-26 00:00:00,PHX - W1,Active,6826 North 181st Avenue,AZ,85355,1,1895.2
+Phoenix,"Nieman, Brian & Diane",A-049432,2022-05-23 00:00:00,PHX - W4,Active,11610 North 39th Lane,AZ,85029,1,1895.2
+Phoenix,"Norden, Chris",A-033258,2021-08-04 00:00:00,PHX - E1,Active,5265 East Halifax Street,AZ,85205,1,1980
+Phoenix,"Norman, Grant",A-003089,2015-06-05 00:00:00,PHX - E2,Active,6861 E Monte Ave,AZ,85209,1,1771.6
+Phoenix,"Norris, Edward",A-023557,2019-11-01 00:00:00,PHX - SC3,Active,3653 E Colter St,AZ,85018,1,1833.4
+Phoenix,"Norris, Richard",A-067858,2025-04-28 00:00:00,PHX - E3,Active,1251 North Dustin Lane,AZ,85226,1,1980
+Phoenix,"Norton-Scott, Sue",A-012700,2004-09-02 00:00:00,PHX - E3,Active,5661 W Megan St,AZ,85226,1,963.59
+Phoenix,"Noto, Anthony & Kellie",A-013067,2024-10-24 00:00:00,PHX - SC4,Active,14441 N 28th St,AZ,85032,1,1980
+Phoenix,"Novak, Michelle",A-002353,2023-05-23 00:00:00,PHX - E3,Active,1570 W Megan St,AZ,85224,1,1894
+Phoenix,"Nusbaum, Gary",A-007385,2025-06-20 00:00:00,PHX - SC4,Active,834 E. Brook Hollow Dr.,AZ,85022,1,2340
+Phoenix,"Obert, Jeffery",A-025291,2024-10-31 00:00:00,PHX - W1,Active,11060 W Runion Dr,AZ,85373,1,2340
+Phoenix,"O'Brien, Seth",A-004246,2023-07-27 00:00:00,PHX - E1,Active,3437 E Camino Circle,AZ,85213,1,1840
+Phoenix,"Odell, Greg",A-003109,2025-04-02 00:00:00,PC 1 - Resi/Comm,Active,40395 N. Burwick way,AZ,85140,1,2340
+Phoenix,"O'Dowd, Barry",A-006214,2022-02-23 00:00:00,PHX - W4,Active,2420 West Hearn Road,AZ,85023,1,1895.2
+Phoenix,"Oehring, Ryan",A-028133,2021-07-09 00:00:00,PHX - SC1,Active,6559 E Morning Vista Ln,AZ,85331,1,1895.2
+Phoenix,"OGara, Tom",A-050021,2022-06-29 00:00:00,PHX - W1,Active,8119 West Voltaire Avenue,AZ,85381,1,1854
+Phoenix,"Olguin, Virginia",A-010441,2024-03-26 00:00:00,PHX - W4,Active,3139 N 40th Ave,AZ,85019,1,1800
+Phoenix,"Oliver, Karen",A-009014,2024-06-14 00:00:00,PHX - SC2,Active,3916 E. Yucca St.,AZ,85028,1,1980
+Phoenix,"Olsen, Lance and Brenda",A-008725,2001-12-06 00:00:00,PHX - W4,Active,4628 W Laurie Lane,AZ,85302,1,1980
+Phoenix,"Olson, Andy",A-024863,2020-06-01 00:00:00,PHX - W4,Active,4502 W Myrtle Ave,AZ,85301,1,1833.4
+Phoenix,"Olson, Carmen & James",A-003773,2022-11-11 00:00:00,PHX - E3,Active,4252 W. Kitty Hawk,AZ,85226,1,1894
+Phoenix,"Olson, Jennifer",A-024506,2021-10-29 00:00:00,PHX - SC2,Active,5731 E Tierra Buena  Ln,AZ,85254,1,1895.2
+Phoenix,"Omira, Elisa",A-068418,2025-06-13 00:00:00,PHX - E2,Active,2418 East Peach Tree Drive,AZ,85249,1,1980
+Phoenix,"Oolman, Brad",A-005898,2024-06-30 00:00:00,PHX - E1,Active,7064 E Grand View Lane,AZ,85119,1,2340
+Phoenix,"Openshaw, Shane and Suzanne",A-024116,2020-04-16 00:00:00,PHX - E1,Active,7654 E Summit Trail St,AZ,85207,1,1771.6
+Phoenix,"Ormes, Edward",A-006350,2023-11-02 00:00:00,PHX - SC1,Active,2940 W. Wander Lane,AZ,85087,1,1840
+Phoenix,"Ormiston, Michael",A-007775,2020-03-31 00:00:00,PHX - E2,Active,1800 E Park Ave.,AZ,85234,1,1980
+Phoenix,"Orr, Barbara",A-007710,2014-01-14 00:00:00,PHX - SC3,Active,4650 E. Montecito Ave.,AZ,85018,1,1771.6
+Phoenix,"Orr, Carrie",A-007292,2025-06-30 00:00:00,PHX - E2,Active,3367 E Tiffany Ct,AZ,85298,1,2340
+Phoenix,"Ortega, Tom and Stacia",A-001607,2017-05-26 00:00:00,PHX - SC4,Active,7015 N. 2nd St.,AZ,85020,1,1980
+Phoenix,Ortinau Residence,A-056428,2023-06-11 00:00:00,PHX - E2,Active,908 E Heather Dr,AZ,85140,1,1900
+Phoenix,"Ortiz, Danielle",A-024124,2019-11-01 00:00:00,PHX - E1,Active,10326 E Cicero Cir,AZ,85207,1,1691.26
+Phoenix,"Orvin, Casy",A-000842,2017-05-16 00:00:00,PHX - E2,Active,21249 S. 201st Way,AZ,85142,1,1771.6
+Phoenix,"Oscislawski, Eugene",A-001592,2024-10-11 00:00:00,PHX - SC2,Active,12587 E Jenan Dr,AZ,85259,1,2340
+Phoenix,"Overdorff, John",A-008727,2014-06-27 00:00:00,PHX - SC3,Active,5453 E Lafayette Blvd,AZ,85018,1,1771.6
+Phoenix,"Overland, Arnold",A-008029,2020-07-29 00:00:00,PHX - E3,Active,4501 W. Boston St.,AZ,85226,1,1771.6
+Phoenix,"Paige, Jeanne",A-008375,2006-05-23 00:00:00,PHX - SC2,Active,10834 E Mission Ln,AZ,85259,1,1771.6
+Phoenix,"Palmer, John",A-001337,2022-02-03 00:00:00,PHX - W3,Active,914 N. 9th St.,AZ,85006,1,1895.2
+Phoenix,"Palmisano, Ted",A-023588,2021-11-12 00:00:00,PHX - W4,Active,8401 N 16th Ave,AZ,85021,1,1895.2
+Phoenix,"Papagari, Anantha",A-011676,2018-08-21 00:00:00,PHX - E2,Active,532 West Wildhorse Drive,AZ,85286,1,1915.35
+Phoenix,"Parker, Steven",A-050928,2022-08-01 00:00:00,PHX - SC1,Active,43802 N 44th lane,AZ,85086,1,1894
+Phoenix,"Parkes, Graeme",A-052887,2022-10-31 00:00:00,PHX - SC1,Active,17757 North 97th Place,AZ,85255,1,1955.8
+Phoenix,"Parrott, Tom and Cathey",A-004858,2020-05-01 00:00:00,PHX - W2,Active,18443 W. Rancho Ct,AZ,85340,1,1980
+Phoenix,"Parten, Steve and Kay",A-002713,2013-03-25 00:00:00,PHX - W1,Active,8115 W Briden Lane,AZ,85383,1,1980
+Phoenix,"Pasco, Bill",A-006585,2018-07-24 00:00:00,PHX - E1,Active,3035 E Menlo St.,AZ,85213,1,1771.6
+Phoenix,"Pasco, Joe",A-004216,2024-06-07 00:00:00,PHX - E3,Active,318 W. Bolero Dr.,AZ,85284,1,2340
+Phoenix,"Pasternak, Regis",A-056811,2023-07-03 00:00:00,PHX - W1,Active,6795 West Skylark Drive,AZ,85308,1,1860
+Phoenix,"Patel, Rahul and Janki",A-005250,2017-08-02 00:00:00,PHX - SC1,Active,20325 N 96th Way,AZ,85255,1,1980
+Phoenix,"Patino, Cynthia",A-022896,2018-08-21 00:00:00,PHX - E1,Active,2405 N Travis,AZ,85207,1,1833.4
+Phoenix,"Patt, Nancy",A-032223,2025-06-11 00:00:00,PHX - W3,Active,3126 East Gary Way,AZ,85042,1,2340
+Phoenix,"Patten, Andrew",A-004124,2012-08-17 00:00:00,PHX - E2,Active,1774 E. Los Alamos St.,AZ,85295,1,1980
+Phoenix,"Patten, Barry Van",A-062092,2023-10-20 00:00:00,PHX - SC2,Active,6321 East Marilyn Road,AZ,85254,1,1840
+Phoenix,"Patton, Bruce",A-025252,2020-06-01 00:00:00,PHX - W1,Active,7611 West Cinnabar Avenue,AZ,85345,1,1833.4
+Phoenix,"Patton, David",A-028650,2020-01-15 00:00:00,PHX - E2,Active,20124 E Melissa Pl,AZ,85142,1,1894
+Phoenix,"Paul, Cheryl",A-005639,2014-03-25 00:00:00,PHX - E1,Active,7522 E. Odessa Cir.,AZ,85207,1,1771.6
+Phoenix,"Payne, Annette",A-022589,2014-06-04 00:00:00,PHX - W4,Active,3172 W Waltann Ln.,AZ,85053,1,1771.6
+Phoenix,"Pedersen, Sean",A-024924,2020-06-01 00:00:00,PHX - W4,Active,6133 W Altadena Ave,AZ,85304,1,1833.4
+Phoenix,"Pedzimaz, Barb",A-007670,2024-10-30 00:00:00,PHX - SC2,Active,9734 E Gelding Dr,AZ,85260,1,1980
+Phoenix,"Peiz, Gabriel",A-008627,2022-04-04 00:00:00,PHX - W3,Active,5218 W. Grenadine Rd.,AZ,85339,1,1895.2
+Phoenix,"Pela, David and Barbara",A-006305,2024-12-09 00:00:00,PHX - SC2,Active,6144 East Greenway Lane,AZ,85254,1,2340
+Phoenix,"Penkrot, Tonya",A-010045,2017-09-11 00:00:00,PHX - W3,Active,335 E Whitton Ave,AZ,85012,1,1980
+Phoenix,"Pennock, Bill and Barbara",A-002397,2016-03-14 00:00:00,PHX - SC1,Active,6701 E Crested Saguaro Ln,AZ,85266,1,1980
+Phoenix,"Perez, Diana",A-002068,2023-03-27 00:00:00,PHX - W4,Active,9009 W Mountain View Rd,AZ,85345,1,1894
+Phoenix,"Perez, Jose",A-000434,2015-08-04 00:00:00,PHX - E2,Active,19873 E Thornton Road,AZ,85142,1,1980
+Phoenix,"Perez, Kaitlin",A-034415,2021-09-07 00:00:00,PHX - E4,Active,3028 South Santa Barbara Circle,AZ,85202,1,1895.2
+Phoenix,"Perez, Rosa",A-030715,2020-12-22 00:00:00,PHX - E3,Active,721 E Los Arboles Ct,AZ,85225,1,1586.2
+Phoenix,"Perkins, Gary and Christine",A-002422,2024-06-25 00:00:00,PHX - E3,Active,17006 S. 34th Pl.,AZ,85048,1,1980
+Phoenix,"Peterson, Scott",A-024724,2021-07-01 00:00:00,PHX - E2,Active,3111 S. Valerie Dr,AZ,85286,1,1980
+Phoenix,"Peterson, Sharon",A-022508,2013-07-17 00:00:00,PHX - SC2,Active,6315 E Marilyn Rd,AZ,85254,1,1980
+Phoenix,"Peterson, Timothy and Nicole",A-004489,2012-02-14 00:00:00,PHX - W4,Active,121 W Wood Drive,AZ,85029,1,1771.6
+Phoenix,"Petko, Bonnie & Jim",A-011419,2024-06-07 00:00:00,PHX - E1,Active,1007 N 92nd Circle,AZ,85207,1,1980
+Phoenix,"Petrocelli, Patrice",A-004535,2024-05-15 00:00:00,PHX - SC2,Active,10419 N Sarazen Circle,AZ,85268,1,1980
+Phoenix,"Petrovich, Hugh",A-055469,2023-04-21 00:00:00,PHX - SC4,Active,240 West Angela Drive,AZ,85023,1,1900
+Phoenix,"Petty, Alene",A-024098,2020-06-01 00:00:00,PHX - E1,Active,3641 E Enrose Street,AZ,85205,1,1833.4
+Phoenix,"Pfau, Chrissy",A-005306,2022-05-23 00:00:00,PHX - W1,Active,9339 W Carol Ave,AZ,85345,1,1980
+Phoenix,"Pham, Kevin",A-000475,2023-07-14 00:00:00,PHX - W1,Active,7209 W Bloomfield Rd,AZ,85381,1,1894
+Phoenix,"Phipps, Andrew",A-024261,2020-05-12 00:00:00,PHX - E1,Active,3522 E Caballero St,AZ,85213,1,1980
+Phoenix,"Phoenix, Bill and Julie",A-033994,2021-07-20 00:00:00,PHX - SC1,Active,9222 East Vista Drive,AZ,85262,1,1957
+Phoenix,"Piche, Gary",A-012997,2004-06-25 00:00:00,PHX - W1,Active,22038 N. 80th Ave.,AZ,85383,1,1980
+Phoenix,"Pickney, Olene and Don",A-007722,2005-05-17 00:00:00,PHX - SC1,Active,29731 N. 67th Way,AZ,85266,1,1833.4
+Phoenix,"Pierce, Terri",A-048720,2024-01-05 00:00:00,PHX - W4,Active,5520 West Mescal Street,AZ,85304,1,1840
+Phoenix,"Pignotti, Chris",A-007680,2011-06-30 00:00:00,PHX - SC4,Active,2 West Marconi Avenue,AZ,85023,1,1980
+Phoenix,"Pignotti, Chris & Joanne",A-023331,2024-01-03 00:00:00,PHX - W4,Active,15645 N. 20th Ave.,AZ,85023,1,1840
+Phoenix,"Pineda, Heriberto",A-024890,2022-04-04 00:00:00,PHX - W4,Active,7769 W. Lamar Rd,AZ,85303,1,1709.8
+Phoenix,"Piper, Benjamin",A-068849,2025-07-25 00:00:00,PHX - W3,Active,6117 North 8th Avenue,AZ,85013,1,1980
+Phoenix,"Pitt, Jim",A-051681,2024-10-14 00:00:00,PHX - E2,Active,9506 East Los Lagos Vista Avenue,AZ,85209,1,2340
+Phoenix,"Pitterle, Issac",A-003065,2015-04-08 00:00:00,PHX - W3,Active,1342 E Pedro Road,AZ,85042,1,1980
+Phoenix,"Pitts, Phil",A-034265,2021-08-18 00:00:00,PHX - E2,Active,6955 East Monte Avenue,AZ,85209,1,1895.2
+Phoenix,"Plati, Mike",A-011781,2018-08-21 00:00:00,PHX - SC2,Active,8914 E Sutton Dr,AZ,85260,1,1833.4
+Phoenix,"Platsky, Scott",A-047869,2024-04-04 00:00:00,PHX - W4,Active,3832 West Cactus Wren Drive,AZ,85051,1,1980
+Phoenix,"Plitt, Jordan",A-034697,2021-12-17 00:00:00,PHX - SC1,Active,3728 East Maffeo Road,AZ,85050,1,1895.2
+Phoenix,"Poland, Donny & Micah",A-025208,2020-08-04 00:00:00,PHX - W3,Active,4329 W Summerside Rd,AZ,85339,1,1980
+Phoenix,"Pollack, Alex",A-051069,2022-08-04 00:00:00,PHX - SC3,Active,1841 East Montecito Avenue,AZ,85016,1,1894
+Phoenix,"Pollak, Michael",A-010096,2017-09-29 00:00:00,PHX - SC2,Active,14202 N 45th St,AZ,85032,1,1833.4
+Phoenix,"Polley, Sara",A-025355,2020-06-01 00:00:00,PHX - W1,Active,14518 N 150th Lane,AZ,85379,1,1691.26
+Phoenix,"Pool, Jan",A-025294,2019-05-07 00:00:00,PHX - W1,Active,17380 N 168th Lane,AZ,85374,1,1980
+Phoenix,"Pool, Jason and Danielle",A-002702,2014-03-25 00:00:00,PHX - W1,Active,5506 W Big Oak Street,AZ,85083,1,1980
+Phoenix,"Pope, Rodney and Karen",A-000511,2024-10-30 00:00:00,PHX - W1,Active,17914 W Udall,AZ,85374,1,1980
+Phoenix,"Popescu, Maria",A-008039,2008-04-23 00:00:00,PHX - W1,Active,17822 N. 75th Ave.,AZ,85308,1,1980
+Phoenix,"Portillo, Angelica & Marcos",A-025244,2023-07-28 00:00:00,PHX - W1,Active,9336 W Mountain View Rd,AZ,85345,1,1894
+Phoenix,"Poulin, Becky",A-024769,2019-11-01 00:00:00,PHX - E2,Active,14421 E Pecos Rd,AZ,85295,1,1833.4
+Phoenix,"Power, Robert & Tammy",A-008703,2020-05-07 00:00:00,PHX - SC2,Active,8717 E Irish Hunter Trl.,AZ,85258,1,1980
+Phoenix,"Power, Robert and Tammy",A-024578,2010-08-02 00:00:00,PHX - SC2,Active,9298 N 115th St,AZ,85259,1,1980
+Phoenix,"Prepsky, Michael",A-008311,2015-11-18 00:00:00,PHX - W3,Active,2732 E Branham Lane,AZ,85042,1,1771.6
+Phoenix,"Press, Michael",A-008684,2020-05-11 00:00:00,PHX - SC1,Active,33618 N 45th Way,AZ,85331,1,1980
+Phoenix,"Prezel, Stephanie",A-002478,2022-01-26 00:00:00,PHX - W1,Active,18646 N 2nd Ave,AZ,85027,1,1895.2
+Phoenix,"Price, Randy",A-006595,2024-10-28 00:00:00,PHX - E3,Active,1978 S Spartan St,AZ,85233,1,2020
+Phoenix,"Price, Sharon",A-052138,2024-02-27 00:00:00,PHX - SC2,Active,4336 East Shangri La Road,AZ,85028,1,1800
+Phoenix,"Prince, Ankrah",A-064445,2024-07-24 00:00:00,PHX - E2,Active,6945 South Teresa Drive,AZ,85249,1,1980
+Phoenix,"Prince, Cleveland",A-035600,2022-01-21 00:00:00,PHX - W3,Active,1834 East Valencia Drive,AZ,85042,1,1895.2
+Phoenix,"Prince, Gary",A-008377,2005-07-07 00:00:00,PHX - SC2,Active,13912 N 110th Street,AZ,85255,1,1980
+Phoenix,"Pristave, Don & Patricia",A-001989,2015-09-22 00:00:00,PHX - E2,Active,3580 E Los Altos Rd,AZ,85297,1,1980
+Phoenix,"Proctor, Stewart",A-008000,2020-06-04 00:00:00,PHX - W2,Active,17425 W. Cocopah St.,AZ,85338,1,1771.6
+Phoenix,"Prothe, Kelly",A-050456,2024-06-25 00:00:00,PHX - W2,Active,22250 West Morning Glory Street,AZ,85326,1,1980
+Phoenix,"Pruess, Susan",A-055989,2023-05-17 00:00:00,PHX - SC3,Active,8201 East Virginia Avenue,AZ,85257,1,1900
+Phoenix,"Pruitt, Donald",A-009027,2021-07-01 00:00:00,PHX - E4,Active,2919 S Cottonwood Ln,AZ,85202,1,1980
+Phoenix,"Qadoori, Lufi",A-033018,2023-04-25 00:00:00,PHX - W1,Active,9060 West Fullam Street,AZ,85382,1,1894
+Phoenix,"Quick, Stephen & Annie",A-035813,2022-02-07 00:00:00,PHX - W1,Active,15312 North 181st Drive,AZ,85388,1,1895.2
+Phoenix,"Quintana, Patsy",A-022227,2013-05-17 00:00:00,PHX - W3,Active,101 E. Milada Dr.,AZ,85042,1,1833.4
+Phoenix,"Rahmanovic, Tima and Siko",A-003857,2024-09-10 00:00:00,PHX - W1,Active,19413 N. 15th Ave.,AZ,85027,1,2340
+Phoenix,"Raju, Gopal",A-006675,2014-08-13 00:00:00,PHX - E2,Active,326 W Alamosa Dr,AZ,85248,1,1980
+Phoenix,"Rakowski, Teresa and Bryan",A-006310,2024-06-14 00:00:00,PHX - E3,Active,2192 E. Morelos St,AZ,85225,1,2340
+Phoenix,"Ramirez, Domingo",A-056056,2024-07-11 00:00:00,PHX - W2,Active,4985 Solana Circle,AZ,85340,1,1980
+Phoenix,"Ramirez, Ray",A-025209,2020-06-01 00:00:00,PHX - W3,Active,5212 W Desert Dr.,AZ,85339,1,1833.4
+Phoenix,"Rankin, Susan",A-003396,2025-08-21 00:00:00,PHX - SC1,Active,42415 N 1st Street,AZ,85086,1,1980
+Phoenix,"Rao, Shri",A-064775,2024-07-25 00:00:00,PHX - E3,Active,3471 West Ironwood Drive,AZ,85226,1,2340
+Phoenix,"Rasmussen, Bradley",A-062290,2023-11-10 00:00:00,PHX - SC1,Active,11374 East Dale Lane,AZ,85262,1,1840
+Phoenix,"Rasmussen, Geri",A-011718,2021-01-30 00:00:00,PHX - E3,Active,1051 W Meseto Ave,AZ,85210,1,1895.2
+Phoenix,"Rathod, Kalpa",A-025442,2022-03-14 00:00:00,PHX - W1,Active,9962 W Villa Lindo Dr,AZ,85383,1,1957
+Phoenix,"Ratz, Carl",A-023510,2025-02-27 00:00:00,PHX - W3,Active,2128 W Avalon Dr,AZ,85015,1,2340
+Phoenix,"Ray, Tonya",A-006641,2010-03-25 00:00:00,PHX - E1,Active,1312 N 86th Pl,AZ,85207,1,1771.6
+Phoenix,"Reabold, Jack",A-008758,2016-07-21 00:00:00,PHX - E2,Active,12307 E Teakwood Drive,AZ,85249,1,1833.4
+Phoenix,"Reams, Brianna",A-034156,2025-03-20 00:00:00,PHX - W3,Active,1605 West Wilshire Drive,AZ,85007,1,2340
+Phoenix,"Rebennack, Sara",A-006345,2022-03-03 00:00:00,PHX - E2,Active,2340 E. Peach Tree Dr.,AZ,85249,1,1895.2
+Phoenix,"Reber, Darin & Leslie",A-024779,2019-06-10 00:00:00,PHX - E2,Active,3149 S Roanoke St,AZ,85295,1,1980
+Phoenix,"Reckers, Pat",A-008634,2017-05-02 00:00:00,PHX - E4,Active,7461 S. Rita Ln,AZ,85283,1,1980
+Phoenix,"Reddy, Don",A-009731,2017-06-30 00:00:00,PHX - W1,Active,5568 W Rose Garden Lane,AZ,85308,1,1980
+Phoenix,"Reddy, Mallik",A-005203,2014-06-02 00:00:00,PHX - W1,Active,27510 N 58th Dr.,AZ,85083,1,1771.6
+Phoenix,"Reece, Ben",A-000873,2024-10-30 00:00:00,PHX - SC3,Active,8334 E Glenrosa Ave,AZ,85251,1,1980
+Phoenix,"Reed, Brian",A-022666,2024-10-29 00:00:00,PHX - E1,Active,3026 E DesMoines St,AZ,85213,1,1980
+Phoenix,"Reed, Harold & JoAnn",A-022580,2008-01-18 00:00:00,PHX - W4,Active,301 W Butler Dr,AZ,85021,1,1771.6
+Phoenix,"Reed, Tim",A-025523,2022-03-08 00:00:00,PHX - W2,Active,15558 W Montecito Ave,AZ,85395,1,1915.8
+Phoenix,"Reidy, Richard",A-008760,2022-02-07 00:00:00,PHX - SC3,Active,7801 E. Cypress St.,AZ,85257,1,1980
+Phoenix,"Reihard, Mr. Harold and Judy",A-008761,2023-08-07 00:00:00,PHX - E4,Active,6619 S. Dorsey Ln.,AZ,85283,1,1894
+Phoenix,"Reinhardt, David and Kristen",A-001710,2016-05-23 00:00:00,PHX - W2,Active,20586 W Canyon Dr,AZ,85396,1,1980
+Phoenix,"Resler, Matt",A-011070,2018-06-04 00:00:00,PHX - SC1,Active,8948 E Palm Tree Dr,AZ,85255,1,1771.6
+Phoenix,"Reynolds, Karen",A-002027,2025-06-20 00:00:00,PHX - E2,Active,824 N Cobblestone St,AZ,85234,1,2340
+Phoenix,"Reynolds, Shane",A-025037,2019-11-01 00:00:00,PHX - W1,Active,7432 W Villa Chula,AZ,85310,1,1833.4
+Phoenix,"Rhoades, Gus",A-024189,2020-06-01 00:00:00,PHX - E2,Active,7009 E milagro circle,AZ,85209,1,1691.26
+Phoenix,"Richard, Gary",A-050610,2022-07-18 00:00:00,PHX - SC1,Active,20768 North 76th Way,AZ,85255,1,1980
+Phoenix,"Richards, Tamara",A-032490,2021-04-14 00:00:00,PHX - SC3,Active,4710 East Sierra Vista Drive,AZ,85253,1,1895.2
+Phoenix,"Richardson, Andy",A-022629,2023-10-04 00:00:00,PHX - SC2,Active,12178 E Shangri La,AZ,85259,1,1900
+Phoenix,Rick Thonpson,A-068618,2025-06-25 00:00:00,PHX - E2,Active,3094 East Mead Drive,AZ,85249,1,1980
+Phoenix,"Riddle, Charissa & Dan",A-006558,2013-07-15 00:00:00,PHX - SC3,Active,2320 E Indianola Ave,AZ,85016,1,1648
+Phoenix,"Riley, Mark",A-057595,2023-09-05 00:00:00,PHX - W4,Active,548 West Wagon Wheel Drive,AZ,85021,1,2920
+Phoenix,"Riva, Liza & Ray",A-049691,2022-06-02 00:00:00,PHX - E2,Active,11421 East Peterson Avenue,AZ,85212,1,1586.2
+Phoenix,"Robbins, Greg and Teri",A-023961,2024-04-05 00:00:00,PHX - SC1,Active,30 E Paint Your Wagon Trl,AZ,85085,1,1680
+Phoenix,"Roberts, Christopher",A-049298,2025-04-16 00:00:00,PHX - SC3,Active,7302 East Papago Drive,AZ,85257,1,1980
+Phoenix,"Roberts, Connie & Vinnie",A-008614,2024-10-28 00:00:00,PHX - SC2,Active,5911 East Beryl Avenue,AZ,85253,1,2020
+Phoenix,"Roberts, Greg",A-023820,2025-05-30 00:00:00,PHX - W3,Active,1631 E Alicia Drive,AZ,85042,1,2340
+Phoenix,"Roberts, Kelly & Tony",A-000578,2021-04-20 00:00:00,PHX - SC2,Active,14215 N 43rd St,AZ,85032,1,1895.2
+Phoenix,"Robinson, Dawn and Sam",A-012619,2019-03-13 00:00:00,PHX - W2,Active,13608 W Roanoke Ave,AZ,85395,1,1833.4
+Phoenix,"Robinson, Phyllis and Jerome",A-000029,2024-11-25 00:00:00,PHX - SC2,Active,8861 E. Lupine Ave,AZ,85260,1,2340
+Phoenix,"Robison, Denise",A-025455,2020-06-01 00:00:00,PHX - W1,Active,24172 N 168th Ln,AZ,85387,1,1833.4
+Phoenix,"Rodelas, Raul & Angela",A-007355,2024-08-20 00:00:00,PHX - SC3,Active,7114 N 23rd Pl,AZ,85020,1,1980
+Phoenix,"Rodriguez Garcia, Alexander",A-034232,2021-08-20 00:00:00,PHX - W2,Active,4120 South 96th Lane,AZ,85353,1,1980
+Phoenix,"Rodriguez, Alejandro",A-031500,2021-02-23 00:00:00,PHX - SC1,Active,8893 East Topeka Drive,AZ,85255,1,1895.2
+Phoenix,"Rogge, Cecilia and Gene",A-008764,2021-07-01 00:00:00,PHX - SC4,Active,1018 E Myrtle,AZ,85020,1,1980
+Phoenix,"Rohr, Stacy & Robert",A-002428,2019-03-01 00:00:00,PHX - E1,Active,1771 E. Barnacle Ave.,AZ,85119,1,1648
+Phoenix,"Rollins, Carole",A-005223,2024-04-24 00:00:00,PHX - W3,Active,6613 W Branham Lane,AZ,85339,1,1800
+Phoenix,"Rollins, Dave & Joyce",A-011999,2023-11-17 00:00:00,PHX - W4,Active,3732 W Monte Cristo Ave,AZ,85053,1,1468
+Phoenix,"Romano, Scott",A-069042,2025-08-18 00:00:00,PHX - SC1,Active,1934 West Morning Vista Lane,AZ,85085,1,1980
+Phoenix,"Roncone, Renee",A-000980,2021-08-03 00:00:00,PHX - SC2,Active,4519 E. Marconi Ave.,AZ,85032,1,1895.2
+Phoenix,"Ronzi, Giancarlo",A-003518,2015-09-04 00:00:00,PHX - SC1,Active,6933 E Bob White Way,AZ,85266,1,1771.6
+Phoenix,"Rose, April",A-032088,2022-03-22 00:00:00,PHX - W1,Active,5520 West Wagoner Road,AZ,85308,1,1957
+Phoenix,"Rosen, Charles",A-009711,2017-06-16 00:00:00,PHX - E4,Active,308 E Loma Vista Dr,AZ,85282,1,1980
+Phoenix,"Ross, Robert & Courtney",A-002022,2021-11-01 00:00:00,PHX - SC1,Active,1930 E Patrick Ln,AZ,85024,1,1980
+Phoenix,"Ross, Robin",A-022901,2018-08-21 00:00:00,PHX - E3,Active,16016 S 35Th St,AZ,85048,1,1902
+Phoenix,"Rossi, Louis and Grace",A-004521,2025-09-19 00:00:00,PHX - W1,Active,14594 W Laurel Lane,AZ,85379,1,1980
+Phoenix,"Rowan, Jim",A-024694,2020-06-01 00:00:00,PHX - E4,Active,1837 E Pebble Beach Drive,AZ,85282,1,1833.4
+Phoenix,"Rowlette, Karla & David",A-005289,2008-09-08 00:00:00,PHX - W1,Active,8463 W Emile Zola Ave,AZ,85381,1,1980
+Phoenix,"Roy, Michael",A-034887,2021-10-28 00:00:00,PHX - SC1,Active,34226 North 5th Avenue,AZ,85085,1,1895.2
+Phoenix,"Royal, Cory",A-027954,2021-06-07 00:00:00,PHX - W1,Active,15656 W Ventura St.,AZ,85379,1,1957
+Phoenix,"Royce, Faye",A-007734,2024-11-07 00:00:00,PHX - W1,Active,15015 W. Charter Oak Rd.,AZ,85379,1,1980
+Phoenix,"Rubin, Shawn & Amanda",A-005874,2013-03-28 00:00:00,PHX - SC1,Active,39726 N Lost Legend Drive,AZ,85086,1,1980
+Phoenix,"Rudder, Randal",A-012984,2024-09-11 00:00:00,PHX - W4,Active,4015 W. Joan De Arc Ave.,AZ,85029,1,2340
+Phoenix,"Rudge, Howard",A-005501,2010-10-27 00:00:00,PHX - E2,Active,9301 East Crystal Drive,AZ,85248,1,1771.6
+Phoenix,"Rusnak, Ann",A-009407,2024-07-22 00:00:00,PHX - SC4,Active,7211 N. 2nd St.,AZ,85020,1,2340
+Phoenix,"Russ, David & Julie",A-012952,2004-03-18 00:00:00,PHX - W3,Active,729 W Palm Ln,AZ,85007,1,1980
+Phoenix,"Russell, Renda",A-054421,2024-04-23 00:00:00,PHX - W2,Active,2055 North 110th Avenue,AZ,85392,1,1980
+Phoenix,"Ruttledge, Michael",A-024520,2023-03-01 00:00:00,PHX - SC1,Active,11450 E Hideaway Lane,AZ,85255,1,2740
+Phoenix,"Ryan, Ann",A-022493,2022-01-26 00:00:00,PHX - SC2,Active,4333 E Anderson Dr,AZ,85032,1,1153.6
+Phoenix,"Ryan, Deborah",A-034378,2021-09-07 00:00:00,PHX - E1,Active,2436 East Evergreen Street,AZ,85213,1,1895.2
+Phoenix,"Ryan, Jeffrey",A-033419,2021-06-29 00:00:00,PHX - W1,Active,22310 North 94th Lane,AZ,85383,1,1980
+Phoenix,"Ryan, Terry",A-012694,2017-01-18 00:00:00,PHX - W3,Active,1306 E. Milada Dr.,AZ,85042,1,1771.6
+Phoenix,"Ryan, Victoria",A-023972,2020-06-01 00:00:00,PHX - SC1,Active,1610 W Blaylock Drive,AZ,85085,1,1833.4
+Phoenix,"Ryden, Mitchell",A-067728,2025-04-22 00:00:00,PHX - SC1,Active,4403 East Briles Road,AZ,85050,1,1980
+Phoenix,"Rygg, Sarah & Joshua",A-024201,2019-04-12 00:00:00,PHX - E3,Active,1126 W Madero Ave,AZ,85210,1,1980
+Phoenix,"Safa, Laura and Joseph",A-000541,2024-06-27 00:00:00,PHX - SC3,Active,1220 E Nicolet Ave,AZ,85020,1,1980
+Phoenix,"Sakaguchi, Randy",A-001624,2014-05-28 00:00:00,PHX - E2,Active,5434 S. Sandstone Ct,AZ,85298,1,2101.54
+Phoenix,"Sakmary, John",A-007381,2024-07-31 00:00:00,PHX - E2,Active,879 E Cherry Hills,AZ,85249,1,2340
+Phoenix,"Salay, Becca",A-030865,2021-02-05 00:00:00,PHX - SC2,Active,5618 East Everett Drive,AZ,85254,1,1895.2
+Phoenix,"Salazar, Luis",A-002707,2020-02-03 00:00:00,PHX - W1,Active,7430 West Hatcher Road,AZ,85345,1,1980
+Phoenix,"Salvatore, Joseph",A-051563,2022-09-08 00:00:00,PHX - SC1,Active,26257 North 45th Street,AZ,85050,1,1980
+Phoenix,"Samanta, Chinmaya",A-004186,2013-04-26 00:00:00,PHX - E1,Active,2110 N. Chestnut Circle,AZ,85213,1,1771.6
+Phoenix,"Sammis, Doug",A-004576,2019-03-06 00:00:00,PHX - W1,Active,8416 North 178th Avenue,AZ,85355,1,1980
+Phoenix,"Sanchez, Antonio",A-000492,2025-04-18 00:00:00,PHX - W2,Active,2019 N. Rascon Loop,AZ,85037,1,1980
+Phoenix,"Sanchez, Mike",A-011705,2018-08-21 00:00:00,PHX - E3,Active,520 W Palo Verde St,AZ,85234,1,1980
+Phoenix,"Sanders, Josh",A-010421,2025-04-09 00:00:00,PHX - E2,Active,3760 E Isabella Ave,AZ,85206,1,2340
+Phoenix,"Sanders, Ron and Jennifer",A-004145,2013-05-06 00:00:00,PHX - W1,Active,7668 W. Via Del Sol.,AZ,85383,1,1980
+Phoenix,"Sanderson, Scott",A-012692,2024-10-29 00:00:00,PHX - W4,Active,7535 N. 46th Circle,AZ,85301,1,1980
+Phoenix,"Sandolo, Mike and Sheila",A-003567,2015-04-14 00:00:00,PHX - E2,Active,4592 S Star Canyon Dr.,AZ,85297,1,1980
+Phoenix,Sands Mike,A-012297,2022-01-06 00:00:00,PHX - W1,Active,26152 N. 67th Dr.,AZ,85383,1,1895.2
+Phoenix,"Sandstrom, John & Anna",A-024523,2024-07-10 00:00:00,PHX - SC1,Active,25620 N 113th Way,AZ,85255,1,2340
+Phoenix,"Sanelle, David and Jennifer",A-025458,2019-07-15 00:00:00,PHX - W1,Active,17512 W Acapulco Ln,AZ,85388,1,1980
+Phoenix,"Sassi, Lisa and Jeff",A-001358,2017-06-30 00:00:00,PHX - W1,Active,8989 W. Mary Ann Dr.,AZ,85382,1,1771.6
+Phoenix,"Saunders, Mike",A-049839,2022-06-07 00:00:00,PHX - SC1,Active,4318 East Desert Marigold Drive,AZ,85331,1,1957
+Phoenix,"Schabacker, Steve",A-009409,2023-12-21 00:00:00,PHX - SC2,Active,3510 E Beryl Ln,AZ,85028,1,1900
+Phoenix,"Schad, Larry & Alissa",A-005886,2010-11-15 00:00:00,PHX - W4,Active,11015 N. 38th Drive,AZ,85029,1,1980
+Phoenix,"Schaffer, Ashley",A-034252,2021-08-20 00:00:00,PHX - E3,Active,314 West Curry Street,AZ,85225,1,1980
+Phoenix,"Schaffer, Dale",A-008643,2006-02-01 00:00:00,PHX - E3,Active,1043 E. Knight Ln,AZ,85284,1,1980
+Phoenix,"Schauf, Lawrence",A-066445,2024-11-04 00:00:00,PHX - W2,Active,11343 South Santa Fe Lane,AZ,85338,1,1980
+Phoenix,"Scherer, Scott",A-062412,2024-01-03 00:00:00,PHX - W2,Active,20981 West Hubbell Street,AZ,85396,1,1900
+Phoenix,"Schettino, Anna and Paul",A-024336,2024-05-08 00:00:00,PHX - E3,Active,640 N Lisbon Ct,AZ,85226,1,1800
+Phoenix,"Schider, Caitlin",A-023858,2019-11-01 00:00:00,PHX - E3,Active,13439 S 47th Way,AZ,85044,1,1833.4
+Phoenix,"Schilberg, Susan",A-007269,2007-02-05 00:00:00,PHX - E2,Active,2721 S. Copperwood,AZ,85209,1,1771.6
+Phoenix,"Schile, John",A-012702,2003-06-27 00:00:00,PHX - E2,Active,2245 E County Down Drive,AZ,85249,1,1980
+Phoenix,"Schinella, Kyle and Sydney",A-000466,2023-09-01 00:00:00,PHX - E3,Active,2711 E Tyson St,AZ,85225,1,1900
+Phoenix,"Schlitzkus, William & Anita",A-025288,2024-10-31 00:00:00,PHX - W1,Active,11076 W Runion Dr,AZ,85373,1,1980
+Phoenix,"Schneider, Phillip",A-008345,2017-03-07 00:00:00,PHX - W4,Active,8904 N 15th lane,AZ,85021,1,1833.4
+Phoenix,"Schneider, Shari",A-054697,2023-03-21 00:00:00,PHX - W3,Active,515 West Melody Drive,AZ,85041,1,1936.68
+Phoenix,"Schnoll, Elizabeth & Jonathan",A-002073,2017-04-07 00:00:00,PHX - E2,Active,1952 W Bartlett Court,AZ,85248,1,1771.6
+Phoenix,"Schoeb, Jean",A-008958,2023-12-15 00:00:00,PHX - W4,Active,5128 W Aster Dr,AZ,85304,1,1840
+Phoenix,"Scholl, Debbie",A-006704,2009-06-26 00:00:00,PHX - SC2,Active,12951 E Corrine Dr,AZ,85259,1,1980
+Phoenix,"Schoonover, Laurie",A-024774,2020-06-01 00:00:00,PHX - E2,Active,2751 E Bridgeport Pkwy,AZ,85295,1,1833.4
+Phoenix,"Schroeder, Fred",A-004963,2025-02-28 00:00:00,PHX - W1,Active,22511 N. 81st Ave.,AZ,85383,1,2340
+Phoenix,"Schroeder, Julia",A-010061,2020-01-10 00:00:00,PHX - E1,Active,9059 E Hobart St,AZ,85207,1,1771.6
+Phoenix,"Schultz, Tasha",A-035418,2021-12-02 00:00:00,PHX - E1,Active,2226 East Hale Street,AZ,85213,1,1980
+Phoenix,"Schwalbe, Tom",A-007270,2008-05-12 00:00:00,PHX - W1,Active,7325 W. Dreyfus Dr.,AZ,85381,1,1980
+Phoenix,"Scott, Kristy",A-054838,2023-03-17 00:00:00,PHX - SC4,Active,1406 West Runion Drive,AZ,85027,1,1970.68
+Phoenix,"Scott, Perry",A-051099,2022-08-05 00:00:00,PHX - E2,Active,3436 South Valerie Drive,AZ,85286,1,1894
+Phoenix,"Scott, Vicki & Byron",A-022640,2021-07-01 00:00:00,PHX - SC3,Active,8731 E Edward Ave.,AZ,85250,1,1980
+Phoenix,"Scott, Zoie",A-067380,2025-03-03 00:00:00,PHX - E1,Active,1036 East Fairfield Street,AZ,85203,1,1980
+Phoenix,"Scripter, Linda",A-005533,2024-09-11 00:00:00,PHX - W4,Active,8702 W Orchid Ln,AZ,85345,1,2340
+Phoenix,"Scuncio, Chad",A-000085,2025-06-26 00:00:00,PHX - SC1,Active,7476 E. Buteo Dr,AZ,85255,1,2340
+Phoenix,"Seals, Alexis",A-054294,2024-01-02 00:00:00,PHX - W4,Active,8845 West Carol Avenue,AZ,85345,1,1468
+Phoenix,"Seaton, Chris",A-002050,2020-09-08 00:00:00,PHX - E3,Active,1200 W. Monterey St.,AZ,85224,1,1771.6
+Phoenix,"Seifert, Alexander",A-024400,2019-11-01 00:00:00,PHX - E2,Active,1221 W Bartlett Way,AZ,85248,1,1833.4
+Phoenix,"Seiger, Barbara",A-005185,2024-08-26 00:00:00,PHX - E2,Active,1071 S. Longmore St.,AZ,85286,1,1920
+Phoenix,"Sell , Jeanne and John",A-002381,2020-01-31 00:00:00,PHX - E1,Active,4055 N Recker Rd Unit #3,AZ,85215,1,1980
+Phoenix,"Sellers, Charles",A-035608,2022-06-28 00:00:00,PHX - E4,Active,3626 South Newberry Road,AZ,85282,1,1895.2
+Phoenix,"Sellheim, Eckart & Dian",A-005220,2018-07-06 00:00:00,PHX - E4,Active,3222 S. River Dr.,AZ,85282,1,1771.6
+Phoenix,"Serrano, Ernie",A-050771,2022-07-28 00:00:00,PHX - E2,Active,4431 South Rio Drive,AZ,85249,1,1894
+Phoenix,"Seward, Raymond and Linda",A-008047,2020-04-17 00:00:00,PHX - E1,Active,8725 E Hobarts St,AZ,85207,1,1980
+Phoenix,"Sexton, Brandon",A-051115,2022-08-10 00:00:00,PHX - W4,Active,1523 West Winter Drive,AZ,85021,1,1894
+Phoenix,"Shaffer, Chris",A-046748,2024-10-11 00:00:00,PHX - SC3,Active,2602 North 66th Street,AZ,85257,1,1980
+Phoenix,"Shaffstall, Jene",A-049668,2022-06-08 00:00:00,PHX - SC2,Active,6901 East Sheena Drive,AZ,85254,1,1895.2
+Phoenix,"Shah, Krupesh",A-069072,2025-08-25 00:00:00,PHX - W4,Active,6434 West Sunnyslope Lane,AZ,85302,1,1980
+Phoenix,"Shannon, Craig",A-004199,2022-07-28 00:00:00,PHX - E3,Active,828 N Robson,AZ,85210,1,1980
+Phoenix,"Sherrard, Rodney",A-023379,2021-02-04 00:00:00,PHX - SC2,Active,6324 E Sandra Terrace,AZ,85254,1,1895.2
+Phoenix,"Sherwood, Julie",A-007354,2023-05-24 00:00:00,PHX - W4,Active,339 W. Lawrence Ln.,AZ,85021,1,1894
+Phoenix,"Shewmaker, Doug",A-024609,2020-06-01 00:00:00,PHX - SC2,Active,11085 East Bella Vista Drive,AZ,85259,1,1833.4
+Phoenix,"Shipman, Blair and Tyler",A-068763,2025-08-15 00:00:00,PHX - SC2,Active,5343 East Grandview Road,AZ,85254,1,1980
+Phoenix,"Shum, Patrick & Donna",A-057047,2023-08-09 00:00:00,PHX - SC1,Active,8286 East Nightingale Star Drive,AZ,85266,1,1900
+Phoenix,"Shurly, Burt",A-000978,2020-11-04 00:00:00,PHX - W2,Active,3202 N. 151st Dr.,AZ,85395,1,1759.24
+Phoenix,"Siderewicz, Steve",A-007267,2007-01-10 00:00:00,PHX - E4,Active,7239 S Bonarden Lane,AZ,85283,1,1980
+Phoenix,"Sidhwa, Shyamuk",A-007623,2007-08-21 00:00:00,PHX - E3,Active,332 W Louis Way,AZ,85284,1,1771.6
+Phoenix,"Siewert, Stacy",A-001214,2015-03-10 00:00:00,PHX - E2,Active,412 W Carob Dr,AZ,85248,1,1771.6
+Phoenix,"Sigley, Phyllis",A-067160,2025-02-04 00:00:00,PHX - SC2,Active,3415 East Acoma Drive,AZ,85032,1,1980
+Phoenix,"Silberg, Howie",A-023635,2019-04-17 00:00:00,PHX - SC4,Active,1513 E. Taro Ln.,AZ,85024,1,1980
+Phoenix,"Sima, Gary",A-003833,2021-10-08 00:00:00,PHX - W1,Active,6838 W Villa Theresa Dr,AZ,85308,1,1895.2
+Phoenix,"Simmontacchi, John",A-007020,2008-07-16 00:00:00,PHX - SC4,Active,11238 N 11th St,AZ,85020,1,1771.6
+Phoenix,"Simon, Phillip",A-013064,2012-09-21 00:00:00,PHX - E3,Active,15218 S 36th Pl,AZ,85044,1,1771.6
+Phoenix,"Simpson, Jason",A-024949,2021-11-05 00:00:00,PHX - W1,Active,7938 W Kimberly Way,AZ,85308,1,1980
+Phoenix,"Sims, Mark",A-025126,2021-07-01 00:00:00,PHX - W2,Active,18647 W Chuckwalla Canyon Rd,AZ,85338,1,1980
+Phoenix,"Singer, Garrison",A-006235,2024-05-07 00:00:00,PHX - SC4,Active,8131 N 18th Way,AZ,85020,1,1862.68
+Phoenix,"Singh, Davinder",A-052617,2022-10-17 00:00:00,PHX - W1,Active,6822 West Williams Drive,AZ,85310,1,1955.8
+Phoenix,"Singh, Savdeep",A-062475,2023-12-19 00:00:00,PHX - SC2,Active,11401 North 43rd Street,AZ,85028,1,1720
+Phoenix,"Sinkwitz, Nadine and Joseph",A-022677,2023-12-20 00:00:00,PHX - SC2,Active,10603 N Aberdeen Rd.,AZ,85254,1,1900
+Phoenix,"Sirimarco, Anna",A-057012,2023-07-13 00:00:00,PHX - E1,Active,2536 North 78th Street,AZ,85207,1,1900
+Phoenix,"Skinner, Candice",A-057722,2023-09-12 00:00:00,PHX - E2,Active,884 East Cherry Hills Drive,AZ,85249,1,1900
+Phoenix,"Slane, Dawn",A-005155,2011-09-20 00:00:00,PHX - E2,Active,11413 E. Ramona Ave.,AZ,85212,1,1980
+Phoenix,"Slaughter, Anita & Steve",A-011710,2018-08-21 00:00:00,PHX - W2,Active,15989 W Indianola Ave,AZ,85338,1,1833.4
+Phoenix,"Smason, Renee & Joel",A-005177,2009-09-09 00:00:00,PHX - SC3,Active,3102 N 51st St,AZ,85018,1,1980
+Phoenix,"Smith, David & Traci",A-022732,2017-09-22 00:00:00,PHX - W1,Active,9220 W Los Gatos Dr.,AZ,85383,1,1980
+Phoenix,"Smith, Derek",A-022727,2017-09-06 00:00:00,PHX - W4,Active,3915 W Gelding Dr,AZ,85053,1,1980
+Phoenix,"Smith, Don",A-022505,2021-07-01 00:00:00,PHX - SC1,Active,9069 E Casitas Del Rio Dr.,AZ,85255,1,1980
+Phoenix,"Smith, Donna",A-064879,2024-08-07 00:00:00,PHX - SC1,Active,5268 East Patrick Lane,AZ,85054,1,1860
+Phoenix,"Smith, Johnny & Nicole",A-028081,2020-09-16 00:00:00,PHX - W2,Active,11220 W Olive Dr,AZ,85392,1,1771.6
+Phoenix,"Smith, Pamela Innes",A-004545,2013-08-13 00:00:00,PHX - E1,Active,6345 E. Palm St.,AZ,85215,1,1771.6
+Phoenix,"Smith, Robert",A-022317,2024-08-09 00:00:00,PHX - W3,Active,2307 W Earll Dr,AZ,85015,1,1860
+Phoenix,"Smith, Rodney",A-009429,2015-04-13 00:00:00,PHX - E3,Active,9107 S Kachina Dr.,AZ,85284,1,1771.6
+Phoenix,"Smith, Ron",A-022680,2019-07-02 00:00:00,PHX - W3,Active,7231 S 71st Ln,AZ,85339,1,1771.6
+Phoenix,"Smith, Sandra & Mike",A-022463,2022-01-18 00:00:00,PHX - SC4,Active,2610 E. Yucca St.,AZ,85028,1,1980
+Phoenix,"Smith, Shannon & Tommy",A-022428,2022-06-27 00:00:00,PHX - SC3,Active,5201 E Whitton Ave.,AZ,85018,1,1980
+Phoenix,"Smith, Stephanie",A-023468,2019-11-01 00:00:00,PHX - SC3,Active,5221 E Windsor Ave,AZ,85008,1,1833.4
+Phoenix,"Smith, Steve",A-034213,2021-10-01 00:00:00,PHX - E3,Active,872 North Sicily Drive,AZ,85226,1,1895.2
+Phoenix,"Smith, Tim and Margaret",A-022542,2009-08-03 00:00:00,PHX - SC1,Active,26264 N 46th Pl,AZ,85050,1,1771.6
+Phoenix,"Smythe, Brenda",A-004861,2024-10-28 00:00:00,PHX - W3,Active,1813 W. McNeil St.,AZ,85041,1,2020
+Phoenix,"Snailum, Richard",A-004898,2024-10-23 00:00:00,PHX - SC2,Active,16001 N 59th Street,AZ,85254,1,1980
+Phoenix,"Snow, Staford and Lauren",A-034193,2021-08-09 00:00:00,PHX - W1,Active,3214 West Ross Avenue,AZ,85027,1,2068.24
+Phoenix,"Sokolowski, Robert",A-034369,2021-09-07 00:00:00,PHX - E2,Active,3109 East Goldfinch Way,AZ,85286,1,1895.2
+Phoenix,"Solley, Edward",A-011753,2018-08-21 00:00:00,PHX - E3,Active,775 E Verbena Dr,AZ,85048,1,1902
+Phoenix,"Soltero, Nick",A-009760,2023-10-05 00:00:00,PHX - W1,Active,25219 North 42nd Drive,AZ,85083,1,1860
+Phoenix,"Sonoskey, Nathan",A-023564,2020-06-01 00:00:00,PHX - SC3,Active,3425 E Turney Avenue,AZ,85018,1,1833.4
+Phoenix,"Soricelli, Frank",A-006233,2022-05-11 00:00:00,PHX - SC1,Active,9935 E Western Sky Ln,AZ,85262,1,1895.2
+Phoenix,"Sotelo, Giovanni",A-034145,2022-01-24 00:00:00,PHX - W2,Active,12916 West Campbell Avenue,AZ,85340,1,1895.2
+Phoenix,"Sowers, Nancy & Gerald",A-009432,2018-05-22 00:00:00,PHX - SC4,Active,2101 E Gelding Dr.,AZ,85022,1,1833.4
+Phoenix,"Spangler, Jenelle",A-009796,2022-02-15 00:00:00,PHX - E4,Active,1018 E Redmon Dr,AZ,85283,1,1957
+Phoenix,"Spangler, Robert & Beverly",A-012362,2024-08-22 00:00:00,PHX - W2,Active,30150 W Flower Street,AZ,85396,1,2340
+Phoenix,"Spaw, Steve",A-008287,2012-09-11 00:00:00,PHX - W4,Active,6102 W Caribbean Ln.,AZ,85306,1,1833.4
+Phoenix,"Spears, Michelle",A-024845,2020-07-07 00:00:00,PHX - E2,Active,3077 E La Costa Dr,AZ,85298,1,1833.4
+Phoenix,"Spencer, Helen",A-052785,2023-05-30 00:00:00,PHX - E2,Active,4456 South Springs Drive,AZ,85249,1,1900
+Phoenix,"Spencer, Ricky",A-066982,2025-02-24 00:00:00,PHX - W4,Active,4530 West Laurel Lane,AZ,85304,1,1980
+Phoenix,"Spinelle, John",A-011796,2018-08-21 00:00:00,PHX - E2,Active,8929 E Diamond Dr,AZ,85248,1,1674.82
+Phoenix,"Spoth, Pat",A-068882,2025-08-13 00:00:00,PHX - E3,Active,2755 West Calle Del Norte Drive,AZ,85224,1,1980
+Phoenix,"Sreenivas, G",A-024406,2021-04-09 00:00:00,PHX - E2,Active,1951 W Bartlett Ct,AZ,85248,1,1957
+Phoenix,"Stabler, Bob and Kelli",A-003815,2014-06-19 00:00:00,PHX - E2,Active,3631 E Coconino Dr,AZ,85249,1,1980
+Phoenix,"Stamper, Tatum",A-056439,2023-06-12 00:00:00,PHX - SC1,Active,8854 East Calle Buena Vista,AZ,85255,1,1840
+Phoenix,"Standage, Amy",A-003154,2018-02-26 00:00:00,PHX - E2,Active,9750 E Lobo Ave,AZ,85209,1,1771.6
+Phoenix,"Standerfer, Robert",A-000863,2013-12-10 00:00:00,PHX - W3,Active,501 W Wilshire Dr,AZ,85003,1,1833.4
+Phoenix,"Stark, Barbara & Geoffrey Clark",A-006013,2024-10-28 00:00:00,PHX - E4,Active,2025 E Woodman Dr.,AZ,85283,1,2020
+Phoenix,"Starkey, Kyle",A-069195,2025-09-12 00:00:00,PHX - SC2,Active,12817 North 68th Place,AZ,85254,1,1980
+Phoenix,"Stasiuk, Katherine",A-024807,2024-07-12 00:00:00,PHX - E2,Active,2940 E Sherri Court,AZ,85296,1,2340
+Phoenix,"Stasuik, George",A-033199,2021-05-28 00:00:00,PHX - E2,Active,1673 South Boulder Street,AZ,85295,1,1895.2
+Phoenix,"Stearns, Susan",A-067261,2025-02-26 00:00:00,PHX - W2,Active,17934 West Montebello Avenue,AZ,85340,1,1980
+Phoenix,"Steely, Lyle",A-000084,2024-01-18 00:00:00,PHX - SC4,Active,402 E Deepdale Rd,AZ,85022,1,1720
+Phoenix,"Steffen, Christina",A-009002,2016-08-22 00:00:00,PHX - SC2,Active,5108 E. Bloomfield Rd.,AZ,85254,1,1771.6
+Phoenix,"Stegner, Mimi",A-005938,2024-07-03 00:00:00,PHX - E2,Active,4711 E Sourwood Dr,AZ,85298,1,2340
+Phoenix,"Stein, Liane",A-023902,2019-06-19 00:00:00,PHX - SC1,Active,4250 E. Casitas Del Rio Dr.,AZ,85050,1,1980
+Phoenix,"Stephens, Clark",A-023517,2020-05-06 00:00:00,PHX - SC3,Active,1916 E Turney Ave,AZ,85016,1,1980
+Phoenix,"Stetsko, Glen (Living Trust)",A-024136,2020-06-01 00:00:00,PHX - E1,Active,7346 E Red Hawk St,AZ,85207,1,1652.45
+Phoenix,"Stevens, Mark",A-003062,2021-07-01 00:00:00,PHX - E1,Active,3528 E. Fairfield Cir.,AZ,85213,1,1980
+Phoenix,"Stiglich, John",A-054400,2023-03-07 00:00:00,PHX - SC2,Active,5414 East Piping Rock Road,AZ,85254,1,1955.8
+Phoenix,"Stockdale, Jeffery",A-003469,2014-01-08 00:00:00,PHX - W1,Active,17622 West Evans Drive,AZ,85388,1,1980
+Phoenix,"Stone, Karen",A-008036,2021-07-01 00:00:00,PHX - SC4,Active,19402 N. 9th Street,AZ,85024,1,1980
+Phoenix,"Strabel, Bill and Brenda",A-011632,2025-09-12 00:00:00,PHX - E3,Active,841 N Kingston St,AZ,85233,1,1980
+Phoenix,"Suh, Justin",A-056377,2023-06-07 00:00:00,PHX - SC4,Active,1101 E Rosemonte Dr,AZ,85024,1,1900
+Phoenix,"Sulaiman, Jonathan",A-052753,2022-10-20 00:00:00,PHX - SC2,Active,6160 East Woodridge Drive,AZ,85254,1,1955.8
+Phoenix,"Sullivan, Phillip and Joanne",A-012978,2021-05-17 00:00:00,PHX - E3,Active,571 N Scott Dr.,AZ,85225,1,1980
+Phoenix,"Sumner-Walker, Paula",A-003104,2018-05-14 00:00:00,PHX - E2,Active,2464 E Browning Place,AZ,85286,1,1980
+Phoenix,"Supyk, Brett & Danielle",A-005891,2010-08-12 00:00:00,PHX - W4,Active,318 W. Willow Ave.,AZ,85029,1,1980
+Phoenix,"Surnamer, Andrew",A-007771,2021-07-01 00:00:00,PHX - E3,Active,1835 W. Alamo Dr.,AZ,85224,1,1980
+Phoenix,"Sutton, Carrie & Daniel",A-033933,2021-07-21 00:00:00,PHX - E3,Active,9128 South Willow Drive,AZ,85284,1,1895.2
+Phoenix,"Sutton, Thomas",A-005211,2019-07-08 00:00:00,PHX - W1,Active,12638 W Aster Dr,AZ,85335,1,1771.6
+Phoenix,"Swanson, Grace",A-023546,2019-05-13 00:00:00,PHX - SC3,Active,5126 E Mulberry Dr,AZ,85018,1,1833.4
+Phoenix,"Sweeney, Jennifer",A-013020,2007-06-22 00:00:00,PHX - W2,Active,5813 N 131st Dr,AZ,85340,1,1980
+Phoenix,"Sykora, Cheryl",A-025397,2020-06-01 00:00:00,PHX - W1,Active,8040 W Tonopah Dr,AZ,85382,1,1833.4
+Phoenix,"Talley, Sonja",A-005280,2012-05-11 00:00:00,PHX - W2,Active,13632 W Windsor Blvd,AZ,85340,1,1980
+Phoenix,"Tan, Jon",A-032637,2025-01-22 00:00:00,PHX - SC2,Active,12036 North 62nd Place,AZ,85254,1,2340
+Phoenix,"Tancil, Chip",A-006016,2024-10-28 00:00:00,PHX - W1,Active,16403 N 175th Cir,AZ,85388,1,2020
+Phoenix,"Taniguchi, Ryosuke",A-055928,2025-07-01 00:00:00,PHX - SC4,Active,15615 North 9th Avenue,AZ,85023,1,1980
+Phoenix,"Tanner Team, Brett",A-024101,2020-03-31 00:00:00,PHX - E1,Active,4633 E Grove Circle,AZ,85206,1,1366.32
+Phoenix,"Tarkington, Tamara",A-012660,2019-03-18 00:00:00,PHX - W3,Active,7323 W Park St,AZ,85339,1,1980
+Phoenix,"Taska, John",A-002778,2003-07-22 00:00:00,PHX - SC3,Active,3121 North 50th Street,AZ,85018,1,1980
+Phoenix,"Taubman, Peter",A-007022,2024-08-21 00:00:00,PHX - SC3,Active,1503 E. Town and Country Ln.,AZ,85014,1,2340
+Phoenix,"Taylor, Alyssa",A-028200,2020-10-16 00:00:00,PHX - W3,Active,1321 W Park St,AZ,85041,1,1980
+Phoenix,"Taylor, Brennan De la Riva",A-032607,2021-05-13 00:00:00,PHX - W1,Active,6877 West Pontiac Drive,AZ,85308,1,1980
+Phoenix,"Taylor, Michelle and Ryan",A-000063,2022-04-27 00:00:00,PHX - W4,Active,5435 W Monte Cristo Ave,AZ,85306,1,1895.2
+Phoenix,"Teel, John",A-001714,2017-08-01 00:00:00,PHX - SC4,Active,1033 E Harmont Dr,AZ,85020,1,1980
+Phoenix,"Teel, Joyce",A-007673,2023-06-21 00:00:00,PHX - W4,Active,5907 W Monte Cristo Ave,AZ,85306,1,1894
+Phoenix,"Temple, Michael",A-006614,2007-07-25 00:00:00,PHX - SC4,Active,1825 E Nicolet Ave,AZ,85020,1,1771.6
+Phoenix,"Teters, Shawn",A-025446,2020-06-01 00:00:00,PHX - W1,Active,21918 N 90th Avenue,AZ,85383,1,1833.4
+Phoenix,"Thatcher, Craig",A-008363,2024-11-04 00:00:00,PHX - W3,Active,314 W. Monte Vista Rd.,AZ,85003,1,2340
+Phoenix,"Theall, Ann and Troy",A-008382,2005-09-08 00:00:00,PHX - W1,Active,7625 W Michigan Ave,AZ,85308,1,1980
+Phoenix,"Thies, Tim",A-049841,2024-01-26 00:00:00,PHX - E3,Active,136 East Myrna Lane,AZ,85284,1,1840
+Phoenix,"Thomas, Adrienne",A-031076,2021-04-30 00:00:00,PHX - W3,Active,2134 East Desert Drive,AZ,85042,1,1884.9
+Phoenix,"Thomas, Chelsea and Scott",A-002492,2012-06-05 00:00:00,PHX - E4,Active,2566 W Monte Ave,AZ,85202,1,1980
+Phoenix,"Thomas, Kevin",A-023007,2010-06-03 00:00:00,PHX - E2,Active,400 W Roadrunner Dr,AZ,85286,1,1980
+Phoenix,"Thomas, Ron & Kathy",A-023877,2023-06-27 00:00:00,PHX - E3,Active,15207 S. 19th. Way,AZ,85048,1,1900
+Phoenix,"Thompson, Erskine & Gloria",A-022382,2021-10-06 00:00:00,PHX - E2,Active,208 N Cottonwood Dr,AZ,85234,1,1895.2
+Phoenix,"Thompson, Nicoli",A-068893,2025-08-06 00:00:00,PHX - E3,Active,1631 West Carla Vista Drive,AZ,85224,1,1980
+Phoenix,"Thompson, Thomas & Laurie",A-025005,2020-06-01 00:00:00,PHX - W1,Active,5738 W Greenbriar Dr,AZ,85308,1,1813.5
+Phoenix,"Threlkeld, Pauline & Steve",A-008087,2024-11-04 00:00:00,PHX - SC3,Active,7738 E. 3rd St.,AZ,85251,1,2340
+Phoenix,"Ticer, Robert and Cindy",A-009085,2024-08-28 00:00:00,PHX - SC1,Active,2409 W. Kit Carson Ct.,AZ,85086,1,2340
+Phoenix,"Tiffany, David",A-005582,2024-05-09 00:00:00,PHX - SC3,Active,8714 E. Sandalwood,AZ,85250,1,1980
+Phoenix,"Timmons, Tony VIP",A-067874,2025-05-23 00:00:00,PHX - W3,Active,1639 West Indianola Avenue,AZ,85015,1,1980
+Phoenix,"Titanic, Robert",A-068729,2025-07-24 00:00:00,PHX - W1,Active,7113 North 183rd Avenue,AZ,85355,1,1980
+Phoenix,"Tobin, Jack and Katie",A-004161,2023-03-21 00:00:00,PHX - E3,Active,1971 E. El Freda Rd,AZ,85284,1,1894
+Phoenix,"Tolar, Robert",A-009364,2017-04-11 00:00:00,PC 1 - Resi/Comm,Active,790 E Penny Ln,AZ,85140,1,1980
+Phoenix,"Tomco, Phil",A-025326,2019-11-01 00:00:00,PHX - W1,Active,15643 W Cameron Dr,AZ,85379,1,1691.26
+Phoenix,"Tomy, Ashley",A-011339,2018-06-15 00:00:00,PHX - E4,Active,1907 E Magdalena Dr,AZ,85283,1,1833.4
+Phoenix,"Tooke, Michael and Candice",A-006616,2017-08-22 00:00:00,PHX - SC2,Active,10675 E Arabian Park Dr,AZ,85258,1,1771.6
+Phoenix,"Topham, Murray",A-008089,2021-07-01 00:00:00,PHX - W4,Active,1101 W. Frier Dr.,AZ,85021,1,1980
+Phoenix,"Torres, George",A-006591,2011-05-03 00:00:00,PHX - SC1,Active,3041 W Summit Walk Ct,AZ,85086,1,1833.4
+Phoenix,"Torrez, Tom & Suzan",A-024241,2019-11-05 00:00:00,PHX - E1,Active,2919 E Dartmouth Street,AZ,85213,1,1833.4
+Phoenix,"Tran, Bac",A-006607,2023-05-24 00:00:00,PHX - E4,Active,2365 S. Paseo Loma Circle,AZ,85202,1,1894
+Phoenix,"Tran, Michael",A-004572,2020-05-11 00:00:00,PHX - W4,Active,7256 W Kaler Ave,AZ,85303,1,1771.6
+Phoenix,"Treesh, Teresa",A-033070,2021-05-20 00:00:00,PHX - W1,Active,3010 West Kristal Way,AZ,85027,1,1895.2
+Phoenix,"Trent, Robert H.",A-008658,2022-01-31 00:00:00,PHX - W4,Active,6202 W Karen Lee Ln,AZ,85306,1,1895.2
+Phoenix,"Trevillyan, Tracey & Rob",A-002122,2015-05-04 00:00:00,PHX - E3,Active,760 W. Posada Ave,AZ,85210,1,1771.6
+Phoenix,"Trink, Bob",A-068925,2025-08-06 00:00:00,PHX - SC2,Active,15657 North 60th Place,AZ,85254,1,1980
+Phoenix,"Trogdon, Connie",A-007283,2012-07-13 00:00:00,PHX - E2,Active,4701 S. Bandit Rd,AZ,85297,1,1771.6
+Phoenix,"Trojanowski, Linda",A-007995,2006-02-01 00:00:00,PHX - W1,Active,18202 N 10th Dr.,AZ,85023,1,1980
+Phoenix,"Trujillo, Dino",A-023483,2019-11-01 00:00:00,PHX - W3,Active,3426 N 8th Ave,AZ,85013,1,1833.4
+Phoenix,"Tuchschmidt, Carol & Ron",A-024636,2021-12-23 00:00:00,PHX - SC1,Active,30817 N 146 St,AZ,85262,1,1895.2
+Phoenix,"Tulumello, Kathy",A-007733,2023-08-22 00:00:00,PHX - E4,Active,2027 E Bendix Dr,AZ,85283,1,1900
+Phoenix,"Turk, Calandra",A-063370,2024-04-01 00:00:00,PHX - E3,Active,4235 East Equestrian Trail,AZ,85044,1,1980
+Phoenix,"Turner, Wayne",A-008009,2024-05-09 00:00:00,PHX - W3,Active,326 W Portland St.,AZ,85003,1,1800
+Phoenix,Tyrrell. Curt,A-030726,2021-01-05 00:00:00,PHX - SC1,Active,4705 E Laredo Ln,AZ,85331,1,1895.2
+Phoenix,"Uczekaj, Tom and Sherrie",A-004510,2017-04-21 00:00:00,PHX - SC2,Active,10903 E. Winchcomb Dr.,AZ,85255,1,1771.6
+Phoenix,"Uhlinger, Robert (one filter cleaning yearly)",A-008670,2024-10-30 00:00:00,PHX - SC2,Active,16420 N 63rd St,AZ,85254,1,1980
+Phoenix,"Umstattd, John",A-006930,2022-03-22 00:00:00,PHX - W2,Active,11631 W Cyprus Dr,AZ,85392,1,1980
+Phoenix,United Methodist Center/ Matt Kuss,A-056359,2023-06-06 00:00:00,PHX - SC1,Active,21713 N 38th Way,AZ,85050,1,1900
+Phoenix,"Urlocker, Tim",A-005550,2021-08-13 00:00:00,PHX - SC2,Active,5658 E Sandra Terrace,AZ,85254,1,1895.2
+Phoenix,"Uy, Jessica and Noel- NO AUTOPAY",A-010689,2018-03-29 00:00:00,PHX - E2,Active,3343 E Joseph Way,AZ,85295,1,1980
+Phoenix,"Vadasz-Chates, Sam",A-033970,2021-11-17 00:00:00,PHX - SC2,Active,4617 East Acoma Drive,AZ,85032,1,1895.2
+Phoenix,"Vaez, Hossein",A-006712,2008-07-11 00:00:00,PHX - E2,Active,2958 S Ironwood St,AZ,85295,1,1833.4
+Phoenix,"Valdez, Steve",A-009660,2017-06-26 00:00:00,PHX - W4,Active,9047 W Harmont Dr,AZ,85345,1,1980
+Phoenix,"Valencia, Joe",A-007348,2006-02-01 00:00:00,PHX - W3,Active,6608 S. 16th Pl.,AZ,85042,1,1980
+Phoenix,"Valero, Christine",A-024764,2019-11-01 00:00:00,PHX - E2,Active,1905 S Pheasant Dr,AZ,85295,1,1833.4
+Phoenix,"Van Hofwegen, David",A-007264,2006-12-20 00:00:00,PHX - W3,Active,8459 W Broadway,AZ,85353,1,1771.6
+Phoenix,"Van Raalte, Holly",A-047000,2022-03-09 00:00:00,PHX - W3,Active,6316 West Vineyard Road,AZ,85339,1,1957
+Phoenix,"Vanhorn, Mary",A-050286,2022-06-29 00:00:00,PHX - W3,Active,1704 West Weldon Avenue,AZ,85015,1,1957
+Phoenix,"Vannasdale, Stacey",A-047755,2022-04-06 00:00:00,PHX - E3,Active,16608 South 9th Street,AZ,85048,1,1895.2
+Phoenix,"Varilla, Rainer",A-000425,2024-10-30 00:00:00,PHX - W1,Active,18145 W. Carol Ave.,AZ,85355,1,1980
+Phoenix,"Vartanian , John-Paul",A-025346,2024-11-06 00:00:00,PHX - W1,Active,12127 N 149th Drive,AZ,85379,1,2220
+Phoenix,"Vasquez, Ralph",A-023016,2024-02-28 00:00:00,PHX - W3,Active,2618 E. Carson Rd.,AZ,85042,1,1800
+Phoenix,"Vazquez, Michael",A-028286,2023-05-23 00:00:00,PHX - W3,Active,4106 W Vineyard Rd,AZ,85041,1,1900
+Phoenix,"Veal, Gino",A-028310,2020-11-04 00:00:00,PHX - W1,Active,18232 N 54th Ln,AZ,85308,1,1586.2
+Phoenix,"Verdoni, Eva",A-004223,2025-05-23 00:00:00,PHX - E2,Active,11312 E. Peterson Ave.,AZ,85212,1,2340
+Phoenix,"Verkruijsse, Alex",A-031757,2024-10-31 00:00:00,PHX - E2,Active,13939 East Ray Road,AZ,85296,1,1980
+Phoenix,"Vermillion, Ben",A-006697,2025-04-16 00:00:00,PHX - E2,Active,1560 E Sagebrush Ct,AZ,85296,1,2340
+Phoenix,"Verstegen, Dominic",A-051017,2022-08-02 00:00:00,PHX - SC3,Active,5001 East Calle Redonda,AZ,85018,1,1955.8
+Phoenix,"Villa, Angel & Jesenia",A-007992,2024-07-25 00:00:00,PHX - W4,Active,3607 W. Mariposa,AZ,85019,1,1980
+Phoenix,"Vincent, Patty",A-006705,2010-08-27 00:00:00,PHX - E3,Active,39 E Maria Ln.,AZ,85284,1,1980
+Phoenix,"Virgil, Stella",A-022565,2025-04-18 00:00:00,PHX - W4,Active,4316 W Mescal St,AZ,85304,1,1980
+Phoenix,"Vischer, Tom",A-008297,2001-12-06 00:00:00,PHX - SC2,Active,8224 E Quarterhorse Trl,AZ,85258,1,1771.6
+Phoenix,"Vo, Kimberly",A-024619,2019-11-01 00:00:00,PHX - SC2,Active,9072 E Davenport st,AZ,85260,1,1833.4
+Phoenix,"Vollrath, Nick",A-009058,2022-09-21 00:00:00,PHX - E3,Active,1452 W Hopi Dr,AZ,85224,1,1894
+Phoenix,"Voss, Kent",A-000048,2025-06-16 00:00:00,PHX - SC3,Active,6522 E Cholla Dr,AZ,85253,1,2340
+Phoenix,"Votichenko, T.A.",A-007027,2006-02-03 00:00:00,PHX - SC3,Active,6034 N. Kachina Lane,AZ,85253,1,1833.4
+Phoenix,"Vrablik, Jack & Sara",A-023506,2020-01-28 00:00:00,PHX - W3,Active,1532 West Indianola Avenue,AZ,85015,1,1980
+Phoenix,"Wagner, Betty",A-005602,2012-11-20 00:00:00,PHX - W1,Active,25613 N 55th Lane,AZ,85083,1,1980
+Phoenix,"Wagner, JR",A-022913,2022-11-02 00:00:00,PHX - W4,Active,6426 W Voltaire Dr,AZ,85304,1,2021.2
+Phoenix,"Walden, Allison",A-024554,2022-11-02 00:00:00,PHX - SC3,Active,7056 E Moreland St.,AZ,85257,1,1895.2
+Phoenix,"Walker, Barbara",A-004610,2024-05-28 00:00:00,PHX - E3,Active,503 S Catalina St.,AZ,85233,1,1800
+Phoenix,"Walker, Valeria",A-024919,2020-06-01 00:00:00,PHX - W4,Active,10626 North 65th Avenue,AZ,85304,1,1833.4
+Phoenix,"Wallace, Cathy",A-004218,2002-07-09 00:00:00,PHX - SC2,Active,6040 E. Campobello Drive,AZ,85254,1,1771.6
+Phoenix,"Wallace, Mary",A-028353,2020-11-25 00:00:00,PHX - E1,Active,612 S 35th Place,AZ,85204,1,1586.2
+Phoenix,"Wallace, Tyrone",A-004107,2022-07-25 00:00:00,PHX - W2,Active,3790 N 296th Dr,AZ,85396,1,1894
+Phoenix,"Walton,Heidi",A-057408,2023-08-24 00:00:00,PHX - E1,Active,7438 East Nance Street,AZ,85207,1,1900
+Phoenix,"Wang 2, Chris",A-065063,2024-08-23 00:00:00,PHX - W2,Active,30225 West Cheery Lynn Road,AZ,85396,1,1980
+Phoenix,"Warda, Imad",A-024903,2020-04-16 00:00:00,PHX - W4,Active,12009 N 49th Dr,AZ,85304,1,1833.4
+Phoenix,"Warfel, Pam",A-008092,2001-12-06 00:00:00,PHX - SC2,Active,9332 E Cortez St,AZ,85260,1,1980
+Phoenix,"Wartner, Brenton",A-047461,2022-05-12 00:00:00,PHX - W3,Active,7813 South 47th Lane,AZ,85339,1,1895.2
+Phoenix,"Wasson, Amy and Barnaby",A-012720,2020-09-28 00:00:00,PHX - W4,Active,4309 W Griswold,AZ,85302,1,1980
+Phoenix,"Waterkotte, Mark",A-007970,2006-02-01 00:00:00,PHX - E3,Active,3902 E. Hiddenview Dr,AZ,85048,1,1980
+Phoenix,"Watley, Gordon",A-010703,2018-03-14 00:00:00,PHX - W2,Active,18338 W Desert View Lane,AZ,85338,1,1980
+Phoenix,"Watson, Anthony",A-022553,2022-02-03 00:00:00,PHX - W4,Active,3624 W. Crocus Drive,AZ,85053,1,1895.2
+Phoenix,"Watson, Greg",A-051520,2022-08-22 00:00:00,PHX - SC1,Active,27800 North 59th Place,AZ,85266,1,1955.8
+Phoenix,"Watterson, Kevin (2)",A-067501,2025-03-21 00:00:00,PHX - E3,Active,1339 West Linda Lane,AZ,85224,1,1980
+Phoenix,"Watts, Dana",A-001737,2015-07-31 00:00:00,PHX - E2,Active,3581 S. Nebraska St,AZ,85248,1,1771.6
+Phoenix,"Webb, Don",A-023008,2025-04-02 00:00:00,PHX - SC3,Active,8524 E Windsor,AZ,85257,1,2340
+Phoenix,"Weber, Brenda and Bill",A-004846,2009-08-04 00:00:00,PHX - W1,Active,9161 W. Quail Track Drive,AZ,85383,1,1980
+Phoenix,Weinberg Residence,A-005888,2013-03-15 00:00:00,PHX - SC3,Active,1120 E. Flynn Ln.,AZ,85014,1,1771.6
+Phoenix,"Weinert, Inez & Gabriel",A-008409,2008-10-15 00:00:00,PHX - W3,Active,110 E Greenway Rd,AZ,85042,1,1771.6
+Phoenix,"Weinkamer, Lance",A-009318,2019-08-30 00:00:00,PHX - SC2,Active,5453 E Danbury Rd,AZ,85254,1,1771.6
+Phoenix,"Weiss, Jean",A-039042,2022-02-16 00:00:00,PHX - SC1,Active,36711 North 16th Street,AZ,85086,1,1895.2
+Phoenix,"Weiss, William & Susan",A-011397,2018-06-29 00:00:00,PHX - W3,Active,5204 West Desert Drive,AZ,85339,1,1771.6
+Phoenix,"Wells, Douglas & Janice",A-008748,2023-07-18 00:00:00,PHX - W4,Active,6832 W Windsor Ave,AZ,85035,1,1894
+Phoenix,"Wells, Heidi & Jason",A-034136,2025-02-28 00:00:00,PHX - SC3,Active,4037 East Patricia Jane Drive,AZ,85018,1,2340
+Phoenix,"Wells, Jackie",A-006620,2007-11-05 00:00:00,PHX - E2,Active,2620 E Augusta Ave,AZ,85249,1,1771.6
+Phoenix,"Wells, Sheila",A-004845,2009-08-12 00:00:00,PHX - W2,Active,8715 W C P Hayes Dr,AZ,85353,1,1771.6
+Phoenix,"Wendt, Albert",A-000413,2015-01-23 00:00:00,PHX - SC3,Active,5002 E Mulberry Dr,AZ,85018,1,1771.6
+Phoenix,"Wendt, Albert",A-024191,2019-07-05 00:00:00,PHX - SC3,Active,3120 N 50th St,AZ,85018,1,1833.4
+Phoenix,"Werner, Sally",A-035649,2022-04-28 00:00:00,PHX - SC3,Active,7302 East Rose Lane,AZ,85250,1,1586.2
+Phoenix,"Wertz, Joanna & Ron",A-010780,2020-06-03 00:00:00,PHX - SC2,Active,4548 E Monte Cristo Ave,AZ,85032,1,1771.6
+Phoenix,"West, Michael",A-003492,2014-06-27 00:00:00,PHX - SC2,Active,15187 E Verbena Dr,AZ,85268,1,1957
+Phoenix,Western Vistas,A-010067,2024-03-28 00:00:00,PHX - W4,Active,4055 N 79th Ave,AZ,85033,1,1860
+Phoenix,"Westley, Mark",A-003161,2020-09-24 00:00:00,PHX - W2,Active,9737 W. Crown King Rd,AZ,85353,1,1771.6
+Phoenix,"Whaley, Mary",A-031461,2024-10-31 00:00:00,PHX - W4,Active,3321 West Gary Road,AZ,85029,1,1980
+Phoenix,"Wheatcroft, Andrew",A-003127,2024-12-09 00:00:00,PHX - SC2,Active,16407 N 56th Place,AZ,85254,1,2340
+Phoenix,"Wheeler, Paul",A-000885,2022-06-09 00:00:00,PHX - E2,Active,2290 E Indian Wells Dr,AZ,85249,1,1895.2
+Phoenix,"Whitbread, Melissa",A-024709,2022-02-22 00:00:00,PHX - E4,Active,5826 S Kenwood Lane,AZ,85283,1,1957
+Phoenix,"Whitcomb, Lynne",A-001627,2014-07-07 00:00:00,PHX - SC2,Active,8708 E. San Marcos Dr.,AZ,85258,1,1980
+Phoenix,"Whitford, Michele",A-003142,2024-11-21 00:00:00,PHX - W2,Active,10507 W. Heatherbrae Dr.,AZ,85037,1,2340
+Phoenix,"Whitney, Michelle",A-002322,2024-10-30 00:00:00,PHX - W2,Active,2114 S. 109th Dr.,AZ,85323,1,1980
+Phoenix,"Wiborg, Michael",A-027958,2020-09-02 00:00:00,PHX - W2,Active,8921 W Sheridan Street,AZ,85037,1,1833.4
+Phoenix,"Wickizer, Gary",A-012058,2024-03-19 00:00:00,PHX - SC4,Active,2202 E Beverly Lane,AZ,85022,1,1800
+Phoenix,"Wilkes, William",A-012707,2008-08-08 00:00:00,PHX - E2,Active,1404 W Spruce Drive,AZ,85248,1,1980
+Phoenix,"Wilkinson, Christine & Scott",A-008003,2021-08-31 00:00:00,PHX - E1,Active,7308 E. Glencove St.,AZ,85207,1,1980
+Phoenix,"Williams, Candon",A-024096,2019-11-01 00:00:00,PHX - E1,Active,5216 E Hanibal St,AZ,85205,1,1833.4
+Phoenix,"Williams, Jon",A-056546,2023-06-19 00:00:00,PHX - W3,Active,6732 South 36th Lane,AZ,85041,1,1900
+Phoenix,"Williams, Michael",A-025174,2019-08-30 00:00:00,PHX - W3,Active,3140 W Dobbins Rd,AZ,85339,1,2021.2
+Phoenix,"Williams, Richard",A-002105,2014-07-28 00:00:00,PHX - W1,Active,18119 N. 53rd Dr.,AZ,85308,1,1980
+Phoenix,"Williams, Steve",A-065478,2024-10-07 00:00:00,PHX - SC4,Active,602 East Le Marche Avenue,AZ,85022,1,1980
+Phoenix,"Willy, Andrew & Andrea",A-002851,2015-01-07 00:00:00,PHX - E1,Active,7908 E Kael Street,AZ,85207,1,1980
+Phoenix,"Wilson, Carroll & Angela",A-034815,2021-10-25 00:00:00,PHX - W4,Active,8539 West Midway Avenue,AZ,85305,1,1957
+Phoenix,"Wilson, Isaac",A-032354,2021-04-12 00:00:00,PHX - W4,Active,8556 West Purdue Avenue,AZ,85345,1,1895.2
+Phoenix,"Wilson, Paula",A-006261,2010-03-23 00:00:00,PHX - SC3,Active,8231 E. Bonnie Rose Ave,AZ,85250,1,1771.6
+Phoenix,"Wingo, Kristie",A-005916,2021-08-11 00:00:00,PHX - W2,Active,2727 N 153rd Dr,AZ,85395,1,1980
+Phoenix,"Winkler, Jason L",A-007977,2021-07-01 00:00:00,PHX - E4,Active,927 E Mission Dr,AZ,85283,1,1980
+Phoenix,"Wiscombe, Michael",A-000495,2015-06-10 00:00:00,PHX - E3,Active,1620 E Saltsage,AZ,85048,1,1980
+Phoenix,Wise Choice Properties,A-012031,2019-12-20 00:00:00,PHX - W3,Active,211 W. Piedmont Rd.,AZ,85041,1,1768.14
+Phoenix,"Wise, Meghan and James",A-004450,2016-12-13 00:00:00,PHX - E3,Inactive,1184 W Spur Ave,AZ,85233,1,1980
+Phoenix,"Witt, Jesse & Jennifer",A-032715,2021-04-26 00:00:00,PHX - SC3,Active,3107 East Maryland Avenue,AZ,85016,1,1895.2
+Phoenix,"Wochos, Karen & Matt",A-004255,2018-07-19 00:00:00,PHX - SC2,Active,5724 E Tierra Buena Lane,AZ,85254,1,1771.6
+Phoenix,"Woellner, John",A-046716,2022-03-03 00:00:00,PHX - SC3,Active,6237 East Earll Drive,AZ,85251,1,1895.2
+Phoenix,"Wohr, Mark",A-006935,2015-05-12 00:00:00,PHX - E3,Active,2412 E Sapium Way,AZ,85048,1,1771.6
+Phoenix,"Wojtanowski, Michael",A-009011,2008-09-09 00:00:00,PHX - E2,Active,1163 E Windsor Dr.,AZ,85296,1,1980
+Phoenix,"Wood, Gary and Linda",A-000444,2016-08-16 00:00:00,PHX - W1,Active,6903 W. El Cortez Pl,AZ,85383,1,1771.6
+Phoenix,"Wood, Jane",A-022302,2024-07-10 00:00:00,PHX - W4,Active,10767 N 55th Dr,AZ,85304,1,2340
+Phoenix,"Woodring, Sharro",A-004602,2019-04-01 00:00:00,PHX - E4,Active,534 W La Jolla Dr,AZ,85282,1,1771.6
+Phoenix,Woods Residence (Training Account),A-049918,2022-07-27 00:00:00,PHX - W2,Active,575 North Estrella Parkway,AZ,85338,1,0
+Phoenix,"Woodstead, Heather",A-007332,2021-06-17 00:00:00,PHX - E4,Active,962 W. Parkway Blvd.,AZ,85281,1,1980
+Phoenix,"Woodstead, Heidi",A-007962,2023-03-07 00:00:00,PHX - E3,Active,2202 W Western Dr.,AZ,85224,1,1894
+Phoenix,"Wooten, Sylvia",A-024235,2019-11-01 00:00:00,PHX - E2,Active,3105 S Greenwood Cir,AZ,85212,1,1691.26
+Phoenix,"Wray, Dylon & Angela",A-010649,2018-03-07 00:00:00,PHX - E2,Active,475 E Sherri Dr,AZ,85296,1,1980
+Phoenix,"Wright, Dylan",A-069255,2025-09-23 00:00:00,PHX - E1,Active,1520 South Sunnyvale Circle,AZ,85206,1,1980
+Phoenix,"Wright, Jim",A-047707,2022-03-30 00:00:00,PHX - SC4,Active,1727 East Myrtle Avenue,AZ,85020,1,1957
+Phoenix,"Wrobel, Michelle",A-053014,2022-11-08 00:00:00,PHX - SC1,Active,2237 West Peak View Road,AZ,85085,1,1955.8
+Phoenix,"Wyatt, Jon",A-024118,2019-11-14 00:00:00,PHX - E1,Active,8948 E Hannibal Street,AZ,85207,1,1980
+Phoenix,"Wyatt, Rob",A-003403,2013-07-23 00:00:00,PHX - E2,Active,207 E Devon Dr,AZ,85296,1,1980
+Phoenix,"Yachymczyk, Brian",A-031448,2021-02-16 00:00:00,PHX - E2,Active,232 West Smoke Tree Road,AZ,85296,1,1895.2
+Phoenix,"Yazzie, Lynnann",A-010126,2025-05-30 00:00:00,PHX - E1,Active,624 S Banning,AZ,85206,1,2340
+Phoenix,"Yelland, Robert",A-008280,2024-10-23 00:00:00,PHX - E3,Active,4508 W Boston St.,AZ,85226,1,1860
+Phoenix,"Yelton, Paul",A-004503,2022-04-04 00:00:00,PHX - W1,Active,7443 W Williams Drive,AZ,85310,1,1895.2
+Phoenix,"Yenerich, Scott",A-012735,2013-04-10 00:00:00,PHX - E2,Active,1822 W Lantana Drive,AZ,85248,1,1980
+Phoenix,"Yerena, Silvia",A-004460,2019-05-02 00:00:00,PHX - W2,Active,3434 S. 72nd Ln,AZ,85043,1,1980
+Phoenix,"Yeskey, David",A-002028,2015-06-16 00:00:00,PHX - E3,Active,1001 W Grand Caymen Drive,AZ,85233,1,1833.4
+Phoenix,"Yetnikoff, Isidore",A-001656,2019-04-04 00:00:00,PHX - SC2,Active,6833 E Acoma Dr.,AZ,85254,1,1833.4
+Phoenix,"Young, Jeff & Carol",A-000964,2024-08-26 00:00:00,PHX - E2,Active,21415 S 142nd St,AZ,85286,1,2340
+Phoenix,"Young, Kristina",A-025148,2019-11-01 00:00:00,PHX - W2,Active,2441 S 159th Ln,AZ,85338,1,1833.4
+Phoenix,"Younkins, Annette",A-002812,2024-10-28 00:00:00,PHX - E3,Active,3507 E Ashurst Drive,AZ,85048,1,2020
+Phoenix,"Ysasi, Rosalinda",A-006613,2014-05-13 00:00:00,PHX - W3,Active,28 W Harwell Rd,AZ,85041,1,1980
+Phoenix,"Yungfleisch, Emily",A-024387,2020-06-01 00:00:00,PHX - E2,Active,551 E San Angelo Avenue,AZ,85234,1,1833.4
+Phoenix,"Zaharia, Arnold",A-053653,2025-08-07 00:00:00,PHX - W3,Active,3712 West Calle Poco Rd,AZ,85339,1,1980
+Phoenix,"Zaharis, Jim",A-024246,2019-11-01 00:00:00,PHX - E1,Active,2444 E Minton St,AZ,85213,1,1833.4
+Phoenix,"Zaragoza, David & Mary",A-004247,2016-04-19 00:00:00,PHX - W4,Active,4413 W Vista Ave,AZ,85301,1,1771.6
+Phoenix,"Zavala, Jose",A-032350,2024-07-31 00:00:00,PHX - W2,Active,11614 West Pima Street,AZ,85323,1,1980
+Phoenix,"Ziesmer, Elise",A-033327,2021-06-25 00:00:00,PHX - E2,Active,3114 South Martingale Road,AZ,85295,1,1980
+Phoenix,"Zimmerman, Stefan",A-064717,2024-07-18 00:00:00,PHX - SC2,Active,14826 North 55th Place,AZ,85254,1,1980
+Phoenix,"Zink, Alice",A-032713,2021-05-04 00:00:00,PHX - E2,Active,2023 South Starling Drive,AZ,85295,1,1895.2
+Phoenix,"Zirbo, Fineas",A-010469,2024-06-21 00:00:00,PHX - W1,Active,24438 N 40th Ln,AZ,85310,1,2340
+Phoenix,"Zraket, Alexis",A-005625,2023-06-27 00:00:00,PHX - E1,Active,326 E. Hope St.,AZ,85201,1,1900
+Phoenix,"Zupko, Leonard",A-008403,2022-01-10 00:00:00,PHX - E2,Active,1878 West Bluebird Drive,AZ,85286,1,1895.2

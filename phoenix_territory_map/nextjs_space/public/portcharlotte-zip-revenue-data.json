@@ -1,0 +1,221 @@
+[
+  {
+    "zipCode": "33946",
+    "accountCount": 3,
+    "monthlyRevenue": 420.0,
+    "yearlyRevenue": 5040.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  },
+  {
+    "zipCode": "33947",
+    "accountCount": 2,
+    "monthlyRevenue": 280.0,
+    "yearlyRevenue": 3360.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  },
+  {
+    "zipCode": "33948",
+    "accountCount": 5,
+    "monthlyRevenue": 690.0,
+    "yearlyRevenue": 8280.0,
+    "averageMonthlyRate": 138.0,
+    "averageYearlyRate": 1656.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  },
+  {
+    "zipCode": "33950",
+    "accountCount": 10,
+    "monthlyRevenue": 1400.0,
+    "yearlyRevenue": 16800.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  },
+  {
+    "zipCode": "33952",
+    "accountCount": 6,
+    "monthlyRevenue": 840.0,
+    "yearlyRevenue": 10080.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  },
+  {
+    "zipCode": "33953",
+    "accountCount": 6,
+    "monthlyRevenue": 840.0,
+    "yearlyRevenue": 10080.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  },
+  {
+    "zipCode": "33954",
+    "accountCount": 2,
+    "monthlyRevenue": 280.0,
+    "yearlyRevenue": 3360.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  },
+  {
+    "zipCode": "33955",
+    "accountCount": 2,
+    "monthlyRevenue": 280.0,
+    "yearlyRevenue": 3360.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  },
+  {
+    "zipCode": "33980",
+    "accountCount": 3,
+    "monthlyRevenue": 420.0,
+    "yearlyRevenue": 5040.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  },
+  {
+    "zipCode": "33981",
+    "accountCount": 3,
+    "monthlyRevenue": 420.0,
+    "yearlyRevenue": 5040.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  },
+  {
+    "zipCode": "33983",
+    "accountCount": 5,
+    "monthlyRevenue": 690.0,
+    "yearlyRevenue": 8280.0,
+    "averageMonthlyRate": 138.0,
+    "averageYearlyRate": 1656.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez",
+      "Max Carlini"
+    ]
+  },
+  {
+    "zipCode": "34223",
+    "accountCount": 2,
+    "monthlyRevenue": 280.0,
+    "yearlyRevenue": 3360.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez",
+      "Max Carlini"
+    ]
+  },
+  {
+    "zipCode": "34224",
+    "accountCount": 1,
+    "monthlyRevenue": 140.0,
+    "yearlyRevenue": 1680.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  },
+  {
+    "zipCode": "34285",
+    "accountCount": 1,
+    "monthlyRevenue": 140.0,
+    "yearlyRevenue": 1680.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Max Carlini"
+    ]
+  },
+  {
+    "zipCode": "34286",
+    "accountCount": 1,
+    "monthlyRevenue": 140.0,
+    "yearlyRevenue": 1680.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  },
+  {
+    "zipCode": "34287",
+    "accountCount": 2,
+    "monthlyRevenue": 280.0,
+    "yearlyRevenue": 3360.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez",
+      "Unassigned"
+    ]
+  },
+  {
+    "zipCode": "34288",
+    "accountCount": 2,
+    "monthlyRevenue": 280.0,
+    "yearlyRevenue": 3360.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  },
+  {
+    "zipCode": "34293",
+    "accountCount": 1,
+    "monthlyRevenue": 140.0,
+    "yearlyRevenue": 1680.0,
+    "averageMonthlyRate": 140.0,
+    "averageYearlyRate": 1680.0,
+    "territory": "All Pool - Outlying Maintenance",
+    "technicians": [
+      "Jovan Rodriguez"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+Short Branch Name,Name,Customer_Number__c,StartDate,End Date Formatted,Name.1,Status,ShippingStreet,ShippingCity,ShippingPostalCode,Active Contracts On Month Start (Residential),Sum of xAnnualValue__c,Zip_Clean,Zip_Int
+Casa Grande / Tucson,Acacia Properties - 4030 E La Cadena - Maintenance - 02/ 18/2021,A-031208,2/18/2021,,TC 1 - Resi/Comm,Active,4030 East La Cadena,Tucson,85718,1,1277.2,85718,85718
+Casa Grande / Tucson,Acacia Properties - 5955 E 5th St - Maintenance - 02/ 18/2021,A-031214,2/18/2021,,TC 1 - Resi/Comm,Active,5955 East 5th Street,Tucson,85711,1,1400.8,85711,85711
+Casa Grande / Tucson,Acacia Properties - 7062 E Snyder Rd - Maintenance - 02/ 18/2021,A-031207,2/18/2021,,TC 1 - Resi/Comm,Active,7062 East Snyder Road,Tucson,85750,1,1709.8,85750,85750
+Casa Grande / Tucson,Acacia Properties - 7931 E Mabel Dr - Maintenance - 02/ 18/2021,A-031209,2/18/2021,,TC 1 - Resi/Comm,Active,7931 East Mabel Drive,Tucson,85715,1,1277.2,85715,85715
+Casa Grande / Tucson,Acacia Properties - Maintenance - 03/ 31/2022,A-046809,3/31/2022,,TC 1 - Resi/Comm,Active,2215 East Cerrada Bala,Tucson,85718,1,2068.24,85718,85718
+Casa Grande / Tucson,Acacia Properties - Maintenance - 06/ 19/2023,A-056334,6/19/2023,,TC 1 - Resi/Comm,Active,6408 East Calle De Mirar,Tucson,85750,1,2067.04,85750,85750
+Casa Grande / Tucson,Acosta Residence - Maintenance - 01/ 22/2025,A-066931,1/22/2025,,TC 1 - Resi/Comm,Active,11135 North Divot Drive,Oro Valley,85737,1,1980.0,85737,85737
+Casa Grande / Tucson,Adam Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-03,A-028670,4/3/2020,,TC 1 - Resi/Comm,Active,3890 W Oasis Dr,Tucson,85742,1,1524.4,85742,85742
+Casa Grande / Tucson,Adams Residence - Maintenance - 01/ 28/2021,A-031159,1/28/2021,,TC 1 - Resi/Comm,Active,8234 East Big Horn Trail,Tucson,85750,1,1957.0,85750,85750
+Casa Grande / Tucson,Altman Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,A-014112,8/21/2018,,TC 1 - Resi/Comm,Active,3441 S. Saguaro Shadows Drive,Tucson,85730,1,1957.0,85730,85730
+Casa Grande / Tucson,American Homes 4 Rent AZ00261 - Maintenance - 10/ 27/2022,A-023398,10/27/2022,,TC 1 - Resi/Comm,Active,7991 S New Abbey Drive,Tucson,85747,1,2067.04,85747,85747
+Casa Grande / Tucson,American Homes 4 Rent AZ12071 - Maintenance - 10/ 27/2022,A-023378,10/27/2022,,TC 1 - Resi/Comm,Active,4842 E Coneflower Drive,Tucson,85756,1,2067.04,85756,85756
+Casa Grande / Tucson,American Homes 4 Rent AZ12152 - Maintenance - 10/ 27/2022,A-023286,10/27/2022,,TC 1 - Resi/Comm,Active,5870 E Chaucer Drive,Tucson,85756,1,2067.04,85756,85756
+Casa Grande / Tucson,American Homes 4 Rent AZ12182 - Maintenance - 10/ 27/2022,A-023350,10/27/2022,,TC 1 - Resi/Comm,Active,5586 S Stockwell Drive,Tucson,85756,1,2067.04,85756,85756
+Casa Grande / Tucson,American Homes 4 Rent AZA0043 - Maintenance - 10/ 27/2022,A-023384,10/27/2022,,TC 1 - Resi/Comm,Active,8961 E Citrus Tree Drive,Tucson,85730,1,2067.04,85730,85730
+Casa Grande / Tucson,American Homes 4 Rent AZA0112 - Maintenance - 10/ 27/2022,A-023046,10/27/2022,,TC 1 - Resi/Comm,Active,2980 W Calle Rosalinda,Tucson,85746,1,2067.04,85746,85746
+Casa Grande / Tucson,Beyer Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,A-013800,8/21/2018,,TC 1 - Resi/Comm,Active,39147 S. Quick Trot Drive,Tucson,85739,1,1560.0,85739,85739
+Casa Grande / Tucson,Bose Residence - Maintenance - 01/ 28/2021,A-031167,1/28/2021,,TC 1 - Resi/Comm,Active,6942 North Longfellow Lane,Tucson,85718,1,1957.0,85718,85718
+Casa Grande / Tucson,"Burchette, Robert - Maintenance - 05/ 23/2025",A-068211,5/23/2025,,TC 1 - Resi/Comm,Active,6562 North Pomona Road,Tucson,85704,1,1980.0,85704,85704
+Casa Grande / Tucson,Butcher Residence - Maintenance - Ongoing (Winter and Summer) - 2020-01-02,A-014136,1/2/2020,,TC 1 - Resi/Comm,Active,7277 East Paseo San Andrés,Tucson,85710,1,1957.0,85710,85710
+Casa Grande / Tucson,"Clinton, Malissia - Maintenance - 04/ 03/2025",A-067604,4/3/2025,,TC 1 - Resi/Comm,Active,4721 West Mossman Road,Tucson,85757,1,1980.0,85757,85757
+Casa Grande / Tucson,Corcoran Residence - Maintenance - 07/ 26/2022,A-050533,7/26/2022,,TC 1 - Resi/Comm,Active,6248 West Copper Leaf Drive,Tucson,85757,1,1881.64,85757,85757
+Casa Grande / Tucson,Davies Residence - Maintenance - 09/ 06/2024,A-065194,9/6/2024,,TC 1 - Resi/Comm,Active,3121 North Hill Farm Drive,Tucson,85712,1,2020.0,85712,85712
+Casa Grande / Tucson,"Deleon Guerrero, Patrick - Maintenance - 06/ 03/2025",A-068261,6/3/2025,,TC 1 - Resi/Comm,Active,15084 North Pelham Road,Tucson,85739,1,1980.0,85739,85739
+Casa Grande / Tucson,"Diaz, Briana - Maintenance - 06/ 03/2025",A-068259,6/3/2025,,TC 1 - Resi/Comm,Active,4037 South Queen Palm Drive,Tucson,85730,1,1980.0,85730,85730
+Casa Grande / Tucson,Dunne Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,A-013701,8/21/2018,,TC 1 - Resi/Comm,Active,4361 N Ventana Loop,Tucson,85750,1,1957.0,85750,85750
+Casa Grande / Tucson,Elfenbein Residence - Maintenance - 02/ 16/2021,A-031430,2/23/2021,,TC 1 - Resi/Comm,Active,5610 East Territory Drive,Tucson,85750,1,1957.0,85750,85750
+Casa Grande / Tucson,Fein Residence - Maintenance - 06/ 18/2021,A-033267,6/18/2021,,TC 1 - Resi/Comm,Active,1332 East Big Rock Road,Tucson,85718,1,2055.88,85718,85718
+Casa Grande / Tucson,Garcia Residence - Maintenance - 09/ 04/2024,A-065125,9/4/2024,,TC 1 - Resi/Comm,Active,6237 West Mesa Garden Drive,Tucson,85757,1,2020.0,85757,85757
+Casa Grande / Tucson,Gracco Residence - Maintenance - 03/ 02/2022,A-039048,3/2/2022,,TC 1 - Resi/Comm,Active,6709 South Craycroft Road,Tucson,85756,1,1882.84,85756,85756
+Casa Grande / Tucson,Gudzunas Residential - Maintenance - 09/ 04/2024,A-065065,9/4/2024,,TC 1 - Resi/Comm,Active,4500 W Lynn Cir,Tucson,85741,1,1980.0,85741,85741
+Casa Grande / Tucson,"Guthro, Debby - Maintenance - 04/ 30/2025",A-067953,4/30/2025,,TC 1 - Resi/Comm,Active,14820 North Appleton Avenue,Tucson,85739,1,1980.0,85739,85739
+Casa Grande / Tucson,Gutierrez - Maintenance - 06/ 09/2021,A-033479,6/9/2021,,TC 1 - Resi/Comm,Active,7733 West Talavera Way,Tucson,85743,1,1759.24,85743,85743
+Casa Grande / Tucson,"Guyitele, Ghadi - Maintenance - 03/ 31/2025",A-067447,3/31/2025,,TC 1 - Resi/Comm,Active,5062 West Warbler Street,Tucson,85742,1,1980.0,85742,85742
+Casa Grande / Tucson,Harry Residence - Maintenance - Ongoing (Winter and Summer) - 2020-09-02,A-028686,2/18/2021,,TC 1 - Resi/Comm,Active,7005 N Northlight Dr,Tucson,85741,1,1882.84,85741,85741
+Casa Grande / Tucson,Hoffman Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,A-014161,8/21/2018,,TC 1 - Resi/Comm,Active,2012 N Horseshoe Trail,Tucson,85745,1,1648.0,85745,85745
+Casa Grande / Tucson,"Hurtado, Araceli - Maintenance - 04/ 28/2025",A-067899,4/28/2025,,TC 1 - Resi/Comm,Active,6681 West Brightwater Way,Tucson,85757,1,1980.0,85757,85757
+Casa Grande / Tucson,Hy Residence - Maintenance - 06/ 20/2023,A-056543,6/20/2023,,TC 1 - Resi/Comm,Active,4340 South Camino De Oeste,Tucson,85746,1,2067.04,85746,85746
+Casa Grande / Tucson,Kaplan Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,A-014157,8/21/2018,,TC 1 - Resi/Comm,Active,1300 East Calle Mariposa,Tucson,85718,1,2307.78,85718,85718
+Casa Grande / Tucson,Kerr Residence - Maintenance - 12/ 21/2022,A-053453,12/21/2022,,TC 1 - Resi/Comm,Active,7313 North Heathcliff Avenue,Tucson,85741,1,2067.04,85741,85741
+Casa Grande / Tucson,"Ksionda, Michael - Maintenance - 06/ 27/2025",A-068630,6/27/2025,,TC 1 - Resi/Comm,Active,3226 East 2nd Street,Tucson,85716,1,1980.0,85716,85716
+Casa Grande / Tucson,Lueders Residence - Maintenance - 02/ 08/2023,A-054009,2/23/2023,,TC 1 - Resi/Comm,Active,13295 North Booming Drive,Oro Valley,85755,1,2067.04,85755,85755
+Casa Grande / Tucson,"McGill, Laurel - Maintenance - 09/ 03/2025",A-069132,9/3/2025,,TC 1 - Resi/Comm,Active,12875 East Nighthawk Ranch Place,Tucson,85749,1,2400.0,85749,85749
+Casa Grande / Tucson,Mehle Residence - Maintenance - 01/ 27/2021,A-031161,1/27/2021,,TC 1 - Resi/Comm,Active,10575 North Stargazer Drive,Tucson,85737,1,1957.0,85737,85737
+Casa Grande / Tucson,Meisenheimer Residence - Maintenance - 05/ 23/2022,A-049514,5/23/2022,,TC 1 - Resi/Comm,Active,12396 North Mount Bigelow Road,Oro Valley,85755,1,1882.84,85755,85755
+Casa Grande / Tucson,Myers Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,A-013702,8/21/2018,,TC 1 - Resi/Comm,Active,6476 North Desert Breeze Court,Tucson,85750,1,1957.0,85750,85750
+Casa Grande / Tucson,"Nabi, Sara - Maintenance - 06/ 05/2025",A-067798,6/5/2025,,TC 1 - Resi/Comm,Active,1830 Marble Ridge Drive,Tucson,85715,1,1980.0,85715,85715
+Casa Grande / Tucson,Nations Residence - Maintenance - 01/ 28/2021,A-031179,1/28/2021,,TC 1 - Resi/Comm,Active,5410 North Canyon Rise Place,Tucson,85749,1,1957.0,85749,85749
+Casa Grande / Tucson,"Olivarez, Fernando - Maintenance - 06/ 23/2025",A-068550,6/23/2025,,TC 1 - Resi/Comm,Active,818 West Kelso Street,Tucson,85705,1,1980.0,85705,85705
+Casa Grande / Tucson,"Pobrislo, Jim - Maintenance - 02/ 25/2025",A-067375,2/25/2025,,TC 1 - Resi/Comm,Active,5535 North Grande Avenue,Tucson,85704,1,1980.0,85704,85704
+Casa Grande / Tucson,Robinson Residence - Maintenance - 08/ 01/2022,A-050898,8/1/2022,,TC 1 - Resi/Comm,Active,4550 North Territory Place,Tucson,85750,1,1881.64,85750,85750
+Casa Grande / Tucson,Russell Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,A-013339,8/21/2018,,TC 1 - Resi/Comm,Active,4180 N Kolb Rd,Tucson,85750,1,1957.0,85750,85750
+Casa Grande / Tucson,"Saghafi, Hooman - Maintenance - 08/ 06/2025",A-068937,8/6/2025,,TC 1 - Resi/Comm,Active,8494 East Desert Spring Street,Tucson,85730,1,1980.0,85730,85730
+Casa Grande / Tucson,"Sampson Brown, Julie - Maintenance - 06/ 13/2025",A-068326,6/13/2025,,TC 1 - Resi/Comm,Active,3170 West Bayleaf Drive,Tucson,85741,1,1980.0,85741,85741
+Casa Grande / Tucson,Schunk-Peru Residence - Maintenance - Ongoing (Winter and Summer) - 2019-07-09,A-013699,7/9/2019,,TC 1 - Resi/Comm,Active,7780 N. Nicole Pl,Tucson,85741,1,1957.0,85741,85741
+Casa Grande / Tucson,Shulman Residence - Maintenance - 02/ 25/2025,A-067166,2/25/2025,,TC 1 - Resi/Comm,Active,2845 North Conestoga Avenue,Tucson,85749,1,1980.0,85749,85749
+Casa Grande / Tucson,Thomas Residence - Maintenance - 06/ 21/2022,A-050106,6/21/2022,,TC 1 - Resi/Comm,Active,5520 North Northern Hills Drive,Tucson,85704,1,2068.24,85704,85704
+Casa Grande / Tucson,Thompson Residence - Maintenance - 08/ 15/2024,A-064982,8/15/2024,,TC 1 - Resi/Comm,Active,4929 East Parade Ground Loop,Tucson,85712,1,1980.0,85712,85712
+Casa Grande / Tucson,Uihlein Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,A-013806,8/21/2018,,TC 1 - Resi/Comm,Active,7506 N Shirley Lane,Tucson,85741,1,1882.84,85741,85741
+Casa Grande / Tucson,Uno Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,A-013703,8/21/2018,,TC 1 - Resi/Comm,Active,5611 E Paseo Remedios,Tucson,85750,1,2184.18,85750,85750
+Casa Grande / Tucson,Vasquez Residence - Maintenance - 02/ 06/2025,A-067216,2/6/2025,,TC 1 - Resi/Comm,Active,5061 West Willow Run Lane,Tucson,85741,1,1980.0,85741,85741
+Casa Grande / Tucson,"Verduzco, Rolando - Maintenance - 06/ 17/2025",A-068461,6/17/2025,,TC 1 - Resi/Comm,Active,6531 North Pontatoc Road,Tucson,85718,1,1980.0,85718,85718
+Casa Grande / Tucson,Wekell Residence - Maintenance - 06/ 27/2022,A-050226,6/27/2022,,TC 1 - Resi/Comm,Active,622 South La Vista Place,Tucson,85710,1,2068.24,85710,85710
+Casa Grande / Tucson,Yunkherr Residence - Maintenance - 01/ 17/2025,A-066968,1/17/2025,,TC 1 - Resi/Comm,Active,1131 West Lone Star Mine Place,Tucson,85737,1,1980.0,85737,85737

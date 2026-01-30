@@ -1,0 +1,1397 @@
+[
+  {
+    "zipCode": "75002",
+    "city": "Allen",
+    "activeCount": 12,
+    "terminatedCount": 32,
+    "totalHistorical": 44,
+    "churnRate": 72.7,
+    "avgCustomerLifetimeMonths": 96.6
+  },
+  {
+    "zipCode": "75006",
+    "city": "Carrollton",
+    "activeCount": 1,
+    "terminatedCount": 2,
+    "totalHistorical": 3,
+    "churnRate": 66.7,
+    "avgCustomerLifetimeMonths": 10.3
+  },
+  {
+    "zipCode": "75007",
+    "city": "Carrollton",
+    "activeCount": 4,
+    "terminatedCount": 14,
+    "totalHistorical": 18,
+    "churnRate": 77.8,
+    "avgCustomerLifetimeMonths": 61.6
+  },
+  {
+    "zipCode": "75009",
+    "city": "Celina",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 33.0
+  },
+  {
+    "zipCode": "75010",
+    "city": "Carrollton",
+    "activeCount": 3,
+    "terminatedCount": 7,
+    "totalHistorical": 10,
+    "churnRate": 70.0,
+    "avgCustomerLifetimeMonths": 42.5
+  },
+  {
+    "zipCode": "75013",
+    "city": "Allen",
+    "activeCount": 8,
+    "terminatedCount": 26,
+    "totalHistorical": 34,
+    "churnRate": 76.5,
+    "avgCustomerLifetimeMonths": 70.4
+  },
+  {
+    "zipCode": "75019",
+    "city": "Coppell",
+    "activeCount": 50,
+    "terminatedCount": 133,
+    "totalHistorical": 183,
+    "churnRate": 72.7,
+    "avgCustomerLifetimeMonths": 84.2
+  },
+  {
+    "zipCode": "75022",
+    "city": "Flower Mound",
+    "activeCount": 13,
+    "terminatedCount": 53,
+    "totalHistorical": 66,
+    "churnRate": 80.3,
+    "avgCustomerLifetimeMonths": 72.7
+  },
+  {
+    "zipCode": "75023",
+    "city": "Plano",
+    "activeCount": 14,
+    "terminatedCount": 69,
+    "totalHistorical": 83,
+    "churnRate": 83.1,
+    "avgCustomerLifetimeMonths": 92.0
+  },
+  {
+    "zipCode": "75024",
+    "city": "Plano",
+    "activeCount": 9,
+    "terminatedCount": 39,
+    "totalHistorical": 48,
+    "churnRate": 81.2,
+    "avgCustomerLifetimeMonths": 85.0
+  },
+  {
+    "zipCode": "75025",
+    "city": "Plano",
+    "activeCount": 14,
+    "terminatedCount": 52,
+    "totalHistorical": 66,
+    "churnRate": 78.8,
+    "avgCustomerLifetimeMonths": 58.7
+  },
+  {
+    "zipCode": "75028",
+    "city": "Flower Mound",
+    "activeCount": 42,
+    "terminatedCount": 160,
+    "totalHistorical": 202,
+    "churnRate": 79.2,
+    "avgCustomerLifetimeMonths": 71.4
+  },
+  {
+    "zipCode": "75033",
+    "city": "Frisco",
+    "activeCount": 5,
+    "terminatedCount": 13,
+    "totalHistorical": 18,
+    "churnRate": 72.2,
+    "avgCustomerLifetimeMonths": 57.6
+  },
+  {
+    "zipCode": "75034",
+    "city": "Frisco",
+    "activeCount": 6,
+    "terminatedCount": 13,
+    "totalHistorical": 19,
+    "churnRate": 68.4,
+    "avgCustomerLifetimeMonths": 66.2
+  },
+  {
+    "zipCode": "75035",
+    "city": "Frisco",
+    "activeCount": 8,
+    "terminatedCount": 17,
+    "totalHistorical": 25,
+    "churnRate": 68.0,
+    "avgCustomerLifetimeMonths": 45.4
+  },
+  {
+    "zipCode": "75036",
+    "city": "Frisco",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 16.0
+  },
+  {
+    "zipCode": "75038",
+    "city": "Irving",
+    "activeCount": 2,
+    "terminatedCount": 1,
+    "totalHistorical": 3,
+    "churnRate": 33.3,
+    "avgCustomerLifetimeMonths": 50.7
+  },
+  {
+    "zipCode": "75040",
+    "city": "Garland",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 47.0
+  },
+  {
+    "zipCode": "75043",
+    "city": "Garland",
+    "activeCount": 1,
+    "terminatedCount": 7,
+    "totalHistorical": 8,
+    "churnRate": 87.5,
+    "avgCustomerLifetimeMonths": 22.4
+  },
+  {
+    "zipCode": "75044",
+    "city": "Garland",
+    "activeCount": 1,
+    "terminatedCount": 7,
+    "totalHistorical": 8,
+    "churnRate": 87.5,
+    "avgCustomerLifetimeMonths": 24.9
+  },
+  {
+    "zipCode": "75048",
+    "city": "Sachse",
+    "activeCount": 2,
+    "terminatedCount": 1,
+    "totalHistorical": 3,
+    "churnRate": 33.3,
+    "avgCustomerLifetimeMonths": 20.0
+  },
+  {
+    "zipCode": "75050",
+    "city": "Grand Prairie",
+    "activeCount": 1,
+    "terminatedCount": 9,
+    "totalHistorical": 10,
+    "churnRate": 90.0,
+    "avgCustomerLifetimeMonths": 94.0
+  },
+  {
+    "zipCode": "75051",
+    "city": "Grand Prairie",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 1.0
+  },
+  {
+    "zipCode": "75052",
+    "city": "Grand Prairie",
+    "activeCount": 8,
+    "terminatedCount": 20,
+    "totalHistorical": 28,
+    "churnRate": 71.4,
+    "avgCustomerLifetimeMonths": 66.5
+  },
+  {
+    "zipCode": "75054",
+    "city": "Grand Prairie",
+    "activeCount": 3,
+    "terminatedCount": 7,
+    "totalHistorical": 10,
+    "churnRate": 70.0,
+    "avgCustomerLifetimeMonths": 23.1
+  },
+  {
+    "zipCode": "75056",
+    "city": "The Colony",
+    "activeCount": 7,
+    "terminatedCount": 45,
+    "totalHistorical": 52,
+    "churnRate": 86.5,
+    "avgCustomerLifetimeMonths": 81.8
+  },
+  {
+    "zipCode": "75057",
+    "city": "Lewisville",
+    "activeCount": 4,
+    "terminatedCount": 2,
+    "totalHistorical": 6,
+    "churnRate": 33.3,
+    "avgCustomerLifetimeMonths": 150.0
+  },
+  {
+    "zipCode": "75060",
+    "city": "Irving",
+    "activeCount": 0,
+    "terminatedCount": 4,
+    "totalHistorical": 4,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 17.8
+  },
+  {
+    "zipCode": "75061",
+    "city": "Irving",
+    "activeCount": 1,
+    "terminatedCount": 2,
+    "totalHistorical": 3,
+    "churnRate": 66.7,
+    "avgCustomerLifetimeMonths": 12.7
+  },
+  {
+    "zipCode": "75062",
+    "city": "Irving",
+    "activeCount": 1,
+    "terminatedCount": 6,
+    "totalHistorical": 7,
+    "churnRate": 85.7,
+    "avgCustomerLifetimeMonths": 35.3
+  },
+  {
+    "zipCode": "75063",
+    "city": "Irving",
+    "activeCount": 0,
+    "terminatedCount": 13,
+    "totalHistorical": 13,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 64.8
+  },
+  {
+    "zipCode": "75065",
+    "city": "Hickory Creek",
+    "activeCount": 3,
+    "terminatedCount": 18,
+    "totalHistorical": 21,
+    "churnRate": 85.7,
+    "avgCustomerLifetimeMonths": 83.4
+  },
+  {
+    "zipCode": "75067",
+    "city": "Lewisville",
+    "activeCount": 9,
+    "terminatedCount": 41,
+    "totalHistorical": 50,
+    "churnRate": 82.0,
+    "avgCustomerLifetimeMonths": 80.5
+  },
+  {
+    "zipCode": "75068",
+    "city": "Little Elm",
+    "activeCount": 3,
+    "terminatedCount": 9,
+    "totalHistorical": 12,
+    "churnRate": 75.0,
+    "avgCustomerLifetimeMonths": 51.1
+  },
+  {
+    "zipCode": "75069",
+    "city": "Fairview",
+    "activeCount": 0,
+    "terminatedCount": 5,
+    "totalHistorical": 5,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 54.5
+  },
+  {
+    "zipCode": "75070",
+    "city": "McKinney",
+    "activeCount": 3,
+    "terminatedCount": 11,
+    "totalHistorical": 14,
+    "churnRate": 78.6,
+    "avgCustomerLifetimeMonths": 48.4
+  },
+  {
+    "zipCode": "75071",
+    "city": "McKinney",
+    "activeCount": 5,
+    "terminatedCount": 5,
+    "totalHistorical": 10,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 40.2
+  },
+  {
+    "zipCode": "75072",
+    "city": "McKinney",
+    "activeCount": 1,
+    "terminatedCount": 1,
+    "totalHistorical": 2,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 51.5
+  },
+  {
+    "zipCode": "75074",
+    "city": "Plano",
+    "activeCount": 4,
+    "terminatedCount": 16,
+    "totalHistorical": 20,
+    "churnRate": 80.0,
+    "avgCustomerLifetimeMonths": 75.7
+  },
+  {
+    "zipCode": "75075",
+    "city": "Plano",
+    "activeCount": 21,
+    "terminatedCount": 48,
+    "totalHistorical": 69,
+    "churnRate": 69.6,
+    "avgCustomerLifetimeMonths": 83.1
+  },
+  {
+    "zipCode": "75077",
+    "city": "Highland Village",
+    "activeCount": 47,
+    "terminatedCount": 198,
+    "totalHistorical": 245,
+    "churnRate": 80.8,
+    "avgCustomerLifetimeMonths": 80.4
+  },
+  {
+    "zipCode": "75078",
+    "city": "Prosper",
+    "activeCount": 1,
+    "terminatedCount": 7,
+    "totalHistorical": 8,
+    "churnRate": 87.5,
+    "avgCustomerLifetimeMonths": 16.4
+  },
+  {
+    "zipCode": "75080",
+    "city": "Richardson",
+    "activeCount": 1,
+    "terminatedCount": 5,
+    "totalHistorical": 6,
+    "churnRate": 83.3,
+    "avgCustomerLifetimeMonths": 28.1
+  },
+  {
+    "zipCode": "75081",
+    "city": "Richardson",
+    "activeCount": 1,
+    "terminatedCount": 5,
+    "totalHistorical": 6,
+    "churnRate": 83.3,
+    "avgCustomerLifetimeMonths": 25.3
+  },
+  {
+    "zipCode": "75082",
+    "city": "Richardson",
+    "activeCount": 0,
+    "terminatedCount": 5,
+    "totalHistorical": 5,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 19.8
+  },
+  {
+    "zipCode": "75087",
+    "city": "Rockwall",
+    "activeCount": 0,
+    "terminatedCount": 2,
+    "totalHistorical": 2,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 25.0
+  },
+  {
+    "zipCode": "75088",
+    "city": "Rowlett",
+    "activeCount": 0,
+    "terminatedCount": 2,
+    "totalHistorical": 2,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 23.0
+  },
+  {
+    "zipCode": "75089",
+    "city": "Rowlett",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 9.0
+  },
+  {
+    "zipCode": "75092",
+    "city": "Plano",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 7.0
+  },
+  {
+    "zipCode": "75093",
+    "city": "Plano",
+    "activeCount": 31,
+    "terminatedCount": 68,
+    "totalHistorical": 99,
+    "churnRate": 68.7,
+    "avgCustomerLifetimeMonths": 89.6
+  },
+  {
+    "zipCode": "75094",
+    "city": "Plano",
+    "activeCount": 1,
+    "terminatedCount": 8,
+    "totalHistorical": 9,
+    "churnRate": 88.9,
+    "avgCustomerLifetimeMonths": 82.6
+  },
+  {
+    "zipCode": "75104",
+    "city": "Cedar Hill",
+    "activeCount": 4,
+    "terminatedCount": 18,
+    "totalHistorical": 22,
+    "churnRate": 81.8,
+    "avgCustomerLifetimeMonths": 32.8
+  },
+  {
+    "zipCode": "75115",
+    "city": "Desoto",
+    "activeCount": 4,
+    "terminatedCount": 16,
+    "totalHistorical": 20,
+    "churnRate": 80.0,
+    "avgCustomerLifetimeMonths": 16.9
+  },
+  {
+    "zipCode": "75116",
+    "city": "Duncanville",
+    "activeCount": 0,
+    "terminatedCount": 2,
+    "totalHistorical": 2,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 20.5
+  },
+  {
+    "zipCode": "75137",
+    "city": "Duncanville",
+    "activeCount": 2,
+    "terminatedCount": 12,
+    "totalHistorical": 14,
+    "churnRate": 85.7,
+    "avgCustomerLifetimeMonths": 29.7
+  },
+  {
+    "zipCode": "75149",
+    "city": "Mesquite",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 18.0
+  },
+  {
+    "zipCode": "75150",
+    "city": "Mesquite",
+    "activeCount": 0,
+    "terminatedCount": 3,
+    "totalHistorical": 3,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 12.7
+  },
+  {
+    "zipCode": "75154",
+    "city": "Glenn Heights",
+    "activeCount": 1,
+    "terminatedCount": 3,
+    "totalHistorical": 4,
+    "churnRate": 75.0,
+    "avgCustomerLifetimeMonths": 11.2
+  },
+  {
+    "zipCode": "75182",
+    "city": "Sunnyvale",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 2.0
+  },
+  {
+    "zipCode": "75203",
+    "city": "Dallas",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 18.0
+  },
+  {
+    "zipCode": "75205",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 1.0
+  },
+  {
+    "zipCode": "75206",
+    "city": "Dallas",
+    "activeCount": 1,
+    "terminatedCount": 1,
+    "totalHistorical": 2,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 11.8
+  },
+  {
+    "zipCode": "75208",
+    "city": "Dallas",
+    "activeCount": 2,
+    "terminatedCount": 4,
+    "totalHistorical": 6,
+    "churnRate": 66.7,
+    "avgCustomerLifetimeMonths": 15.3
+  },
+  {
+    "zipCode": "75209",
+    "city": "Dallas",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 51.0
+  },
+  {
+    "zipCode": "75211",
+    "city": "Dallas",
+    "activeCount": 1,
+    "terminatedCount": 1,
+    "totalHistorical": 2,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 32.0
+  },
+  {
+    "zipCode": "75214",
+    "city": "Dallas",
+    "activeCount": 1,
+    "terminatedCount": 7,
+    "totalHistorical": 8,
+    "churnRate": 87.5,
+    "avgCustomerLifetimeMonths": 18.4
+  },
+  {
+    "zipCode": "75219",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 3,
+    "totalHistorical": 3,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 5.7
+  },
+  {
+    "zipCode": "75220",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 4,
+    "totalHistorical": 4,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 36.5
+  },
+  {
+    "zipCode": "75224",
+    "city": "Dallas",
+    "activeCount": 2,
+    "terminatedCount": 2,
+    "totalHistorical": 4,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 13.5
+  },
+  {
+    "zipCode": "75225",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 2,
+    "totalHistorical": 2,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 60.0
+  },
+  {
+    "zipCode": "75227",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 6.0
+  },
+  {
+    "zipCode": "75228",
+    "city": "Dallas",
+    "activeCount": 2,
+    "terminatedCount": 8,
+    "totalHistorical": 10,
+    "churnRate": 80.0,
+    "avgCustomerLifetimeMonths": 12.9
+  },
+  {
+    "zipCode": "75229",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 5,
+    "totalHistorical": 5,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 45.2
+  },
+  {
+    "zipCode": "75230",
+    "city": "Dallas",
+    "activeCount": 1,
+    "terminatedCount": 3,
+    "totalHistorical": 4,
+    "churnRate": 75.0,
+    "avgCustomerLifetimeMonths": 37.2
+  },
+  {
+    "zipCode": "75231",
+    "city": "Dallas",
+    "activeCount": 1,
+    "terminatedCount": 8,
+    "totalHistorical": 9,
+    "churnRate": 88.9,
+    "avgCustomerLifetimeMonths": 60.2
+  },
+  {
+    "zipCode": "75232",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 1.0
+  },
+  {
+    "zipCode": "75233",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 2,
+    "totalHistorical": 2,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 10.8
+  },
+  {
+    "zipCode": "75234",
+    "city": "Farmers Branch",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 42.0
+  },
+  {
+    "zipCode": "75236",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 2,
+    "totalHistorical": 2,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 19.0
+  },
+  {
+    "zipCode": "75238",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 3,
+    "totalHistorical": 3,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 9.3
+  },
+  {
+    "zipCode": "75240",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 1.5
+  },
+  {
+    "zipCode": "75243",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 4,
+    "totalHistorical": 4,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 12.0
+  },
+  {
+    "zipCode": "75244",
+    "city": "Dallas",
+    "activeCount": 1,
+    "terminatedCount": 3,
+    "totalHistorical": 4,
+    "churnRate": 75.0,
+    "avgCustomerLifetimeMonths": 20.0
+  },
+  {
+    "zipCode": "75246",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 2.0
+  },
+  {
+    "zipCode": "75248",
+    "city": "Dallas",
+    "activeCount": 2,
+    "terminatedCount": 13,
+    "totalHistorical": 15,
+    "churnRate": 86.7,
+    "avgCustomerLifetimeMonths": 21.2
+  },
+  {
+    "zipCode": "75252",
+    "city": "Dallas",
+    "activeCount": 1,
+    "terminatedCount": 1,
+    "totalHistorical": 2,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 38.5
+  },
+  {
+    "zipCode": "75254",
+    "city": "Dallas",
+    "activeCount": 0,
+    "terminatedCount": 3,
+    "totalHistorical": 3,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 25.7
+  },
+  {
+    "zipCode": "75287",
+    "city": "Dallas",
+    "activeCount": 1,
+    "terminatedCount": 8,
+    "totalHistorical": 9,
+    "churnRate": 88.9,
+    "avgCustomerLifetimeMonths": 26.9
+  },
+  {
+    "zipCode": "76001",
+    "city": "Arlington",
+    "activeCount": 3,
+    "terminatedCount": 17,
+    "totalHistorical": 20,
+    "churnRate": 85.0,
+    "avgCustomerLifetimeMonths": 76.8
+  },
+  {
+    "zipCode": "76002",
+    "city": "Arlington",
+    "activeCount": 1,
+    "terminatedCount": 4,
+    "totalHistorical": 5,
+    "churnRate": 80.0,
+    "avgCustomerLifetimeMonths": 27.8
+  },
+  {
+    "zipCode": "76005",
+    "city": "Arlington",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 29.0
+  },
+  {
+    "zipCode": "76006",
+    "city": "Arlington",
+    "activeCount": 4,
+    "terminatedCount": 10,
+    "totalHistorical": 14,
+    "churnRate": 71.4,
+    "avgCustomerLifetimeMonths": 129.9
+  },
+  {
+    "zipCode": "76009",
+    "city": "Alvarado",
+    "activeCount": 1,
+    "terminatedCount": 2,
+    "totalHistorical": 3,
+    "churnRate": 66.7,
+    "avgCustomerLifetimeMonths": 27.3
+  },
+  {
+    "zipCode": "76011",
+    "city": "Arlington",
+    "activeCount": 0,
+    "terminatedCount": 2,
+    "totalHistorical": 2,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 154.5
+  },
+  {
+    "zipCode": "76012",
+    "city": "Arlington",
+    "activeCount": 4,
+    "terminatedCount": 17,
+    "totalHistorical": 21,
+    "churnRate": 81.0,
+    "avgCustomerLifetimeMonths": 97.5
+  },
+  {
+    "zipCode": "76013",
+    "city": "Arlington",
+    "activeCount": 5,
+    "terminatedCount": 14,
+    "totalHistorical": 19,
+    "churnRate": 73.7,
+    "avgCustomerLifetimeMonths": 80.8
+  },
+  {
+    "zipCode": "76014",
+    "city": "Arlington",
+    "activeCount": 1,
+    "terminatedCount": 3,
+    "totalHistorical": 4,
+    "churnRate": 75.0,
+    "avgCustomerLifetimeMonths": 159.8
+  },
+  {
+    "zipCode": "76015",
+    "city": "Arlington",
+    "activeCount": 0,
+    "terminatedCount": 4,
+    "totalHistorical": 4,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 56.4
+  },
+  {
+    "zipCode": "76016",
+    "city": "Arlington",
+    "activeCount": 9,
+    "terminatedCount": 30,
+    "totalHistorical": 39,
+    "churnRate": 76.9,
+    "avgCustomerLifetimeMonths": 92.6
+  },
+  {
+    "zipCode": "76017",
+    "city": "Arlington",
+    "activeCount": 9,
+    "terminatedCount": 19,
+    "totalHistorical": 28,
+    "churnRate": 67.9,
+    "avgCustomerLifetimeMonths": 114.3
+  },
+  {
+    "zipCode": "76018",
+    "city": "Arlington",
+    "activeCount": 1,
+    "terminatedCount": 12,
+    "totalHistorical": 13,
+    "churnRate": 92.3,
+    "avgCustomerLifetimeMonths": 49.9
+  },
+  {
+    "zipCode": "76020",
+    "city": "Azle",
+    "activeCount": 0,
+    "terminatedCount": 4,
+    "totalHistorical": 4,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 16.2
+  },
+  {
+    "zipCode": "76021",
+    "city": "Bedford",
+    "activeCount": 14,
+    "terminatedCount": 38,
+    "totalHistorical": 52,
+    "churnRate": 73.1,
+    "avgCustomerLifetimeMonths": 89.0
+  },
+  {
+    "zipCode": "76022",
+    "city": "Bedford",
+    "activeCount": 3,
+    "terminatedCount": 9,
+    "totalHistorical": 12,
+    "churnRate": 75.0,
+    "avgCustomerLifetimeMonths": 90.0
+  },
+  {
+    "zipCode": "76028",
+    "city": "Burleson",
+    "activeCount": 9,
+    "terminatedCount": 60,
+    "totalHistorical": 69,
+    "churnRate": 87.0,
+    "avgCustomerLifetimeMonths": 58.1
+  },
+  {
+    "zipCode": "76034",
+    "city": "Colleyville",
+    "activeCount": 13,
+    "terminatedCount": 53,
+    "totalHistorical": 66,
+    "churnRate": 80.3,
+    "avgCustomerLifetimeMonths": 79.1
+  },
+  {
+    "zipCode": "76036",
+    "city": "Crowley",
+    "activeCount": 4,
+    "terminatedCount": 10,
+    "totalHistorical": 14,
+    "churnRate": 71.4,
+    "avgCustomerLifetimeMonths": 72.4
+  },
+  {
+    "zipCode": "76039",
+    "city": "Euless",
+    "activeCount": 3,
+    "terminatedCount": 12,
+    "totalHistorical": 15,
+    "churnRate": 80.0,
+    "avgCustomerLifetimeMonths": 99.3
+  },
+  {
+    "zipCode": "76040",
+    "city": "Euless",
+    "activeCount": 2,
+    "terminatedCount": 2,
+    "totalHistorical": 4,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 138.5
+  },
+  {
+    "zipCode": "76051",
+    "city": "Grapevine",
+    "activeCount": 15,
+    "terminatedCount": 33,
+    "totalHistorical": 48,
+    "churnRate": 68.8,
+    "avgCustomerLifetimeMonths": 85.9
+  },
+  {
+    "zipCode": "76052",
+    "city": "Haslet",
+    "activeCount": 2,
+    "terminatedCount": 1,
+    "totalHistorical": 3,
+    "churnRate": 33.3,
+    "avgCustomerLifetimeMonths": 51.7
+  },
+  {
+    "zipCode": "76053",
+    "city": "Hurst",
+    "activeCount": 1,
+    "terminatedCount": 5,
+    "totalHistorical": 6,
+    "churnRate": 83.3,
+    "avgCustomerLifetimeMonths": 76.0
+  },
+  {
+    "zipCode": "76054",
+    "city": "Hurst",
+    "activeCount": 3,
+    "terminatedCount": 6,
+    "totalHistorical": 9,
+    "churnRate": 66.7,
+    "avgCustomerLifetimeMonths": 61.0
+  },
+  {
+    "zipCode": "76058",
+    "city": "Joshua",
+    "activeCount": 0,
+    "terminatedCount": 2,
+    "totalHistorical": 2,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 89.5
+  },
+  {
+    "zipCode": "76060",
+    "city": "Kennedale",
+    "activeCount": 2,
+    "terminatedCount": 5,
+    "totalHistorical": 7,
+    "churnRate": 71.4,
+    "avgCustomerLifetimeMonths": 90.6
+  },
+  {
+    "zipCode": "76063",
+    "city": "Mansfield",
+    "activeCount": 12,
+    "terminatedCount": 32,
+    "totalHistorical": 44,
+    "churnRate": 72.7,
+    "avgCustomerLifetimeMonths": 57.0
+  },
+  {
+    "zipCode": "76065",
+    "city": "Midlothian",
+    "activeCount": 4,
+    "terminatedCount": 9,
+    "totalHistorical": 13,
+    "churnRate": 69.2,
+    "avgCustomerLifetimeMonths": 30.2
+  },
+  {
+    "zipCode": "76092",
+    "city": "Southlake",
+    "activeCount": 9,
+    "terminatedCount": 20,
+    "totalHistorical": 29,
+    "churnRate": 69.0,
+    "avgCustomerLifetimeMonths": 58.4
+  },
+  {
+    "zipCode": "76103",
+    "city": "Fort Worth",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 108.0
+  },
+  {
+    "zipCode": "76107",
+    "city": "Fort Worth",
+    "activeCount": 1,
+    "terminatedCount": 2,
+    "totalHistorical": 3,
+    "churnRate": 66.7,
+    "avgCustomerLifetimeMonths": 43.0
+  },
+  {
+    "zipCode": "76108",
+    "city": "Fort Worth",
+    "activeCount": 4,
+    "terminatedCount": 4,
+    "totalHistorical": 8,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 156.0
+  },
+  {
+    "zipCode": "76109",
+    "city": "Fort Worth",
+    "activeCount": 0,
+    "terminatedCount": 4,
+    "totalHistorical": 4,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 25.5
+  },
+  {
+    "zipCode": "76110",
+    "city": "Fort Worth",
+    "activeCount": 0,
+    "terminatedCount": 2,
+    "totalHistorical": 2,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 40.0
+  },
+  {
+    "zipCode": "76111",
+    "city": "Fort Worth",
+    "activeCount": 0,
+    "terminatedCount": 2,
+    "totalHistorical": 2,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 117.5
+  },
+  {
+    "zipCode": "76112",
+    "city": "Fort Worth",
+    "activeCount": 3,
+    "terminatedCount": 7,
+    "totalHistorical": 10,
+    "churnRate": 70.0,
+    "avgCustomerLifetimeMonths": 90.0
+  },
+  {
+    "zipCode": "76114",
+    "city": "Fort Worth",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 40.0
+  },
+  {
+    "zipCode": "76116",
+    "city": "Fort Worth",
+    "activeCount": 6,
+    "terminatedCount": 7,
+    "totalHistorical": 13,
+    "churnRate": 53.8,
+    "avgCustomerLifetimeMonths": 136.9
+  },
+  {
+    "zipCode": "76117",
+    "city": "Fort Worth",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 348.0
+  },
+  {
+    "zipCode": "76118",
+    "city": "Fort Worth",
+    "activeCount": 2,
+    "terminatedCount": 6,
+    "totalHistorical": 8,
+    "churnRate": 75.0,
+    "avgCustomerLifetimeMonths": 29.2
+  },
+  {
+    "zipCode": "76119",
+    "city": "Fort Worth",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 102.0
+  },
+  {
+    "zipCode": "76123",
+    "city": "Fort Worth",
+    "activeCount": 1,
+    "terminatedCount": 5,
+    "totalHistorical": 6,
+    "churnRate": 83.3,
+    "avgCustomerLifetimeMonths": 26.7
+  },
+  {
+    "zipCode": "76126",
+    "city": "Benbrook",
+    "activeCount": 4,
+    "terminatedCount": 12,
+    "totalHistorical": 16,
+    "churnRate": 75.0,
+    "avgCustomerLifetimeMonths": 137.5
+  },
+  {
+    "zipCode": "76131",
+    "city": "Blue Mound",
+    "activeCount": 4,
+    "terminatedCount": 5,
+    "totalHistorical": 9,
+    "churnRate": 55.6,
+    "avgCustomerLifetimeMonths": 35.4
+  },
+  {
+    "zipCode": "76132",
+    "city": "Fort Worth",
+    "activeCount": 4,
+    "terminatedCount": 6,
+    "totalHistorical": 10,
+    "churnRate": 60.0,
+    "avgCustomerLifetimeMonths": 90.8
+  },
+  {
+    "zipCode": "76133",
+    "city": "Fort Worth",
+    "activeCount": 3,
+    "terminatedCount": 18,
+    "totalHistorical": 21,
+    "churnRate": 85.7,
+    "avgCustomerLifetimeMonths": 134.1
+  },
+  {
+    "zipCode": "76134",
+    "city": "Edgecliff Village",
+    "activeCount": 0,
+    "terminatedCount": 3,
+    "totalHistorical": 3,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 104.3
+  },
+  {
+    "zipCode": "76137",
+    "city": "Fort Worth",
+    "activeCount": 4,
+    "terminatedCount": 23,
+    "totalHistorical": 27,
+    "churnRate": 85.2,
+    "avgCustomerLifetimeMonths": 44.7
+  },
+  {
+    "zipCode": "76140",
+    "city": "Fort Worth",
+    "activeCount": 1,
+    "terminatedCount": 2,
+    "totalHistorical": 3,
+    "churnRate": 66.7,
+    "avgCustomerLifetimeMonths": 63.0
+  },
+  {
+    "zipCode": "76148",
+    "city": "Watauga",
+    "activeCount": 1,
+    "terminatedCount": 4,
+    "totalHistorical": 5,
+    "churnRate": 80.0,
+    "avgCustomerLifetimeMonths": 94.4
+  },
+  {
+    "zipCode": "76177",
+    "city": "Fort Worth",
+    "activeCount": 0,
+    "terminatedCount": 4,
+    "totalHistorical": 4,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 16.6
+  },
+  {
+    "zipCode": "76179",
+    "city": "Fort Worth",
+    "activeCount": 4,
+    "terminatedCount": 9,
+    "totalHistorical": 13,
+    "churnRate": 69.2,
+    "avgCustomerLifetimeMonths": 54.2
+  },
+  {
+    "zipCode": "76180",
+    "city": "North Richland Hills",
+    "activeCount": 4,
+    "terminatedCount": 10,
+    "totalHistorical": 14,
+    "churnRate": 71.4,
+    "avgCustomerLifetimeMonths": 69.7
+  },
+  {
+    "zipCode": "76182",
+    "city": "North Richland Hills",
+    "activeCount": 1,
+    "terminatedCount": 10,
+    "totalHistorical": 11,
+    "churnRate": 90.9,
+    "avgCustomerLifetimeMonths": 81.2
+  },
+  {
+    "zipCode": "76201",
+    "city": "Denton",
+    "activeCount": 0,
+    "terminatedCount": 3,
+    "totalHistorical": 3,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 40.0
+  },
+  {
+    "zipCode": "76205",
+    "city": "Denton",
+    "activeCount": 1,
+    "terminatedCount": 10,
+    "totalHistorical": 11,
+    "churnRate": 90.9,
+    "avgCustomerLifetimeMonths": 92.8
+  },
+  {
+    "zipCode": "76207",
+    "city": "Denton",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 3.0
+  },
+  {
+    "zipCode": "76208",
+    "city": "Denton",
+    "activeCount": 2,
+    "terminatedCount": 6,
+    "totalHistorical": 8,
+    "churnRate": 75.0,
+    "avgCustomerLifetimeMonths": 57.4
+  },
+  {
+    "zipCode": "76209",
+    "city": "Denton",
+    "activeCount": 4,
+    "terminatedCount": 4,
+    "totalHistorical": 8,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 100.1
+  },
+  {
+    "zipCode": "76210",
+    "city": "Corinth",
+    "activeCount": 11,
+    "terminatedCount": 43,
+    "totalHistorical": 54,
+    "churnRate": 79.6,
+    "avgCustomerLifetimeMonths": 63.0
+  },
+  {
+    "zipCode": "76226",
+    "city": "Lantana",
+    "activeCount": 16,
+    "terminatedCount": 60,
+    "totalHistorical": 76,
+    "churnRate": 78.9,
+    "avgCustomerLifetimeMonths": 54.9
+  },
+  {
+    "zipCode": "76227",
+    "city": "Aubrey",
+    "activeCount": 0,
+    "terminatedCount": 5,
+    "totalHistorical": 5,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 7.5
+  },
+  {
+    "zipCode": "76244",
+    "city": "Fort Worth",
+    "activeCount": 4,
+    "terminatedCount": 9,
+    "totalHistorical": 13,
+    "churnRate": 69.2,
+    "avgCustomerLifetimeMonths": 30.7
+  },
+  {
+    "zipCode": "76247",
+    "city": "Justin",
+    "activeCount": 0,
+    "terminatedCount": 3,
+    "totalHistorical": 3,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 15.7
+  },
+  {
+    "zipCode": "76248",
+    "city": "Keller",
+    "activeCount": 6,
+    "terminatedCount": 16,
+    "totalHistorical": 22,
+    "churnRate": 72.7,
+    "avgCustomerLifetimeMonths": 81.9
+  },
+  {
+    "zipCode": "76262",
+    "city": "Keller",
+    "activeCount": 1,
+    "terminatedCount": 14,
+    "totalHistorical": 15,
+    "churnRate": 93.3,
+    "avgCustomerLifetimeMonths": 30.2
+  }
+]

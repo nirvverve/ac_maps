@@ -1,0 +1,558 @@
+Here is the error from the preview window that appears when you select "David Botranger" and "APS Chandler".  Unhandled Runtime Error
+Error: Maximum update depth exceeded. This can happen when a component repeatedly calls setState inside componentWillUpdate or componentDidUpdate. React limits the number of nested updates to prevent infinite loops.
+
+Call Stack
+throwIfInfiniteUpdateLoopDetected
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (53776:11)
+getRootForUpdatedFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (34610:3)
+enqueueConcurrentHookUpdate
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (34501:10)
+dispatchSetState
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (40056:16)
+setRef
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/app/page.js (26023:5)
+<unknown>
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/app/page.js (26029:42)
+Array.forEach
+<anonymous>
+<unknown>
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/app/page.js (26029:25)
+setRef
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/app/page.js (26023:5)
+<unknown>
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/app/page.js (26029:42)
+Array.forEach
+<anonymous>
+<unknown>
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/app/page.js (26029:25)
+safelyDetachRef
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (47827:22)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49581:13)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49859:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49859:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49859:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49859:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)
+recursivelyTraverseMutationEffects
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:7)
+commitMutationEffectsOnFiber
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:9)   .  On the console in the browser, you get this - (index):1  GET https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015 net::ERR_BLOCKED_BY_CLIENT
+page-0e697c321869f38c.js:25 📊 Starting to load territory data...
+content-scripts.js:1 Content Script Bridge: Sending response back to page context: {isAllowListed: false, isProtectionEnabled: true, isScamsProtectionEnabled: true}
+page-0e697c321869f38c.js:25 📊 Fetch response received: 200 true
+page-0e697c321869f38c.js:25 📊 Data loaded successfully: 175 records
+page-0e697c321869f38c.js:25 📊 State updated with data
+page-0e697c321869f38c.js:25 📊 Loading complete
+main.js:397 As of February 21st, 2024, google.maps.Marker is deprecated. Please use google.maps.marker.AdvancedMarkerElement instead. At this time, google.maps.Marker is not scheduled to be discontinued, but google.maps.marker.AdvancedMarkerElement is recommended over google.maps.Marker. While google.maps.Marker will continue to receive bug fixes for any major regressions, existing bugs in google.maps.Marker will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/deprecations for additional details and https://developers.google.com/maps/documentation/javascript/advanced-markers/migration for the migration guide.
+Yz @ main.js:397
+(anonymous) @ main.js:397
+(anonymous) @ 4e6af11a-37f46a83515a76e7.js:1
+aW @ fd9d1056-3a962e1a39502390.js:1
+oe @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+or @ fd9d1056-3a962e1a39502390.js:1
+ol @ fd9d1056-3a962e1a39502390.js:1
+id @ fd9d1056-3a962e1a39502390.js:1
+(anonymous) @ fd9d1056-3a962e1a39502390.js:1
+is @ fd9d1056-3a962e1a39502390.js:1
+nb @ fd9d1056-3a962e1a39502390.js:1
+(anonymous) @ fd9d1056-3a962e1a39502390.js:1
+is @ fd9d1056-3a962e1a39502390.js:1
+o1 @ fd9d1056-3a962e1a39502390.js:1
+oZ @ fd9d1056-3a962e1a39502390.js:1
+T @ 117-00a257304b802841.js:1
+page-0e697c321869f38c.js:25 ⚠️ No boundary data available
+(anonymous) @ page-0e697c321869f38c.js:25
+ei @ page-0e697c321869f38c.js:25
+rE @ fd9d1056-3a962e1a39502390.js:1
+iZ @ fd9d1056-3a962e1a39502390.js:1
+ia @ fd9d1056-3a962e1a39502390.js:1
+(anonymous) @ fd9d1056-3a962e1a39502390.js:1
+il @ fd9d1056-3a962e1a39502390.js:1
+nb @ fd9d1056-3a962e1a39502390.js:1
+nw @ fd9d1056-3a962e1a39502390.js:1
+(anonymous) @ fd9d1056-3a962e1a39502390.js:1
+page-0e697c321869f38c.js:25 ⚠️ No boundary data available
+(anonymous) @ page-0e697c321869f38c.js:25
+ei @ page-0e697c321869f38c.js:25
+rE @ fd9d1056-3a962e1a39502390.js:1
+l$ @ fd9d1056-3a962e1a39502390.js:1
+iZ @ fd9d1056-3a962e1a39502390.js:1
+ia @ fd9d1056-3a962e1a39502390.js:1
+(anonymous) @ fd9d1056-3a962e1a39502390.js:1
+il @ fd9d1056-3a962e1a39502390.js:1
+oZ @ fd9d1056-3a962e1a39502390.js:1
+T @ 117-00a257304b802841.js:1
+page-0e697c321869f38c.js:25 ⚠️ No boundary data available
+(anonymous) @ page-0e697c321869f38c.js:25
+ei @ page-0e697c321869f38c.js:25
+rE @ fd9d1056-3a962e1a39502390.js:1
+l$ @ fd9d1056-3a962e1a39502390.js:1
+iZ @ fd9d1056-3a962e1a39502390.js:1
+ia @ fd9d1056-3a962e1a39502390.js:1
+(anonymous) @ fd9d1056-3a962e1a39502390.js:1
+il @ fd9d1056-3a962e1a39502390.js:1
+nb @ fd9d1056-3a962e1a39502390.js:1
+(anonymous) @ fd9d1056-3a962e1a39502390.js:1
+is @ fd9d1056-3a962e1a39502390.js:1
+o1 @ fd9d1056-3a962e1a39502390.js:1
+oZ @ fd9d1056-3a962e1a39502390.js:1
+T @ 117-00a257304b802841.js:1
+page-0e697c321869f38c.js:25 📊 Routes data loaded: 1671 records
+page-0e697c321869f38c.js:25 👷 Technicians found: 33
+page-0e697c321869f38c.js:25 ⚠️ No boundary data available
+(anonymous) @ page-0e697c321869f38c.js:25
+ei @ page-0e697c321869f38c.js:25
+rE @ fd9d1056-3a962e1a39502390.js:1
+l$ @ fd9d1056-3a962e1a39502390.js:1
+iZ @ fd9d1056-3a962e1a39502390.js:1
+ia @ fd9d1056-3a962e1a39502390.js:1
+(anonymous) @ fd9d1056-3a962e1a39502390.js:1
+il @ fd9d1056-3a962e1a39502390.js:1
+oZ @ fd9d1056-3a962e1a39502390.js:1
+T @ 117-00a257304b802841.js:1
+page-0e697c321869f38c.js:25 ⚠️ No boundary data available
+(anonymous) @ page-0e697c321869f38c.js:25
+ei @ page-0e697c321869f38c.js:25
+rE @ fd9d1056-3a962e1a39502390.js:1
+l$ @ fd9d1056-3a962e1a39502390.js:1
+iZ @ fd9d1056-3a962e1a39502390.js:1
+ia @ fd9d1056-3a962e1a39502390.js:1
+(anonymous) @ fd9d1056-3a962e1a39502390.js:1
+il @ fd9d1056-3a962e1a39502390.js:1
+nb @ fd9d1056-3a962e1a39502390.js:1
+(anonymous) @ fd9d1056-3a962e1a39502390.js:1
+is @ fd9d1056-3a962e1a39502390.js:1
+o1 @ fd9d1056-3a962e1a39502390.js:1
+oZ @ fd9d1056-3a962e1a39502390.js:1
+T @ 117-00a257304b802841.js:1
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 0 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 0 polygon objects
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 0 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 0 polygon objects
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+page-0e697c321869f38c.js:25 🗺️ Rendering polygons for 3 unique ZIP codes
+page-0e697c321869f38c.js:25 ✅ Generated 4 polygon objects
+page-0e697c321869f38c.js:25 🚗 Selected technician: David Bontrager, 6 stops
+page-0e697c321869f38c.js:25 📍 Map centering to: 33.3652, -111.9440
+117-00a257304b802841.js:1 Error: Minified React error #185; visit https://react.dev/errors/185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ik (fd9d1056-3a962e1a39502390.js:1:110226)
+    at nf (fd9d1056-3a962e1a39502390.js:1:26354)
+    at nu (fd9d1056-3a962e1a39502390.js:1:25922)
+    at lc (fd9d1056-3a962e1a39502390.js:1:48870)
+    at 96-16a74c8c938caea2.js:1:5953
+    at Array.forEach (<anonymous>)
+    at 96-16a74c8c938caea2.js:1:5920
+    at 96-16a74c8c938caea2.js:1:5953
+    at Array.forEach (<anonymous>)
+    at 96-16a74c8c938caea2.js:1:5920
+push.2304.window.console.error @ 117-00a257304b802841.js:1
+l_ @ fd9d1056-3a962e1a39502390.js:1
+n.callback @ fd9d1056-3a962e1a39502390.js:1
+nB @ fd9d1056-3a962e1a39502390.js:1
+nV @ fd9d1056-3a962e1a39502390.js:1
+aq @ fd9d1056-3a962e1a39502390.js:1
+aY @ fd9d1056-3a962e1a39502390.js:1
+a9 @ fd9d1056-3a962e1a39502390.js:1
+aY @ fd9d1056-3a962e1a39502390.js:1
+a9 @ fd9d1056-3a962e1a39502390.js:1
+aY @ fd9d1056-3a962e1a39502390.js:1
+a9 @ fd9d1056-3a962e1a39502390.js:1
+aY @ fd9d1056-3a962e1a39502390.js:1
+a9 @ fd9d1056-3a962e1a39502390.js:1
+aY @ fd9d1056-3a962e1a39502390.js:1
+a9 @ fd9d1056-3a962e1a39502390.js:1
+aY @ fd9d1056-3a962e1a39502390.js:1
+a9 @ fd9d1056-3a962e1a39502390.js:1
+aY @ fd9d1056-3a962e1a39502390.js:1
+a9 @ fd9d1056-3a962e1a39502390.js:1
+aY @ fd9d1056-3a962e1a39502390.js:1
+a9 @ fd9d1056-3a962e1a39502390.js:1
+aY @ fd9d1056-3a962e1a39502390.js:1
+(anonymous) @ fd9d1056-3a962e1a39502390.js:1
+is @ fd9d1056-3a962e1a39502390.js:1
+nb @ fd9d1056-3a962e1a39502390.js:1
+nw @ fd9d1056-3a962e1a39502390.js:1
+(anonymous) @ fd9d1056-3a962e1a39502390.js:1

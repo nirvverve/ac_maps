@@ -1,0 +1,274 @@
+[
+  {
+    "zip": "33304",
+    "accountCount": 1,
+    "latitude": 26.1387722,
+    "longitude": -80.12453889999999,
+    "city": "Fort Lauderdale",
+    "territory": "AFP - West Broward"
+  },
+  {
+    "zip": "33330",
+    "accountCount": 1,
+    "latitude": 26.0792266,
+    "longitude": -80.2995547,
+    "city": "Davie",
+    "territory": "AFP - West Broward"
+  },
+  {
+    "zip": "33162",
+    "accountCount": 4,
+    "latitude": 25.924331125000002,
+    "longitude": -80.1786858,
+    "city": "North Miami Beach",
+    "territory": "AFP - NW Miami"
+  },
+  {
+    "zip": "33139",
+    "accountCount": 9,
+    "latitude": 25.786710455555554,
+    "longitude": -80.13712474444445,
+    "city": "Miami Beach",
+    "territory": "AFP - Miami Beach"
+  },
+  {
+    "zip": "33009",
+    "accountCount": 5,
+    "latitude": 25.986698159999996,
+    "longitude": -80.12646968,
+    "city": "Hallandale",
+    "territory": "AFP - West Broward"
+  },
+  {
+    "zip": "33131",
+    "accountCount": 2,
+    "latitude": 25.7547963,
+    "longitude": -80.19614059999999,
+    "city": "Miami",
+    "territory": "AFP - Downtown Miami"
+  },
+  {
+    "zip": "33133",
+    "accountCount": 6,
+    "latitude": 25.729777433333336,
+    "longitude": -80.24082465,
+    "city": "Miami",
+    "territory": "AFP - SW Miami"
+  },
+  {
+    "zip": "33179",
+    "accountCount": 4,
+    "latitude": 25.956446224999997,
+    "longitude": -80.183569275,
+    "city": "North Miami Beach",
+    "territory": "AFP - NW Miami"
+  },
+  {
+    "zip": "33180",
+    "accountCount": 3,
+    "latitude": 25.9582288,
+    "longitude": -80.13440266666667,
+    "city": "Aventura",
+    "territory": "AFP - NW Miami"
+  },
+  {
+    "zip": "33137",
+    "accountCount": 3,
+    "latitude": 25.826350133333335,
+    "longitude": -80.18991833333332,
+    "city": "Miami",
+    "territory": "AFP - Downtown Miami"
+  },
+  {
+    "zip": "33138",
+    "accountCount": 3,
+    "latitude": 25.852428833333335,
+    "longitude": -80.1772419,
+    "city": "Miami",
+    "territory": "AFP - Downtown Miami"
+  },
+  {
+    "zip": "33141",
+    "accountCount": 11,
+    "latitude": 25.85474723636364,
+    "longitude": -80.1319504,
+    "city": "Miami Beach",
+    "territory": "AFP - Miami Beach"
+  },
+  {
+    "zip": "33140",
+    "accountCount": 6,
+    "latitude": 25.815206616666668,
+    "longitude": -80.12513135,
+    "city": "Miami Beach",
+    "territory": "AFP - Miami Beach"
+  },
+  {
+    "zip": "33143",
+    "accountCount": 1,
+    "latitude": 25.6951001,
+    "longitude": -80.3109976,
+    "city": "Miami",
+    "territory": "AFP - SW Miami"
+  },
+  {
+    "zip": "33149",
+    "accountCount": 1,
+    "latitude": 25.690744,
+    "longitude": -80.1631053,
+    "city": "Key Biscayne",
+    "territory": "AFP - Key Biscayne"
+  },
+  {
+    "zip": "33154",
+    "accountCount": 11,
+    "latitude": 25.888836227272726,
+    "longitude": -80.1295092090909,
+    "city": "Bay Harbor",
+    "territory": "AFP - Miami Beach"
+  },
+  {
+    "zip": "33161",
+    "accountCount": 8,
+    "latitude": 25.895552462500003,
+    "longitude": -80.18068403749999,
+    "city": "Miami",
+    "territory": "AFP - NW Miami"
+  },
+  {
+    "zip": "33165",
+    "accountCount": 1,
+    "latitude": 25.7470781,
+    "longitude": -80.3613298,
+    "city": "Miami",
+    "territory": "AFP - SW Miami"
+  },
+  {
+    "zip": "33160",
+    "accountCount": 18,
+    "latitude": 25.93445380555556,
+    "longitude": -80.13341433333332,
+    "city": "N Miami Beach",
+    "territory": "AFP - Miami Beach"
+  },
+  {
+    "zip": "33169",
+    "accountCount": 2,
+    "latitude": 25.9617207,
+    "longitude": -80.20314985,
+    "city": "Miami",
+    "territory": "AFP - NW Miami"
+  },
+  {
+    "zip": "33172",
+    "accountCount": 1,
+    "latitude": 25.779858,
+    "longitude": -80.3408786,
+    "city": "Miami",
+    "territory": "AFP - Downtown Miami"
+  },
+  {
+    "zip": "33173",
+    "accountCount": 1,
+    "latitude": 25.7011384,
+    "longitude": -80.33628070000002,
+    "city": "Miami",
+    "territory": "AFP - SW Miami"
+  },
+  {
+    "zip": "33176",
+    "accountCount": 1,
+    "latitude": 25.6395938,
+    "longitude": -80.3348618,
+    "city": "Miami",
+    "territory": "AFP - SW Miami"
+  },
+  {
+    "zip": "33181",
+    "accountCount": 6,
+    "latitude": 25.889011566666667,
+    "longitude": -80.15779861666667,
+    "city": "North Miami",
+    "territory": "AFP - NW Miami"
+  },
+  {
+    "zip": "33025",
+    "accountCount": 1,
+    "latitude": 25.9763939,
+    "longitude": -80.2767449,
+    "city": "Miramar",
+    "territory": "AFP - West Broward"
+  },
+  {
+    "zip": "33019",
+    "accountCount": 1,
+    "latitude": 26.0147284,
+    "longitude": -80.1156812,
+    "city": "Hollywood",
+    "territory": "AFP - West Broward"
+  },
+  {
+    "zip": "33315",
+    "accountCount": 1,
+    "latitude": 26.0903356,
+    "longitude": -80.1643133,
+    "city": "Fort Lauderdale",
+    "territory": "AFP - West Broward"
+  },
+  {
+    "zip": "33308",
+    "accountCount": 1,
+    "latitude": 26.196432,
+    "longitude": -80.114958,
+    "city": "Fort Lauderdale",
+    "territory": "AFP - West Broward"
+  },
+  {
+    "zip": "33312",
+    "accountCount": 2,
+    "latitude": 26.1051063,
+    "longitude": -80.16814665,
+    "city": "Fort Lauderdale",
+    "territory": "AFP - West Broward"
+  },
+  {
+    "zip": "33190",
+    "accountCount": 1,
+    "latitude": 25.5617297,
+    "longitude": -80.3500821,
+    "city": "Cutler Bay",
+    "territory": "AFP - SW Miami"
+  },
+  {
+    "zip": "33056",
+    "accountCount": 2,
+    "latitude": 25.963474599999998,
+    "longitude": -80.2542534,
+    "city": "Miami Gardens",
+    "territory": "AFP - NW Miami"
+  },
+  {
+    "zip": "33015",
+    "accountCount": 1,
+    "latitude": 25.9339877,
+    "longitude": -80.3111279,
+    "city": "Miami Gardens",
+    "territory": "AFP - NW Miami"
+  },
+  {
+    "zip": "33145",
+    "accountCount": 1,
+    "latitude": 25.7576368,
+    "longitude": -80.2545221,
+    "city": "Miami",
+    "territory": "AFP - SW Miami"
+  },
+  {
+    "zip": "33126",
+    "accountCount": 1,
+    "latitude": 25.7776646,
+    "longitude": -80.2785727,
+    "city": "Miami",
+    "territory": "AFP - Downtown Miami"
+  }
+]

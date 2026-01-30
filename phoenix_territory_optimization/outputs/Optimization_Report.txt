@@ -1,0 +1,141 @@
+PHOENIX TERRITORY OPTIMIZATION REPORT
+============================================================
+
+OBJECTIVE:
+  Rebalance Phoenix territories to achieve target account distribution
+  and integrate Tucson as a separate 4th area.
+
+TARGET DISTRIBUTION:
+  West: 510 accounts
+  Central: 546 accounts
+  East: 585 accounts (includes peripheral Tucson areas)
+  Tucson: All true Tucson accounts
+
+FINAL RESULTS:
+  West:
+    Accounts: 492
+    Zip Codes: 17
+    Target: 510
+    Variance: -18 (-3.5%)
+
+  Central:
+    Accounts: 557
+    Zip Codes: 79
+    Target: 546
+    Variance: +11 (+2.0%)
+
+  East:
+    Accounts: 573
+    Zip Codes: 33
+    Target: 585
+    Variance: -12 (-2.1%)
+
+  Tucson:
+    Accounts: 77
+    Zip Codes: 28
+
+TOTAL ACCOUNTS: 1699
+
+CHANGES MADE:
+  Zip 85201: West → Central (4 accounts)
+  Zip 85233: West → East (16 accounts)
+  Zip 85388: West → Central (13 accounts)
+  Zip 85016: West → Central (9 accounts)
+  Zip 85378: West → Central (2 accounts)
+  Zip 85374: West → Central (4 accounts)
+  Zip 85003: West → Central (6 accounts)
+  Zip 85043: West → Central (4 accounts)
+  Zip 85251: West → Central (7 accounts)
+  Zip 85305: West → Central (5 accounts)
+  Zip 85045: West → Central (5 accounts)
+  Zip 85050: West → East (18 accounts)
+  Zip 85205: West → Central (9 accounts)
+  Zip 85355: West → Central (8 accounts)
+  Zip 85282: West → East (20 accounts)
+  Zip 85338: West → East (16 accounts)
+  Zip 85033: West → Central (1 accounts)
+  Zip 85225: West → Central (12 accounts)
+  Zip 85023: West → Central (11 accounts)
+  Zip 85140: West → Central (8 accounts)
+  Zip 85250: West → Central (8 accounts)
+  Zip 85256: West → Central (1 accounts)
+  Zip 85037: West → Central (6 accounts)
+  Zip 85323: West → Central (10 accounts)
+  Zip 85281: West → Central (7 accounts)
+  Zip 85031: West → Central (1 accounts)
+  Zip 85304: West → East (17 accounts)
+  Zip 85019: West → Central (3 accounts)
+  Zip 85142: West → East (17 accounts)
+  Zip 85087: West → Central (3 accounts)
+  Zip 85381: West → Central (9 accounts)
+  Zip 85326: West → Central (5 accounts)
+  Zip 85119: West → Central (2 accounts)
+  Zip 85086: West → Central (15 accounts)
+  Zip 85032: West → Central (13 accounts)
+  Zip 85268: West → Central (8 accounts)
+  Zip 85007: West → Central (3 accounts)
+  Zip 85298: West → Central (9 accounts)
+  Zip 85302: West → Central (9 accounts)
+  Zip 85028: West → East (20 accounts)
+  Zip 85053: West → East (16 accounts)
+  Zip 85379: West → Central (11 accounts)
+  Zip 85209: West → Central (11 accounts)
+  Zip 85306: West → Central (7 accounts)
+  Zip 85035: West → Central (6 accounts)
+  Zip 85009: West → Central (3 accounts)
+  Zip 85022: West → East (21 accounts)
+  Zip 85351: West → Central (1 accounts)
+  Zip 85044: West → Central (13 accounts)
+  Zip 85340: West → East (15 accounts)
+  Zip 85024: West → Central (10 accounts)
+  Zip 85017: West → Central (1 accounts)
+  Zip 85021: West → East (19 accounts)
+  Zip 85387: West → Central (2 accounts)
+  Zip 85118: West → Central (2 accounts)
+  Zip 85202: West → Central (9 accounts)
+  Zip 85029: West → Central (15 accounts)
+  Zip 85040: West → Central (2 accounts)
+  Zip 85310: West → Central (13 accounts)
+  Zip 85051: West → Central (8 accounts)
+  Zip 85284: West → East (19 accounts)
+  Zip 85258: West → East (18 accounts)
+  Zip 85204: West → Central (5 accounts)
+  Zip 85259: West → East (21 accounts)
+  Zip 85083: West → Central (6 accounts)
+  Zip 85262: West → Central (12 accounts)
+  Zip 85224: West → East (17 accounts)
+  Zip 85213: West → East (21 accounts)
+  Zip 85331: West → East (21 accounts)
+  Zip 85297: West → Central (11 accounts)
+  Zip 85006: West → Central (4 accounts)
+  Zip 85395: West → Central (13 accounts)
+  Zip 85353: West → Central (5 accounts)
+  Zip 85015: West → Central (9 accounts)
+  Zip 85215: West → Central (7 accounts)
+  Zip 85120: West → Central (3 accounts)
+  Zip 85373: West → Central (5 accounts)
+  Zip 85253: West → Central (8 accounts)
+  Zip 85020: West → East (18 accounts)
+  Zip 85012: West → Central (6 accounts)
+  Zip 85008: West → Central (4 accounts)
+  Zip 85085: West → East (16 accounts)
+  Zip 85013: West → Central (5 accounts)
+  Zip 85041: West → East (17 accounts)
+  Zip 85396: West → Central (12 accounts)
+  Zip 85212: West → East (15 accounts)
+  Zip 85345: West → East (16 accounts)
+  Zip 85203: West → Central (11 accounts)
+  Zip 85206: West → Central (5 accounts)
+  Zip 85257: West → Central (14 accounts)
+  Zip 85392: West → Central (10 accounts)
+  Zip 85014: West → Central (9 accounts)
+  Zip 85303: West → Central (7 accounts)
+  Zip 85375: West → Central (1 accounts)
+  Zip 85210: West → Central (7 accounts)
+  Zip 85208: West → Central (1 accounts)
+  Zip 85301: West → Central (5 accounts)
+  Zip 85054: West → Central (2 accounts)
+  Zip 85382: West → Central (14 accounts)
+  Zip 85226: West → East (21 accounts)
+  Zip 85266: West → Central (14 accounts)
+  Zip 85027: West → Central (8 accounts)

@@ -1,0 +1,9904 @@
+Geography
+State
+AK
+
+AL
+
+Total
+Alaska
+5861
+Breakdown by County
+Aleutians East(013), AK
+1
+02013
+Aleutians West(016), AK
+3
+02016
+Anchorage(020), AK
+5306
+02020
+Bethel(050), AK
+2
+02050
+Bristol Bay(060), AK
+1
+02060
+Denali(068), AK
+1
+02068
+Dillingham(070), AK
+2
+02070
+Fairbanks North Star(090), AK
+167
+02090
+Haines(100), AK
+4
+02100
+Juneau(110), AK
+68
+02110
+Kenai Peninsula(122), AK
+72
+02122
+Ketchikan Gateway(130), AK
+22
+02130
+Kodiak Island(150), AK
+23
+02150
+Lake and Peninsula(164), AK
+1
+02164
+MATANUSKA SUSITNA(170), AK
+119
+02170
+Nome(180), AK
+1
+02180
+North
+Slope(185),
+AK
+3
+02185
+Northwest Arctic(188), AK
+1
+02188
+PRINCE WALES KETCHIKAN(201), AK
+4
+02201
+Sitka(220), AK
+7
+02220
+Skagway Hoonah Angoon(232), AK
+4
+02232
+Southeast Fairbanks(240), AK
+18
+02240
+VALDEZ CORDOVA(261), AK
+9
+02261
+Wade Hampton(270), AK
+1
+02270
+WRANGELL
+PETERSBURG(280),
+AK
+14
+02280
+Yakutat(282), AK
+1
+02282
+YUKON KOYUKUK(290), AK
+6
+02290
+Alabama
+120363
+Breakdown by County
+Autauga(001), AL
+2326
+01001
+Baldwin(003), AL
+5210
+01003
+Barbour(005), AL
+593
+01005
+Bibb(007), AL
+537
+01007
+Blount(009), AL
+1715
+01009
+Bullock(011), AL
+104
+01011
+Butler(013), AL
+471
+01013
+Calhoun(015), AL
+4092
+01015
+Chambers(017), AL
+864
+01017
+Cherokee(019), AL
+855
+01019
+Chilton(021), AL
+1137
+01021
+Choctaw(023), AL
+190
+01023
+Clarke(025),
+AL
+528
+01025
+Clay(027), AL
+449
+01027
+Cleburne(029), AL
+476
+01029
+Coffee(031), AL
+1179
+01031
+Colbert(033), AL
+1358
+01033
+Conecuh(035), AL
+180
+01035
+
+Coosa(037), AL
+Covington(039), AL
+Crenshaw(041), AL
+Cullman(043), AL
+Dale(045), AL
+Dallas(047), AL
+De Kalb(049), AL
+Elmore(051), AL
+Escambia(053), AL
+Etowah(055), AL
+Fayette(057), AL
+Franklin(059), AL
+Geneva(061), AL
+Greene(063), AL
+Hale(065), AL
+Henry(067), AL
+Houston(069), AL
+Jackson(071), AL
+Jefferson(073), AL
+Lamar(075), AL
+Lauderdale(077), AL
+Lawrence(079), AL
+Lee(081), AL
+Limestone(083), AL
+Lowndes(085), AL
+Macon(087), AL
+Madison(089), AL
+Marengo(091), AL
+Marion(093), AL
+Marshall(095), AL
+Mobile(097), AL
+Monroe(099), AL
+Montgomery(101), AL
+Morgan(103), AL
+Perry(105), AL
+Pickens(107), AL
+Pike(109), AL
+Randolph(111), AL
+Russell(113), AL
+SAINT CLAIR(115), AL
+Shelby(117), AL
+Sumter(119), AL
+Talladega(121), AL
+Tallapoosa(123), AL
+Tuscaloosa(125), AL
+Walker(127), AL
+Washington(129), AL
+Wilcox(131), AL
+Winston(133), AL
+Arkansas
+Breakdown by County
+01037
+01039
+01041
+01043
+01045
+01047
+01049
+01051
+01053
+01055
+01057
+01059
+01061
+01063
+01065
+01067
+01069
+01071
+01073
+01075
+01077
+01079
+01081
+01083
+01085
+01087
+01089
+01091
+01093
+01095
+01097
+01099
+01101
+01103
+01105
+01107
+01109
+01111
+01113
+01115
+01117
+01119
+01121
+01123
+01125
+01127
+01129
+01131
+01133
+
+AR
+
+142
+1117
+498
+2776
+1554
+778
+1682
+2899
+831
+3565
+534
+761
+879
+76
+238
+530
+3145
+1511
+11277
+483
+3255
+1249
+3081
+2332
+115
+155
+6959
+354
+861
+2813
+12046
+495
+6446
+2650
+47
+400
+694
+526
+1320
+2677
+3767
+48
+2239
+1028
+3736
+2406
+327
+144
+653
+56745
+
+05001
+05003
+05005
+05007
+05009
+05011
+05013
+05015
+05017
+05019
+05021
+05023
+05025
+05027
+05029
+05031
+05033
+05035
+05037
+05039
+05041
+05043
+05045
+05047
+05049
+05051
+05053
+05055
+05057
+05059
+05061
+05063
+05065
+05067
+05069
+05071
+05073
+05075
+05077
+05079
+05081
+05083
+05085
+05087
+05089
+05091
+05093
+05095
+05097
+05099
+05101
+
+Arkansas(001), AR
+Ashley(003), AR
+Baxter(005), AR
+Benton(007), AR
+Boone(009), AR
+Bradley(011), AR
+Calhoun(013), AR
+Carroll(015), AR
+Chicot(017), AR
+Clark(019), AR
+Clay(021), AR
+Cleburne(023), AR
+Cleveland(025), AR
+Columbia(027), AR
+Conway(029), AR
+Craighead(031), AR
+Crawford(033), AR
+Crittenden(035), AR
+Cross(037), AR
+Dallas(039), AR
+Desha(041), AR
+Drew(043), AR
+Faulkner(045), AR
+Franklin(047), AR
+Fulton(049), AR
+Garland(051), AR
+Grant(053), AR
+Greene(055), AR
+Hempstead(057), AR
+Hot Spring(059), AR
+Howard(061), AR
+Independence(063), AR
+Izard(065), AR
+Jackson(067), AR
+Jefferson(069), AR
+Johnson(071), AR
+Lafayette(073), AR
+Lawrence(075), AR
+Lee(077), AR
+Lincoln(079), AR
+Little River(081), AR
+Logan(083), AR
+Lonoke(085), AR
+Madison(087), AR
+Marion(089), AR
+Miller(091), AR
+Mississippi(093), AR
+Monroe(095), AR
+Montgomery(097), AR
+Nevada(099), AR
+Newton(101), AR
+
+376
+621
+742
+2831
+671
+184
+45
+450
+157
+342
+526
+562
+225
+394
+489
+1790
+1881
+794
+432
+154
+154
+380
+1854
+408
+208
+2175
+526
+1179
+460
+757
+252
+976
+187
+416
+1395
+480
+142
+533
+137
+233
+314
+621
+1614
+284
+230
+793
+1040
+137
+158
+198
+111
+
+Ouachita(103), AR
+Perry(105), AR
+Phillips(107), AR
+Pike(109), AR
+Poinsett(111), AR
+Polk(113), AR
+Pope(115), AR
+Prairie(117), AR
+Pulaski(119), AR
+Randolph(121), AR
+SAINT FRANCIS(123), AR
+Saline(125), AR
+Scott(127), AR
+Searcy(129), AR
+Sebastian(131), AR
+Sevier(133), AR
+Sharp(135), AR
+Stone(137), AR
+Union(139), AR
+Van Buren(141), AR
+Washington(143), AR
+White(145), AR
+Woodruff(147), AR
+Yell(149), AR
+Arizona
+Breakdown by County
+Apache(001), AZ
+04001
+Cochise(003), AZ
+04003
+Coconino(005), AZ
+04005
+Gila(007), AZ
+04007
+Graham(009), AZ
+04009
+Greenlee(011), AZ
+04011
+La Paz(012), AZ
+04012
+Maricopa(013), AZ
+04013
+Mohave(015), AZ
+04015
+Navajo(017), AZ
+04017
+Pima(019), AZ
+04019
+Pinal(021), AZ
+04021
+Santa Cruz(023), AZ
+04023
+Yavapai(025), AZ
+04025
+Yuma(027), AZ
+04027
+California
+Breakdown by County
+Alameda(001), CA
+06001
+Alpine(003), CA
+06003
+Amador(005),
+CA
+06005
+Butte(007), CA
+06007
+Calaveras(009), CA
+06009
+Colusa(011), CA
+06011
+Contra Costa(013), CA
+06013
+Del Norte(015), CA
+06015
+05103
+05105
+05107
+05109
+05111
+05113
+05115
+05117
+05119
+05121
+05123
+05125
+05127
+05129
+05131
+05133
+05135
+05137
+05139
+05141
+05143
+05145
+05147
+05149
+
+AZ
+
+CA
+
+534
+240
+290
+176
+666
+594
+1314
+174
+6671
+555
+367
+2338
+154
+135
+2520
+317
+402
+181
+959
+304
+3761
+1611
+126
+338
+431027
+116
+1864
+10819
+2767
+326
+56
+165
+298672
+25007
+496
+69017
+10097
+4898
+2652
+4075
+1242498
+26921
+3
+787
+25641
+778
+186
+44932
+178
+
+06017
+06019
+06021
+06023
+06025
+06027
+06029
+06031
+06033
+06035
+06037
+06039
+06041
+06043
+06045
+06047
+06049
+06051
+06053
+06055
+06057
+06059
+06061
+06063
+06065
+06067
+06069
+06071
+06073
+06075
+06077
+06079
+06081
+06083
+06085
+06087
+06089
+06091
+06093
+06095
+06097
+06099
+06101
+06103
+06105
+06107
+06109
+06111
+06113
+06115
+CO
+
+El Dorado(017), CA
+Fresno(019), CA
+Glenn(021), CA
+Humboldt(023), CA
+Imperial(025), CA
+Inyo(027), CA
+Kern(029), CA
+Kings(031), CA
+Lake(033), CA
+Lassen(035), CA
+Los Angeles(037), CA
+Madera(039), CA
+Marin(041), CA
+Mariposa(043), CA
+Mendocino(045), CA
+Merced(047), CA
+Modoc(049), CA
+Mono(051), CA
+Monterey(053), CA
+Napa(055), CA
+Nevada(057), CA
+Orange(059), CA
+Placer(061), CA
+Plumas(063), CA
+Riverside(065), CA
+Sacramento(067), CA
+San Benito(069), CA
+San Bernardino(071), CA
+San Diego(073), CA
+San Francisco(075), CA
+San Joaquin(077), CA
+San Luis Obispo(079), CA
+San Mateo(081), CA
+Santa Barbara(083), CA
+Santa Clara(085), CA
+Santa Cruz(087), CA
+Shasta(089), CA
+Sierra(091), CA
+Siskiyou(093), CA
+Solano(095), CA
+Sonoma(097), CA
+Stanislaus(099), CA
+Sutter(101), CA
+Tehama(103), CA
+Trinity(105), CA
+Tulare(107), CA
+Tuolumne(109), CA
+Ventura(111), CA
+Yolo(113), CA
+Yuba(115), CA
+Colorado
+
+3389
+48232
+593
+856
+950
+199
+33836
+5020
+1242
+314
+279556
+3939
+10497
+359
+854
+21548
+95
+63
+1780
+15504
+5552
+101250
+20931
+171
+106482
+59441
+473
+74306
+113407
+1523
+26302
+2709
+17438
+4477
+52575
+1832
+8654
+18
+595
+18459
+11290
+25704
+3698
+2384
+142
+15614
+1186
+33850
+2023
+1760
+50167
+
+Breakdown by County
+Adams(001), CO
+08001
+Alamosa(003), CO
+08003
+Arapahoe(005), CO
+08005
+Archuleta(007), CO
+08007
+Baca(009), CO
+08009
+Bent(011), CO
+08011
+Boulder(013), CO
+08013
+Broomfield(014), CO
+08014
+Chaffee(015), CO
+08015
+Cheyenne(017), CO
+08017
+Clear Creek(019), CO
+08019
+Conejos(021), CO
+08021
+Costilla(023), CO
+08023
+Crowley(025), CO
+08025
+Custer(027), CO
+08027
+Delta(029), CO
+08029
+Denver(031), CO
+08031
+Dolores(033), CO
+08033
+Douglas(035), CO
+08035
+Eagle(037), CO
+08037
+Elbert(039), CO
+08039
+El Paso(041), CO
+08041
+Fremont(043), CO
+08043
+Garfield(045), CO
+08045
+Gilpin(047), CO
+08047
+Grand(049), CO
+08049
+Gunnison(051), CO
+08051
+Hinsdale(053), CO
+08053
+Huerfano(055), CO
+08055
+Jackson(057), CO
+08057
+Jefferson(059), CO
+08059
+Kiowa(061), CO
+08061
+Kit Carson(063), CO
+08063
+Lake(065), CO
+08065
+La Plata(067), CO
+08067
+Larimer(069), CO
+08069
+Las Animas(071), CO
+08071
+Lincoln(073), CO
+08073
+Logan(075), CO
+08075
+Mesa(077), CO
+08077
+Mineral(079), CO
+08079
+Moffat(081), CO
+08081
+Montezuma(083), CO
+08083
+Montrose(085), CO
+08085
+Morgan(087), CO
+08087
+Otero(089), CO
+08089
+Ouray(091), CO
+08091
+Park(093), CO
+08093
+Phillips(095), CO
+08095
+Pitkin(097), CO
+08097
+
+3360
+38
+8895
+51
+37
+67
+1028
+266
+75
+6
+49
+18
+7
+39
+16
+258
+3799
+11
+1538
+1374
+188
+3634
+480
+288
+22
+26
+47
+2
+48
+3
+14913
+18
+43
+34
+215
+2150
+104
+14
+223
+1878
+3
+54
+115
+281
+187
+275
+28
+90
+30
+82
+
+Prowers(099), CO
+Pueblo(101), CO
+Rio Blanco(103), CO
+Rio Grande(105), CO
+Routt(107), CO
+Saguache(109), CO
+San Juan(111), CO
+San Miguel(113), CO
+Sedgwick(115), CO
+Summit(117), CO
+Teller(119), CO
+Washington(121), CO
+Weld(123), CO
+Yuma(125), CO
+Connecticut
+Breakdown by County
+Fairfield(001), CT
+09001
+Hartford(003), CT
+09003
+Litchfield(005), CT
+09005
+Middlesex(007), CT
+09007
+New Haven(009), CT
+09009
+New London(011), CT
+09011
+Tolland(013), CT
+09013
+Windham(015), CT
+09015
+Dist of Columbia
+Breakdown by County
+District of Columbia(001), DC
+11001
+Fairfax(059), VA
+51059
+Delaware
+Breakdown by County
+Kent(001), DE
+10001
+New Castle(003), DE
+10003
+Sussex(005), DE
+10005
+Florida
+Breakdown by County
+Alachua(001), FL
+12001
+Baker(003), FL
+12003
+Bay(005), FL
+12005
+Bradford(007), FL
+12007
+Brevard(009), FL
+12009
+Broward(011), FL
+12011
+Calhoun(013), FL
+12013
+Charlotte(015), FL
+12015
+Citrus(017), FL
+12017
+Clay(019), FL
+12019
+Collier(021),
+FL
+12021
+Columbia(023), FL
+12023
+De Soto(027), FL
+12027
+Dixie(029), FL
+12029
+Duval(031), FL
+12031
+Escambia(033), FL
+12033
+08099
+08101
+08103
+08105
+08107
+08109
+08111
+08113
+08115
+08117
+08119
+08121
+08123
+08125
+
+CT
+
+DC
+
+DE
+
+FL
+
+133
+1706
+24
+35
+59
+14
+1
+17
+22
+71
+154
+45
+1406
+73
+95272
+20641
+20676
+6440
+5609
+24319
+7236
+6718
+3633
+1779
+1778
+1
+15067
+3732
+7240
+4095
+1305112
+9107
+924
+15302
+816
+50061
+122555
+418
+22336
+15293
+9679
+24721
+1195
+910
+334
+32309
+13236
+
+12035
+12037
+12039
+12041
+12043
+12045
+12047
+12049
+12051
+12053
+12055
+12057
+12059
+12061
+12063
+12065
+12067
+12069
+12071
+12073
+12075
+12077
+12079
+12081
+12083
+12085
+12086
+12087
+12089
+12091
+12093
+12095
+12097
+12099
+12101
+12103
+12105
+12107
+12109
+12111
+12113
+12115
+12117
+12119
+12121
+12123
+12125
+12127
+12129
+12131
+12133
+
+Flagler(035), FL
+Franklin(037), FL
+Gadsden(039), FL
+Gilchrist(041), FL
+Glades(043), FL
+Gulf(045), FL
+Hamilton(047), FL
+Hardee(049), FL
+Hendry(051), FL
+Hernando(053), FL
+Highlands(055), FL
+Hillsborough(057), FL
+Holmes(059), FL
+Indian River(061), FL
+Jackson(063), FL
+Jefferson(065), FL
+Lafayette(067), FL
+Lake(069), FL
+Lee(071), FL
+Leon(073), FL
+Levy(075), FL
+Liberty(077), FL
+Madison(079), FL
+Manatee(081), FL
+Marion(083), FL
+Martin(085), FL
+Miami-Dade(086), FL
+Monroe(087), FL
+Nassau(089), FL
+Okaloosa(091), FL
+Okeechobee(093), FL
+Orange(095), FL
+Osceola(097), FL
+Palm Beach(099), FL
+Pasco(101), FL
+Pinellas(103), FL
+Polk(105), FL
+Putnam(107), FL
+SAINT JOHNS(109), FL
+SAINT LUCIE(111), FL
+Santa Rosa(113), FL
+Sarasota(115), FL
+Seminole(117), FL
+Sumter(119), FL
+Suwannee(121), FL
+Taylor(123), FL
+Union(125), FL
+Volusia(127), FL
+Wakulla(129), FL
+Walton(131), FL
+Washington(133), FL
+
+10170
+241
+803
+541
+113
+383
+285
+389
+349
+22034
+4896
+83527
+601
+14681
+899
+195
+161
+19054
+66272
+5987
+1717
+151
+349
+30282
+24444
+17260
+135795
+3514
+3259
+9852
+767
+68952
+17034
+97512
+38590
+86990
+37553
+1741
+13374
+22196
+9844
+43745
+43549
+3434
+1683
+687
+211
+36010
+994
+2140
+706
+
+GA
+
+Georgia
+Breakdown by County
+Appling(001), GA
+13001
+Atkinson(003),
+GA
+13003
+Bacon(005), GA
+13005
+Baker(007), GA
+13007
+Baldwin(009), GA
+13009
+Banks(011), GA
+13011
+Barrow(013), GA
+13013
+Bartow(015), GA
+13015
+Ben Hill(017), GA
+13017
+Berrien(019), GA
+13019
+Bibb(021), GA
+13021
+Bleckley(023), GA
+13023
+Brantley(025), GA
+13025
+Brooks(027), GA
+13027
+Bryan(029), GA
+13029
+Bulloch(031), GA
+13031
+Burke(033), GA
+13033
+Butts(035), GA
+13035
+Calhoun(037), GA
+13037
+Camden(039), GA
+13039
+Candler(043), GA
+13043
+Carroll(045), GA
+13045
+Catoosa(047), GA
+13047
+Charlton(049), GA
+13049
+Chatham(051), GA
+13051
+Chattahoochee(053), GA
+13053
+Chattooga(055), GA
+13055
+Cherokee(057), GA
+13057
+Clarke(059), GA
+13059
+Clay(061), GA
+13061
+Clayton(063), GA
+13063
+Clinch(065), GA
+13065
+Cobb(067), GA
+13067
+Coffee(069), GA
+13069
+Colquitt(071), GA
+13071
+Columbia(073), GA
+13073
+Cook(075), GA
+13075
+Coweta(077), GA
+13077
+Crawford(079), GA
+13079
+Crisp(081), GA
+13081
+Dade(083), GA
+13083
+Dawson(085), GA
+13085
+Decatur(087), GA
+13087
+DEKALB(089), GA
+13089
+Dodge(091), GA
+13091
+Dooly(093), GA
+13093
+Dougherty(095), GA
+13095
+Douglas(097), GA
+13097
+Early(099), GA
+13099
+
+189842
+438
+122
+244
+20
+804
+351
+1411
+2663
+550
+393
+2448
+217
+336
+421
+655
+964
+428
+516
+73
+1332
+169
+2741
+1681
+193
+4200
+81
+882
+4947
+842
+25
+5684
+80
+14398
+1700
+1067
+4878
+295
+3376
+396
+414
+408
+494
+863
+6704
+403
+234
+1942
+3160
+186
+
+13101
+13103
+13105
+13107
+13109
+13111
+13113
+13115
+13117
+13119
+13121
+13123
+13125
+13127
+13129
+13131
+13133
+13135
+13137
+13139
+13141
+13143
+13145
+13147
+13149
+13151
+13153
+13155
+13157
+13159
+13161
+13163
+13165
+13167
+13169
+13171
+13173
+13175
+13177
+13179
+13181
+13183
+13185
+13187
+13189
+13191
+13193
+13195
+13197
+13199
+13201
+
+Echols(101), GA
+Effingham(103), GA
+Elbert(105), GA
+Emanuel(107), GA
+Evans(109), GA
+Fannin(111), GA
+Fayette(113), GA
+Floyd(115), GA
+Forsyth(117), GA
+Franklin(119), GA
+Fulton(121), GA
+Gilmer(123), GA
+Glascock(125), GA
+Glynn(127), GA
+Gordon(129), GA
+Grady(131), GA
+Greene(133), GA
+Gwinnett(135), GA
+Habersham(137), GA
+Hall(139), GA
+Hancock(141), GA
+Haralson(143), GA
+Harris(145), GA
+Hart(147), GA
+Heard(149), GA
+Henry(151), GA
+Houston(153), GA
+Irwin(155), GA
+Jackson(157), GA
+Jasper(159), GA
+Jeff Davis(161), GA
+Jefferson(163), GA
+Jenkins(165), GA
+Johnson(167), GA
+Jones(169), GA
+Lamar(171), GA
+Lanier(173), GA
+Laurens(175), GA
+Lee(177), GA
+Liberty(179), GA
+Lincoln(181), GA
+Long(183), GA
+Lowndes(185), GA
+Lumpkin(187), GA
+MCDUFFIE(189), GA
+MCINTOSH(191), GA
+Macon(193), GA
+Madison(195), GA
+Marion(197), GA
+Meriwether(199), GA
+Miller(201), GA
+
+86
+2065
+417
+443
+186
+356
+5058
+1731
+2839
+583
+7707
+429
+123
+1400
+1522
+794
+268
+10052
+722
+3820
+67
+1005
+1292
+646
+365
+5142
+4892
+245
+1434
+300
+500
+240
+252
+123
+832
+559
+110
+1029
+650
+888
+201
+111
+2817
+582
+513
+123
+153
+680
+184
+423
+133
+
+13205
+13207
+13209
+13211
+13213
+13215
+13217
+13219
+13221
+13223
+13225
+13227
+13229
+13231
+13233
+13235
+13237
+13239
+13241
+13243
+13245
+13247
+13249
+13251
+13253
+13255
+13257
+13259
+13261
+13263
+13265
+13267
+13269
+13271
+13273
+13275
+13277
+13279
+13281
+13283
+13285
+13287
+13289
+13291
+13293
+13295
+13297
+13299
+13301
+13303
+13305
+
+Mitchell(205), GA
+Monroe(207), GA
+Montgomery(209), GA
+Morgan(211), GA
+Murray(213), GA
+Muscogee(215), GA
+Newton(217), GA
+Oconee(219), GA
+Oglethorpe(221), GA
+Paulding(223), GA
+Peach(225), GA
+Pickens(227), GA
+Pierce(229), GA
+Pike(231), GA
+Polk(233), GA
+Pulaski(235), GA
+Putnam(237), GA
+Quitman(239), GA
+Rabun(241), GA
+Randolph(243), GA
+Richmond(245), GA
+Rockdale(247), GA
+Schley(249), GA
+Screven(251), GA
+Seminole(253), GA
+Spalding(255), GA
+Stephens(257), GA
+Stewart(259), GA
+Sumter(261), GA
+Talbot(263), GA
+Taliaferro(265), GA
+Tattnall(267), GA
+Taylor(269), GA
+Telfair(271), GA
+Terrell(273), GA
+Thomas(275), GA
+Tift(277), GA
+Toombs(279), GA
+Towns(281), GA
+Treutlen(283), GA
+Troup(285), GA
+Turner(287), GA
+Twiggs(289), GA
+Union(291), GA
+Upson(293), GA
+Walker(295), GA
+Walton(297), GA
+Ware(299), GA
+Warren(301), GA
+Washington(303), GA
+Wayne(305), GA
+
+548
+425
+114
+255
+1065
+2556
+1991
+780
+307
+3502
+627
+726
+552
+561
+1275
+111
+231
+41
+181
+55
+6369
+2075
+86
+394
+224
+1875
+389
+60
+607
+55
+17
+317
+186
+182
+142
+737
+597
+526
+146
+83
+1069
+141
+180
+351
+939
+2490
+3944
+924
+57
+327
+866
+
+Webster(307), GA
+Wheeler(309), GA
+White(311), GA
+Whitfield(313), GA
+Wilcox(315), GA
+Wilkes(317), GA
+Wilkinson(319), GA
+Worth(321), GA
+Hawaii
+Breakdown by County
+Hawaii(001), HI
+15001
+Honolulu(003), HI
+15003
+KALAWAO(005), HI
+15005
+Kauai(007), HI
+15007
+Maui(009), HI
+15009
+Iowa
+Breakdown by County
+Adair(001), IA
+19001
+Adams(003), IA
+19003
+Allamakee(005), IA
+19005
+Appanoose(007),
+IA
+19007
+Audubon(009), IA
+19009
+Benton(011), IA
+19011
+Black Hawk(013), IA
+19013
+Boone(015), IA
+19015
+Bremer(017), IA
+19017
+Buchanan(019), IA
+19019
+Buena Vista(021), IA
+19021
+Butler(023),
+IA
+19023
+Calhoun(025), IA
+19025
+Carroll(027), IA
+19027
+Cass(029), IA
+19029
+Cedar(031), IA
+19031
+Cerro Gordo(033), IA
+19033
+Cherokee(035), IA
+19035
+Chickasaw(037), IA
+19037
+Clarke(039), IA
+19039
+Clay(041), IA
+19041
+Clayton(043), IA
+19043
+Clinton(045), IA
+19045
+Crawford(047), IA
+19047
+Dallas(049), IA
+19049
+Davis(051), IA
+19051
+Decatur(053), IA
+19053
+Delaware(055), IA
+19055
+Des Moines(057), IA
+19057
+Dickinson(059), IA
+19059
+Dubuque(061), IA
+19061
+Emmet(063), IA
+19063
+Fayette(065), IA
+19065
+Floyd(067), IA
+19067
+13307
+13309
+13311
+13313
+13315
+13317
+13319
+13321
+
+HI
+
+IA
+
+22
+6
+520
+2083
+161
+167
+170
+534
+12278
+1698
+9031
+1
+358
+1190
+38785
+91
+52
+132
+294
+74
+410
+1734
+353
+238
+299
+109
+164
+132
+175
+147
+317
+389
+117
+135
+131
+155
+162
+820
+118
+496
+158
+95
+222
+999
+150
+1026
+108
+305
+255
+
+19069
+19071
+19073
+19075
+19077
+19079
+19081
+19083
+19085
+19087
+19089
+19091
+19093
+19095
+19097
+19099
+19101
+19103
+19105
+19107
+19109
+19111
+19113
+19115
+19117
+19119
+19121
+19123
+19125
+19127
+19129
+19131
+19133
+19135
+19137
+19139
+19141
+19143
+19145
+19147
+19149
+19151
+19153
+19155
+19157
+19159
+19161
+19163
+19165
+19167
+19169
+
+Franklin(069), IA
+Fremont(071), IA
+Greene(073), IA
+Grundy(075), IA
+Guthrie(077), IA
+Hamilton(079), IA
+Hancock(081), IA
+Hardin(083), IA
+Harrison(085), IA
+Henry(087), IA
+Howard(089), IA
+Humboldt(091), IA
+IDA(093), IA
+Iowa(095), IA
+Jackson(097), IA
+Jasper(099), IA
+Jefferson(101), IA
+Johnson(103), IA
+Jones(105), IA
+Keokuk(107), IA
+Kossuth(109), IA
+Lee(111), IA
+Linn(113), IA
+Louisa(115), IA
+Lucas(117), IA
+Lyon(119), IA
+Madison(121), IA
+Mahaska(123), IA
+Marion(125), IA
+Marshall(127), IA
+Mills(129), IA
+Mitchell(131), IA
+Monona(133), IA
+Monroe(135), IA
+Montgomery(137), IA
+Muscatine(139), IA
+OBRIEN(141), IA
+Osceola(143), IA
+Page(145), IA
+Palo Alto(147), IA
+Plymouth(149), IA
+Pocahontas(151), IA
+Polk(153), IA
+Pottawattamie(155), IA
+Poweshiek(157), IA
+Ringgold(159), IA
+Sac(161), IA
+Scott(163), IA
+Shelby(165), IA
+Sioux(167), IA
+Story(169), IA
+
+92
+124
+113
+106
+122
+193
+115
+159
+250
+348
+114
+115
+64
+176
+330
+497
+213
+685
+239
+192
+122
+1003
+2723
+205
+151
+83
+212
+388
+471
+422
+227
+143
+177
+150
+203
+782
+129
+48
+209
+57
+302
+70
+5376
+1687
+184
+59
+84
+2184
+108
+214
+413
+
+Tama(171), IA
+Taylor(173), IA
+Union(175), IA
+Van Buren(177), IA
+Wapello(179), IA
+Warren(181), IA
+Washington(183), IA
+Wayne(185), IA
+Webster(187), IA
+Winnebago(189), IA
+Winneshiek(191), IA
+Woodbury(193), IA
+Worth(195), IA
+Wright(197), IA
+Idaho
+Breakdown by County
+Ada(001), ID
+16001
+Adams(003), ID
+16003
+Bannock(005), ID
+16005
+Bear Lake(007), ID
+16007
+Benewah(009),
+ID
+16009
+Bingham(011), ID
+16011
+Blaine(013), ID
+16013
+Boise(015), ID
+16015
+Bonner(017), ID
+16017
+Bonneville(019), ID
+16019
+Boundary(021), ID
+16021
+Butte(023), ID
+16023
+Camas(025), ID
+16025
+Canyon(027), ID
+16027
+Caribou(029), ID
+16029
+Cassia(031), ID
+16031
+Clark(033), ID
+16033
+Clearwater(035), ID
+16035
+Custer(037), ID
+16037
+Elmore(039), ID
+16039
+Franklin(041), ID
+16041
+Fremont(043), ID
+16043
+Gem(045), ID
+16045
+Gooding(047), ID
+16047
+Idaho(049), ID
+16049
+Jefferson(051), ID
+16051
+Jerome(053), ID
+16053
+Kootenai(055), ID
+16055
+Latah(057), ID
+16057
+Lemhi(059), ID
+16059
+Lewis(061), ID
+16061
+Lincoln(063), ID
+16063
+Madison(065), ID
+16065
+Minidoka(067), ID
+16067
+Nez Perce(069), ID
+16069
+19171
+19173
+19175
+19177
+19179
+19181
+19183
+19185
+19187
+19189
+19191
+19193
+19195
+19197
+
+ID
+
+218
+48
+181
+139
+729
+665
+301
+118
+497
+103
+125
+2017
+77
+172
+22926
+13236
+49
+497
+34
+89
+325
+61
+51
+310
+727
+91
+13
+1
+2037
+34
+176
+2
+61
+13
+231
+102
+55
+266
+102
+95
+195
+191
+1457
+135
+40
+37
+27
+97
+216
+453
+
+Oneida(071), ID
+Owyhee(073), ID
+Payette(075), ID
+Power(077), ID
+Shoshone(079), ID
+Teton(081), ID
+Twin Falls(083), ID
+Valley(085), ID
+Washington(087), ID
+Illinois
+Breakdown by County
+Adams(001), IL
+17001
+Alexander(003), IL
+17003
+Bond(005), IL
+17005
+Boone(007), IL
+17007
+Brown(009), IL
+17009
+Bureau(011), IL
+17011
+Calhoun(013), IL
+17013
+Carroll(015), IL
+17015
+Cass(017), IL
+17017
+Champaign(019), IL
+17019
+Christian(021), IL
+17021
+Clark(023), IL
+17023
+Clay(025), IL
+17025
+Clinton(027), IL
+17027
+Coles(029), IL
+17029
+Cook(031), IL
+17031
+Crawford(033), IL
+17033
+Cumberland(035), IL
+17035
+DEKALB(037), IL
+17037
+DEWITT(039), IL
+17039
+Douglas(041), IL
+17041
+DUPAGE(043), IL
+17043
+Edgar(045), IL
+17045
+Edwards(047), IL
+17047
+Effingham(049), IL
+17049
+Fayette(051), IL
+17051
+Ford(053), IL
+17053
+Franklin(055), IL
+17055
+Fulton(057), IL
+17057
+Gallatin(059), IL
+17059
+Greene(061), IL
+17061
+Grundy(063), IL
+17063
+Hamilton(065), IL
+17065
+Hancock(067), IL
+17067
+Hardin(069),
+IL
+17069
+Henderson(071), IL
+17071
+Henry(073), IL
+17073
+Iroquois(075), IL
+17075
+Jackson(077), IL
+17077
+Jasper(079), IL
+17079
+16071
+16073
+16075
+16077
+16079
+16081
+16083
+16085
+16087
+
+IL
+
+28
+97
+293
+47
+108
+24
+656
+32
+135
+156489
+1419
+175
+411
+869
+84
+569
+87
+333
+300
+1826
+924
+418
+360
+668
+874
+32812
+528
+282
+1234
+254
+309
+8132
+587
+140
+689
+393
+243
+1277
+894
+150
+336
+989
+189
+498
+82
+154
+974
+656
+964
+237
+
+17081
+17083
+17085
+17087
+17089
+17091
+17093
+17095
+17097
+17099
+17101
+17103
+17105
+17107
+17109
+17111
+17113
+17115
+17117
+17119
+17121
+17123
+17125
+17127
+17129
+17131
+17133
+17135
+17137
+17139
+17141
+17143
+17145
+17147
+17149
+17151
+17153
+17155
+17157
+17159
+17161
+17163
+17165
+17167
+17169
+17171
+17173
+17175
+17177
+17179
+17181
+
+Jefferson(081), IL
+Jersey(083), IL
+Jo Daviess(085), IL
+Johnson(087), IL
+Kane(089), IL
+Kankakee(091), IL
+Kendall(093), IL
+Knox(095), IL
+Lake(097), IL
+La Salle(099), IL
+Lawrence(101), IL
+Lee(103), IL
+Livingston(105), IL
+Logan(107), IL
+MCDONOUGH(109), IL
+MCHENRY(111), IL
+MCLEAN(113), IL
+Macon(115), IL
+Macoupin(117), IL
+Madison(119), IL
+Marion(121), IL
+Marshall(123), IL
+Mason(125), IL
+Massac(127), IL
+Menard(129), IL
+Mercer(131), IL
+Monroe(133), IL
+Montgomery(135), IL
+Morgan(137), IL
+Moultrie(139), IL
+Ogle(141), IL
+Peoria(143), IL
+Perry(145), IL
+Piatt(147), IL
+Pike(149), IL
+Pope(151), IL
+Pulaski(153), IL
+Putnam(155), IL
+Randolph(157), IL
+Richland(159), IL
+Rock Island(161), IL
+SAINT CLAIR(163), IL
+Saline(165), IL
+Sangamon(167), IL
+Schuyler(169), IL
+Scott(171), IL
+Shelby(173), IL
+Stark(175), IL
+Stephenson(177), IL
+Tazewell(179), IL
+Union(181), IL
+
+909
+659
+256
+353
+4650
+2558
+1457
+1078
+6088
+2523
+396
+765
+640
+576
+513
+4616
+1562
+2123
+1307
+8199
+1118
+231
+413
+369
+294
+345
+864
+757
+772
+178
+1043
+2804
+546
+254
+407
+51
+152
+108
+797
+347
+1996
+4428
+779
+3876
+155
+136
+418
+114
+801
+2965
+430
+
+Vermilion(183), IL
+Wabash(185), IL
+Warren(187), IL
+Washington(189), IL
+Wayne(191), IL
+White(193), IL
+Whiteside(195), IL
+Will(197), IL
+Williamson(199), IL
+Winnebago(201), IL
+Woodford(203), IL
+Indiana
+Breakdown by County
+Adams(001), IN
+18001
+Allen(003), IN
+18003
+Bartholomew(005), IN
+18005
+Benton(007), IN
+18007
+Blackford(009), IN
+18009
+Boone(011), IN
+18011
+Brown(013), IN
+18013
+Carroll(015), IN
+18015
+Cass(017), IN
+18017
+Clark(019), IN
+18019
+Clay(021), IN
+18021
+Clinton(023), IN
+18023
+Crawford(025), IN
+18025
+Daviess(027), IN
+18027
+Dearborn(029), IN
+18029
+Decatur(031), IN
+18031
+De Kalb(033), IN
+18033
+Delaware(035), IN
+18035
+Dubois(037), IN
+18037
+Elkhart(039), IN
+18039
+Fayette(041), IN
+18041
+Floyd(043), IN
+18043
+Fountain(045), IN
+18045
+Franklin(047), IN
+18047
+Fulton(049), IN
+18049
+Gibson(051), IN
+18051
+Grant(053), IN
+18053
+Greene(055), IN
+18055
+Hamilton(057), IN
+18057
+Hancock(059), IN
+18059
+Harrison(061), IN
+18061
+Hendricks(063), IN
+18063
+Henry(065), IN
+18065
+Howard(067), IN
+18067
+Huntington(069), IN
+18069
+Jackson(071), IN
+18071
+Jasper(073), IN
+18073
+Jay(075), IN
+18075
+17183
+17185
+17187
+17189
+17191
+17193
+17195
+17197
+17199
+17201
+17203
+
+IN
+
+2104
+256
+344
+378
+306
+410
+1345
+12402
+1770
+5015
+663
+153399
+609
+8469
+2114
+214
+341
+867
+278
+709
+1533
+2620
+974
+1056
+303
+769
+1451
+504
+1392
+2336
+601
+6757
+891
+1709
+436
+772
+645
+728
+1602
+737
+5546
+2309
+1532
+4204
+1229
+1713
+1339
+1036
+790
+561
+
+18077
+18079
+18081
+18083
+18085
+18087
+18089
+18091
+18093
+18095
+18097
+18099
+18101
+18103
+18105
+18107
+18109
+18111
+18113
+18115
+18117
+18119
+18121
+18123
+18125
+18127
+18129
+18131
+18133
+18135
+18137
+18139
+18141
+18143
+18145
+18147
+18149
+18151
+18153
+18155
+18157
+18159
+18161
+18163
+18165
+18167
+18169
+18171
+18173
+18175
+18177
+
+Jefferson(077), IN
+Jennings(079), IN
+Johnson(081), IN
+Knox(083), IN
+Kosciusko(085), IN
+Lagrange(087), IN
+Lake(089), IN
+La Porte(091), IN
+Lawrence(093), IN
+Madison(095), IN
+Marion(097), IN
+Marshall(099), IN
+Martin(101), IN
+Miami(103), IN
+Monroe(105), IN
+Montgomery(107), IN
+Morgan(109), IN
+Newton(111), IN
+Noble(113), IN
+Ohio(115), IN
+Orange(117), IN
+Owen(119), IN
+Parke(121), IN
+Perry(123), IN
+Pike(125), IN
+Porter(127), IN
+Posey(129), IN
+Pulaski(131), IN
+Putnam(133), IN
+Randolph(135), IN
+Ripley(137), IN
+Rush(139), IN
+ST JOSEPH(141), IN
+Scott(143), IN
+Shelby(145), IN
+Spencer(147), IN
+Starke(149), IN
+Steuben(151), IN
+Sullivan(153), IN
+Switzerland(155), IN
+Tippecanoe(157), IN
+Tipton(159), IN
+Union(161), IN
+Vanderburgh(163), IN
+Vermillion(165), IN
+Vigo(167), IN
+Wabash(169), IN
+Warren(171), IN
+Warrick(173), IN
+Washington(175), IN
+Wayne(177), IN
+
+839
+739
+2308
+1074
+1283
+493
+17172
+2584
+1579
+2937
+10770
+1409
+221
+901
+1471
+1049
+2535
+678
+817
+195
+511
+585
+363
+444
+342
+3884
+664
+475
+965
+700
+647
+385
+5463
+994
+1002
+564
+935
+608
+778
+318
+1977
+601
+212
+5948
+714
+3659
+670
+291
+1488
+857
+1693
+
+Wells(179), IN
+White(181), IN
+Whitley(183), IN
+Kansas
+Breakdown by County
+Allen(001), KS
+20001
+Anderson(003), KS
+20003
+Atchison(005), KS
+20005
+Barber(007), KS
+20007
+Barton(009), KS
+20009
+Bourbon(011), KS
+20011
+Brown(013), KS
+20013
+Butler(015), KS
+20015
+Chase(017), KS
+20017
+Chautauqua(019), KS
+20019
+Cherokee(021), KS
+20021
+Cheyenne(023), KS
+20023
+Clark(025), KS
+20025
+Clay(027), KS
+20027
+Cloud(029), KS
+20029
+Coffey(031),
+KS
+20031
+Comanche(033), KS
+20033
+Cowley(035), KS
+20035
+Crawford(037), KS
+20037
+Decatur(039), KS
+20039
+Dickinson(041), KS
+20041
+Doniphan(043), KS
+20043
+Douglas(045), KS
+20045
+Edwards(047), KS
+20047
+Elk(049), KS
+20049
+Ellis(051), KS
+20051
+Ellsworth(053), KS
+20053
+Finney(055), KS
+20055
+Ford(057), KS
+20057
+Franklin(059), KS
+20059
+Geary(061), KS
+20061
+Gove(063), KS
+20063
+Graham(065), KS
+20065
+Grant(067), KS
+20067
+Gray(069), KS
+20069
+Greeley(071), KS
+20071
+Greenwood(073), KS
+20073
+Hamilton(075), KS
+20075
+Harper(077), KS
+20077
+Harvey(079), KS
+20079
+Haskell(081), KS
+20081
+Hodgeman(083), KS
+20083
+Jackson(085), KS
+20085
+Jefferson(087), KS
+20087
+Jewell(089), KS
+20089
+Johnson(091), KS
+20091
+18179
+18181
+18183
+
+KS
+
+615
+586
+731
+35074
+341
+142
+285
+70
+390
+340
+180
+1186
+23
+59
+672
+21
+14
+131
+125
+151
+13
+645
+863
+27
+304
+124
+680
+55
+49
+285
+78
+251
+312
+495
+271
+19
+26
+61
+47
+5
+95
+12
+112
+540
+26
+25
+242
+331
+29
+4079
+
+20093
+20095
+20097
+20099
+20101
+20103
+20105
+20107
+20109
+20111
+20113
+20115
+20117
+20119
+20121
+20123
+20125
+20127
+20129
+20131
+20133
+20135
+20137
+20139
+20141
+20143
+20145
+20147
+20149
+20151
+20153
+20155
+20157
+20159
+20161
+20163
+20165
+20167
+20169
+20171
+20173
+20175
+20177
+20179
+20181
+20183
+20185
+20187
+20189
+20191
+20193
+
+Kearny(093), KS
+Kingman(095), KS
+Kiowa(097), KS
+Labette(099), KS
+Lane(101), KS
+Leavenworth(103), KS
+Lincoln(105), KS
+Linn(107), KS
+Logan(109), KS
+Lyon(111), KS
+MCPHERSON(113), KS
+Marion(115), KS
+Marshall(117), KS
+Meade(119), KS
+Miami(121), KS
+Mitchell(123), KS
+Montgomery(125), KS
+Morris(127), KS
+Morton(129), KS
+Nemaha(131), KS
+Neosho(133), KS
+Ness(135), KS
+Norton(137), KS
+Osage(139), KS
+Osborne(141), KS
+Ottawa(143), KS
+Pawnee(145), KS
+Phillips(147), KS
+Pottawatomie(149), KS
+Pratt(151), KS
+Rawlins(153), KS
+Reno(155), KS
+Republic(157), KS
+Rice(159), KS
+Riley(161), KS
+Rooks(163), KS
+Rush(165), KS
+Russell(167), KS
+Saline(169), KS
+Scott(171), KS
+Sedgwick(173), KS
+Seward(175), KS
+Shawnee(177), KS
+Sheridan(179), KS
+Sherman(181), KS
+Smith(183), KS
+Stafford(185), KS
+Stanton(187), KS
+Stevens(189), KS
+Sumner(191), KS
+Thomas(193), KS
+
+12
+125
+28
+494
+13
+1146
+53
+160
+25
+507
+395
+166
+119
+33
+508
+58
+761
+97
+18
+81
+398
+30
+48
+291
+41
+100
+84
+48
+239
+129
+23
+1153
+40
+133
+316
+61
+38
+84
+836
+63
+6219
+203
+2534
+19
+66
+39
+64
+10
+41
+445
+65
+
+Trego(195), KS
+Wabaunsee(197), KS
+Wallace(199), KS
+Washington(201), KS
+Wichita(203), KS
+Wilson(205), KS
+Woodson(207), KS
+Wyandotte(209), KS
+Kentucky
+Breakdown by County
+Adair(001), KY
+21001
+Allen(003), KY
+21003
+Anderson(005), KY
+21005
+Ballard(007), KY
+21007
+Barren(009), KY
+21009
+Bath(011), KY
+21011
+Bell(013), KY
+21013
+Boone(015), KY
+21015
+Bourbon(017), KY
+21017
+Boyd(019), KY
+21019
+Boyle(021),
+KY
+21021
+Bracken(023), KY
+21023
+Breathitt(025), KY
+21025
+Breckinridge(027), KY
+21027
+Bullitt(029), KY
+21029
+Butler(031), KY
+21031
+Caldwell(033), KY
+21033
+Calloway(035), KY
+21035
+Campbell(037), KY
+21037
+Carlisle(039), KY
+21039
+Carroll(041), KY
+21041
+Carter(043), KY
+21043
+Casey(045), KY
+21045
+Christian(047), KY
+21047
+Clark(049), KY
+21049
+Clay(051), KY
+21051
+Clinton(053), KY
+21053
+Crittenden(055), KY
+21055
+Cumberland(057), KY
+21057
+Daviess(059), KY
+21059
+Edmonson(061), KY
+21061
+Elliott(063), KY
+21063
+Estill(065), KY
+21065
+Fayette(067), KY
+21067
+Fleming(069), KY
+21069
+Floyd(071), KY
+21071
+Franklin(073), KY
+21073
+Fulton(075), KY
+21075
+Gallatin(077), KY
+21077
+Garrard(079), KY
+21079
+Grant(081), KY
+21081
+20195
+20197
+20199
+20201
+20203
+20205
+20207
+20209
+
+KY
+
+20
+100
+15
+51
+12
+228
+74
+1684
+99467
+457
+485
+734
+251
+992
+275
+569
+2495
+357
+1843
+539
+276
+320
+440
+2652
+348
+329
+722
+2136
+142
+281
+896
+441
+1270
+738
+393
+186
+262
+89
+2815
+331
+118
+503
+3493
+439
+843
+1516
+145
+254
+406
+704
+
+21083
+21085
+21087
+21089
+21091
+21093
+21095
+21097
+21099
+21101
+21103
+21105
+21107
+21109
+21111
+21113
+21115
+21117
+21119
+21121
+21123
+21125
+21127
+21129
+21131
+21133
+21135
+21137
+21139
+21141
+21143
+21145
+21147
+21149
+21151
+21153
+21155
+21157
+21159
+21161
+21163
+21165
+21167
+21169
+21171
+21173
+21175
+21177
+21179
+21181
+21183
+
+Graves(083), KY
+Grayson(085), KY
+Green(087), KY
+Greenup(089), KY
+Hancock(091), KY
+Hardin(093), KY
+Harlan(095), KY
+Harrison(097), KY
+Hart(099), KY
+Henderson(101), KY
+Henry(103), KY
+Hickman(105), KY
+Hopkins(107), KY
+Jackson(109), KY
+Jefferson(111), KY
+Jessamine(113), KY
+Johnson(115), KY
+Kenton(117), KY
+Knott(119), KY
+Knox(121), KY
+Larue(123), KY
+Laurel(125), KY
+Lawrence(127), KY
+Lee(129), KY
+Leslie(131), KY
+Letcher(133), KY
+Lewis(135), KY
+Lincoln(137), KY
+Livingston(139), KY
+Logan(141), KY
+Lyon(143), KY
+MCCRACKEN(145), KY
+MCCREARY(147), KY
+MCLEAN(149), KY
+Madison(151), KY
+Magoffin(153), KY
+Marion(155), KY
+Marshall(157), KY
+Martin(159), KY
+Mason(161), KY
+Meade(163), KY
+Menifee(165), KY
+Mercer(167), KY
+Metcalfe(169), KY
+Monroe(171), KY
+Montgomery(173), KY
+Morgan(175), KY
+Muhlenberg(177), KY
+Nelson(179), KY
+Nicholas(181), KY
+Ohio(183), KY
+
+1109
+724
+342
+1321
+303
+1954
+750
+575
+448
+1543
+468
+200
+1361
+344
+12764
+1034
+593
+3957
+357
+685
+366
+1624
+484
+218
+197
+747
+414
+702
+352
+748
+138
+1797
+385
+331
+1399
+281
+410
+907
+253
+454
+818
+140
+556
+307
+319
+595
+278
+982
+1177
+239
+745
+
+Oldham(185), KY
+Owen(187), KY
+Owsley(189), KY
+Pendleton(191), KY
+Perry(193), KY
+Pike(195), KY
+Powell(197), KY
+Pulaski(199), KY
+Robertson(201), KY
+Rockcastle(203), KY
+Rowan(205), KY
+Russell(207), KY
+Scott(209), KY
+Shelby(211), KY
+Simpson(213), KY
+Spencer(215), KY
+Taylor(217), KY
+Todd(219), KY
+Trigg(221), KY
+Trimble(223), KY
+Union(225), KY
+Warren(227), KY
+Washington(229), KY
+Wayne(231), KY
+Webster(233), KY
+Whitley(235), KY
+Wolfe(237), KY
+Woodford(239), KY
+Montgomery(125), TN
+Louisiana
+Breakdown by County
+Acadia(001), LA
+22001
+Allen(003), LA
+22003
+Ascension(005), LA
+22005
+Assumption(007), LA
+22007
+Avoyelles(009), LA
+22009
+Beauregard(011), LA
+22011
+Bienville(013), LA
+22013
+Bossier(015), LA
+22015
+Caddo(017), LA
+22017
+Calcasieu(019), LA
+22019
+Caldwell(021), LA
+22021
+Cameron(023), LA
+22023
+Catahoula(025), LA
+22025
+Claiborne(027), LA
+22027
+Concordia(029),
+LA
+22029
+De Soto(031), LA
+22031
+East Baton Rouge(033), LA
+22033
+East Carroll(035), LA
+22035
+East Feliciana(037), LA
+22037
+Evangeline(039), LA
+22039
+21185
+21187
+21189
+21191
+21193
+21195
+21197
+21199
+21201
+21203
+21205
+21207
+21209
+21211
+21213
+21215
+21217
+21219
+21221
+21223
+21225
+21227
+21229
+21231
+21233
+21235
+21237
+21239
+47125
+
+LA
+
+1174
+249
+82
+498
+655
+1773
+400
+1731
+50
+345
+608
+431
+868
+780
+447
+454
+568
+367
+278
+320
+471
+2380
+233
+456
+447
+871
+181
+652
+18
+70202
+1322
+436
+1938
+381
+897
+932
+208
+1842
+3099
+3224
+187
+117
+238
+205
+330
+498
+4206
+76
+302
+659
+
+Franklin(041), LA
+Grant(043), LA
+Iberia(045), LA
+Iberville(047), LA
+Jackson(049), LA
+Jefferson(051), LA
+Jefferson Davis(053), LA
+Lafayette(055), LA
+Lafourche(057), LA
+La Salle(059), LA
+Lincoln(061), LA
+Livingston(063), LA
+Madison(065), LA
+Morehouse(067), LA
+Natchitoches(069), LA
+Orleans(071), LA
+Ouachita(073), LA
+Plaquemines(075), LA
+Pointe Coupee(077), LA
+Rapides(079), LA
+Red River(081), LA
+Richland(083), LA
+Sabine(085), LA
+SAINT BERNARD(087), LA
+SAINT CHARLES(089), LA
+SAINT HELENA(091), LA
+SAINT JAMES(093), LA
+ST JOHN THE BAPTIST(095), LA
+SAINT LANDRY(097), LA
+SAINT MARTIN(099), LA
+SAINT MARY(101), LA
+SAINT TAMMANY(103), LA
+Tangipahoa(105), LA
+Tensas(107), LA
+Terrebonne(109), LA
+Union(111), LA
+Vermilion(113), LA
+Vernon(115), LA
+Washington(117), LA
+Webster(119), LA
+West Baton Rouge(121), LA
+West Carroll(123), LA
+West Feliciana(125), LA
+Winn(127), LA
+Massachusetts
+Breakdown by County
+Barnstable(001), MA
+25001
+Berkshire(003), MA
+25003
+Bristol(005), MA
+25005
+Dukes(007), MA
+25007
+Essex(009), MA
+25009
+22041
+22043
+22045
+22047
+22049
+22051
+22053
+22055
+22057
+22059
+22061
+22063
+22065
+22067
+22069
+22071
+22073
+22075
+22077
+22079
+22081
+22083
+22085
+22087
+22089
+22091
+22093
+22095
+22097
+22099
+22101
+22103
+22105
+22107
+22109
+22111
+22113
+22115
+22117
+22119
+22121
+22123
+22125
+22127
+
+MA
+
+379
+557
+1244
+395
+352
+7035
+735
+2630
+2275
+243
+434
+2766
+106
+440
+563
+1737
+2203
+375
+302
+2714
+121
+385
+417
+875
+828
+179
+283
+694
+1241
+845
+925
+4533
+2239
+42
+2290
+470
+1204
+980
+1178
+850
+307
+242
+138
+354
+129899
+3203
+4570
+13990
+72
+17901
+
+Franklin(011), MA
+Hampden(013), MA
+Hampshire(015), MA
+Middlesex(017), MA
+Nantucket(019), MA
+Norfolk(021), MA
+Plymouth(023), MA
+Suffolk(025), MA
+Worcester(027), MA
+Maryland
+Breakdown by County
+Allegany(001), MD
+24001
+Anne Arundel(003), MD
+24003
+Baltimore(005), MD
+24005
+Calvert(009), MD
+24009
+Caroline(011), MD
+24011
+Carroll(013), MD
+24013
+Cecil(015), MD
+24015
+Charles(017), MD
+24017
+Dorchester(019), MD
+24019
+Frederick(021), MD
+24021
+Garrett(023), MD
+24023
+Harford(025), MD
+24025
+Howard(027), MD
+24027
+Kent(029), MD
+24029
+Montgomery(031), MD
+24031
+PRINCE GEORGES(033), MD
+24033
+QUEEN ANNES(035), MD
+24035
+SAINT
+MARYS(037), MD
+24037
+Somerset(039), MD
+24039
+Talbot(041), MD
+24041
+Washington(043), MD
+24043
+Wicomico(045), MD
+24045
+Worcester(047), MD
+24047
+BALTIMORE CITY(510), MD
+24510
+Maine
+Breakdown by County
+Androscoggin(001), ME
+23001
+Aroostook(003), ME
+23003
+Cumberland(005), ME
+23005
+Franklin(007), ME
+23007
+Hancock(009), ME
+23009
+Kennebec(011), ME
+23011
+Knox(013), ME
+23013
+Lincoln(015), ME
+23015
+Oxford(017), ME
+23017
+Penobscot(019), ME
+23019
+Piscataquis(021), ME
+23021
+Sagadahoc(023), ME
+23023
+Somerset(025), ME
+23025
+Waldo(027), ME
+23027
+25011
+25013
+25015
+25017
+25019
+25021
+25023
+25025
+25027
+
+MD
+
+ME
+
+2020
+14578
+4354
+27507
+45
+12876
+11232
+2194
+15357
+116142
+2074
+15576
+20133
+3305
+1491
+6484
+4027
+4055
+1043
+5288
+624
+7484
+5240
+679
+12279
+7006
+2549
+2432
+501
+1999
+3726
+2533
+1174
+4440
+27151
+2918
+1385
+5341
+669
+558
+3065
+390
+593
+1257
+3083
+304
+637
+1572
+718
+
+Washington(029), ME
+York(031), ME
+Michigan
+Breakdown by County
+Alcona(001), MI
+26001
+Alger(003), MI
+26003
+Allegan(005), MI
+26005
+Alpena(007), MI
+26007
+Antrim(009), MI
+26009
+Arenac(011), MI
+26011
+Baraga(013), MI
+26013
+Barry(015), MI
+26015
+Bay(017), MI
+26017
+Benzie(019), MI
+26019
+Berrien(021), MI
+26021
+Branch(023), MI
+26023
+Calhoun(025), MI
+26025
+Cass(027), MI
+26027
+Charlevoix(029), MI
+26029
+Cheboygan(031), MI
+26031
+Chippewa(033),
+MI
+26033
+Clare(035), MI
+26035
+Clinton(037), MI
+26037
+Crawford(039), MI
+26039
+Delta(041), MI
+26041
+Dickinson(043), MI
+26043
+Eaton(045), MI
+26045
+Emmet(047), MI
+26047
+Genesee(049), MI
+26049
+Gladwin(051), MI
+26051
+Gogebic(053), MI
+26053
+Grand Traverse(055), MI
+26055
+Gratiot(057), MI
+26057
+Hillsdale(059), MI
+26059
+Houghton(061), MI
+26061
+Huron(063), MI
+26063
+Ingham(065), MI
+26065
+Ionia(067), MI
+26067
+Iosco(069), MI
+26069
+Iron(071), MI
+26071
+Isabella(073), MI
+26073
+Jackson(075), MI
+26075
+Kalamazoo(077), MI
+26077
+Kalkaska(079), MI
+26079
+Kent(081), MI
+26081
+Keweenaw(083), MI
+26083
+Lake(085), MI
+26085
+Lapeer(087), MI
+26087
+Leelanau(089), MI
+26089
+Lenawee(091), MI
+26091
+Livingston(093), MI
+26093
+23029
+23031
+
+MI
+
+455
+4206
+282523
+215
+98
+2423
+726
+353
+460
+138
+1411
+8871
+247
+3190
+1068
+2732
+1472
+311
+492
+535
+827
+1757
+299
+745
+478
+2115
+345
+9319
+669
+186
+1234
+1099
+1137
+347
+827
+3816
+1500
+554
+141
+1096
+5456
+3795
+353
+10487
+26
+249
+2606
+196
+2307
+20986
+
+Luce(095), MI
+Mackinac(097), MI
+Macomb(099), MI
+Manistee(101), MI
+Marquette(103), MI
+Mason(105), MI
+Mecosta(107), MI
+Menominee(109), MI
+Midland(111), MI
+Missaukee(113), MI
+Monroe(115), MI
+Montcalm(117), MI
+Montmorency(119), MI
+Muskegon(121), MI
+Newaygo(123), MI
+Oakland(125), MI
+Oceana(127), MI
+Ogemaw(129), MI
+Ontonagon(131), MI
+Osceola(133), MI
+Oscoda(135), MI
+Otsego(137), MI
+Ottawa(139), MI
+Presque Isle(141), MI
+Roscommon(143), MI
+Saginaw(145), MI
+SAINT CLAIR(147), MI
+SAINT JOSEPH(149), MI
+Sanilac(151), MI
+Schoolcraft(153), MI
+Shiawassee(155), MI
+Tuscola(157), MI
+Van Buren(159), MI
+Washtenaw(161), MI
+Wayne(163), MI
+Wexford(165), MI
+Minnesota
+Breakdown by County
+Aitkin(001), MN
+27001
+Anoka(003), MN
+27003
+Becker(005), MN
+27005
+Beltrami(007), MN
+27007
+Benton(009), MN
+27009
+Big Stone(011), MN
+27011
+Blue Earth(013), MN
+27013
+Brown(015), MN
+27015
+Carlton(017), MN
+27017
+Carver(019), MN
+27019
+Cass(021), MN
+27021
+Chippewa(023), MN
+27023
+Chisago(025), MN
+27025
+26095
+26097
+26099
+26101
+26103
+26105
+26107
+26109
+26111
+26113
+26115
+26117
+26119
+26121
+26123
+26125
+26127
+26129
+26131
+26133
+26135
+26137
+26139
+26141
+26143
+26145
+26147
+26149
+26151
+26153
+26155
+26157
+26159
+26161
+26163
+26165
+
+MN
+
+107
+110
+34923
+416
+764
+655
+864
+564
+1836
+348
+10328
+1607
+175
+4052
+1352
+25328
+616
+610
+104
+675
+219
+413
+4850
+233
+469
+46474
+5323
+1460
+1370
+121
+2123
+1960
+1753
+2782
+27052
+793
+50679
+165
+5154
+302
+318
+403
+56
+390
+182
+428
+623
+284
+123
+743
+
+27027
+27029
+27031
+27033
+27035
+27037
+27039
+27041
+27043
+27045
+27047
+27049
+27051
+27053
+27055
+27057
+27059
+27061
+27063
+27065
+27067
+27069
+27071
+27073
+27075
+27077
+27079
+27081
+27083
+27085
+27087
+27089
+27091
+27093
+27095
+27097
+27099
+27101
+27103
+27105
+27107
+27109
+27111
+27113
+27115
+27117
+27119
+27121
+27123
+27125
+27127
+
+Clay(027), MN
+Clearwater(029), MN
+Cook(031), MN
+Cottonwood(033), MN
+Crow Wing(035), MN
+Dakota(037), MN
+Dodge(039), MN
+Douglas(041), MN
+Faribault(043), MN
+Fillmore(045), MN
+Freeborn(047), MN
+Goodhue(049), MN
+Grant(051), MN
+Hennepin(053), MN
+Houston(055), MN
+Hubbard(057), MN
+Isanti(059), MN
+Itasca(061), MN
+Jackson(063), MN
+Kanabec(065), MN
+Kandiyohi(067), MN
+Kittson(069), MN
+Koochiching(071), MN
+Lac Qui Parle(073), MN
+Lake(075), MN
+Lake of the Woods(077), MN
+Le Sueur(079), MN
+Lincoln(081), MN
+Lyon(083), MN
+MCLEOD(085), MN
+Mahnomen(087), MN
+Marshall(089), MN
+Martin(091), MN
+Meeker(093), MN
+Mille Lacs(095), MN
+Morrison(097), MN
+Mower(099), MN
+Murray(101), MN
+Nicollet(103), MN
+Nobles(105), MN
+Norman(107), MN
+Olmsted(109), MN
+Otter Tail(111), MN
+Pennington(113), MN
+Pine(115), MN
+Pipestone(117), MN
+Polk(119), MN
+Pope(121), MN
+Ramsey(123), MN
+Red Lake(125), MN
+Redwood(127), MN
+
+427
+73
+22
+146
+571
+3304
+178
+274
+124
+174
+323
+452
+45
+10421
+220
+151
+663
+393
+66
+265
+342
+39
+122
+56
+69
+29
+295
+45
+148
+269
+25
+80
+177
+291
+365
+402
+493
+65
+192
+128
+93
+1168
+522
+122
+364
+85
+341
+83
+4476
+32
+118
+
+Renville(129), MN
+Rice(131), MN
+Rock(133), MN
+Roseau(135), MN
+SAINT LOUIS(137), MN
+Scott(139), MN
+Sherburne(141), MN
+Sibley(143), MN
+Stearns(145), MN
+Steele(147), MN
+Stevens(149), MN
+Swift(151), MN
+Todd(153), MN
+Traverse(155), MN
+Wabasha(157), MN
+Wadena(159), MN
+Waseca(161), MN
+Washington(163), MN
+Watonwan(165), MN
+Wilkin(167), MN
+Winona(169), MN
+Wright(171), MN
+Yellow Medicine(173), MN
+Missouri
+Breakdown by County
+Adair(001), MO
+29001
+Andrew(003), MO
+29003
+Atchison(005), MO
+29005
+Audrain(007),
+MO
+29007
+Barry(009), MO
+29009
+Barton(011), MO
+29011
+Bates(013), MO
+29013
+Benton(015), MO
+29015
+Bollinger(017), MO
+29017
+Boone(019), MO
+29019
+Buchanan(021), MO
+29021
+Butler(023), MO
+29023
+Caldwell(025), MO
+29025
+Callaway(027), MO
+29027
+Camden(029), MO
+29029
+Cape Girardeau(031), MO
+29031
+Carroll(033), MO
+29033
+Carter(035), MO
+29035
+Cass(037), MO
+29037
+Cedar(039), MO
+29039
+Chariton(041), MO
+29041
+Christian(043), MO
+29043
+Clark(045), MO
+29045
+Clay(047), MO
+29047
+Clinton(049), MO
+29049
+Cole(051), MO
+29051
+27129
+27131
+27133
+27135
+27137
+27139
+27141
+27143
+27145
+27147
+27149
+27151
+27153
+27155
+27157
+27159
+27161
+27163
+27165
+27167
+27169
+27171
+27173
+
+MO
+
+146
+530
+90
+159
+1892
+1107
+1372
+124
+1040
+326
+57
+69
+262
+40
+224
+114
+205
+2638
+72
+52
+375
+1173
+113
+117338
+352
+416
+87
+481
+413
+307
+287
+314
+227
+1848
+1766
+1048
+218
+989
+670
+1240
+180
+90
+1779
+256
+129
+1400
+148
+2496
+380
+1168
+
+29053
+29055
+29057
+29059
+29061
+29063
+29065
+29067
+29069
+29071
+29073
+29075
+29077
+29079
+29081
+29083
+29085
+29087
+29089
+29091
+29093
+29095
+29097
+29099
+29101
+29103
+29105
+29107
+29109
+29111
+29113
+29115
+29117
+29119
+29121
+29123
+29125
+29127
+29129
+29131
+29133
+29135
+29137
+29139
+29141
+29143
+29145
+29147
+29149
+29151
+29153
+
+Cooper(053), MO
+Crawford(055), MO
+Dade(057), MO
+Dallas(059), MO
+Daviess(061), MO
+DEKALB(063), MO
+Dent(065), MO
+Douglas(067), MO
+Dunklin(069), MO
+Franklin(071), MO
+Gasconade(073), MO
+Gentry(075), MO
+Greene(077), MO
+Grundy(079), MO
+Harrison(081), MO
+Henry(083), MO
+Hickory(085), MO
+Holt(087), MO
+Howard(089), MO
+Howell(091), MO
+Iron(093), MO
+Jackson(095), MO
+Jasper(097), MO
+Jefferson(099), MO
+Johnson(101), MO
+Knox(103), MO
+Laclede(105), MO
+Lafayette(107), MO
+Lawrence(109), MO
+Lewis(111), MO
+Lincoln(113), MO
+Linn(115), MO
+Livingston(117), MO
+MCDONALD(119), MO
+Macon(121), MO
+Madison(123), MO
+Maries(125), MO
+Marion(127), MO
+Mercer(129), MO
+Miller(131), MO
+Mississippi(133), MO
+Moniteau(135), MO
+Monroe(137), MO
+Montgomery(139), MO
+Morgan(141), MO
+New Madrid(143), MO
+Newton(145), MO
+Nodaway(147), MO
+Oregon(149), MO
+Osage(151), MO
+Ozark(153), MO
+
+266
+628
+129
+339
+123
+159
+284
+46
+1002
+3039
+326
+81
+4477
+230
+150
+460
+122
+84
+187
+942
+166
+7255
+2510
+7810
+904
+47
+1004
+563
+849
+220
+1467
+256
+263
+362
+315
+333
+156
+658
+28
+534
+318
+269
+178
+323
+427
+443
+1471
+226
+170
+223
+133
+
+Pemiscot(155), MO
+Perry(157), MO
+Pettis(159), MO
+Phelps(161), MO
+Pike(163), MO
+Platte(165), MO
+Polk(167), MO
+Pulaski(169), MO
+Putnam(171), MO
+Ralls(173), MO
+Randolph(175), MO
+Ray(177), MO
+Reynolds(179), MO
+Ripley(181), MO
+SAINT CHARLES(183), MO
+SAINT CLAIR(185), MO
+Sainte Genevieve(186), MO
+SAINT FRANCOIS(187), MO
+SAINT LOUIS(189), MO
+Saline(195), MO
+Schuyler(197), MO
+Scotland(199), MO
+Scott(201), MO
+Shannon(203), MO
+Shelby(205), MO
+Stoddard(207), MO
+Stone(209), MO
+Sullivan(211), MO
+Taney(213), MO
+Texas(215), MO
+Vernon(217), MO
+Warren(219), MO
+Washington(221), MO
+Wayne(223), MO
+Webster(225), MO
+Worth(227), MO
+Wright(229), MO
+SAINT LOUIS CITY(510), MO
+Mississippi
+Breakdown by County
+Adams(001), MS
+28001
+Alcorn(003), MS
+28003
+Amite(005), MS
+28005
+Attala(007), MS
+28007
+Benton(009), MS
+28009
+Bolivar(011), MS
+28011
+Calhoun(013), MS
+28013
+Carroll(015), MS
+28015
+Chickasaw(017), MS
+28017
+Choctaw(019), MS
+28019
+Claiborne(021), MS
+28021
+29155
+29157
+29159
+29161
+29163
+29165
+29167
+29169
+29171
+29173
+29175
+29177
+29179
+29181
+29183
+29185
+29186
+29187
+29189
+29195
+29197
+29199
+29201
+29203
+29205
+29207
+29209
+29211
+29213
+29215
+29217
+29219
+29221
+29223
+29225
+29227
+29229
+29510
+
+MS
+
+336
+342
+856
+944
+388
+1011
+638
+676
+89
+266
+505
+596
+150
+378
+9066
+176
+505
+1744
+26173
+303
+74
+65
+902
+152
+144
+795
+538
+127
+795
+617
+427
+700
+608
+241
+827
+28
+512
+3000
+47597
+415
+761
+276
+215
+124
+235
+187
+106
+323
+99
+55
+
+28023
+28025
+28027
+28029
+28031
+28033
+28035
+28037
+28039
+28041
+28043
+28045
+28047
+28049
+28051
+28053
+28055
+28057
+28059
+28061
+28063
+28065
+28067
+28069
+28071
+28073
+28075
+28077
+28079
+28081
+28083
+28085
+28087
+28089
+28091
+28093
+28095
+28097
+28099
+28101
+28103
+28105
+28107
+28109
+28111
+28113
+28115
+28117
+28119
+28121
+28123
+
+Clarke(023), MS
+Clay(025), MS
+Coahoma(027), MS
+Copiah(029), MS
+Covington(031), MS
+DESOTO(033), MS
+Forrest(035), MS
+Franklin(037), MS
+George(039), MS
+Greene(041), MS
+Grenada(043), MS
+Hancock(045), MS
+Harrison(047), MS
+Hinds(049), MS
+Holmes(051), MS
+Humphreys(053), MS
+Issaquena(055), MS
+Itawamba(057), MS
+Jackson(059), MS
+Jasper(061), MS
+Jefferson(063), MS
+Jefferson Davis(065), MS
+Jones(067), MS
+Kemper(069), MS
+Lafayette(071), MS
+Lamar(073), MS
+Lauderdale(075), MS
+Lawrence(077), MS
+Leake(079), MS
+Lee(081), MS
+Leflore(083), MS
+Lincoln(085), MS
+Lowndes(087), MS
+Madison(089), MS
+Marion(091), MS
+Marshall(093), MS
+Monroe(095), MS
+Montgomery(097), MS
+Neshoba(099), MS
+Newton(101), MS
+Noxubee(103), MS
+Oktibbeha(105), MS
+Panola(107), MS
+Pearl River(109), MS
+Perry(111), MS
+Pike(113), MS
+Pontotoc(115), MS
+Prentiss(117), MS
+Quitman(119), MS
+Rankin(121), MS
+Scott(123), MS
+
+289
+218
+166
+425
+304
+3712
+1058
+66
+686
+214
+314
+925
+3232
+3027
+163
+74
+4
+678
+2568
+310
+38
+118
+1411
+89
+346
+859
+1040
+279
+311
+1392
+240
+651
+982
+914
+620
+535
+865
+197
+342
+468
+76
+367
+474
+1415
+261
+606
+693
+619
+58
+3191
+473
+
+Sharkey(125), MS
+Simpson(127), MS
+Smith(129), MS
+Stone(131), MS
+Sunflower(133), MS
+Tallahatchie(135), MS
+Tate(137), MS
+Tippah(139), MS
+Tishomingo(141), MS
+Tunica(143), MS
+Union(145), MS
+Walthall(147), MS
+Warren(149), MS
+Washington(151), MS
+Wayne(153), MS
+Webster(155), MS
+Wilkinson(157), MS
+Winston(159), MS
+Yalobusha(161), MS
+Yazoo(163), MS
+Montana
+Breakdown by County
+Beaverhead(001), MT
+30001
+Big Horn(003), MT
+30003
+Blaine(005), MT
+30005
+Broadwater(007), MT
+30007
+Carbon(009), MT
+30009
+Carter(011), MT
+30011
+Cascade(013), MT
+30013
+Chouteau(015), MT
+30015
+Custer(017), MT
+30017
+Daniels(019), MT
+30019
+Dawson(021), MT
+30021
+Deer Lodge(023), MT
+30023
+Fallon(025), MT
+30025
+Fergus(027), MT
+30027
+Flathead(029), MT
+30029
+Gallatin(031), MT
+30031
+Garfield(033), MT
+30033
+Glacier(035), MT
+30035
+Golden Valley(037), MT
+30037
+Granite(039), MT
+30039
+Hill(041), MT
+30041
+Jefferson(043), MT
+30043
+Judith Basin(045), MT
+30045
+Lake(047),
+MT
+30047
+Lewis and Clark(049), MT
+30049
+Liberty(051), MT
+30051
+Lincoln(053), MT
+30053
+MCCONE(055), MT
+30055
+Madison(057), MT
+30057
+28125
+28127
+28129
+28131
+28133
+28135
+28137
+28139
+28141
+28143
+28145
+28147
+28149
+28151
+28153
+28155
+28157
+28159
+28161
+28163
+
+MT
+
+48
+610
+199
+374
+228
+102
+571
+555
+465
+31
+578
+290
+502
+445
+451
+192
+60
+272
+243
+222
+8862
+36
+45
+23
+56
+89
+4
+773
+42
+134
+4
+100
+51
+23
+92
+821
+501
+4
+43
+3
+12
+120
+99
+9
+277
+505
+8
+248
+12
+53
+
+Meagher(059), MT
+Mineral(061), MT
+Missoula(063), MT
+Musselshell(065), MT
+Park(067), MT
+Petroleum(069), MT
+Phillips(071), MT
+Pondera(073), MT
+Powder River(075), MT
+Powell(077), MT
+Prairie(079), MT
+Ravalli(081), MT
+Richland(083), MT
+Roosevelt(085), MT
+Rosebud(087), MT
+Sanders(089), MT
+Sheridan(091), MT
+Silver Bow(093), MT
+Stillwater(095), MT
+Sweet Grass(097), MT
+Teton(099), MT
+Toole(101), MT
+Treasure(103), MT
+Valley(105), MT
+Wheatland(107), MT
+Wibaux(109), MT
+Yellowstone(111), MT
+North Carolina
+Breakdown by County
+Alamance(001), NC
+37001
+Alexander(003), NC
+37003
+Alleghany(005), NC
+37005
+Anson(007), NC
+37007
+Ashe(009), NC
+37009
+Avery(011), NC
+37011
+Beaufort(013), NC
+37013
+Bertie(015), NC
+37015
+Bladen(017), NC
+37017
+Brunswick(019), NC
+37019
+Buncombe(021), NC
+37021
+Burke(023), NC
+37023
+Cabarrus(025), NC
+37025
+Caldwell(027), NC
+37027
+Camden(029), NC
+37029
+Carteret(031), NC
+37031
+Caswell(033), NC
+37033
+Catawba(035), NC
+37035
+Chatham(037), NC
+37037
+Cherokee(039), NC
+37039
+Chowan(041), NC
+37041
+Clay(043), NC
+37043
+30059
+30061
+30063
+30065
+30067
+30069
+30071
+30073
+30075
+30077
+30079
+30081
+30083
+30085
+30087
+30089
+30091
+30093
+30095
+30097
+30099
+30101
+30103
+30105
+30107
+30109
+30111
+
+NC
+
+11
+45
+858
+79
+80
+2
+24
+43
+9
+44
+11
+427
+96
+41
+26
+119
+12
+223
+71
+13
+39
+29
+20
+43
+16
+1
+2293
+156899
+1580
+1056
+94
+313
+208
+109
+1150
+321
+521
+2069
+2872
+2524
+4021
+2629
+297
+1343
+413
+4402
+903
+463
+350
+145
+
+37045
+37047
+37049
+37051
+37053
+37055
+37057
+37059
+37061
+37063
+37065
+37067
+37069
+37071
+37073
+37075
+37077
+37079
+37081
+37083
+37085
+37087
+37089
+37091
+37093
+37095
+37097
+37099
+37101
+37103
+37105
+37107
+37109
+37111
+37113
+37115
+37117
+37119
+37121
+37123
+37125
+37127
+37129
+37131
+37133
+37135
+37137
+37139
+37141
+37143
+37145
+
+Cleveland(045), NC
+Columbus(047), NC
+Craven(049), NC
+Cumberland(051), NC
+Currituck(053), NC
+Dare(055), NC
+Davidson(057), NC
+Davie(059), NC
+Duplin(061), NC
+Durham(063), NC
+Edgecombe(065), NC
+Forsyth(067), NC
+Franklin(069), NC
+Gaston(071), NC
+Gates(073), NC
+Graham(075), NC
+Granville(077), NC
+Greene(079), NC
+Guilford(081), NC
+Halifax(083), NC
+Harnett(085), NC
+Haywood(087), NC
+Henderson(089), NC
+Hertford(091), NC
+Hoke(093), NC
+Hyde(095), NC
+Iredell(097), NC
+Jackson(099), NC
+Johnston(101), NC
+Jones(103), NC
+Lee(105), NC
+Lenoir(107), NC
+Lincoln(109), NC
+MCDOWELL(111), NC
+Macon(113), NC
+Madison(115), NC
+Martin(117), NC
+Mecklenburg(119), NC
+Mitchell(121), NC
+Montgomery(123), NC
+Moore(125), NC
+Nash(127), NC
+New Hanover(129), NC
+Northampton(131), NC
+Onslow(133), NC
+Orange(135), NC
+Pamlico(137), NC
+Pasquotank(139), NC
+Pender(141), NC
+Perquimans(143), NC
+Person(145), NC
+
+2558
+1054
+1992
+4835
+754
+936
+4225
+1205
+867
+1321
+635
+5565
+941
+5182
+310
+92
+655
+322
+6498
+901
+2046
+744
+1487
+315
+804
+72
+4676
+299
+3420
+144
+1047
+1266
+2411
+765
+484
+252
+468
+10907
+176
+354
+1278
+1387
+4160
+211
+3046
+1404
+381
+800
+1172
+301
+643
+
+Pitt(147), NC
+Polk(149), NC
+Randolph(151), NC
+Richmond(153), NC
+Robeson(155), NC
+Rockingham(157), NC
+Rowan(159), NC
+Rutherford(161), NC
+Sampson(163), NC
+Scotland(165), NC
+Stanly(167), NC
+Stokes(169), NC
+Surry(171), NC
+Swain(173), NC
+Transylvania(175), NC
+Tyrrell(177), NC
+Union(179), NC
+Vance(181), NC
+Wake(183), NC
+Warren(185), NC
+Washington(187), NC
+Watauga(189), NC
+Wayne(191), NC
+Wilkes(193), NC
+Wilson(195), NC
+Yadkin(197), NC
+Yancey(199), NC
+North Dakota
+Breakdown by County
+Adams(001), ND
+38001
+Barnes(003), ND
+38003
+Benson(005), ND
+38005
+Billings(007), ND
+38007
+Bottineau(009), ND
+38009
+Bowman(011), ND
+38011
+Burke(013), ND
+38013
+Burleigh(015), ND
+38015
+Cass(017), ND
+38017
+Cavalier(019), ND
+38019
+Dickey(021), ND
+38021
+Divide(023), ND
+38023
+Dunn(025), ND
+38025
+Eddy(027), ND
+38027
+Emmons(029), ND
+38029
+Foster(031), ND
+38031
+Golden Valley(033), ND
+38033
+Grand Forks(035), ND
+38035
+Grant(037), ND
+38037
+Griggs(039), ND
+38039
+Hettinger(041), ND
+38041
+Kidder(043), ND
+38043
+37147
+37149
+37151
+37153
+37155
+37157
+37159
+37161
+37163
+37165
+37167
+37169
+37171
+37173
+37175
+37177
+37179
+37181
+37183
+37185
+37187
+37189
+37191
+37193
+37195
+37197
+37199
+
+ND
+
+1629
+288
+3107
+997
+1863
+1605
+3374
+1560
+1118
+630
+962
+797
+1023
+153
+291
+65
+4955
+430
+9903
+169
+258
+227
+2357
+1298
+1215
+874
+200
+5322
+16
+131
+33
+10
+59
+18
+17
+692
+1203
+33
+42
+9
+23
+19
+22
+18
+11
+487
+19
+17
+12
+20
+
+LAMOURE(045), ND
+Logan(047), ND
+MCHENRY(049), ND
+MCINTOSH(051), ND
+MCKENZIE(053), ND
+MCLEAN(055), ND
+Mercer(057), ND
+Morton(059), ND
+Mountrail(061), ND
+Nelson(063), ND
+Oliver(065), ND
+Pembina(067), ND
+Pierce(069), ND
+Ramsey(071), ND
+Ransom(073), ND
+Renville(075), ND
+Richland(077), ND
+Rolette(079), ND
+Sargent(081), ND
+Sheridan(083), ND
+Sioux(085), ND
+Slope(087), ND
+Stark(089), ND
+Steele(091), ND
+Stutsman(093), ND
+Towner(095), ND
+Traill(097), ND
+Walsh(099), ND
+Ward(101), ND
+Wells(103), ND
+Williams(105), ND
+Nebraska
+Breakdown by County
+Adams(001), NE
+31001
+Antelope(003), NE
+31003
+Arthur(005), NE
+31005
+Banner(007), NE
+31007
+Blaine(009), NE
+31009
+Boone(011), NE
+31011
+Box Butte(013), NE
+31013
+Boyd(015), NE
+31015
+Brown(017), NE
+31017
+Buffalo(019), NE
+31019
+Burt(021), NE
+31021
+Butler(023), NE
+31023
+Cass(025), NE
+31025
+Cedar(027), NE
+31027
+Chase(029), NE
+31029
+Cherry(031), NE
+31031
+Cheyenne(033), NE
+31033
+Clay(035), NE
+31035
+38045
+38047
+38049
+38051
+38053
+38055
+38057
+38059
+38061
+38063
+38065
+38067
+38069
+38071
+38073
+38075
+38077
+38079
+38081
+38083
+38085
+38087
+38089
+38091
+38093
+38095
+38097
+38099
+38101
+38103
+38105
+
+NE
+
+18
+12
+56
+19
+23
+55
+64
+263
+29
+32
+14
+56
+51
+92
+60
+19
+156
+64
+33
+13
+8
+1
+177
+9
+195
+28
+87
+84
+484
+37
+172
+19158
+425
+56
+1
+3
+2
+47
+106
+16
+25
+367
+86
+88
+310
+55
+18
+34
+83
+63
+
+31037
+31039
+31041
+31043
+31045
+31047
+31049
+31051
+31053
+31055
+31057
+31059
+31061
+31063
+31065
+31067
+31069
+31071
+31073
+31075
+31077
+31079
+31081
+31083
+31085
+31087
+31089
+31091
+31093
+31095
+31097
+31099
+31101
+31103
+31105
+31107
+31109
+31111
+31113
+31115
+31117
+31119
+31121
+31123
+31125
+31127
+31129
+31131
+31133
+31135
+31137
+
+Colfax(037), NE
+Cuming(039), NE
+Custer(041), NE
+Dakota(043), NE
+Dawes(045), NE
+Dawson(047), NE
+Deuel(049), NE
+Dixon(051), NE
+Dodge(053), NE
+Douglas(055), NE
+Dundy(057), NE
+Fillmore(059), NE
+Franklin(061), NE
+Frontier(063), NE
+Furnas(065), NE
+Gage(067), NE
+Garden(069), NE
+Garfield(071), NE
+Gosper(073), NE
+Grant(075), NE
+Greeley(077), NE
+Hall(079), NE
+Hamilton(081), NE
+Harlan(083), NE
+Hayes(085), NE
+Hitchcock(087), NE
+Holt(089), NE
+Hooker(091), NE
+Howard(093), NE
+Jefferson(095), NE
+Johnson(097), NE
+Kearney(099), NE
+Keith(101), NE
+Keya Paha(103), NE
+Kimball(105), NE
+Knox(107), NE
+Lancaster(109), NE
+Lincoln(111), NE
+Logan(113), NE
+Loup(115), NE
+MCPHERSON(117), NE
+Madison(119), NE
+Merrick(121), NE
+Morrill(123), NE
+Nance(125), NE
+Nemaha(127), NE
+Nuckolls(129), NE
+Otoe(131), NE
+Pawnee(133), NE
+Perkins(135), NE
+Phelps(137), NE
+
+77
+74
+112
+215
+57
+203
+11
+60
+424
+5658
+9
+69
+36
+12
+52
+312
+6
+11
+22
+6
+10
+556
+108
+34
+3
+23
+100
+5
+81
+134
+50
+65
+71
+5
+32
+60
+2968
+538
+10
+2
+3
+328
+98
+18
+24
+77
+46
+189
+34
+15
+91
+
+Pierce(139), NE
+Platte(141), NE
+Polk(143), NE
+Red Willow(145), NE
+Richardson(147), NE
+Rock(149), NE
+Saline(151), NE
+Sarpy(153), NE
+Saunders(155), NE
+Scotts Bluff(157), NE
+Seward(159), NE
+Sheridan(161), NE
+Sherman(163), NE
+Sioux(165), NE
+Stanton(167), NE
+Thayer(169), NE
+Thomas(171), NE
+Thurston(173), NE
+Valley(175), NE
+Washington(177), NE
+Wayne(179), NE
+Webster(181), NE
+Wheeler(183), NE
+York(185), NE
+New Hampshire
+Breakdown by County
+Belknap(001), NH
+33001
+Carroll(003), NH
+33003
+Cheshire(005), NH
+33005
+Coos(007), NH
+33007
+Grafton(009), NH
+33009
+Hillsborough(011), NH
+33011
+Merrimack(013), NH
+33013
+Rockingham(015), NH
+33015
+Strafford(017), NH
+33017
+Sullivan(019), NH
+33019
+New Jersey
+Breakdown by County
+Atlantic(001), NJ
+34001
+Bergen(003), NJ
+34003
+Burlington(005), NJ
+34005
+Camden(007), NJ
+34007
+Cape May(009), NJ
+34009
+Cumberland(011), NJ
+34011
+Essex(013), NJ
+34013
+Gloucester(015),
+NJ
+34015
+Hudson(017), NJ
+34017
+Hunterdon(019), NJ
+34019
+Mercer(021), NJ
+34021
+Middlesex(023), NJ
+34023
+Monmouth(025), NJ
+34025
+31139
+31141
+31143
+31145
+31147
+31149
+31151
+31153
+31155
+31157
+31159
+31161
+31163
+31165
+31167
+31169
+31171
+31173
+31175
+31177
+31179
+31181
+31183
+31185
+
+NH
+
+NJ
+
+91
+317
+42
+99
+163
+9
+151
+1678
+300
+295
+172
+26
+30
+9
+55
+63
+12
+37
+27
+310
+63
+45
+11
+164
+30879
+1070
+554
+1312
+736
+1196
+9500
+3257
+9688
+2553
+1013
+154994
+5729
+12463
+9964
+10607
+2976
+3496
+3975
+9008
+2381
+2777
+4968
+15660
+14852
+
+Morris(027), NJ
+Ocean(029), NJ
+Passaic(031), NJ
+Salem(033), NJ
+Somerset(035), NJ
+Sussex(037), NJ
+Union(039), NJ
+Warren(041), NJ
+New Mexico
+Breakdown by County
+Bernalillo(001), NM
+35001
+Catron(003), NM
+35003
+Chaves(005), NM
+35005
+Cibola(006), NM
+35006
+Colfax(007), NM
+35007
+Curry(009), NM
+35009
+De Baca(011), NM
+35011
+Dona Ana(013), NM
+35013
+Eddy(015), NM
+35015
+Grant(017), NM
+35017
+Guadalupe(019),
+NM
+35019
+Harding(021), NM
+35021
+Hidalgo(023), NM
+35023
+Lea(025), NM
+35025
+Lincoln(027), NM
+35027
+Los Alamos(028), NM
+35028
+Luna(029), NM
+35029
+MCKINLEY(031), NM
+35031
+Mora(033), NM
+35033
+Otero(035), NM
+35035
+Quay(037), NM
+35037
+Rio Arriba(039), NM
+35039
+Roosevelt(041), NM
+35041
+Sandoval(043), NM
+35043
+San Juan(045), NM
+35045
+San Miguel(047), NM
+35047
+Santa Fe(049), NM
+35049
+Sierra(051), NM
+35051
+Socorro(053), NM
+35053
+Taos(055), NM
+35055
+Torrance(057), NM
+35057
+Union(059), NM
+35059
+Valencia(061), NM
+35061
+Nevada
+Breakdown by County
+Churchill(001), NV
+32001
+Clark(003), NV
+32003
+Douglas(005), NV
+32005
+Elko(007), NV
+32007
+Esmeralda(009), NV
+32009
+Eureka(011), NV
+32011
+34027
+34029
+34031
+34033
+34035
+34037
+34039
+34041
+
+NM
+
+NV
+
+9697
+20651
+6742
+1925
+4658
+4645
+4796
+3024
+14327
+3701
+21
+654
+65
+60
+610
+20
+3049
+576
+159
+15
+1
+24
+598
+95
+46
+204
+78
+10
+729
+106
+39
+206
+1038
+608
+49
+418
+133
+71
+48
+116
+37
+743
+114822
+287
+106157
+479
+274
+6
+15
+
+Humboldt(013), NV
+Lander(015), NV
+Lincoln(017), NV
+Lyon(019), NV
+Mineral(021), NV
+Nye(023), NV
+Pershing(027), NV
+Storey(029), NV
+Washoe(031), NV
+White Pine(033), NV
+Carson City(510), NV
+New York
+Breakdown by County
+Albany(001), NY
+36001
+Allegany(003), NY
+36003
+Bronx(005), NY
+36005
+Broome(007), NY
+36007
+Cattaraugus(009), NY
+36009
+Cayuga(011), NY
+36011
+Chautauqua(013), NY
+36013
+Chemung(015), NY
+36015
+Chenango(017), NY
+36017
+Clinton(019), NY
+36019
+Columbia(021), NY
+36021
+Cortland(023), NY
+36023
+Delaware(025), NY
+36025
+Dutchess(027), NY
+36027
+Erie(029), NY
+36029
+Essex(031), NY
+36031
+Franklin(033), NY
+36033
+Fulton(035), NY
+36035
+Genesee(037), NY
+36037
+Greene(039), NY
+36039
+Hamilton(041), NY
+36041
+Herkimer(043), NY
+36043
+Jefferson(045), NY
+36045
+Kings(047), NY
+36047
+Lewis(049), NY
+36049
+Livingston(051), NY
+36051
+Madison(053), NY
+36053
+Monroe(055), NY
+36055
+Montgomery(057), NY
+36057
+Nassau(059), NY
+36059
+New York(061), NY
+36061
+Niagara(063), NY
+36063
+Oneida(065), NY
+36065
+Onondaga(067), NY
+36067
+Ontario(069), NY
+36069
+Orange(071), NY
+36071
+Orleans(073), NY
+36073
+Oswego(075), NY
+36075
+32013
+32015
+32017
+32019
+32021
+32023
+32027
+32029
+32031
+32033
+32510
+
+NY
+
+192
+50
+38
+710
+32
+1098
+49
+40
+4942
+39
+414
+463992
+12744
+1870
+1142
+8277
+2808
+4210
+4666
+4471
+1741
+3778
+3251
+1670
+1205
+16813
+39999
+1044
+1737
+3188
+2850
+1865
+71
+3264
+4939
+2693
+1055
+2465
+2697
+32626
+2249
+42817
+355
+11772
+11916
+25740
+4729
+16464
+1901
+7391
+
+Otsego(077), NY
+Putnam(079), NY
+Queens(081), NY
+Rensselaer(083), NY
+Richmond(085), NY
+Rockland(087), NY
+SAINT LAWRENCE(089), NY
+Saratoga(091), NY
+Schenectady(093), NY
+Schoharie(095), NY
+Schuyler(097), NY
+Seneca(099), NY
+Steuben(101), NY
+Suffolk(103), NY
+Sullivan(105), NY
+Tioga(107), NY
+Tompkins(109), NY
+Ulster(111), NY
+Warren(113), NY
+Washington(115), NY
+Wayne(117), NY
+Westchester(119), NY
+Wyoming(121), NY
+Yates(123), NY
+Ohio
+Breakdown by County
+Adams(001), OH
+39001
+Allen(003), OH
+39003
+Ashland(005), OH
+39005
+Ashtabula(007), OH
+39007
+Athens(009), OH
+39009
+Auglaize(011), OH
+39011
+Belmont(013), OH
+39013
+Brown(015), OH
+39015
+Butler(017), OH
+39017
+Carroll(019), OH
+39019
+Champaign(021), OH
+39021
+Clark(023), OH
+39023
+Clermont(025), OH
+39025
+Clinton(027), OH
+39027
+Columbiana(029), OH
+39029
+Coshocton(031), OH
+39031
+Crawford(033), OH
+39033
+Cuyahoga(035), OH
+39035
+Darke(037), OH
+39037
+Defiance(039),
+OH
+39039
+Delaware(041), OH
+39041
+Erie(043), OH
+39043
+Fairfield(045), OH
+39045
+Fayette(047), OH
+39047
+Franklin(049), OH
+39049
+36077
+36079
+36081
+36083
+36085
+36087
+36089
+36091
+36093
+36095
+36097
+36099
+36101
+36103
+36105
+36107
+36109
+36111
+36113
+36115
+36117
+36119
+36121
+36123
+
+OH
+
+1428
+4978
+5189
+9123
+10284
+9513
+5389
+12106
+6948
+820
+664
+1921
+3896
+57214
+1953
+2829
+1771
+8070
+3242
+3322
+6490
+9431
+2122
+816
+316514
+1013
+2819
+1432
+4252
+1117
+956
+2383
+1641
+23884
+816
+1005
+4059
+6799
+1037
+3898
+900
+1176
+20339
+1178
+809
+2982
+2220
+3468
+721
+16402
+
+39051
+39053
+39055
+39057
+39059
+39061
+39063
+39065
+39067
+39069
+39071
+39073
+39075
+39077
+39079
+39081
+39083
+39085
+39087
+39089
+39091
+39093
+39095
+39097
+39099
+39101
+39103
+39105
+39107
+39109
+39111
+39113
+39115
+39117
+39119
+39121
+39123
+39125
+39127
+39129
+39131
+39133
+39135
+39137
+39139
+39141
+39143
+39145
+39147
+39149
+39151
+
+Fulton(051), OH
+Gallia(053), OH
+Geauga(055), OH
+Greene(057), OH
+Guernsey(059), OH
+Hamilton(061), OH
+Hancock(063), OH
+Hardin(065), OH
+Harrison(067), OH
+Henry(069), OH
+Highland(071), OH
+Hocking(073), OH
+Holmes(075), OH
+Huron(077), OH
+Jackson(079), OH
+Jefferson(081), OH
+Knox(083), OH
+Lake(085), OH
+Lawrence(087), OH
+Licking(089), OH
+Logan(091), OH
+Lorain(093), OH
+Lucas(095), OH
+Madison(097), OH
+Mahoning(099), OH
+Marion(101), OH
+Medina(103), OH
+Meigs(105), OH
+Mercer(107), OH
+Miami(109), OH
+Monroe(111), OH
+Montgomery(113), OH
+Morgan(115), OH
+Morrow(117), OH
+Muskingum(119), OH
+Noble(121), OH
+Ottawa(123), OH
+Paulding(125), OH
+Perry(127), OH
+Pickaway(129), OH
+Pike(131), OH
+Portage(133), OH
+Preble(135), OH
+Putnam(137), OH
+Richland(139), OH
+Ross(141), OH
+Sandusky(143), OH
+Scioto(145), OH
+Seneca(147), OH
+Shelby(149), OH
+Stark(151), OH
+
+1328
+1295
+2382
+2740
+1186
+16249
+1712
+878
+485
+741
+1086
+852
+420
+1749
+1312
+2414
+1112
+6047
+3333
+5369
+1000
+8814
+13918
+936
+21032
+1762
+8983
+876
+512
+2658
+496
+10641
+485
+941
+2686
+341
+1177
+585
+945
+1393
+953
+5394
+1164
+839
+2821
+2363
+1792
+3232
+1422
+1011
+9453
+
+Summit(153), OH
+Trumbull(155), OH
+Tuscarawas(157), OH
+Union(159), OH
+Van Wert(161), OH
+Vinton(163), OH
+Warren(165), OH
+Washington(167), OH
+Wayne(169), OH
+Williams(171), OH
+Wood(173), OH
+Wyandot(175), OH
+Oklahoma
+Breakdown by County
+Adair(001), OK
+40001
+Alfalfa(003), OK
+40003
+Atoka(005), OK
+40005
+Beaver(007), OK
+40007
+Beckham(009), OK
+40009
+Blaine(011), OK
+40011
+Bryan(013),
+OK
+40013
+Caddo(015), OK
+40015
+Canadian(017), OK
+40017
+Carter(019), OK
+40019
+Cherokee(021), OK
+40021
+Choctaw(023), OK
+40023
+Cimarron(025), OK
+40025
+Cleveland(027), OK
+40027
+Coal(029), OK
+40029
+Comanche(031), OK
+40031
+Cotton(033), OK
+40033
+Craig(035), OK
+40035
+Creek(037), OK
+40037
+Custer(039), OK
+40039
+Delaware(041), OK
+40041
+Dewey(043), OK
+40043
+Ellis(045), OK
+40045
+Garfield(047), OK
+40047
+Garvin(049), OK
+40049
+Grady(051), OK
+40051
+Grant(053), OK
+40053
+Greer(055), OK
+40055
+Harmon(057), OK
+40057
+Harper(059), OK
+40059
+Haskell(061), OK
+40061
+Hughes(063),
+OK
+40063
+Jackson(065), OK
+40065
+Jefferson(067), OK
+40067
+Johnston(069), OK
+40069
+Kay(071), OK
+40071
+Kingfisher(073), OK
+40073
+39153
+39155
+39157
+39159
+39161
+39163
+39165
+39167
+39169
+39171
+39173
+39175
+
+OK
+
+13138
+12876
+3240
+1174
+799
+417
+4830
+2009
+2414
+879
+3503
+614
+99933
+404
+76
+287
+58
+354
+175
+791
+359
+2462
+1145
+767
+236
+18
+10012
+160
+3190
+135
+575
+2771
+513
+796
+85
+56
+1748
+582
+960
+83
+101
+33
+44
+236
+356
+575
+126
+206
+1362
+328
+
+Kiowa(075), OK
+Latimer(077), OK
+Le Flore(079), OK
+Lincoln(081), OK
+Logan(083), OK
+Love(085), OK
+MCCLAIN(087), OK
+MCCURTAIN(089), OK
+MCINTOSH(091), OK
+Major(093), OK
+Marshall(095), OK
+Mayes(097), OK
+Murray(099), OK
+Muskogee(101), OK
+Noble(103), OK
+Nowata(105), OK
+Okfuskee(107), OK
+Oklahoma(109), OK
+Okmulgee(111), OK
+Osage(113), OK
+Ottawa(115), OK
+Pawnee(117), OK
+Payne(119), OK
+Pittsburg(121), OK
+Pontotoc(123), OK
+Pottawatomie(125), OK
+Pushmataha(127), OK
+Roger Mills(129), OK
+Rogers(131), OK
+Seminole(133), OK
+Sequoyah(135), OK
+Stephens(137), OK
+Texas(139), OK
+Tillman(141), OK
+Tulsa(143), OK
+Wagoner(145), OK
+Washington(147), OK
+Washita(149), OK
+Woods(151), OK
+Woodward(153), OK
+Oregon
+Breakdown by County
+Baker(001), OR
+41001
+Benton(003), OR
+41003
+Clackamas(005), OR
+41005
+Clatsop(007), OR
+41007
+Columbia(009), OR
+41009
+Coos(011), OR
+41011
+Crook(013), OR
+41013
+Curry(015), OR
+41015
+Deschutes(017), OR
+41017
+40075
+40077
+40079
+40081
+40083
+40085
+40087
+40089
+40091
+40093
+40095
+40097
+40099
+40101
+40103
+40105
+40107
+40109
+40111
+40113
+40115
+40117
+40119
+40121
+40123
+40125
+40127
+40129
+40131
+40133
+40135
+40137
+40139
+40141
+40143
+40145
+40147
+40149
+40151
+40153
+
+OR
+
+184
+178
+1528
+839
+1072
+142
+1210
+547
+389
+183
+168
+1046
+273
+1997
+289
+190
+213
+21462
+1279
+1109
+1032
+420
+1347
+734
+625
+1712
+184
+28
+2846
+462
+883
+1221
+225
+116
+17720
+1780
+1308
+219
+157
+451
+46605
+183
+583
+3883
+240
+661
+563
+324
+164
+1988
+
+Douglas(019), OR
+Gilliam(021), OR
+Grant(023), OR
+Harney(025), OR
+Hood River(027), OR
+Jackson(029), OR
+Jefferson(031), OR
+Josephine(033), OR
+Klamath(035), OR
+Lake(037), OR
+Lane(039), OR
+Lincoln(041), OR
+Linn(043), OR
+Malheur(045), OR
+Marion(047), OR
+Morrow(049), OR
+Multnomah(051), OR
+Polk(053), OR
+Sherman(055), OR
+Tillamook(057), OR
+Umatilla(059), OR
+Union(061), OR
+Wallowa(063), OR
+Wasco(065), OR
+Washington(067), OR
+Wheeler(069), OR
+Yamhill(071), OR
+Pennsylvania
+Breakdown by County
+Adams(001), PA
+42001
+Allegheny(003), PA
+42003
+Armstrong(005), PA
+42005
+Beaver(007), PA
+42007
+Bedford(009), PA
+42009
+Berks(011), PA
+42011
+Blair(013), PA
+42013
+Bradford(015), PA
+42015
+Bucks(017), PA
+42017
+Butler(019), PA
+42019
+Cambria(021), PA
+42021
+Cameron(023), PA
+42023
+Carbon(025), PA
+42025
+Centre(027), PA
+42027
+Chester(029), PA
+42029
+Clarion(031), PA
+42031
+Clearfield(033),
+PA
+42033
+Clinton(035), PA
+42035
+Columbia(037), PA
+42037
+Crawford(039), PA
+42039
+Cumberland(041), PA
+42041
+Dauphin(043), PA
+42043
+41019
+41021
+41023
+41025
+41027
+41029
+41031
+41033
+41035
+41037
+41039
+41041
+41043
+41045
+41047
+41049
+41051
+41053
+41055
+41057
+41059
+41061
+41063
+41065
+41067
+41069
+41071
+
+PA
+
+2372
+12
+61
+92
+106
+5356
+264
+2421
+1035
+79
+3760
+335
+1919
+343
+4131
+124
+6662
+1017
+29
+178
+930
+285
+44
+346
+5150
+15
+950
+333832
+2591
+24138
+2072
+8303
+1667
+11807
+3353
+1514
+28054
+5692
+4262
+196
+2118
+2383
+16844
+1181
+2283
+1119
+2312
+2205
+4424
+4419
+
+Delaware(045), PA
+Elk(047), PA
+Erie(049), PA
+Fayette(051), PA
+Forest(053), PA
+Franklin(055), PA
+Fulton(057), PA
+Greene(059), PA
+Huntingdon(061), PA
+Indiana(063), PA
+Jefferson(065), PA
+Juniata(067), PA
+Lackawanna(069), PA
+Lancaster(071), PA
+Lawrence(073), PA
+Lebanon(075), PA
+Lehigh(077), PA
+Luzerne(079), PA
+Lycoming(081), PA
+MCKEAN(083), PA
+Mercer(085), PA
+Mifflin(087), PA
+Monroe(089), PA
+Montgomery(091), PA
+Montour(093), PA
+Northampton(095), PA
+Northumberland(097), PA
+Perry(099), PA
+Philadelphia(101), PA
+Pike(103), PA
+Potter(105), PA
+Schuylkill(107), PA
+Snyder(109), PA
+Somerset(111), PA
+Sullivan(113), PA
+Susquehanna(115), PA
+Tioga(117), PA
+Union(119), PA
+Venango(121), PA
+Warren(123), PA
+Washington(125), PA
+Wayne(127), PA
+Westmoreland(129), PA
+Wyoming(131), PA
+York(133), PA
+Rhode Island
+Breakdown by County
+Bristol(001), RI
+44001
+Kent(003), RI
+44003
+Newport(005), RI
+44005
+Providence(007), RI
+44007
+42045
+42047
+42049
+42051
+42053
+42055
+42057
+42059
+42061
+42063
+42065
+42067
+42069
+42071
+42073
+42075
+42077
+42079
+42081
+42083
+42085
+42087
+42089
+42091
+42093
+42095
+42097
+42099
+42101
+42103
+42105
+42107
+42109
+42111
+42113
+42115
+42117
+42119
+42121
+42123
+42125
+42127
+42129
+42131
+42133
+
+RI
+
+9002
+1023
+8263
+5097
+106
+3008
+394
+1100
+1084
+2335
+1315
+555
+6903
+10480
+3030
+2554
+15527
+11112
+3404
+1114
+3089
+1541
+3361
+26164
+445
+12098
+2947
+1211
+11152
+1084
+475
+4828
+709
+2243
+92
+926
+976
+891
+1651
+976
+7861
+1257
+11250
+841
+15421
+30073
+1229
+11119
+1544
+13576
+
+Washington(009), RI
+South Carolina
+Breakdown by County
+Abbeville(001), SC
+45001
+Aiken(003), SC
+45003
+Allendale(005), SC
+45005
+Anderson(007), SC
+45007
+Bamberg(009), SC
+45009
+Barnwell(011), SC
+45011
+Beaufort(013), SC
+45013
+Berkeley(015), SC
+45015
+Calhoun(017), SC
+45017
+Charleston(019), SC
+45019
+Cherokee(021), SC
+45021
+Chester(023), SC
+45023
+Chesterfield(025), SC
+45025
+Clarendon(027), SC
+45027
+Colleton(029), SC
+45029
+Darlington(031), SC
+45031
+Dillon(033), SC
+45033
+Dorchester(035),
+SC
+45035
+Edgefield(037), SC
+45037
+Fairfield(039), SC
+45039
+Florence(041), SC
+45041
+Georgetown(043), SC
+45043
+Greenville(045), SC
+45045
+Greenwood(047), SC
+45047
+Hampton(049), SC
+45049
+Horry(051), SC
+45051
+Jasper(053), SC
+45053
+Kershaw(055), SC
+45055
+Lancaster(057), SC
+45057
+Laurens(059), SC
+45059
+Lee(061), SC
+45061
+Lexington(063), SC
+45063
+MCCORMICK(065), SC
+45065
+Marion(067), SC
+45067
+Marlboro(069), SC
+45069
+Newberry(071), SC
+45071
+Oconee(073), SC
+45073
+Orangeburg(075), SC
+45075
+Pickens(077), SC
+45077
+Richland(079), SC
+45079
+Saluda(081), SC
+45081
+Spartanburg(083), SC
+45083
+Sumter(085), SC
+45085
+Union(087), SC
+45087
+Williamsburg(089), SC
+45089
+York(091), SC
+45091
+South Dakota
+Breakdown by County
+44009
+
+SC
+
+SD
+
+2605
+92372
+514
+4404
+70
+3967
+211
+459
+4362
+4128
+246
+6175
+1579
+778
+806
+557
+925
+1297
+523
+2239
+465
+323
+2128
+872
+6032
+1252
+251
+6304
+147
+1567
+1499
+1355
+251
+6968
+97
+577
+495
+568
+1596
+1749
+3313
+7736
+240
+5661
+2842
+742
+360
+3742
+5643
+
+46003
+46005
+46007
+46009
+46011
+46013
+46015
+46017
+46019
+46021
+46023
+46025
+46027
+46029
+46031
+46033
+46035
+46037
+46039
+46041
+46043
+46045
+46047
+46049
+46051
+46053
+46055
+46057
+46059
+46061
+46063
+46065
+46067
+46069
+46071
+46073
+46075
+46077
+46079
+46081
+46083
+46085
+46087
+46089
+46091
+46093
+46095
+46097
+46099
+46101
+46103
+
+Aurora(003), SD
+Beadle(005), SD
+Bennett(007), SD
+Bon Homme(009), SD
+Brookings(011), SD
+Brown(013), SD
+Brule(015), SD
+Buffalo(017), SD
+Butte(019), SD
+Campbell(021), SD
+Charles Mix(023), SD
+Clark(025), SD
+Clay(027), SD
+Codington(029), SD
+Corson(031), SD
+Custer(033), SD
+Davison(035), SD
+Day(037), SD
+Deuel(039), SD
+Dewey(041), SD
+Douglas(043), SD
+Edmunds(045), SD
+Fall River(047), SD
+Faulk(049), SD
+Grant(051), SD
+Gregory(053), SD
+Haakon(055), SD
+Hamlin(057), SD
+Hand(059), SD
+Hanson(061), SD
+Harding(063), SD
+Hughes(065), SD
+Hutchinson(067), SD
+Hyde(069), SD
+Jackson(071), SD
+Jerauld(073), SD
+Jones(075), SD
+Kingsbury(077), SD
+Lake(079), SD
+Lawrence(081), SD
+Lincoln(083), SD
+Lyman(085), SD
+MCCOOK(087), SD
+MCPHERSON(089), SD
+Marshall(091), SD
+Meade(093), SD
+Mellette(095), SD
+Miner(097), SD
+Minnehaha(099), SD
+Moody(101), SD
+Pennington(103), SD
+
+18
+119
+9
+42
+157
+271
+45
+4
+65
+15
+42
+32
+79
+256
+12
+53
+160
+53
+31
+18
+20
+36
+49
+18
+97
+35
+6
+80
+25
+37
+7
+96
+43
+9
+12
+6
+5
+36
+117
+132
+289
+15
+37
+17
+28
+205
+12
+19
+1152
+61
+719
+
+Perkins(105), SD
+Potter(107), SD
+Roberts(109), SD
+Sanborn(111), SD
+Shannon(113), SD
+Spink(115), SD
+Stanley(117), SD
+Sully(119), SD
+Todd(121), SD
+Tripp(123), SD
+Turner(125), SD
+Union(127), SD
+Walworth(129), SD
+Yankton(135), SD
+Ziebach(137), SD
+Tennessee
+Breakdown by County
+Anderson(001), TN
+47001
+Bedford(003), TN
+47003
+Benton(005), TN
+47005
+Bledsoe(007), TN
+47007
+Blount(009), TN
+47009
+Bradley(011), TN
+47011
+Campbell(013), TN
+47013
+Cannon(015), TN
+47015
+Carroll(017), TN
+47017
+Carter(019), TN
+47019
+Cheatham(021), TN
+47021
+Chester(023), TN
+47023
+Claiborne(025), TN
+47025
+Clay(027), TN
+47027
+Cocke(029), TN
+47029
+Coffee(031), TN
+47031
+Crockett(033), TN
+47033
+Cumberland(035), TN
+47035
+Davidson(037), TN
+47037
+Decatur(039), TN
+47039
+DEKALB(041), TN
+47041
+Dickson(043), TN
+47043
+Dyer(045), TN
+47045
+Fayette(047), TN
+47047
+Fentress(049), TN
+47049
+Franklin(051), TN
+47051
+Gibson(053), TN
+47053
+Giles(055), TN
+47055
+Grainger(057), TN
+47057
+Greene(059), TN
+47059
+Grundy(061), TN
+47061
+Hamblen(063), TN
+47063
+Hamilton(065), TN
+47065
+Hancock(067), TN
+47067
+46105
+46107
+46109
+46111
+46113
+46115
+46117
+46119
+46121
+46123
+46125
+46127
+46129
+46135
+46137
+
+TN
+
+15
+11
+64
+15
+21
+81
+11
+7
+31
+58
+79
+137
+50
+157
+5
+168856
+2060
+1138
+690
+326
+6768
+3952
+1330
+358
+1117
+1783
+1550
+615
+947
+123
+1115
+2014
+384
+1248
+7677
+372
+470
+1462
+1360
+991
+429
+1346
+1493
+850
+538
+1885
+194
+1596
+7104
+81
+
+47069
+47071
+47073
+47075
+47077
+47079
+47081
+47083
+47085
+47087
+47089
+47091
+47093
+47095
+47097
+47099
+47101
+47103
+47105
+47107
+47109
+47111
+47113
+47115
+47117
+47119
+47121
+47123
+47125
+47127
+47129
+47131
+47133
+47135
+47137
+47139
+47141
+47143
+47145
+47147
+47149
+47151
+47153
+47155
+47157
+47159
+47161
+47163
+47165
+47167
+47169
+
+Hardeman(069), TN
+Hardin(071), TN
+Hawkins(073), TN
+Haywood(075), TN
+Henderson(077), TN
+Henry(079), TN
+Hickman(081), TN
+Houston(083), TN
+Humphreys(085), TN
+Jackson(087), TN
+Jefferson(089), TN
+Johnson(091), TN
+Knox(093), TN
+Lake(095), TN
+Lauderdale(097), TN
+Lawrence(099), TN
+Lewis(101), TN
+Lincoln(103), TN
+Loudon(105), TN
+MCMINN(107), TN
+MCNAIRY(109), TN
+Macon(111), TN
+Madison(113), TN
+Marion(115), TN
+Marshall(117), TN
+Maury(119), TN
+Meigs(121), TN
+Monroe(123), TN
+Montgomery(125), TN
+Moore(127), TN
+Morgan(129), TN
+Obion(131), TN
+Overton(133), TN
+Perry(135), TN
+Pickett(137), TN
+Polk(139), TN
+Putnam(141), TN
+Rhea(143), TN
+Roane(145), TN
+Robertson(147), TN
+Rutherford(149), TN
+Scott(151), TN
+Sequatchie(153), TN
+Sevier(155), TN
+Shelby(157), TN
+Smith(159), TN
+Stewart(161), TN
+Sullivan(163), TN
+Sumner(165), TN
+Tipton(167), TN
+Trousdale(169), TN
+
+628
+842
+1536
+457
+847
+966
+653
+277
+744
+365
+1263
+442
+12413
+131
+715
+1252
+494
+1002
+1585
+1667
+813
+562
+2756
+1076
+999
+2559
+404
+1280
+3320
+154
+619
+1277
+533
+216
+134
+530
+1681
+991
+1982
+1971
+5292
+702
+291
+2800
+23810
+535
+416
+4644
+5170
+1893
+231
+
+Unicoi(171), TN
+Union(173), TN
+Van Buren(175), TN
+Warren(177), TN
+Washington(179), TN
+Wayne(181), TN
+Weakley(183), TN
+White(185), TN
+Williamson(187), TN
+Wilson(189), TN
+Texas
+Breakdown by County
+Anderson(001), TX
+48001
+Andrews(003), TX
+48003
+Angelina(005), TX
+48005
+Aransas(007), TX
+48007
+Archer(009), TX
+48009
+Armstrong(011), TX
+48011
+Atascosa(013), TX
+48013
+Austin(015), TX
+48015
+Bailey(017), TX
+48017
+Bandera(019), TX
+48019
+Bastrop(021), TX
+48021
+Baylor(023), TX
+48023
+Bee(025), TX
+48025
+Bell(027), TX
+48027
+Bexar(029), TX
+48029
+Blanco(031), TX
+48031
+Borden(033),
+TX
+48033
+Bosque(035), TX
+48035
+Bowie(037), TX
+48037
+Brazoria(039), TX
+48039
+Brazos(041), TX
+48041
+Brewster(043), TX
+48043
+Briscoe(045), TX
+48045
+Brooks(047), TX
+48047
+Brown(049), TX
+48049
+Burleson(051), TX
+48051
+Burnet(053), TX
+48053
+Caldwell(055), TX
+48055
+Calhoun(057), TX
+48057
+Callahan(059), TX
+48059
+Cameron(061), TX
+48061
+Camp(063), TX
+48063
+Carson(065), TX
+48065
+Cass(067), TX
+48067
+Castro(069), TX
+48069
+Chambers(071), TX
+48071
+Cherokee(073), TX
+48073
+Childress(075), TX
+48075
+Clay(077), TX
+48077
+47171
+47173
+47175
+47177
+47179
+47181
+47183
+47185
+47187
+47189
+
+TX
+
+480
+479
+113
+1142
+3081
+401
+1166
+898
+4547
+3263
+578327
+584
+192
+1136
+307
+168
+19
+479
+544
+61
+335
+1350
+41
+235
+5549
+31830
+115
+7
+244
+1694
+7298
+1875
+50
+13
+70
+734
+172
+645
+607
+270
+335
+3553
+232
+47
+438
+12
+460
+481
+67
+182
+
+48079
+48081
+48083
+48085
+48087
+48089
+48091
+48093
+48095
+48097
+48099
+48101
+48103
+48105
+48107
+48109
+48111
+48113
+48115
+48117
+48119
+48121
+48123
+48125
+48127
+48129
+48131
+48133
+48135
+48137
+48139
+48141
+48143
+48145
+48147
+48149
+48151
+48153
+48155
+48157
+48159
+48161
+48163
+48165
+48167
+48169
+48171
+48173
+48175
+48177
+48179
+
+Cochran(079), TX
+Coke(081), TX
+Coleman(083), TX
+Collin(085), TX
+Collingsworth(087), TX
+Colorado(089), TX
+Comal(091), TX
+Comanche(093), TX
+Concho(095), TX
+Cooke(097), TX
+Coryell(099), TX
+Cottle(101), TX
+Crane(103), TX
+Crockett(105), TX
+Crosby(107), TX
+Culberson(109), TX
+Dallam(111), TX
+Dallas(113), TX
+Dawson(115), TX
+Deaf Smith(117), TX
+Delta(119), TX
+Denton(121), TX
+De Witt(123), TX
+Dickens(125), TX
+Dimmit(127), TX
+Donley(129), TX
+Duval(131), TX
+Eastland(133), TX
+Ector(135), TX
+Edwards(137), TX
+Ellis(139), TX
+El Paso(141), TX
+Erath(143), TX
+Falls(145), TX
+Fannin(147), TX
+Fayette(149), TX
+Fisher(151), TX
+Floyd(153), TX
+Foard(155), TX
+Fort Bend(157), TX
+Franklin(159), TX
+Freestone(161), TX
+Frio(163), TX
+Gaines(165), TX
+Galveston(167), TX
+Garza(169), TX
+Gillespie(171), TX
+Glasscock(173), TX
+Goliad(175), TX
+Gonzales(177), TX
+Gray(179), TX
+
+30
+37
+117
+45973
+42
+309
+1991
+177
+26
+863
+1102
+10
+37
+21
+29
+6
+67
+60398
+91
+117
+151
+30230
+276
+25
+56
+34
+69
+279
+2442
+10
+5286
+15365
+558
+217
+614
+319
+45
+48
+15
+37951
+99
+269
+48
+98
+12135
+62
+388
+10
+90
+245
+309
+
+48181
+48183
+48185
+48187
+48189
+48191
+48193
+48195
+48197
+48199
+48201
+48203
+48205
+48207
+48209
+48211
+48213
+48215
+48217
+48219
+48221
+48223
+48225
+48227
+48229
+48231
+48233
+48235
+48237
+48239
+48241
+48243
+48245
+48247
+48249
+48251
+48253
+48255
+48257
+48259
+48261
+48263
+48265
+48267
+48271
+48273
+48275
+48277
+48279
+48281
+48283
+
+Grayson(181), TX
+Gregg(183), TX
+Grimes(185), TX
+Guadalupe(187), TX
+Hale(189), TX
+Hall(191), TX
+Hamilton(193), TX
+Hansford(195), TX
+Hardeman(197), TX
+Hardin(199), TX
+Harris(201), TX
+Harrison(203), TX
+Hartley(205), TX
+Haskell(207), TX
+Hays(209), TX
+Hemphill(211), TX
+Henderson(213), TX
+Hidalgo(215), TX
+Hill(217), TX
+Hockley(219), TX
+Hood(221), TX
+Hopkins(223), TX
+Houston(225), TX
+Howard(227), TX
+Hudspeth(229), TX
+Hunt(231), TX
+Hutchinson(233), TX
+Irion(235), TX
+Jack(237), TX
+Jackson(239), TX
+Jasper(241), TX
+Jeff Davis(243), TX
+Jefferson(245), TX
+Jim Hogg(247), TX
+Jim Wells(249), TX
+Johnson(251), TX
+Jones(253), TX
+Karnes(255), TX
+Kaufman(257), TX
+Kendall(259), TX
+Kenedy(261), TX
+Kent(263), TX
+Kerr(265), TX
+Kimble(267), TX
+Kinney(271), TX
+Kleberg(273), TX
+Knox(275), TX
+Lamar(277), TX
+Lamb(279), TX
+Lampasas(281), TX
+La Salle(283), TX
+
+1833
+2924
+349
+2854
+262
+19
+159
+20
+52
+1233
+86949
+990
+36
+85
+2965
+25
+1398
+4032
+520
+269
+1765
+677
+265
+489
+21
+1634
+305
+15
+87
+143
+457
+11
+5272
+30
+335
+3034
+292
+116
+2631
+1219
+2
+13
+733
+42
+21
+378
+39
+1065
+118
+454
+29
+
+48285
+48287
+48289
+48291
+48293
+48295
+48297
+48299
+48301
+48303
+48305
+48307
+48309
+48311
+48313
+48315
+48317
+48319
+48321
+48323
+48325
+48327
+48329
+48331
+48333
+48335
+48337
+48339
+48341
+48343
+48345
+48347
+48349
+48351
+48353
+48355
+48357
+48359
+48361
+48363
+48365
+48367
+48369
+48371
+48373
+48375
+48377
+48379
+48381
+48383
+48385
+
+Lavaca(285), TX
+Lee(287), TX
+Leon(289), TX
+Liberty(291), TX
+Limestone(293), TX
+Lipscomb(295), TX
+Live Oak(297), TX
+Llano(299), TX
+Loving(301), TX
+Lubbock(303), TX
+Lynn(305), TX
+MCCULLOCH(307), TX
+MCLENNAN(309), TX
+MCMULLEN(311), TX
+Madison(313), TX
+Marion(315), TX
+Martin(317), TX
+Mason(319), TX
+Matagorda(321), TX
+Maverick(323), TX
+Medina(325), TX
+Menard(327), TX
+Midland(329), TX
+Milam(331), TX
+Mills(333), TX
+Mitchell(335), TX
+Montague(337), TX
+Montgomery(339), TX
+Moore(341), TX
+Morris(343), TX
+Motley(345), TX
+Nacogdoches(347), TX
+Navarro(349), TX
+Newton(351), TX
+Nolan(353), TX
+Nueces(355), TX
+Ochiltree(357), TX
+Oldham(359), TX
+Orange(361), TX
+Palo Pinto(363), TX
+Panola(365), TX
+Parker(367), TX
+Parmer(369), TX
+Pecos(371), TX
+Polk(373), TX
+Potter(375), TX
+Presidio(377), TX
+Rains(379), TX
+Randall(381), TX
+Reagan(383), TX
+Real(385), TX
+
+272
+272
+214
+1163
+280
+26
+78
+299
+1
+2166
+42
+148
+3699
+6
+124
+149
+5
+22
+302
+174
+526
+17
+2801
+480
+51
+84
+360
+6498
+159
+194
+8
+866
+939
+125
+168
+6892
+78
+20
+1764
+605
+342
+3598
+61
+73
+516
+1337
+12
+174
+1788
+52
+38
+
+48387
+48389
+48391
+48393
+48395
+48397
+48399
+48401
+48403
+48405
+48407
+48409
+48411
+48413
+48415
+48417
+48419
+48421
+48423
+48425
+48427
+48429
+48431
+48433
+48435
+48437
+48439
+48441
+48443
+48445
+48447
+48449
+48451
+48453
+48455
+48457
+48459
+48461
+48463
+48465
+48467
+48469
+48471
+48473
+48475
+48477
+48479
+48481
+48483
+48485
+48487
+
+Red River(387), TX
+Reeves(389), TX
+Refugio(391), TX
+Roberts(393), TX
+Robertson(395), TX
+Rockwall(397), TX
+Runnels(399), TX
+Rusk(401), TX
+Sabine(403), TX
+San Augustine(405), TX
+San Jacinto(407), TX
+San Patricio(409), TX
+San Saba(411), TX
+Schleicher(413), TX
+Scurry(415), TX
+Shackelford(417), TX
+Shelby(419), TX
+Sherman(421), TX
+Smith(423), TX
+Somervell(425), TX
+Starr(427), TX
+Stephens(429), TX
+Sterling(431), TX
+Stonewall(433), TX
+Sutton(435), TX
+Swisher(437), TX
+Tarrant(439), TX
+Taylor(441), TX
+Terrell(443), TX
+Terry(445), TX
+Throckmorton(447), TX
+Titus(449), TX
+Tom Green(451), TX
+Travis(453), TX
+Trinity(455), TX
+Tyler(457), TX
+Upshur(459), TX
+Upton(461), TX
+Uvalde(463), TX
+Val Verde(465), TX
+Van Zandt(467), TX
+Victoria(469), TX
+Walker(471), TX
+Waller(473), TX
+Ward(475), TX
+Washington(477), TX
+Webb(479), TX
+Wharton(481), TX
+Wheeler(483), TX
+Wichita(485), TX
+Wilbarger(487), TX
+
+225
+60
+86
+3
+163
+4319
+148
+668
+93
+98
+425
+972
+65
+31
+318
+59
+417
+10
+2362
+153
+64
+157
+13
+8
+17
+51
+67833
+1903
+4
+106
+19
+264
+1341
+20439
+125
+278
+723
+27
+194
+403
+904
+1054
+534
+526
+115
+498
+3344
+447
+48
+3331
+180
+
+Willacy(489), TX
+Williamson(491), TX
+Wilson(493), TX
+Winkler(495), TX
+Wise(497), TX
+Wood(499), TX
+Yoakum(501), TX
+Young(503), TX
+Zapata(505), TX
+Zavala(507), TX
+Utah
+Breakdown by County
+Beaver(001), UT
+49001
+Box Elder(003), UT
+49003
+Cache(005), UT
+49005
+Carbon(007), UT
+49007
+Daggett(009), UT
+49009
+Davis(011), UT
+49011
+Duchesne(013), UT
+49013
+Emery(015), UT
+49015
+Garfield(017),
+UT
+49017
+Grand(019), UT
+49019
+Iron(021), UT
+49021
+Juab(023), UT
+49023
+Kane(025), UT
+49025
+Millard(027), UT
+49027
+Morgan(029), UT
+49029
+Piute(031), UT
+49031
+Rich(033), UT
+49033
+Salt Lake(035), UT
+49035
+San Juan(037), UT
+49037
+Sanpete(039), UT
+49039
+Sevier(041), UT
+49041
+Summit(043), UT
+49043
+Tooele(045), UT
+49045
+Uintah(047), UT
+49047
+Utah(049), UT
+49049
+Wasatch(051), UT
+49051
+Washington(053), UT
+49053
+Wayne(055), UT
+49055
+Weber(057), UT
+49057
+Virginia
+Breakdown by County
+Accomack(001), VA
+51001
+Albemarle(003), VA
+51003
+Alleghany(005), VA
+51005
+Amelia(007), VA
+51007
+Amherst(009), VA
+51009
+Appomattox(011), VA
+51011
+Arlington(013), VA
+51013
+Augusta(015), VA
+51015
+48489
+48491
+48493
+48495
+48497
+48499
+48501
+48503
+48505
+48507
+
+UT
+
+VA
+
+62
+8942
+856
+87
+1373
+676
+47
+264
+9
+35
+20973
+24
+307
+461
+144
+3
+1745
+77
+62
+10
+85
+236
+54
+56
+74
+43
+5
+7
+9754
+29
+75
+120
+138
+368
+196
+2615
+83
+2452
+7
+1743
+135370
+497
+791
+778
+258
+512
+197
+1138
+2478
+
+51017
+51019
+51021
+51023
+51025
+51027
+51029
+51031
+51033
+51035
+51036
+51037
+51041
+51043
+51045
+51047
+51049
+51051
+51053
+51057
+51059
+51061
+51063
+51065
+51067
+51069
+51071
+51073
+51075
+51077
+51079
+51081
+51083
+51085
+51087
+51089
+51091
+51093
+51095
+51097
+51099
+51101
+51103
+51105
+51107
+51109
+51111
+51113
+51115
+51117
+51119
+
+Bath(017), VA
+Bedford(019), VA
+Bland(021), VA
+Botetourt(023), VA
+Brunswick(025), VA
+Buchanan(027), VA
+Buckingham(029), VA
+Campbell(031), VA
+Caroline(033), VA
+Carroll(035), VA
+Charles City(036), VA
+Charlotte(037), VA
+Chesterfield(041), VA
+Clarke(043), VA
+Craig(045), VA
+Culpeper(047), VA
+Cumberland(049), VA
+Dickenson(051), VA
+Dinwiddie(053), VA
+Essex(057), VA
+Fairfax(059), VA
+Fauquier(061), VA
+Floyd(063), VA
+Fluvanna(065), VA
+Franklin(067), VA
+Frederick(069), VA
+Giles(071), VA
+Gloucester(073), VA
+Goochland(075), VA
+Grayson(077), VA
+Greene(079), VA
+Greensville(081), VA
+Halifax(083), VA
+Hanover(085), VA
+Henrico(087), VA
+Henry(089), VA
+Highland(091), VA
+Isle of Wight(093), VA
+James City(095), VA
+King and Queen(097), VA
+King George(099), VA
+King William(101), VA
+Lancaster(103), VA
+Lee(105), VA
+Loudoun(107), VA
+Louisa(109), VA
+Lunenburg(111), VA
+Madison(113), VA
+Mathews(115), VA
+Mecklenburg(117), VA
+Middlesex(119), VA
+
+65
+1300
+142
+622
+180
+341
+115
+953
+347
+367
+109
+185
+8066
+480
+55
+1077
+201
+277
+1632
+135
+15787
+1808
+194
+567
+949
+1651
+400
+1292
+259
+203
+257
+181
+343
+2740
+3796
+831
+18
+1390
+838
+86
+512
+303
+291
+344
+3474
+585
+204
+373
+170
+334
+222
+
+51121
+51125
+51127
+51131
+51133
+51135
+51137
+51139
+51141
+51143
+51145
+51147
+51149
+51153
+51155
+51157
+51159
+51161
+51163
+51165
+51167
+51169
+51171
+51173
+51175
+51177
+51179
+51181
+51183
+51185
+51187
+51191
+51193
+51195
+51197
+51199
+51510
+51515
+51520
+51530
+51540
+51550
+51570
+51580
+51590
+51595
+51600
+51610
+51620
+51630
+51640
+
+Montgomery(121), VA
+Nelson(125), VA
+New Kent(127), VA
+Northampton(131), VA
+Northumberland(133), VA
+Nottoway(135), VA
+Orange(137), VA
+Page(139), VA
+Patrick(141), VA
+Pittsylvania(143), VA
+Powhatan(145), VA
+Prince Edward(147), VA
+Prince George(149), VA
+Prince William(153), VA
+Pulaski(155), VA
+Rappahannock(157), VA
+Richmond(159), VA
+Roanoke(161), VA
+Rockbridge(163), VA
+Rockingham(165), VA
+Russell(167), VA
+Scott(169), VA
+Shenandoah(171), VA
+Smyth(173), VA
+Southampton(175), VA
+Spotsylvania(177), VA
+Stafford(179), VA
+Surry(181), VA
+Sussex(183), VA
+Tazewell(185), VA
+Warren(187), VA
+Washington(191), VA
+Westmoreland(193), VA
+Wise(195), VA
+Wythe(197), VA
+York(199), VA
+ALEXANDRIA CITY(510), VA
+BEDFORD CITY(515), VA
+BRISTOL(520), VA
+BUENA VISTA CITY(530), VA
+CHARLOTTESVILLE CITY(540), VA
+CHESAPEAKE CITY(550), VA
+COLONIAL HEIGHTS CITY(570), VA
+COVINGTON CITY(580), VA
+DANVILLE CITY(590), VA
+EMPORIA CITY(595), VA
+FAIRFAX CITY(600), VA
+FALLS CHURCH CITY(610), VA
+FRANKLIN CITY(620), VA
+FREDERICKSBURG CITY(630), VA
+GALAX CITY(640), VA
+
+729
+256
+330
+137
+181
+209
+768
+971
+313
+1043
+869
+218
+851
+6994
+571
+274
+113
+1878
+417
+1739
+360
+278
+717
+652
+331
+3352
+3853
+90
+117
+913
+596
+816
+228
+684
+453
+1199
+630
+113
+351
+166
+175
+8678
+475
+254
+600
+47
+121
+91
+127
+203
+55
+
+HAMPTON CITY(650), VA
+HARRISONBURG CITY(660), VA
+HOPEWELL CITY(670), VA
+LEXINGTON CITY(678), VA
+LYNCHBURG CITY(680), VA
+MANASSAS CITY(683), VA
+MANASSAS PARK CITY(685), VA
+MARTINSVILLE CITY(690), VA
+NEWPORT NEWS CITY(700), VA
+NORFOLK CITY(710), VA
+NORTON CITY(720), VA
+PETERSBURG CITY(730), VA
+POQUOSON CITY(735), VA
+PORTSMOUTH CITY(740), VA
+RADFORD(750), VA
+RICHMOND CITY(760), VA
+ROANOKE CITY(770), VA
+SALEM(775), VA
+STAUNTON CITY(790), VA
+SUFFOLK CITY(800), VA
+VIRGINIA BEACH CITY(810), VA
+WAYNESBORO CITY(820), VA
+WILLIAMSBURG CITY(830), VA
+WINCHESTER CITY(840), VA
+Vermont
+Breakdown by County
+Addison(001), VT
+50001
+Bennington(003), VT
+50003
+Caledonia(005), VT
+50005
+Chittenden(007), VT
+50007
+Essex(009), VT
+50009
+Franklin(011), VT
+50011
+Grand Isle(013), VT
+50013
+Lamoille(015), VT
+50015
+Orange(017), VT
+50017
+Orleans(019), VT
+50019
+Rutland(021), VT
+50021
+Washington(023), VT
+50023
+Windham(025), VT
+50025
+Windsor(027), VT
+50027
+Washington
+Breakdown by County
+Adams(001), WA
+53001
+Asotin(003), WA
+53003
+Benton(005), WA
+53005
+Chelan(007), WA
+53007
+Clallam(009), WA
+53009
+Clark(011), WA
+53011
+Columbia(013), WA
+53013
+Cowlitz(015), WA
+53015
+Douglas(017), WA
+53017
+51650
+51660
+51670
+51678
+51680
+51683
+51685
+51690
+51700
+51710
+51720
+51730
+51735
+51740
+51750
+51760
+51770
+51775
+51790
+51800
+51810
+51820
+51830
+51840
+
+VT
+
+WA
+
+2046
+281
+316
+52
+875
+275
+112
+145
+2363
+1918
+70
+259
+273
+1324
+107
+1240
+1102
+413
+325
+1749
+10064
+421
+66
+288
+12390
+636
+882
+540
+2610
+119
+1530
+175
+372
+543
+557
+1773
+909
+680
+1064
+73926
+130
+300
+3338
+842
+524
+5591
+64
+1551
+602
+
+Ferry(019), WA
+Franklin(021), WA
+Garfield(023), WA
+Grant(025), WA
+Grays Harbor(027), WA
+Island(029), WA
+Jefferson(031), WA
+King(033), WA
+Kitsap(035), WA
+Kittitas(037), WA
+Klickitat(039), WA
+Lewis(041), WA
+Lincoln(043), WA
+Mason(045), WA
+Okanogan(047), WA
+Pacific(049), WA
+Pend Oreille(051), WA
+Pierce(053), WA
+San Juan(055), WA
+Skagit(057), WA
+Skamania(059), WA
+Snohomish(061), WA
+Spokane(063), WA
+Stevens(065), WA
+Thurston(067), WA
+Wahkiakum(069), WA
+Walla Walla(071), WA
+Whatcom(073), WA
+Whitman(075), WA
+Yakima(077), WA
+Wisconsin
+Breakdown by County
+Adams(001), WI
+55001
+Ashland(003), WI
+55003
+Barron(005), WI
+55005
+Bayfield(007), WI
+55007
+Brown(009), WI
+55009
+Buffalo(011), WI
+55011
+Burnett(013), WI
+55013
+Calumet(015), WI
+55015
+Chippewa(017), WI
+55017
+Clark(019), WI
+55019
+Columbia(021), WI
+55021
+Crawford(023), WI
+55023
+Dane(025), WI
+55025
+Dodge(027), WI
+55027
+Door(029), WI
+55029
+Douglas(031), WI
+55031
+Dunn(033), WI
+55033
+Eau Claire(035), WI
+55035
+Florence(037), WI
+55037
+53019
+53021
+53023
+53025
+53027
+53029
+53031
+53033
+53035
+53037
+53039
+53041
+53043
+53045
+53047
+53049
+53051
+53053
+53055
+53057
+53059
+53061
+53063
+53065
+53067
+53069
+53071
+53073
+53075
+53077
+
+WI
+
+77
+1052
+23
+806
+699
+404
+183
+13960
+4260
+519
+241
+1139
+116
+583
+370
+197
+159
+8936
+66
+1536
+136
+6480
+9728
+543
+2506
+39
+995
+1137
+152
+3942
+109220
+531
+165
+660
+156
+3614
+196
+225
+754
+958
+493
+725
+260
+3354
+1391
+394
+613
+573
+1150
+69
+
+55039
+55041
+55043
+55045
+55047
+55049
+55051
+55053
+55055
+55057
+55059
+55061
+55063
+55065
+55067
+55069
+55071
+55073
+55075
+55077
+55078
+55079
+55081
+55083
+55085
+55087
+55089
+55091
+55093
+55095
+55097
+55099
+55101
+55103
+55105
+55107
+55109
+55111
+55113
+55115
+55117
+55119
+55121
+55123
+55125
+55127
+55129
+55131
+55133
+55135
+55137
+
+Fond Du Lac(039), WI
+Forest(041), WI
+Grant(043), WI
+Green(045), WI
+Green Lake(047), WI
+Iowa(049), WI
+Iron(051), WI
+Jackson(053), WI
+Jefferson(055), WI
+Juneau(057), WI
+Kenosha(059), WI
+Kewaunee(061), WI
+La Crosse(063), WI
+Lafayette(065), WI
+Langlade(067), WI
+Lincoln(069), WI
+Manitowoc(071), WI
+Marathon(073), WI
+Marinette(075), WI
+Marquette(077), WI
+Menominee(078), WI
+Milwaukee(079), WI
+Monroe(081), WI
+Oconto(083), WI
+Oneida(085), WI
+Outagamie(087), WI
+Ozaukee(089), WI
+Pepin(091), WI
+Pierce(093), WI
+Polk(095), WI
+Portage(097), WI
+Price(099), WI
+Racine(101), WI
+Richland(103), WI
+Rock(105), WI
+Rusk(107), WI
+SAINT CROIX(109), WI
+Sauk(111), WI
+Sawyer(113), WI
+Shawano(115), WI
+Sheboygan(117), WI
+Taylor(119), WI
+Trempealeau(121), WI
+Vernon(123), WI
+Vilas(125), WI
+Walworth(127), WI
+Washburn(129), WI
+Washington(131), WI
+Waukesha(133), WI
+Waupaca(135), WI
+Waushara(137), WI
+
+1615
+99
+527
+510
+306
+252
+73
+284
+1144
+442
+2667
+417
+1309
+175
+341
+523
+1322
+1888
+1008
+383
+20
+38362
+573
+839
+427
+2603
+1290
+101
+529
+627
+942
+227
+3566
+263
+2670
+223
+1172
+663
+185
+779
+1874
+265
+391
+354
+220
+1585
+235
+2502
+8535
+982
+548
+
+Winnebago(139), WI
+Wood(141), WI
+West Virginia
+Breakdown by County
+Barbour(001), WV
+54001
+Berkeley(003), WV
+54003
+Boone(005), WV
+54005
+Braxton(007), WV
+54007
+Brooke(009), WV
+54009
+Cabell(011), WV
+54011
+Calhoun(013), WV
+54013
+Clay(015), WV
+54015
+Doddridge(017), WV
+54017
+Fayette(019), WV
+54019
+Gilmer(021), WV
+54021
+Grant(023), WV
+54023
+Greenbrier(025), WV
+54025
+Hampshire(027), WV
+54027
+Hancock(029), WV
+54029
+Hardy(031), WV
+54031
+Harrison(033), WV
+54033
+Jackson(035), WV
+54035
+Jefferson(037), WV
+54037
+Kanawha(039), WV
+54039
+Lewis(041), WV
+54041
+Lincoln(043), WV
+54043
+Logan(045), WV
+54045
+MCDOWELL(047), WV
+54047
+Marion(049), WV
+54049
+Marshall(051), WV
+54051
+Mason(053), WV
+54053
+Mercer(055), WV
+54055
+Mineral(057), WV
+54057
+Mingo(059), WV
+54059
+Monongalia(061), WV
+54061
+Monroe(063), WV
+54063
+Morgan(065), WV
+54065
+Nicholas(067), WV
+54067
+Ohio(069), WV
+54069
+Pendleton(071), WV
+54071
+Pleasants(073), WV
+54073
+Pocahontas(075), WV
+54075
+Preston(077), WV
+54077
+Putnam(079), WV
+54079
+Raleigh(081), WV
+54081
+Randolph(083),
+WV
+54083
+Ritchie(085), WV
+54085
+Roane(087), WV
+54087
+Summers(089), WV
+54089
+Taylor(091), WV
+54091
+Tucker(093), WV
+54093
+55139
+55141
+
+WV
+
+2736
+1366
+38001
+342
+2650
+612
+271
+673
+1969
+107
+138
+128
+820
+144
+244
+445
+429
+823
+255
+1438
+546
+815
+3210
+479
+499
+729
+427
+1371
+845
+594
+1008
+920
+576
+1429
+197
+461
+560
+1093
+91
+175
+108
+566
+1169
+1530
+443
+267
+374
+151
+405
+147
+
+Tyler(095), WV
+Upshur(097), WV
+Wayne(099), WV
+Webster(101), WV
+Wetzel(103), WV
+Wirt(105), WV
+Wood(107), WV
+Wyoming(109), WV
+Wyoming
+Breakdown by County
+Albany(001), WY
+56001
+Big Horn(003), WY
+56003
+Campbell(005), WY
+56005
+Carbon(007), WY
+56007
+Converse(009), WY
+56009
+Crook(011), WY
+56011
+Fremont(013), WY
+56013
+Goshen(015), WY
+56015
+Hot Springs(017), WY
+56017
+Johnson(019), WY
+56019
+Laramie(021), WY
+56021
+Lincoln(023), WY
+56023
+Natrona(025), WY
+56025
+Niobrara(027), WY
+56027
+Park(029), WY
+56029
+Platte(031), WY
+56031
+Sheridan(033), WY
+56033
+Sublette(035), WY
+56035
+Sweetwater(037), WY
+56037
+Teton(039), WY
+56039
+Uinta(041), WY
+56041
+Washakie(043), WY
+56043
+Weston(045), WY
+56045
+54095
+54097
+54099
+54101
+54103
+54105
+54107
+54109
+
+WY
+
+Total
+Total
+
+272
+571
+925
+193
+493
+114
+2335
+425
+2753
+72
+82
+242
+74
+80
+45
+198
+106
+31
+46
+464
+58
+392
+10
+164
+53
+170
+30
+162
+55
+83
+79
+57
+Grand Total
+7907725
+
+Additional Selections
+Dwelling Type
+Single Family Dwelling Unit
+2
+One Per/All Per Household or Address
+One per Address
+4
+Only records with ZIP+4
+Only Records with ZIP+4
+1
+Pool
+Presence of Pool
+Y
+
+Total
+7907725
+
+Total
+7907725
+Total
+7907725
+
+Additional Breakdowns
+Telephone Number
+0
+1
+
+No Phone Present
+Phone is Present
+
+Total
+7040808
+866917
+
+

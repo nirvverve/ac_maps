@@ -1,0 +1,4 @@
+Office,Accounts_Closest,Pct_Accounts,Avg_Customer_Distance,Avg_Employee_Commute,Recommendation_Score
+Central,21,28.8%,21.0,13.1,BEST (Recommended)
+East,30,41.1%,23.1,21.2,Good (Most accounts)
+West,22,30.1%,25.0,13.8,Good

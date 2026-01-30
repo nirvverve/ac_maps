@@ -1,0 +1,1098 @@
+Customer_Number__c,Name,ShippingCity,ZIP_Clean,Status,Proposed_Branch,Sum of xAnnualValue__c
+A-031208,Acacia Properties - 4030 E La Cadena - Maintenance - 02/ 18/2021,Tucson,85718,Active,Branch 1 - Tucson East & North (Foothills),1277.2
+A-031214,Acacia Properties - 5955 E 5th St - Maintenance - 02/ 18/2021,Tucson,85711,Active,Branch 1 - Tucson East & North (Foothills),1400.8
+A-031207,Acacia Properties - 7062 E Snyder Rd - Maintenance - 02/ 18/2021,Tucson,85750,Active,Branch 1 - Tucson East & North (Foothills),1709.8
+A-031209,Acacia Properties - 7931 E Mabel Dr - Maintenance - 02/ 18/2021,Tucson,85715,Active,Branch 1 - Tucson East & North (Foothills),1277.2
+A-046809,Acacia Properties - Maintenance - 03/ 31/2022,Tucson,85718,Active,Branch 1 - Tucson East & North (Foothills),2068.24
+A-056334,Acacia Properties - Maintenance - 06/ 19/2023,Tucson,85750,Active,Branch 1 - Tucson East & North (Foothills),2067.04
+A-066931,Acosta Residence - Maintenance - 01/ 22/2025,Oro Valley,85737,Active,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-028670,Adam Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-03,Tucson,85742,Active,Branch 2 - Tucson West & Central (Urban & Growth),1524.4
+A-031159,Adams Residence - Maintenance - 01/ 28/2021,Tucson,85750,Active,Branch 1 - Tucson East & North (Foothills),1957.0
+A-064430,Akers Residence - Maintenance - 06/ 28/2024,Casa Grande,85122,Active,,2020.0
+A-068713,"Alarcon, Jocabed - Maintenance - 07/ 08/2025",Casa Grande,85122,Active,,1980.0
+A-014112,Altman Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85730,Active,Branch 1 - Tucson East & North (Foothills),1957.0
+A-023398,American Homes 4 Rent AZ00261 - Maintenance - 10/ 27/2022,Tucson,85747,Active,,2067.04
+A-023378,American Homes 4 Rent AZ12071 - Maintenance - 10/ 27/2022,Tucson,85756,Active,,2067.04
+A-023286,American Homes 4 Rent AZ12152 - Maintenance - 10/ 27/2022,Tucson,85756,Active,,2067.04
+A-023350,American Homes 4 Rent AZ12182 - Maintenance - 10/ 27/2022,Tucson,85756,Active,,2067.04
+A-023308,American Homes 4 Rent AZ12353 - Maintenance - 10/ 27/2022,Vail,85641,Active,,2067.04
+A-023384,American Homes 4 Rent AZA0043 - Maintenance - 10/ 27/2022,Tucson,85730,Active,Branch 1 - Tucson East & North (Foothills),2067.04
+A-023386,American Homes 4 Rent AZA0111 - Maintenance - 10/ 27/2022,Vail,85706,Active,,2067.04
+A-023046,American Homes 4 Rent AZA0112 - Maintenance - 10/ 27/2022,Tucson,85746,Active,,2067.04
+A-053879,Anda Residence - Maintenance - 05/ 08/2024,Eloy,85131,Active,,1980.0
+A-013427,Armel Residence - Maintenance - 08/ 20/2021,Coolidge,85128,Active,,1882.84
+A-052203,Askew Residence - Maintenance - 09/ 19/2022,Casa Grande,85122,Active,,1881.64
+A-056900,Baldwin Residence - Maintenance - 07/ 07/2023,Casa Grande,85122,Active,,2067.04
+A-063777,Ballesteros John - Maintenance - 05/ 15/2024,Casa Grande,85122,Active,,2020.0
+A-013800,Beyer Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85739,Active,,1560.0
+A-068661,"Bornestein, Lena - Maintenance - 06/ 30/2025",Maricopa,85138,Active,,1980.0
+A-031167,Bose Residence - Maintenance - 01/ 28/2021,Tucson,85718,Active,Branch 1 - Tucson East & North (Foothills),1957.0
+A-067545,"Bowman, Vahideh - Maintenance - 03/ 31/2025",Casa Grande,85122,Active,,1980.0
+A-034589,Braiden Residence - Maintenance - 10/ 18/2021,Casa Grande,85194,Active,,2068.24
+A-068425,"Brenfkeck, Sheila - Maintenance - 06/ 19/2025",Casa Grande,85122,Active,,1980.0
+A-013331,Brooks Residence - Maintenance - 07/ 16/2024,Marana,85658,Active,,1980.0
+A-028694,Brown Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-15,Casa Grande,85122,Active,,1963.18
+A-068211,"Burchette, Robert - Maintenance - 05/ 23/2025",Tucson,85704,Active,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-014136,Butcher Residence - Maintenance - Ongoing (Winter and Summer) - 2020-01-02,Tucson,85710,Active,Branch 1 - Tucson East & North (Foothills),1957.0
+A-013449,Byrne Residence - Maintenance - Ongoing (Winter and Summer) - 2018-06-12,Arizona City,85123,Active,,1957.0
+A-013845,Carleton Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Arizona City,85123,Active,,1957.0
+A-028446,Carryer Residence - Maintenance - Ongoing (Winter and Summer) - 2019-06-11,Coolidge,85128,Active,,1833.4
+A-055369,Carter Residence - Maintenance - 04/ 17/2023,Casa Grande,85122,Active,,2080.0
+A-013787,Cavanaugh Residence - Maintenance - 05/ 02/2022,Casa Grande,85122,Active,,1792.2
+A-065062,Chris Wang - Maintenance - 08/ 23/2024,Casa Grande,85122,Active,,1980.0
+A-067604,"Clinton, Malissia - Maintenance - 04/ 03/2025",Tucson,85757,Active,,1980.0
+A-053183,Coles Residence - Maintenance - 12/ 01/2022,Coolidge,85128,Active,,1881.64
+A-050157,Collins Residence - Maintenance - 06/ 25/2022,Eloy,85131,Active,,2068.24
+A-028691,Collins Residence - Maintenance - Ongoing (Winter and Summer) - 2020-05-18,Casa Grande,85122,Active,,1771.6
+A-023055,Cook Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Active,,1963.18
+A-050533,Corcoran Residence - Maintenance - 07/ 26/2022,Tucson,85757,Active,,1881.64
+A-014055,Craig Residence - Maintenance - Ongoing (Winter and Summer) - 2017-02-06,Casa Grande,85122,Active,,1771.6
+A-034927,Crocker Residence - Maintenance - 10/ 27/2021,Arizona City,85123,Active,,1882.84
+A-049763,Cruz Residence - Maintenance - 06/ 06/2022,Casa Grande,85122,Active,,2068.24
+A-028431,Cutlip Residence - Maintenance - Ongoing (Winter and Summer) - 2019-04-18,Marana,85658,Active,,1963.18
+A-051603,Da Silva Residence - Maintenance - 05/ 24/2023,Casa Grande,85122,Active,,2067.04
+A-065194,Davies Residence - Maintenance - 09/ 06/2024,Tucson,85712,Active,Branch 2 - Tucson West & Central (Urban & Growth),2020.0
+A-068443,"Delaverne, Deane - Maintenance - 08/ 07/2025",Maricopa,85139,Active,,1980.0
+A-068261,"Deleon Guerrero, Patrick - Maintenance - 06/ 03/2025",Tucson,85739,Active,,1980.0
+A-065092,Dennis Pop - Maintenance - 09/ 13/2024,Eloy,85131,Active,,1980.0
+A-068259,"Diaz, Briana - Maintenance - 06/ 03/2025",Tucson,85730,Active,Branch 1 - Tucson East & North (Foothills),1980.0
+A-064783,Dunn Residence - Maintenance - 07/ 25/2024,Casa Grande,85122,Active,,1980.0
+A-035551,"Dunn, Greg - Maintenance - 05/ 21/2025",Arizona City,85123,Active,,1980.0
+A-013701,Dunne Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85750,Active,Branch 1 - Tucson East & North (Foothills),1957.0
+A-031430,Elfenbein Residence - Maintenance - 02/ 16/2021,Tucson,85750,Active,Branch 1 - Tucson East & North (Foothills),1957.0
+A-068735,"Erickson, Bridget - Maintenance - 07/ 09/2025",Casa Grande,85193,Active,,1980.0
+A-032009,Evans Residence - Maintenance - 04/ 18/2023,Maricopa,85138,Active,,1881.64
+A-064716,Fallini Residence - Maintenance - 07/ 17/2024,Coolidge,85128,Active,,2020.0
+A-028693,Farrow Residence - Maintenance - Ongoing (Winter and Summer) - 2020-05-21,Casa Grande,85193,Active,,1515.48
+A-033267,Fein Residence - Maintenance - 06/ 18/2021,Tucson,85718,Active,Branch 1 - Tucson East & North (Foothills),2055.88
+A-053565,Ferrer Residence - Maintenance - 01/ 09/2023,Casa Grande,85194,Active,,2067.04
+A-048278,Fountain Residence - Maintenance - 04/ 26/2022,Casa Grande,85122,Active,,1882.84
+A-013707,Fregoso Residence - Maintenance - Ongoing (Winter and Summer) - 2017-02-06,Maricopa,85139,Active,,1685.08
+A-050679,"Fregoso, Conny - Maintenance - 06/ 06/2025",Casa Grande,85122,Active,,1980.0
+A-068168,"Freiman, Sarah - Maintenance - 05/ 23/2025",Casa Grande,85122,Active,,1980.0
+A-049883,Fuller Residence - Maintenance - 06/ 08/2022,Casa Grande,85194,Active,,2068.24
+A-055372,Gara Residence - Maintenance - 04/ 18/2023,Casa Grande,85122,Active,,2067.04
+A-046403,Garcia Residence - Maintenance - 03/ 02/2022,Casa Grande,85194,Active,,1882.84
+A-065125,Garcia Residence - Maintenance - 09/ 04/2024,Tucson,85757,Active,,2020.0
+A-064939,"Gares, Jack - Maintenance - 04/ 11/2025",Casa Grande,85122,Active,,1980.0
+A-062248,Garippa Residence - Maintenance - 11/ 08/2023,Coolidge,85128,Active,,1881.64
+A-056166,Gay Residence - Maintenance - 05/ 26/2023,Casa Grande,85122,Active,,2067.04
+A-013452,Gillespie Residence - Maintenance - 08/ 20/2021,Coolidge,85128,Active,,1957.0
+A-039048,Gracco Residence - Maintenance - 03/ 02/2022,Tucson,85756,Active,,1882.84
+A-034344,Green Residence - Maintenance - 09/ 14/2021,Casa Grande,85194,Active,,1957.0
+A-065065,Gudzunas Residential - Maintenance - 09/ 04/2024,Tucson,85741,Active,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-067953,"Guthro, Debby - Maintenance - 04/ 30/2025",Tucson,85739,Active,,1980.0
+A-033479,Gutierrez - Maintenance - 06/ 09/2021,Tucson,85743,Active,Branch 2 - Tucson West & Central (Urban & Growth),1759.24
+A-067447,"Guyitele, Ghadi - Maintenance - 03/ 31/2025",Tucson,85742,Active,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-055607,Hamm Residence - Maintenance - 05/ 04/2023,Casa Grande,85122,Active,,1955.8
+A-046784,Hanson Residence - Maintenance - 04/ 13/2022,San Tan Valley,85143,Active,,1882.84
+A-050994,Hanson Residence - Maintenance - 08/ 03/2022,Coolidge,85128,Active,,1881.64
+A-028686,Harry Residence - Maintenance - Ongoing (Winter and Summer) - 2020-09-02,Tucson,85741,Active,Branch 2 - Tucson West & Central (Urban & Growth),1882.84
+A-035641,Hartsell Residence - Maintenance - 03/ 22/2022,Casa Grande,85122,Active,,1882.84
+A-062079,"Haskett, Mark - Maintenance - 05/ 12/2025",Casa Grande,85122,Active,,1980.0
+A-050513,Hege Residence - Maintenance - 07/ 14/2022,Marana,85653,Active,,1881.64
+A-066892,Hetti Mcanulty - Maintenance - 01/ 07/2025,Arizona City,85123,Active,,1980.0
+A-049657,Hill Residence - Maintenance - 06/ 01/2022,Casa Grande,85122,Active,,2068.24
+A-014161,Hoffman Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85745,Active,Branch 2 - Tucson West & Central (Urban & Growth),1648.0
+A-014181,Hopkins Residence - Maintenance - Ongoing (Winter and Summer) - 2017-07-03,Maricopa,85138,Active,,1963.18
+A-067899,"Hurtado, Araceli - Maintenance - 04/ 28/2025",Tucson,85757,Active,,1980.0
+A-056543,Hy Residence - Maintenance - 06/ 20/2023,Tucson,85746,Active,,2067.04
+A-067911,"Ishak, Reed - Maintenance - 04/ 30/2025",Casa Grande,85122,Active,,1980.0
+A-056516,Jackson Residence - Maintenance - 06/ 16/2023,Casa Grande,85122,Active,,2067.04
+A-028456,Jancauskas Residence - Maintenance - Ongoing (Winter and Summer) - 2019-08-02,Casa Grande,85122,Active,,1957.0
+A-064618,JEAN LABRECQUE - Maintenance - 07/ 10/2024,Casa Grande,85122,Active,,1980.0
+A-067211,Jenkins Residence - Maintenance - 02/ 07/2025,Casa Grande,85122,Active,,1980.0
+A-051491,Jepsen Residence - Maintenance - 05/ 25/2023,Casa Grande,85122,Active,,2067.04
+A-013363,Jiles Residence - Maintenance - Ongoing (Winter and Summer) - 2018-11-07,Casa Grande,85122,Active,,1556.68
+A-023063,Johnson Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Active,,1957.0
+A-014079,Johnson Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-12,Coolidge,85128,Active,,1882.84
+A-030625,Johnston Residence - Maintenance - 08/ 16/2021,San Tan Valley,85143,Active,,2055.88
+A-068545,"Jones, Cheryl - Maintenance - 06/ 19/2025",Casa Grande,85194,Active,,1980.0
+A-048062,Juliar Residence - Maintenance - 05/ 04/2022,San Tan Valley,85143,Active,,1499.68
+A-068398,"Kaehu, Mercy - Maintenance - 06/ 10/2025",Casa Grande,85122,Active,,1980.0
+A-014157,Kaplan Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85718,Active,Branch 1 - Tucson East & North (Foothills),2307.78
+A-057794,Karagosian Residence - Maintenance - 09/ 26/2023,Casa Grande,85122,Active,,2067.04
+A-046394,Keator Residence - Maintenance - 07/ 01/2022,Florence,85132,Active,,1881.64
+A-049705,Kerich Residence - Maintenance - 05/ 31/2022,Casa Grande,85122,Active,,2068.24
+A-053453,Kerr Residence - Maintenance - 12/ 21/2022,Tucson,85741,Active,Branch 2 - Tucson West & Central (Urban & Growth),2067.04
+A-067458,"King, Robert - Maintenance - 03/ 07/2025",Maricopa,85138,Active,,1980.0
+A-033380,Kling Residence - Maintenance - 06/ 07/2021,Casa Grande,85122,Active,,2055.88
+A-052273,Knav Residence - Maintenance - 11/ 17/2022,Casa Grande,85122,Active,,2067.04
+A-068630,"Ksionda, Michael - Maintenance - 06/ 27/2025",Tucson,85716,Active,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-064405,Lamie Residence - Maintenance - 07/ 29/2024,Vail,85641,Active,,2020.0
+A-035210,Lang Residence - Maintenance - 11/ 29/2021,Casa Grande,85122,Active,,1895.2
+A-013745,Langley Residence - Maintenance - Ongoing (Winter and Summer) - 2018-05-24,Maricopa,85138,Active,,1560.0
+A-028447,Leslie Residence - Maintenance - Ongoing (Winter and Summer) - 2019-07-02,Casa Grande,85122,Active,,1648.0
+A-046769,Letterly Residence - Maintenance - 07/ 23/2024,Arizona City,85123,Active,,1980.0
+A-028718,Lewis Residence - Maintenance - 03/ 18/2022,Maricopa,85138,Active,,1499.68
+A-051025,Linke Residence - Maintenance - 08/ 02/2022,Casa Grande,85122,Active,,1683.88
+A-054009,Lueders Residence - Maintenance - 02/ 08/2023,Oro Valley,85755,Active,Branch 2 - Tucson West & Central (Urban & Growth),2067.04
+A-068891,"Lunde, Kyle - Maintenance - 08/ 11/2025",Casa Grande,85122,Active,,1980.0
+A-013819,Manasan Residence - Maintenance - 07/ 22/2021,Maricopa,85138,Active,,1499.68
+A-028683,Mann Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-24,Casa Grande,85194,Active,,1882.84
+A-013827,"Manthey, Lawrence - Maintenance - 09/ 03/2025",San Tan Valley,85143,Active,,1980.0
+A-035643,Marci Residence - Maintenance - 12/ 23/2021,Casa Grande,85193,Active,,2068.24
+A-014170,Martinez Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-10,Florence,85132,Active,,1957.0
+A-056307,Masden Residence - Maintenance - 06/ 02/2023,Casa Grande,85122,Active,,1900.0
+A-031163,Masterson Residence - Maintenance - 01/ 28/2021,Marana,85658,Active,,1957.0
+A-012434,Mayo Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-01,Coolidge,85128,Active,,1963.18
+A-035952,Mccarley Residence - Maintenance - 02/ 11/2022,Casa Grande,85122,Active,,1882.84
+A-028671,Mccaster Residence - Maintenance - 02/ 03/2021,Maricopa,85138,Active,,1957.0
+A-056726,McCullough Residence - Maintenance - 06/ 28/2023,Eloy,85131,Active,,1881.64
+A-069289,"McEntee, David - Maintenance - 09/ 24/2025",Casa Grande,85122,Active,,1980.0
+A-069132,"McGill, Laurel - Maintenance - 09/ 03/2025",Tucson,85749,Active,Branch 1 - Tucson East & North (Foothills),2400.0
+A-031161,Mehle Residence - Maintenance - 01/ 27/2021,Tucson,85737,Active,Branch 2 - Tucson West & Central (Urban & Growth),1957.0
+A-049514,Meisenheimer Residence - Maintenance - 05/ 23/2022,Oro Valley,85755,Active,Branch 2 - Tucson West & Central (Urban & Growth),1882.84
+A-064190,Meyer Residence - Maintenance - 06/ 09/2024,Casa Grande,85122,Active,,2020.0
+A-055025,"Miera, Elaine - Maintenance - 04/ 18/2025",Casa Grande,85122,Active,,1980.0
+A-067217,Miller Residence - Maintenance - 02/ 06/2025,Casa Grande,85122,Active,,1980.0
+A-035181,Morris Residence - Maintenance - 4/27/2022,Casa Grande,85122,Active,,1882.84
+A-034909,Myers Residence - Maintenance - 02/ 10/2022,Casa Grande,85122,Active,,1882.84
+A-013702,Myers Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85750,Active,Branch 1 - Tucson East & North (Foothills),1957.0
+A-067798,"Nabi, Sara - Maintenance - 06/ 05/2025",Tucson,85715,Active,Branch 1 - Tucson East & North (Foothills),1980.0
+A-031179,Nations Residence - Maintenance - 01/ 28/2021,Tucson,85749,Active,Branch 1 - Tucson East & North (Foothills),1957.0
+A-035149,Nielsen Residence - Maintenance - 12/ 06/2021,Casa Grande,85122,Active,,1882.84
+A-028475,O'Connell Residence - Maintenance - Ongoing (Winter and Summer) - 2019-09-12,Maricopa,85139,Active,,1560.0
+A-068550,"Olivarez, Fernando - Maintenance - 06/ 23/2025",Tucson,85705,Active,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-034312,Onigkeit Residence - Maintenance - 04/ 26/2022,Casa Grande,85194,Active,,1882.84
+A-056261,Oszust Residence - Maintenance - 05/ 31/2023,Casa Grande,85122,Active,,2067.04
+A-034569,Palmer Residence - Maintenance - 10/ 12/2021,Casa Grande,85193,Active,,1957.0
+A-064532,Papier Residence - Maintenance - 07/ 16/2024,Casa Grande,85122,Active,,2020.0
+A-014106,Parris Residence - Maintenance - Ongoing (Winter and Summer) - 2017-01-02,Casa Grande,85122,Active,,1963.18
+A-068219,"Pawlikowski, Troy - Maintenance - 05/ 23/2025",Casa Grande,85122,Active,,1980.0
+A-049154,Pelletier Residence - Maintenance - 05/ 10/2022,Casa Grande,85122,Active,,1882.84
+A-068541,"Phillips, Don - Maintenance - 06/ 26/2025",Maricopa,85139,Active,,1980.0
+A-067375,"Pobrislo, Jim - Maintenance - 02/ 25/2025",Tucson,85704,Active,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-066593,RE/MAX Casa Grande Korman Residence - Maintenance - 01/ 31/2025,Casa Grande,85122,Active,,1980.0
+A-013433,Recek Residence - Maintenance - Ongoing (Winter and Summer) - 2017-07-07,Casa Grande,85122,Active,,1963.18
+A-013324,Reed Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Coolidge,85128,Active,,1996.18
+A-047899,Reinhard Residence - Maintenance - 05/ 28/2024,Casa Grande,85122,Active,,2020.0
+A-014095,Renteria Residence - Maintenance - Ongoing (Winter and Summer) - 2017-02-28,Casa Grande,85122,Active,,1963.18
+A-028721,Reves Residence - Maintenance - Ongoing (Winter and Summer) - 2020-07-23,Casa Grande,85122,Active,,1957.0
+A-047562,Richter Residence - Maintenance - 03/ 23/2022,Arizona City,85123,Active,,2068.24
+A-047207,Riggs Residence - Maintenance - 03/ 15/2022,Casa Grande,85122,Active,,2055.88
+A-023313,RightKey Property Management - Maintenance - Ongoing (Winter and Summer) - 2017-12-04,Maricopa,85138,Active,,1660.98
+A-055423,Rihm Residence - Maintenance - 04/ 26/2023,Arizona City,85123,Active,,1468.0
+A-034379,Rivas Residence - Maintenance - 08/ 27/2021,Casa Grande,85122,Active,,1957.0
+A-050898,Robinson Residence - Maintenance - 08/ 01/2022,Tucson,85750,Active,Branch 1 - Tucson East & North (Foothills),1881.64
+A-023060,Rodriguez Residence - Maintenance - 06/ 30/2021,Casa Grande,85122,Active,,1685.08
+A-014089,Rogers Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-25,Casa Grande,85122,Active,,1882.84
+A-014195,Ruiz Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-06,Casa Grande,85122,Active,,1963.18
+A-013339,Russell Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85750,Active,Branch 1 - Tucson East & North (Foothills),1957.0
+A-068937,"Saghafi, Hooman - Maintenance - 08/ 06/2025",Tucson,85730,Active,Branch 1 - Tucson East & North (Foothills),1980.0
+A-068326,"Sampson Brown, Julie - Maintenance - 06/ 13/2025",Tucson,85741,Active,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-057771,"Santiago, Rose - Maintenance - 02/ 25/2025",Maricopa,85138,Active,,1980.0
+A-014150,Sawade Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-30,Casa Grande,85122,Active,,1963.18
+A-055549,Schaffer Residence - Maintenance - 04/ 28/2023,Maricopa,85138,Active,,2067.04
+A-026148,Schmidt Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-27,Casa Grande,85122,Active,,1524.4
+A-013699,Schunk-Peru Residence - Maintenance - Ongoing (Winter and Summer) - 2019-07-09,Tucson,85741,Active,Branch 2 - Tucson West & Central (Urban & Growth),1957.0
+A-068711,"Scott, Merryam - Maintenance - 07/ 03/2025",San Tan Valley,85143,Active,,1980.0
+A-067957,"Shirk, Joshua - Maintenance - 05/ 06/2025",Arizona City,85123,Active,,1980.0
+A-067166,Shulman Residence - Maintenance - 02/ 25/2025,Tucson,85749,Active,Branch 1 - Tucson East & North (Foothills),1980.0
+A-028448,Slaughter Residence - Maintenance - 09/ 21/2022,Maricopa,85139,Active,,1498.48
+A-068714,"Sloan, Connie - Maintenance - 07/ 02/2025",Marana,85658,Active,,1980.0
+A-014085,Smith Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Eloy,85131,Active,,1957.0
+A-069114,"Smith, Deborah - Maintenance - 09/ 08/2025",Casa Grande,85122,Active,,1980.0
+A-048049,Soslowsky Residence - Maintenance - 04/ 14/2022,Casa Grande,85122,Active,,2068.24
+A-013705,Syjud Residence - Maintenance - 02/ 25/2022,Queen Creek,85143,Active,,1895.2
+A-068948,"Teague, Cheryl - Maintenance - 08/ 08/2025",Casa Grande,85122,Active,,1980.0
+A-050106,Thomas Residence - Maintenance - 06/ 21/2022,Tucson,85704,Active,Branch 2 - Tucson West & Central (Urban & Growth),2068.24
+A-068422,"Thomas, Marcellus - Maintenance - 06/ 11/2025",Casa Grande,85122,Active,,1980.0
+A-055969,Thomason Residence - Maintenance - 05/ 19/2023,Casa Grande,85122,Active,,2067.04
+A-064982,Thompson Residence - Maintenance - 08/ 15/2024,Tucson,85712,Active,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-028458,Thouvenelle Residence - Maintenance - Ongoing (Winter and Summer) - 2019-07-22,Casa Grande,85122,Active,,1957.0
+A-014087,Tierney Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Active,,1963.18
+A-028413,Tinnin Residence - Maintenance - 10/ 26/2021,Casa Grande,85122,Active,,1882.84
+A-032918,Torgerson Residence - Maintenance - 05/ 06/2021,Marana,85658,Active,,1957.0
+A-051296,Torres Residence - Maintenance - 08/ 12/2022,Casa Grande,85194,Active,,2067.04
+A-031525,TRONCOSO Residence - Maintenance - 03/ 01/2021,Casa Grande,85122,Active,,1882.84
+A-014081,True Residence - Maintenance - 01/ 03/2022,Coolidge,85128,Active,,1895.2
+A-013806,Uihlein Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85741,Active,Branch 2 - Tucson West & Central (Urban & Growth),1882.84
+A-013703,Uno Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85750,Active,Branch 1 - Tucson East & North (Foothills),2184.18
+A-067216,Vasquez Residence - Maintenance - 02/ 06/2025,Tucson,85741,Active,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-068461,"Verduzco, Rolando - Maintenance - 06/ 17/2025",Tucson,85718,Active,Branch 1 - Tucson East & North (Foothills),1980.0
+A-013414,Von Ronne Residence - Maintenance - Ongoing (Winter and Summer) - 2017-09-28,Casa Grande,85194,Active,,1963.18
+A-028434,Wallace Residence - Maintenance - 09/ 29/2021,Coolidge,85128,Active,,1957.0
+A-034419,"Wallace, Brett - Maintenance - 06/ 19/2025",Casa Grande,85122,Active,,2340.0
+A-034092,Webster Residence - Maintenance - 08/ 05/2021,Casa Grande,85122,Active,,2055.88
+A-050226,Wekell Residence - Maintenance - 06/ 27/2022,Tucson,85710,Active,Branch 1 - Tucson East & North (Foothills),2068.24
+A-056699,Welton Residence - Maintenance - 07/ 02/2023,Casa Grande,85122,Active,,2067.04
+A-027435,Wendt Residence - Maintenance - 04/ 01/2022,Casa Grande,85122,Active,,1499.68
+A-028473,Wermers Residence - Maintenance - Ongoing (Winter and Summer) - 2019-11-11,Casa Grande,85122,Active,,1963.18
+A-012389,Whipple Residence - Maintenance - Ongoing (Winter and Summer) - 2018-12-06,Casa Grande,85122,Active,,1601.2
+A-068336,"Wilcher, Danielle - Maintenance - 06/ 05/2025",Arizona City,85123,Active,,1980.0
+A-034013,Willey Residence - Maintenance - 07/ 26/2021,Maricopa,85139,Active,,1957.0
+A-014141,Williams Residence - Maintenance - Ongoing (Winter and Summer) - 2017-01-02,Maricopa,85138,Active,,1957.0
+A-068068,"Williams, Donn - Maintenance - 05/ 16/2025",Casa Grande,85122,Active,,1980.0
+A-068078,"Williams, Lynda - Maintenance - 05/ 14/2025",Casa Grande,85194,Active,,1980.0
+A-028754,Wood Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-02,Eloy,85131,Active,,1957.0
+A-014075,Woodard Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-30,Casa Grande,85122,Active,,1957.0
+A-013760,Yost Fuentes Residence - Maintenance - Ongoing (Winter and Summer) - 2018-06-19,Casa Grande,85122,Active,,1963.18
+A-066968,Yunkherr Residence - Maintenance - 01/ 17/2025,Tucson,85737,Active,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-055316,Zamenski Residence - Maintenance - 04/ 19/2023,Casa Grande,85122,Active,,2067.04
+A-051484,Zeciri Residence - Maintenance - 08/ 29/2022,Queen Creek,85143,Active,,1894.0
+A-032178,Rodriguez Residence - Maintenance - 04/ 07/2021,Casa Grande,85122,Expired,,1957.0
+A-053451,Edmiston Residence - Maintenance - 12/ 21/2022,Casa Grande,85122,Expired,,1881.64
+A-013408,Fernandes Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1720.0
+A-013739,MacKay Residence - Maintenance - Ongoing (Winter and Summer) - 2018-05-16,San Tan Valley,85143,Expired,,1480.0
+A-013820,Kumar Residence - Maintenance - Ongoing (Winter and Summer) - 2017-02-06,Maricopa,85138,Expired,,1480.0
+A-053672,Williams Residence - Maintenance - 01/ 17/2023,Casa Grande,85122,Expired,,2067.04
+A-014200,Bell Residence - Maintenance - Ongoing (Winter and Summer) - 2017-11-15,Tucson,85746,Expired,,940.0
+A-032144,Johnson Residence - Maintenance - 07/ 22/2022,Casa Grande,85122,Expired,,1881.64
+A-013715,Pifer Residence - Maintenance - Ongoing (Winter and Summer) - 2011-05-03,Queen Creek,85143,Expired,,940.0
+A-013385,Vonronie Residence - Maintenance - 03/ 17/2021,Arizona City,85123,Expired,,1720.0
+A-013813,Furois Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85716,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1600.0
+A-028755,Lopez Residence - Maintenance - 07/ 22/2021,Casa Grande,85122,Expired,,1600.0
+A-028687,Hart Residence - Maintenance - Ongoing (Winter and Summer) - 2020-05-06,Casa Grande,85194,Expired,,1524.4
+A-034278,Key Residence - Maintenance - 02/ 07/2022,Casa Grande,85122,Expired,,1895.2
+A-034234,Susedik Residence - Maintenance - 08/ 30/2021,Casa Grande,85122,Expired,,1957.0
+A-013859,Rosko Residence - Maintenance - Ongoing (Winter and Summer) - 2017-02-06,Maricopa,85138,Expired,,940.0
+A-028771,A & M Management Residence - Maintenance - Ongoing (Winter and Summer) - 2020-11-25,Coolidge,85128,Expired,,1957.0
+A-028756,Ellick Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-01,Tucson,85750,Expired,Branch 1 - Tucson East & North (Foothills),1771.6
+A-013446,Porter Residence - Maintenance - Ongoing (Winter and Summer) - 2017-11-20,Casa Grande,85122,Expired,,1957.0
+A-013409,Cadieux Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1720.0
+A-014117,Proksa Residence - Maintenance - Ongoing (Winter and Summer) - 2018-10-23,Tucson,85704,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1480.0
+A-023363,Shaw Residence - Maintenance - Ongoing (Winter and Summer) - 2019-02-22,Oro Valley,85755,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1080.04
+A-028450,Chuka Residence - Maintenance - Ongoing (Winter and Summer) - 2019-07-11,Maricopa,85138,Expired,,1720.0
+A-014081,True Residence - Maintenance - Ongoing (Winter and Summer) - 2020-03-27,Coolidge,85128,Expired,,1720.0
+A-028772,Weekly Residence - Maintenance - Ongoing (Winter and Summer) - 2020-12-01,Florence,85132,Expired,,696.28
+A-031217,Acacia Properties - 11135 N Divot Dr - Maintenance - 02/ 18/2021,Oro Valley,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1400.8
+A-023363,Shaw Residence - Maintenance - Ongoing (Winter and Summer) - 2019-02-22,Oro Valley,85755,Expired,Branch 2 - Tucson West & Central (Urban & Growth),0.0
+A-028722,Mayfield Residence - Maintenance - 02/ 03/2021,Casa Grande,85122,Expired,,1540.0
+A-035829,Gitty Goralnik - Maintenance - 01/ 17/2022,Casa Grande,85122,Expired,,1882.84
+A-050618,Hendricks residence - Maintenance - 07/ 18/2022,Tucson,85716,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2067.04
+A-028440,Mikus Residence - Maintenance - Ongoing (Winter and Summer) - 2019-05-30,Queen Creek,85143,Expired,,1400.8
+A-028748,Jimenez Residence - Maintenance - Ongoing (Winter and Summer) - 2020-09-04,Florence,85132,Expired,,1882.84
+A-067072,Parlato Residence - Maintenance - 01/ 17/2025,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1980.0
+A-013429,Carrisalez Residence - Maintenance - Ongoing (Winter and Summer) - 2019-02-06,Coolidge,85123,Expired,,1480.0
+A-053567,Huntley Residential - Maintenance - 01/ 05/2023,Tucson,85756,Expired,,1881.64
+A-028432,Cole Residence - Maintenance - Ongoing (Winter and Summer) - 2019-04-18,Queen Creek,85143,Expired,,1171.0
+A-028761,Duran Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-08,Casa Grande,85122,Expired,,1108.0
+A-028442,Verheyden Residence - Maintenance - 07/ 06/2022,San Tan Valley,85143,Expired,,1498.48
+A-034038,Baumgartner Residence - Maintenance - 07/ 26/2021,Casa Grande,85122,Expired,,1540.0
+A-031787,Mauricio Residence - Maintenance - 04/ 21/2021,Casa Grande,85122,Expired,,1540.0
+A-014098,Domagalski Residence - Maintenance - Ongoing (Winter and Summer) - 2017-01-02,Casa Grande,85122,Expired,,1957.0
+A-028434,Wallace Residence - Maintenance - 09/ 29/2021,Coolidge,85128,Expired,,2332.0
+A-064507,Mulnix Residential - Maintenance - 07/ 02/2024,Maricopa,85139,Expired,,1980.0
+A-028422,Tracas Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-02,Casa Grande,85122,Expired,,1520.08
+A-013103,Flaniken Residence - Maintenance - Ongoing (Winter and Summer) - 2017-08-30,Casa Grande,85122,Expired,,1957.0
+A-034692,Razo Residence - Maintenance - 10/ 06/2021,Oro Valley,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1708.0
+A-028676,Wilson Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-08,Florence,85132,Expired,,1520.08
+A-031162,Barnes Residence - Maintenance - 01/ 28/2021,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1240.0
+A-048926,Rose Residence - Maintenance - 05/ 02/2022,Casa Grande,85122,Expired,,1882.84
+A-034589,Braiden Residence - Maintenance - 10/ 18/2021,Casa Grande,85194,Expired,,1540.0
+A-053595,Ngabo Residence - Maintenance - 02/ 07/2023,Tucson,85715,Expired,Branch 1 - Tucson East & North (Foothills),2067.04
+A-028735,Lugo Residence - Maintenance - 03/ 26/2021,Casa Grande,85122,Expired,,1540.0
+A-046825,Carrarini Residence - Maintenance - 07/ 09/2022,Casa Grande,85194,Expired,,1683.88
+A-051066,Pratt Residence - Maintenance - 08/ 05/2022,Coolidge,85128,Expired,,2067.04
+A-064842,Hale Residence - Maintenance - 08/ 13/2024,Tucson,85730,Expired,Branch 1 - Tucson East & North (Foothills),2020.0
+A-034840,Miller Residence - Maintenance - 10/ 19/2021,Eloy,85131,Expired,,1708.0
+A-028758,Kavkewitz Residence - Maintenance - Ongoing (Winter and Summer) - 2020-12-18,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1672.72
+A-052519,Robinson Residence - Maintenance - 10/ 11/2022,Florence,85132,Expired,,2067.04
+A-031176,Weissman Residence - Maintenance - 01/ 28/2021,Tucson,85741,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1957.0
+A-034274,Zielke Residence - Maintenance - 09/ 08/2021,Queen Creek,85143,Expired,,1276.0
+A-028766,Hyden Residence - Maintenance - Ongoing (Winter and Summer) - 2020-11-19,San Tan Valley,85143,Expired,,1540.0
+A-013496,Temple Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1249.0
+A-047140,Debar Residence - Maintenance - 12/ 01/2022,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2067.04
+A-032482,Brooks Residence - Maintenance - 04/ 14/2021,Maricopa,85138,Expired,,1540.0
+A-014097,Cummings Residence - Maintenance - Ongoing (Winter and Summer) - 2017-01-11,Casa Grande,85122,Expired,,651.04
+A-013843,McCain Residence - Maintenance - Ongoing (Winter and Summer) - 2017-10-26,Maricopa,85138,Expired,,940.0
+A-028413,Tinnin Residence - Maintenance - Ongoing (Winter and Summer) - 2019-04-29,Casa Grande,85122,Expired,,940.0
+A-030991,Gonzales Residence - Maintenance - 04/ 19/2021,Casa Grande,85122,Expired,,1957.0
+A-056047,Manthey Residence - Maintenance - 05/ 22/2023,Casa Grande,85194,Expired,,1958.32
+A-034089,Taylor Residence - Maintenance - 07/ 22/2021,Maricopa,85138,Expired,,1708.0
+A-028642,Cirneala Residence - Maintenance - Ongoing (Winter and Summer) - 2019-11-13,Arizona City,85123,Expired,,1600.0
+A-047140,Debar Residence - Maintenance - 03/ 14/2022,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2068.24
+A-055755,Goodshield Residence - Maintenance - 05/ 09/2023,Casa Grande,85122,Expired,,2067.04
+A-034840,Miller Residence - Maintenance - 10/ 19/2021,Eloy,85131,Expired,,1882.84
+A-051449,Chelli Residence - Maintenance - 08/ 25/2022,Casa Grande,85122,Expired,,2067.04
+A-028642,Cirneala Residence - Maintenance - 03/ 10/2022,Arizona City,85123,Expired,,1499.68
+A-013369,Gardiner Residence - Maintenance - 04/ 07/2022,Casa Grande,85122,Expired,,1882.84
+A-013721,Hernandez Residence - Maintenance - Ongoing (Winter and Summer) - 2017-07-10,Casa Grande,85122,Expired,,1771.6
+A-035195,Latimer Residence - Maintenance - 11/ 16/2021,Casa Grande,85194,Expired,,1882.84
+A-034543,Pelayo Residence - Maintenance - 12/ 06/2021,Casa Grande,85122,Expired,,1895.2
+A-056139,Solis Residence - Maintenance - 05/ 30/2023,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2067.04
+A-028680,Spriggs Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-28,Florence,85132,Expired,,1957.0
+A-063775,Jim Lukasik - Maintenance - 05/ 06/2024,Maricopa,85138,Expired,,1980.0
+A-049028,Toomey Residence - Maintenance - 05/ 09/2022,Casa Grande,85122,Expired,,1685.08
+A-014076,Perez Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1957.0
+A-023064,Foster Residence - Maintenance - Ongoing (Winter and Summer) - 2017-01-02,Casa Grande,85122,Expired,,1026.04
+A-032517,Gardiner Residence - Maintenance - 04/ 27/2021,Casa Grande,85122,Expired,,1540.0
+A-050178,Opendoor - Maintenance - 07/ 01/2022,Casa Grande,85122,Expired,,2027.04
+A-050373,Opendoor - Maintenance - 07/ 12/2022,Casa Grande,85122,Expired,,2027.04
+A-050504,Opendoor - Maintenance - 07/ 26/2022,Casa Grande,85122,Expired,,2027.04
+A-051214,Opendoor - Maintenance - 08/ 25/2022,Casa Grande,85122,Expired,,2027.04
+A-051950,Opendoor - Maintenance - 09/ 16/2022,Casa Grande,85122,Expired,,2027.04
+A-054840,Eccles Residence - Maintenance - 03/ 20/2023,Florence,85132,Expired,,2067.04
+A-033408,Bock Residence - Maintenance - 06/ 09/2021,Casa Grande,85122,Expired,,1957.0
+A-026627,Horton  Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-24,San Tan Valley,85143,Expired,,1771.6
+A-050255,Hawes Residence - Maintenance - 06/ 29/2022,Tucson,85704,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2068.24
+A-035097,Fregoso Residence - Maintenance - 11/ 11/2021,Maricopa,85138,Expired,,1828.0
+A-035195,Latimer Residence - Maintenance - 11/ 16/2021,Casa Grande,85194,Expired,,1828.0
+A-028674,Nelson Residence - Maintenance - 05/ 05/2021,Casa Grande,85122,Expired,,1540.0
+A-032344,Pero Residence - Maintenance - 04/ 22/2021,Coolidge,85128,Expired,,1540.0
+A-032009,Evans Residence - Maintenance - 03/ 25/2021,Maricopa,85138,Expired,,1882.84
+A-052808,Mathis Residence - Maintenance - 11/ 01/2022,Coolidge,85128,Expired,,2067.04
+A-014103,Mitchell Residence - Maintenance - Ongoing (Winter and Summer) - 2017-01-02,Casa Grande,85122,Expired,,1957.0
+A-013859,Rosko Residence - Maintenance - 01/ 27/2022,Maricopa,85138,Expired,,1895.2
+A-047140,Debar Residence - Maintenance - 11/ 21/2022,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2067.04
+A-013116,Breitlow Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1509.04
+A-013836,Deniz Residence - Maintenance - Ongoing (Winter and Summer) - 2018-09-28,Tucson,85704,Expired,Branch 2 - Tucson West & Central (Urban & Growth),940.0
+A-033477,Bingham Residence - Maintenance - 06/ 10/2021,Vail,85641,Expired,,1540.0
+A-034540,Taylor Residence - Maintenance - 09/ 22/2021,Queen Creek,85143,Expired,,1708.0
+A-027449,Culp Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-09,Vail,85641,Expired,,1600.0
+A-014118,Aboud Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1957.0
+A-013377,Garcia Residence - Maintenance - Ongoing (Winter and Summer) - 2019-01-25,Casa Grande,85122,Expired,,1780.0
+A-035210,Lang Residence - Maintenance - 11/ 29/2021,Casa Grande,85122,Expired,,1828.0
+A-013365,Mataczynski Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-10,Tucson,85712,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1108.0
+A-052537,Divenere Residence - Maintenance - 10/ 06/2022,Maricopa,85138,Expired,,2067.04
+A-033847,AZ Wedgewood Jr Property Management - Maintenance - 10/ 01/2021,Casa Grande,85194,Expired,,1540.0
+A-013437,American Homes 4 Rent AZ00261 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Tucson,85747,Expired,,1339.96
+A-013437,American Homes 4 Rent AZ00441 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Vail,85641,Expired,,1339.96
+A-013437,American Homes 4 Rent AZ00774 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Marana,85653,Expired,,1339.96
+A-013437,American Homes 4 Rent AZ12071 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Tucson,85756,Expired,,1339.96
+A-013437,American Homes 4 Rent AZ12072 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Tucson,85743,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1339.96
+A-013437,American Homes 4 Rent AZ12152 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Tucson,85756,Expired,,1339.96
+A-013437,American Homes 4 Rent AZ12182 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Tucson,85756,Expired,,1339.96
+A-013437,American Homes 4 Rent AZ12229 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Tucson,85741,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1339.96
+A-013437,American Homes 4 Rent AZ12353 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Vail,85641,Expired,,1339.96
+A-013437,American Homes 4 Rent AZA0043 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Tucson,85730,Expired,Branch 1 - Tucson East & North (Foothills),1339.96
+A-013437,American Homes 4 Rent AZA0076 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Tucson,85747,Expired,,1339.96
+A-013437,American Homes 4 Rent AZA0083 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Tucson,85748,Expired,Branch 1 - Tucson East & North (Foothills),1339.96
+A-013437,American Homes 4 Rent AZA0111 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Vail,85706,Expired,,1339.96
+A-013437,American Homes 4 Rent AZA0112 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Tucson,85746,Expired,,1339.96
+A-013437,American Homes 4 Rent AZA0123 - Maintenance - Ongoing (Winter and Summer) - 2017-09-25,Sahuarita,85629,Expired,,1339.96
+A-028666,Cherryholmes Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-03,Tucson,85704,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1520.08
+A-028755,Lopez Residence - Maintenance - 07/ 22/2021,Casa Grande,85122,Expired,,1540.0
+A-014090,Mata Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-30,Casa Grande,85122,Expired,,1780.0
+A-013439,Simerson Residence - Maintenance - Ongoing (Winter and Summer) - 2018-09-06,Marana,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1405.0
+A-014140,Simone Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1780.0
+A-033849,Divenere Residence - Maintenance - 07/ 09/2021,Casa Grande,85122,Expired,,1957.0
+A-034599,Donado Residence - Maintenance - 09/ 24/2021,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2055.88
+A-047454,Schiltz Residence - Maintenance - 04/ 07/2022,Casa Grande,85122,Expired,,2068.24
+A-052202,Seipp Residence - Maintenance - 10/ 06/2022,Arizona City,85123,Expired,,2067.04
+A-034924,Shirk Residence - Maintenance - 02/ 24/2022,Arizona City,85123,Expired,,1895.2
+A-048555,Zebell Residence - Maintenance - 04/ 22/2022,Casa Grande,85122,Expired,,2068.24
+A-013115,Karp Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1392.04
+A-028727,Jacobs Residence - Maintenance - Ongoing (Winter and Summer) - 2020-07-30,Casa Grande,85122,Expired,,1963.18
+A-065030,Judith Surgenor - Maintenance - 08/ 28/2024,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-035071,Spearman Residence - Maintenance - 11/ 05/2021,Coolidge,85128,Expired,,1828.0
+A-057857,Northsight Management - Maintenance - 10/ 05/2023,Maricopa,85138,Expired,,2067.04
+A-031562,Leon Residence - Maintenance - 02/ 24/2021,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),0.0
+A-013104,Norwick Residence - Maintenance - Ongoing (Winter and Summer) - 2017-11-07,Marana,85658,Expired,,1405.0
+A-048745,Hatchett Residence - Maintenance - 04/ 25/2022,Tucson,85730,Expired,Branch 1 - Tucson East & North (Foothills),1882.84
+A-053308,Keeling Residence - Maintenance - 12/ 12/2022,Casa Grande,85122,Expired,,1881.64
+A-034864,Smith Residence - Maintenance - 10/ 23/2021,Casa Grande,85122,Expired,,1708.0
+A-014172,Hull Residence - Maintenance - Ongoing (Winter and Summer) - 2017-06-06,Casa Grande,85122,Expired,,1780.0
+A-028699,Martinez Residence - Maintenance - Ongoing (Winter and Summer) - 2020-05-27,Casa Grande,85122,Expired,,1780.0
+A-028722,Mayfield Residence - Maintenance - 03/ 24/2022,Casa Grande,85122,Expired,,2068.24
+A-034863,Guadarrama Residence - Maintenance - 12/ 02/2021,Casa Grande,85122,Expired,,1828.0
+A-028644,Nills Residence - Maintenance - Ongoing (Winter and Summer) - 2019-12-11,Casa Grande,85122,Expired,,1957.0
+A-014179,McLain Residence - Maintenance - Ongoing (Winter and Summer) - 2017-07-27,Casa Grande,85194,Expired,,1720.0
+A-035643,Marci Residence - Maintenance - 12/ 22/2021,Casa Grande,85193,Expired,,0.0
+A-035643,Marci Residence - Maintenance - 12/ 23/2021,Casa Grande,85193,Expired,,2008.0
+A-051218,Waldier Residence - Maintenance - 08/ 09/2022,Casa Grande,85122,Expired,,2067.04
+A-013821,Whitty Residence - Maintenance - Ongoing (Winter and Summer) - 2011-09-02,San Tan Valley,85143,Expired,,940.0
+A-014092,Miller Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1771.6
+A-053879,Anda Residence - Maintenance - 01/ 30/2023,Eloy,85131,Expired,,2067.04
+A-038953,Cathemer Residence - Maintenance - 02/ 09/2022,Florence,85132,Expired,,2068.24
+A-055929,Dietritch Residence - Maintenance - 05/ 18/2023,Casa Grande,85122,Expired,,1683.88
+A-031151,Fellion Residence - Maintenance - 01/ 28/2021,Tucson,85710,Expired,Branch 1 - Tucson East & North (Foothills),1957.0
+A-057661,Haga Residence - Maintenance - 10/ 10/2023,Casa Grande,85122,Expired,,2067.04
+A-032707,Holt Residence - Maintenance - 04/ 29/2021,Tucson,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2055.88
+A-028750,Lynch Residence - Maintenance - Ongoing (Winter and Summer) - 2020-09-25,Coolidge,85128,Expired,,1957.0
+A-013313,Marks Residence - Maintenance - 02/ 08/2022,San Tan Valley,85143,Expired,,1498.48
+A-028724,Morrow Residence - Maintenance - Ongoing (Winter and Summer) - 2020-07-22,Casa Grande,85122,Expired,,1957.0
+A-014176,Remax Casa Grande - Maintenance - Ongoing (Winter and Summer) - 2017-06-02,Casa Grande,85122,Expired,,1567.17
+A-013700,Schiffman Residence - Maintenance - Ongoing (Winter and Summer) - 2019-06-11,Tucson,85741,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1963.18
+A-056312,Velasquez - Maintenance - 06/ 02/2023,San Tan Valley,85143,Expired,,1900.0
+A-028435,Hill Residence - Maintenance - 04/ 07/2021,Casa Grande,85194,Expired,,1708.0
+A-013459,Pardalis Residence - Maintenance - Ongoing (Winter and Summer) - 2018-01-22,Coolidge,85128,Expired,,1642.0
+A-028448,Slaughter Residence - Maintenance - Ongoing (Winter and Summer) - 2019-07-11,Maricopa,85139,Expired,,1720.0
+A-034157,Chronister Residence - Maintenance - 08/ 02/2021,Tucson,85716,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1957.0
+A-028663,Gaeta Residence - Maintenance - Ongoing (Winter and Summer) - 2020-03-10,Coolidge,85128,Expired,,1957.0
+A-049563,Jones Residence - Maintenance - 05/ 24/2022,Tucson,85710,Expired,Branch 1 - Tucson East & North (Foothills),1882.84
+A-013313,Marks Residence - Maintenance - 02/ 08/2022,San Tan Valley,85143,Expired,,1895.2
+A-013322,Prechel Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Coolidge,85128,Expired,,2184.18
+A-013435,Shivers Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-30,Casa Grande,85122,Expired,,1400.8
+A-050958,TEST-Resi-TUC-501's - Maintenance - 07/ 29/2022,Tucson,85719,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1320.0
+A-050959,TEST-Resi-TUC-502's - Maintenance - 07/ 29/2022,Tucson,85719,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1320.0
+A-063313,Conlin Residence - Maintenance - 03/ 29/2024,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-013758,Yorgensen Residence - Maintenance - Ongoing (Winter and Summer) - 2019-06-06,Casa Grande,85122,Expired,,1957.0
+A-033064,Smiths - Residence - Maintenance - 05/ 19/2021,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1540.0
+A-035324,Northsight Management - Maintenance - 12/ 07/2021,Green Valley,85614,Expired,,2620.0
+A-013838,McHugh Residence - Maintenance - Ongoing (Winter and Summer) - 2018-09-24,Marana,85658,Expired,,1054.0
+A-031150,Wieland Residence - Maintenance - 01/ 28/2021,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1600.0
+A-028412,Cassidy Residence - Maintenance - Ongoing (Winter and Summer) - 2019-04-03,Casa Grande,85122,Expired,,1600.0
+A-027146,Hannon Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-01,Casa Grande,85122,Expired,,1360.0
+A-014054,James Residence - Maintenance - Ongoing (Winter and Summer) - 2020-03-27,San Tan Valley,85143,Expired,,1360.0
+A-014194,Rabatin Residence - Maintenance - Ongoing (Winter and Summer) - 2017-10-13,Maricopa,85138,Expired,,1108.0
+A-028705,Rodriguez Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-09,Casa Grande,85122,Expired,,1780.0
+A-013725,Shepherd Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1720.0
+A-049297,Ballesteros Residence - Maintenance - 05/ 16/2022,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1882.84
+A-034630,Koci Residence - Maintenance - 10/ 05/2021,Casa Grande,85122,Expired,,1957.0
+A-049507,Lepore Residence - Maintenance - 06/ 02/2022,Maricopa,85138,Expired,,2068.24
+A-035821,Stauffer Residence - Maintenance - 02/ 11/2022,Maricopa,85138,Expired,,2068.24
+A-053257,McClure Residence - Maintenance - 12/ 16/2022,Maricopa,85138,Expired,,1683.88
+A-013798,Pringle Residence - Maintenance - Ongoing (Winter and Summer) - 2018-12-26,Tucson,85750,Expired,Branch 1 - Tucson East & North (Foothills),1524.4
+A-064939,Gares Residence - Maintenance - 08/ 12/2024,Casa Grande,85122,Expired,,1980.0
+A-031173,Mcclure Residence - Maintenance - 01/ 28/2021,Tucson,85730,Expired,Branch 1 - Tucson East & North (Foothills),1240.0
+A-013432,Cassidy Residence - Maintenance - Ongoing (Winter and Summer) - 2019-04-03,Casa Grande,85122,Expired,,1600.0
+A-013853,Castellanos Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-30,Casa Grande,85122,Expired,,1780.0
+A-013787,Cavanaugh Residence - Maintenance - Ongoing (Winter and Summer) - 2019-04-02,Casa Grande,85122,Expired,,1780.0
+A-028403,Cooper Residence - Maintenance - Ongoing (Winter and Summer) - 2019-11-01,San Tan Valley,85143,Expired,,1780.0
+A-013101,Essig Residence - Maintenance - Ongoing (Winter and Summer) - 2017-08-21,Casa Grande,85122,Expired,,1780.0
+A-013085,Myers Residence - Maintenance - Ongoing (Winter and Summer) - 2018-02-12,Casa Grande,85122,Expired,,1780.0
+A-032976,Olivarez Residence - Maintenance - 05/ 19/2021,Casa Grande,85193,Expired,,1540.0
+A-031175,Wick Residnece - Maintenance - 01/ 27/2021,Tucson,85748,Expired,Branch 1 - Tucson East & North (Foothills),1240.0
+A-028746,Ehrman Residence - Maintenance - Ongoing (Winter and Summer) - 2020-09-24,Casa Grande,85122,Expired,,1195.0
+A-013733,Wingler Residence - Maintenance - Ongoing (Winter and Summer) - 2016-11-28,Casa Grande,85122,Expired,,1236.04
+A-028743,Cocking Residence - Maintenance - Ongoing (Winter and Summer) - 2020-09-01,Tucson,85741,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1833.4
+A-066273,"Jensen, Steve - Maintenance - 10/ 21/2024",Florence,85132,Expired,,2340.0
+A-031169,Bruce Residence - Maintenance - 01/ 27/2021,Tucson,85715,Expired,Branch 1 - Tucson East & North (Foothills),1180.0
+A-013829,Bilaver Residence - Maintenance - Ongoing (Winter and Summer) - 2017-02-06,Maricopa,85138,Expired,,1360.0
+A-028686,Harry Residence - Maintenance - Ongoing (Winter and Summer) - 2020-09-02,Tucson,85741,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1195.0
+A-028474,Johnson Residence - Maintenance - Ongoing (Winter and Summer) - 2019-09-12,Maricopa,85139,Expired,,729.04
+A-027395,Currie Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-09,Casa Grande,85194,Expired,,1195.0
+A-028741,Tejada Residence - Maintenance - Ongoing (Winter and Summer) - 2020-09-08,Casa Grande,85122,Expired,,1195.0
+A-028438,Wainscott Residence - Maintenance - Ongoing (Winter and Summer) - 2019-05-17,Coolidge,85128,Expired,,1360.0
+A-050364,Opendoor - Maintenance - 08/ 31/2022,Maricopa,85139,Expired,,2027.04
+A-051976,Opendoor - Maintenance - 09/ 15/2022,San Tan Valley,85143,Expired,,2027.04
+A-051038,Opendoor - Maintenance - 11/ 03/2022,San Tan Valley,85143,Expired,,1915.8
+A-053287,Opendoor - Maintenance - 12/ 07/2022,Florence,85132,Expired,,1824.0
+A-049165,Merritt Residence - Maintenance - 06/ 10/2022,Casa Grande,85122,Expired,,1685.08
+A-027395,Currie Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-09,Casa Grande,85194,Expired,,0.0
+A-050206,Vounas Residence - Maintenance - 07/ 19/2022,Casa Grande,85122,Expired,,1881.64
+A-031152,Kodua Residence - Maintenance - 01/ 28/2021,Tucson,85715,Expired,Branch 1 - Tucson East & North (Foothills),1600.0
+A-034692,Razo Residence - Maintenance - 10/ 06/2021,Oro Valley,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1540.0
+A-014125,Acuna Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85743,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1833.4
+A-014127,Taylor Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1860.04
+A-027268,Laurine Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-11,Casa Grande,85122,Expired,,1108.0
+A-034924,Shirk Residence - Maintenance - 10/ 27/2021,Arizona City,85123,Expired,,1276.0
+A-028676,Wilson Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-08,Florence,85132,Expired,,1108.0
+A-028764,Zhovklyy Residence - Maintenance - 02/ 16/2021,Casa Grande,85122,Expired,,1708.0
+A-013705,Syjud Residence - Maintenance - Ongoing (Winter and Summer) - 2006-12-06,Queen Creek,85143,Expired,,1360.0
+A-013830,Alcala Residence - Maintenance - Ongoing (Winter and Summer) - 2018-09-06,Marana,85653,Expired,,1483.0
+A-013430,Jones Residence - Maintenance - Ongoing (Winter and Summer) - 2018-09-05,Maricopa,85138,Expired,,1158.04
+A-028423,Tipp Residence - Maintenance - Ongoing (Winter and Summer) - 2019-07-17,Marana,85658,Expired,,651.04
+A-028462,Yubeta Residence - Maintenance - Ongoing (Winter and Summer) - 2019-08-05,Casa Grande,85122,Expired,,729.04
+A-014155,Martinez Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1957.0
+A-014116,Todd Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85704,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1957.0
+A-031152,Kodua Residence - Maintenance - 01/ 28/2021,Tucson,85715,Expired,Branch 1 - Tucson East & North (Foothills),0.0
+A-028423,Tipp Residence - Maintenance - Ongoing (Winter and Summer) - 2019-07-17,Marana,85658,Expired,,0.0
+A-031152,Kodua Residence - Maintenance - 01/ 28/2021,Tucson,85715,Expired,Branch 1 - Tucson East & North (Foothills),0.0
+A-028720,Magyar Residence - Maintenance - Ongoing (Winter and Summer) - 2020-07-27,Marana,85658,Expired,,1520.08
+A-013385,Vonronie Residence - Maintenance - Ongoing (Winter and Summer) - 2017-08-01,Arizona City,85123,Expired,,966.04
+A-034544,Friend Residence - Maintenance - 09/ 17/2021,Tucson,85704,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1540.0
+A-033156,Hearn Residence - Maintenance - 05/ 26/2021,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1540.0
+A-035057,Leone Residence - Maintenance - 11/ 02/2021,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1276.0
+A-014178,Vaughn  Residence - Maintenance - Ongoing (Winter and Summer) - 2017-06-15,Maricopa,85138,Expired,,1480.0
+A-049549,Bayomi Residence - Maintenance - 05/ 23/2022,Tucson,85719,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1882.84
+A-053811,Offerpad - Maintenance - 01/ 24/2023,Maricopa,85138,Expired,,2027.04
+A-014110,Bevan Residence - Maintenance - Ongoing (Winter and Summer) - 2017-09-15,Casa Grande,85122,Expired,,1980.0
+A-034790,Daigle Residence - Maintenance - 10/ 13/2021,Maricopa,85138,Expired,,1957.0
+A-064693,Durazo Residence - Maintenance - 07/ 17/2024,Tucson,85757,Expired,,2020.0
+A-049882,Smith Residence - Maintenance - 06/ 09/2022,Casa Grande,85122,Expired,,1882.84
+A-013418,Cook Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1963.18
+A-013319,Johnson Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1249.0
+A-012447,Burich Residence - Maintenance - Ongoing (Winter and Summer) - 2019-01-28,Arizona City,85123,Expired,,1360.0
+A-031153,Reaney Residence - Maintenance - 01/ 28/2021,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1600.0
+A-027292,Schoenfeld Residence - Maintenance - Ongoing (Winter and Summer) - 2020-03-06,Casa Grande,85122,Expired,,1480.0
+A-053810,Offerpad - Maintenance - 01/ 24/2023,Maricopa,85138,Expired,,2027.04
+A-052161,Offerpad - Maintenance - 09/ 19/2022,Casa Grande,85122,Expired,,2027.04
+A-013337,Minier Residence - Maintenance - Ongoing (Winter and Summer) - 2019-05-02,Marana,85658,Expired,,1093.0
+A-014174,Lyne Residence - Maintenance - Ongoing (Winter and Summer) - 2017-07-21,Coolidge,85128,Expired,,1524.4
+A-066595,Nede Residence - Maintenance - 11/ 20/2024,Vail,85641,Expired,,2020.0
+A-028758,Kavkewitz Residence - Maintenance - Ongoing (Winter and Summer) - 2020-12-18,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1708.0
+A-028427,Mikulic Residence - Maintenance - Ongoing (Winter and Summer) - 2019-05-01,Casa Grande,85122,Expired,,1171.0
+A-034278,Key Residence - Maintenance - 08/ 31/2021,Casa Grande,85122,Expired,,1540.0
+A-052202,Seipp Residence - Maintenance - 12/ 01/2022,Arizona City,85123,Expired,,2067.04
+A-031158,Warner Residence - Maintenance - 01/ 28/2021,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1600.0
+A-013313,Marks Residence - Maintenance - Ongoing (Winter and Summer) - 2019-10-28,San Tan Valley,85143,Expired,,1360.0
+A-028701,Baier Residence - Maintenance - 08/ 26/2021,Casa Grande,85122,Expired,,1540.0
+A-026646,Miller Residence - Maintenance - Ongoing (Winter and Summer) - 2019-12-06,Tucson,85739,Expired,,1360.0
+A-049210,Jimenez Residnece - Maintenance - 05/ 10/2022,Florence,85132,Expired,,1882.84
+A-031399,BeDillon Residence - Maintenance - 02/ 24/2021,Casa Grande,85122,Expired,,1500.0
+A-028437,Garcia Residence - Maintenance - Ongoing (Winter and Summer) - 2019-05-15,San Tan Valley,85143,Expired,,729.04
+A-031168,Gill Resience - Maintenance - 01/ 28/2021,Oro Valley,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1480.0
+A-031562,Leon Residence - Maintenance - 02/ 24/2021,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1708.0
+A-028720,Magyar Residence - Maintenance - Ongoing (Winter and Summer) - 2020-07-27,Marana,85658,Expired,,0.0
+A-034236,Maguire Residence - Maintenance - 08/ 16/2021,Casa Grande,85122,Expired,,1540.0
+A-035297,Offerpad - Maintenance - 12/ 13/2021,Maricopa,85138,Expired,,2008.0
+A-013393,Parker Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85730,Expired,Branch 1 - Tucson East & North (Foothills),1480.0
+A-053208,Offerpad - Maintenance - 12/ 02/2022,Vail,85641,Expired,,2027.04
+A-051172,Bohert Residence - Maintenance - 08/ 09/2022,Tucson,85743,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2067.04
+A-062705,Reidy Residence - Maintenance - 02/ 27/2024,Casa Grande,85122,Expired,,1800.0
+A-033902,Henry Residence - Maintenance - 07/ 12/2021,Arizona City,85123,Expired,,1708.0
+A-028401,Noriega Residence - Maintenance - Ongoing (Winter and Summer) - 2019-11-01,San Tan Valley,85143,Expired,,1228.0
+A-013381,Flores Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-24,Casa Grande,85122,Expired,,1480.0
+A-028718,Lewis Residence - Maintenance - Ongoing (Winter and Summer) - 2020-07-13,Maricopa,85138,Expired,,1360.0
+A-035328,Northsight Management - Maintenance - 12/ 03/2021,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1900.0
+A-013801,Satterly Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1600.0
+A-028665,Clark Residence - Maintenance - 05/ 13/2021,Casa Grande,85122,Expired,,2055.88
+A-023299,American Homes 4 Rent AZ00441 - Maintenance - 10/ 27/2022,Vail,85641,Expired,,2067.04
+A-052202,Seipp Residence - Maintenance - 12/ 01/2022,Arizona City,85123,Expired,,1683.88
+A-035313,Northsight Management - Maintenance - 02/ 07/2022,Casa Grande,85122,Expired,,1957.0
+A-035328,Northsight Management - Maintenance - 05/ 30/2023,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2020.84
+A-035330,Northsight Management - Maintenance - 05/ 30/2023,Tucson,85743,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2020.84
+A-035324,Northsight Management - Maintenance - 12/ 09/2021,Green Valley,85614,Expired,,2698.6
+A-028765,Rasmusson Residence - Maintenance - Ongoing (Winter and Summer) - 2020-11-17,Maricopa,85139,Expired,,1540.0
+A-028751,Hagen Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-05,Arizona City,85123,Expired,,1648.0
+A-031168,Gill Resience - Maintenance - 01/ 28/2021,Oro Valley,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),0.0
+A-053812,Offerpad - Maintenance - 01/ 24/2023,Maricopa,85138,Expired,,2027.04
+A-028477,Steensen Residence - Maintenance - Ongoing (Winter and Summer) - 2020-05-14,San Tan Valley,85143,Expired,,1360.0
+A-049741,King Residence - Maintenance - 08/ 31/2023,Casa Grande,85122,Expired,,2067.04
+A-013352,Haltenhof Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),2119.96
+A-031399,BeDillon Residence - Maintenance - 02/ 24/2021,Casa Grande,85122,Expired,,0.0
+A-013413,Gilroy Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1085.92
+A-014121,Cole Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1249.0
+A-046403,Garcia Residence - Maintenance - 02/ 17/2022,Casa Grande,85194,Expired,,1828.0
+A-039048,Gracco Residence - Maintenance - 02/ 14/2022,Tucson,85756,Expired,,1828.0
+A-035856,Offerpad - Maintenance - 01/ 14/2022,Maricopa,85139,Expired,,2008.0
+A-034924,Shirk Residence - Maintenance - 12/ 1/2022,Arizona City,85123,Expired,,1498.48
+A-030852,Forbes Residence - Maintenance - 06/ 01/2021,Tucson,85710,Expired,Branch 1 - Tucson East & North (Foothills),2055.88
+A-053435,Sanchez Residence - Maintenance - 12/ 20/2022,Sahuarita,85629,Expired,,1683.88
+A-013833,Cechini Residence - Maintenance - Ongoing (Winter and Summer) - 2018-09-28,Casa Grande,85122,Expired,,1882.84
+A-051685,Countryman Residence - Maintenance - 09/ 02/2022,Casa Grande,85122,Expired,,2067.04
+A-052213,Diaz Residence - Maintenance - 10/ 04/2022,Casa Grande,85122,Expired,,2067.04
+A-034599,Donado Residence - Maintenance - 12/ 1/2022,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1498.48
+A-062544,Ford Residence - Maintenance - 12/ 27/2023,Casa Grande,85122,Expired,,2067.04
+A-014086,Gutierrez Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-30,Arizona City,85123,Expired,,1957.0
+A-054082,Kavu Residence - Maintenance - 04/ 06/2023,Casa Grande,85122,Expired,,2067.04
+A-033862,Prater Residence - Maintenance - 08/ 16/2021,Casa Grande,85122,Expired,,2068.24
+A-062122,Robinson Residence - Maintenance - 10/ 20/2023,Florence,85132,Expired,,1860.0
+A-028716,Rubin Residence - Maintenance - 06/ 07/2024,Casa Grande,85122,Expired,,2020.0
+A-062664,Rubin Residence 2 - Maintenance - 05/ 15/2024,Casa Grande,85122,Expired,,2020.0
+A-032359,Shrader Residence - Maintenance - 04/ 09/2021,Maricopa,85138,Expired,,2055.88
+A-055610,St Clair Residence - Maintenance - 05/ 04/2023,Casa Grande,85122,Expired,,2067.04
+A-014057,Treptow Residence - Maintenance - Ongoing (Winter and Summer) - 2017-02-06,Maricopa,85138,Expired,,1105.96
+A-014060,Fandrich Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1957.0
+A-031172,Twork Residence - Maintenance - 01/ 27/2021,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1240.0
+A-028642,Cirneala Residence - Maintenance - 03/ 10/2022,Arizona City,85123,Expired,,1456.0
+A-033304,Henderson Residence - Maintenance - 06/ 08/2021,Casa Grande,85122,Expired,,1540.0
+A-049975,Wilson Residence - Maintenance - 06/ 17/2022,Casa Grande,85122,Expired,,1882.84
+A-035179,Goralnik residence - Maintenance - 11/ 11/2021,Casa Grande,85122,Expired,,1828.0
+A-035179,Goralnik residence - Maintenance - 11/ 17/2021,Casa Grande,85122,Expired,,1882.84
+A-055025,Miera Residence - Maintenance - 03/ 29/2023,Casa Grande,85122,Expired,,2067.04
+A-034253,Davis Residence - Maintenance - 08/ 16/2021,Maricopa,85139,Expired,,1833.4
+A-051019,Higdon Residence - Maintenance - 08/ 02/2022,Casa Grande,85193,Expired,,2067.04
+A-034274,Zielke Residence - Maintenance - 10/ 22/2021,Queen Creek,85143,Expired,,2055.88
+A-013429,Carrisalez Residence - Maintenance - 04/ 14/2022,Coolidge,85123,Expired,,1882.84
+A-028704,Williams Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-04,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1963.18
+A-023062,Sanchez Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1780.0
+A-034089,Taylor Residence - Maintenance - 07/ 22/2021,Maricopa,85138,Expired,,1276.0
+A-050681,Cherington Residence - Maintenance - 07/ 19/2022,Oro Valley,85755,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1881.64
+A-051923,Roles Residence - Maintenance - 09/ 07/2022,Casa Grande,85122,Expired,,2067.04
+A-028417,Schopfer Residence - Maintenance - Ongoing (Winter and Summer) - 2019-04-08,Casa Grande,85122,Expired,,1648.0
+A-055788,Alvarez Residence - Maintenance - 05/ 17/2023,Casa Grande,85122,Expired,,2067.04
+A-026663,Jacobs Residence - Maintenance - Ongoing (Winter and Summer) - 2020-01-09,Casa Grande,85122,Expired,,1171.0
+A-035053,Bruins Residence - Maintenance - 12/ 01/2021,Casa Grande,85194,Expired,,2152.0
+A-033591,Cunningham Residence - Maintenance - 06/ 18/2021,San Tan Valley,85143,Expired,,1276.0
+A-033577,Rentals America - Maintenance - 06/ 21/2021,Casa Grande,85122,Expired,,1540.0
+A-027378,Snyder Residence - Maintenance - Ongoing (Winter and Summer) - 2020-07-09,Casa Grande,85122,Expired,,1360.0
+A-053416,Ellis Residence - Maintenance - 12/ 19/2022,Coolidge,85128,Expired,,2067.04
+A-014156,Gladden Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1957.0
+A-051096,McWhirter Residence - Maintenance - 09/ 02/2022,Casa Grande,85122,Expired,,2067.04
+A-028738,Scott Residence - Maintenance - 09/ 26/2022,Casa Grande,85122,Expired,,1881.64
+A-014139,McVicker Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85741,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1957.0
+A-028769,Ton Residence - Maintenance - Ongoing (Winter and Summer) - 2020-11-18,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1957.0
+A-028672,Skubisz Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-02,Casa Grande,85122,Expired,,1195.0
+A-013809,Larson Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85735,Expired,,1600.0
+A-035258,Offerpad - Maintenance - 12/ 13/2021,Casa Grande,85122,Expired,,2008.0
+A-026158,Korzeniewski Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-21,Maricopa,85138,Expired,,1496.08
+A-031178,Turnier Residence - Maintenance - 01/ 28/2021,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1540.0
+A-031160,Prince Residence - Maintenance - 01/ 28/2021,Tucson,85750,Expired,Branch 1 - Tucson East & North (Foothills),1300.0
+A-027435,Wendt Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-22,Casa Grande,85122,Expired,,1600.0
+A-028713,Woodyard Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-18,Casa Grande,85122,Expired,,1720.0
+A-013811,Solomon Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1957.0
+A-033964,Goings Residence - Maintenance - 03/ 08/2022,Arizona City,85123,Expired,,2068.24
+A-034601,Voyce Residence - Maintenance - 10/ 13/2021,Casa Grande,85122,Expired,,1957.0
+A-028424,Glickman Residence - Maintenance - Ongoing (Winter and Summer) - 2019-04-11,Casa Grande,85122,Expired,,729.04
+A-028424,Glickman Residence - Maintenance - Ongoing (Winter and Summer) - 2019-04-11,Casa Grande,85122,Expired,,0.0
+A-013323,Forner Residence - Maintenance - Ongoing (Winter and Summer) - 2019-03-12,Coolidge,85128,Expired,,1780.0
+A-035262,Offerpad - Maintenance - 12/ 13/2021,Maricopa,85138,Expired,,2008.0
+A-053498,Alas Residence - Maintenance - 12/ 29/2022,Casa Grande,85122,Expired,,1881.64
+A-013691,Brown Residence - Maintenance - Ongoing (Winter and Summer) - 2018-04-30,Casa Grande,85122,Expired,,1360.0
+A-054433,Carras Residence - Maintenance - 03/ 08/2023,Casa Grande,85122,Expired,,2067.04
+A-028649,Wuertz Residence - Maintenance - Ongoing (Winter and Summer) - 2020-03-06,Coolidge,85128,Expired,,1195.0
+A-034589,Braiden Residence - Maintenance - 10/ 18/2021,Casa Grande,85194,Expired,,1708.0
+A-035330,Northsight Management - Maintenance - 12/ 03/2021,Tucson,85743,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1900.0
+A-035519,Northsight Management - Maintenance - 12/ 09/2021,Tucson,85710,Expired,Branch 1 - Tucson East & North (Foothills),1900.0
+A-028436,Baires Residence - Maintenance - Ongoing (Winter and Summer) - 2019-06-04,Maricopa,85138,Expired,,1360.0
+A-032978,Jelinic Residence - Maintenance - 07/ 27/2021,Oro Valley,85755,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1540.0
+A-047302,Bradford Residence - Maintenance - 09/ 07/2022,Casa Grande,85122,Expired,,1881.64
+A-052326,Byrd Residencee - Maintenance - 09/ 26/2022,Coolidge,85128,Expired,,2067.04
+A-052094,Fouch Residence - Maintenance - 09/ 16/2022,Coolidge,85128,Expired,,1498.48
+A-014166,McIntyre Residence - Maintenance - Ongoing (Winter and Summer) - 2017-01-02,Coolidge,85128,Expired,,1833.4
+A-013685,Rovner Residence - Maintenance - Ongoing (Winter and Summer) - 2018-05-10,Maricopa,85138,Expired,,1524.4
+A-050317,Simpson Residence - Maintenance - 06/ 30/2022,Eloy,85131,Expired,,2067.04
+A-032076,Woolridge Residence - Maintenance - 04/ 13/2021,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1882.84
+A-049677,Bollig Residence - Maintenance - 06/ 01/2022,Coolidge,85128,Expired,,2068.24
+A-048159,Preuss Residence - Maintenance - 04/ 15/2022,Queen Creek,85143,Expired,,1882.84
+A-064387,Valencia Residence - Maintenance - 06/ 19/2024,Maricopa,85138,Expired,,2020.0
+A-053813,Offerpad - Maintenance - 01/ 24/2023,Florence,85132,Expired,,2580.0
+A-050043,Schmid Residence - Maintenance - 06/ 16/2022,Casa Grande,85122,Expired,,1882.84
+A-047710,Steinhausen Residence - Maintenance - 03/ 29/2022,Maricopa,85138,Expired,,1882.84
+A-035259,Offerpad - Maintenance - 12/ 13/2021,Casa Grande,85122,Expired,,2008.0
+A-027134,Raymond Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-02,Casa Grande,85122,Expired,,753.04
+A-048060,Kashner Residence - Maintenance - 04/ 12/2022,Casa Grande,85122,Expired,,1828.0
+A-048049,Soslowsky Residence - Maintenance - 04/ 06/2022,Casa Grande,85122,Expired,,2008.0
+A-035565,Deimling Residence - Maintenance - 01/ 03/2022,Casa Grande,85194,Expired,,1895.2
+A-049367,Borzych Residence - Maintenance - 05/ 19/2022,Eloy,85131,Expired,,1882.84
+A-028426,Ankeny Residence - Maintenance - Ongoing (Winter and Summer) - 2019-08-26,Arizona City,85123,Expired,,1400.8
+A-013710,Hofstaedter Residence - Maintenance - Ongoing (Winter and Summer) - 2010-05-21,San Tan Valley,85143,Expired,,1524.4
+A-028470,Reed Residence - Maintenance - Ongoing (Winter and Summer) - 2020-08-26,Casa Grande,85194,Expired,,753.04
+A-054688,Bonner Residence - Maintenance - 04/ 10/2023,Casa Grande,85122,Expired,,2067.04
+A-055376,Nagel Residence - Maintenance - 04/ 19/2023,Casa Grande,85122,Expired,,2067.04
+A-031562,Leon Residence - Maintenance - 02/ 24/2021,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),0.0
+A-014057,Treptow Residence - Maintenance - Ongoing (Winter and Summer) - 2017-02-06,Maricopa,85138,Expired,,0.0
+A-055307,Ramirez Residence - Maintenance - 04/ 13/2023,San Tan Valley,85143,Expired,,1881.64
+A-030714,Padula Residence - Maintenance - 01/ 05/2021,Tucson,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1540.0
+A-014079,Johnson Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-12,Coolidge,85128,Expired,,1720.0
+A-032592,Brawner Residence - Maintenance - 04/ 22/2021,San Tan Valley,85143,Expired,,1708.0
+A-013431,Poole Residence - Maintenance - Ongoing (Winter and Summer) - 2020-02-21,Casa Grande,85122,Expired,,1496.08
+A-032630,Ramirez Residence - Maintenance - 04/ 22/2021,Casa Grande,85122,Expired,,1540.0
+A-055465,Carollo Residence - Maintenance - 04/ 24/2023,Maricopa,85138,Expired,,2143.72
+A-026159,Jacques Residence - Maintenance - 09/ 21/2022,Maricopa,85138,Expired,,1683.88
+A-048215,Johnson Residence - Maintenance - 04/ 13/2022,Oro Valley,85755,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1882.84
+A-013488,Martinson Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Oro Valley,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1957.0
+A-032009,Evans Residence - Maintenance - 03/ 25/2021,Maricopa,85138,Expired,,1586.2
+A-047899,Reinhard Residence - Maintenance - 03/ 31/2022,Casa Grande,85122,Expired,,1499.68
+A-034686,Martin Residence - Maintenance - 10/ 05/2021,Casa Grande,85122,Expired,,2055.88
+A-032638,Gumina Residence - Maintenance - 04/ 26/2021,San Tan Valley,85143,Expired,,1540.0
+A-031164,Hinger Residence - Maintenance - 01/ 28/2021,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1540.0
+A-014102,Meza Residence - Maintenance - Ongoing (Winter and Summer) - 2019-07-23,Casa Grande,85122,Expired,,1300.0
+A-048513,Bisarra Residence - Maintenance - 04/ 25/2022,Queen Creek,85143,Expired,,1586.2
+A-034236,Maguire Residence - Maintenance - 08/ 16/2021,Casa Grande,85122,Expired,,1600.0
+A-013808,Medina Residence - Maintenance - Ongoing (Winter and Summer) - 2019-11-26,Tucson,85746,Expired,,1636.0
+A-035181,Morris Residence - Maintenance - 11/ 11/2021,Casa Grande,85122,Expired,,1828.0
+A-046776,Offerpad - Maintenance - 02/ 25/2022,Casa Grande,85122,Expired,,2008.0
+A-028753,Wood Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-02,Casa Grande,85122,Expired,,1780.0
+A-013117,Dillon Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Coolidge,85128,Expired,,1963.18
+A-054575,Jones Residence - Maintenance - 03/ 10/2023,Casa Grande,85122,Expired,,1683.88
+A-028730,Patrick Residence - Maintenance - Ongoing (Winter and Summer) - 2020-08-14,Casa Grande,85122,Expired,,1648.0
+A-023043,Rivera Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Eloy,85131,Expired,,1002.04
+A-014066,Rivera Residence - Maintenance - Ongoing (Winter and Summer) - 2018-06-25,Casa Grande,85122,Expired,,1483.0
+A-013087,Rivera Residence - Maintenance - Ongoing (Winter and Summer) - 2018-07-05,Casa Grande,85194,Expired,,1405.0
+A-048379,Sherukumilli Residence - Maintenance - 04/ 14/2022,Maricopa,85138,Expired,,2008.0
+A-028639,Kissinger Residence - Maintenance - Ongoing (Winter and Summer) - 2019-10-30,Casa Grande,85122,Expired,,1524.4
+A-050321,Mathieu Residence - Maintenance - 07/ 01/2022,Tucson,85711,Expired,Branch 1 - Tucson East & North (Foothills),2067.04
+A-048926,Rose Residence - Maintenance - 05/ 02/2022,Casa Grande,85122,Expired,,1499.68
+A-028716,Rubin Residence - Maintenance - Ongoing (Winter and Summer) - 2020-07-03,Casa Grande,85122,Expired,,1957.0
+A-013796,Eskridge Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85741,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1600.0
+A-028689,Villescaz Residence - Maintenance - Ongoing (Winter and Summer) - 2020-05-18,Casa Grande,85122,Expired,,1900.0
+A-013428,Houck Residence - Maintenance - Ongoing (Winter and Summer) - 2017-11-09,Casa Grande,85122,Expired,,715.96
+A-028740,Berry Residence - Maintenance - Ongoing (Winter and Summer) - 2020-08-25,Tucson,85746,Expired,,1480.0
+A-028766,Hyden Residence - Maintenance - Ongoing (Winter and Summer) - 2020-11-19,San Tan Valley,85143,Expired,,1685.08
+A-055640,Powers Residence - Maintenance - 05/ 05/2023,Vail,85641,Expired,,2067.04
+A-067168,"Maers, Doni - Maintenance - 01/ 31/2025",Tucson,85735,Expired,,1980.0
+A-034924,Shirk Residence - Maintenance - 12/ 1/2022,Arizona City,85123,Expired,,1881.64
+A-030731,Russo Residence - Maintenance - 06/ 30/2021,Casa Grande,85122,Expired,,1708.0
+A-013860,D'Allessandro Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-21,Casa Grande,85122,Expired,,688.0
+A-028435,Hill Residence - Maintenance - Ongoing (Winter and Summer) - 2019-05-16,Casa Grande,85194,Expired,,1171.0
+A-035296,Offerpad - Maintenance - 12/ 13/2021,Casa Grande,85122,Expired,,2008.0
+A-028427,Mikulic Residence - Maintenance - Ongoing (Winter and Summer) - 2019-05-01,Casa Grande,85122,Expired,,1708.0
+A-013789,McKeever Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Casa Grande,85122,Expired,,1780.0
+A-028643,Waldheim Residence - Maintenance - Ongoing (Winter and Summer) - 2019-12-18,Casa Grande,85122,Expired,,1780.0
+A-032806,Rose - Maintenance - 04/ 30/2021,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1586.2
+A-014078,Valdez Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1833.4
+A-028445,Dietz Residence - Maintenance - Ongoing (Winter and Summer) - 2019-08-02,Casa Grande,85194,Expired,,1496.08
+A-049711,Johnson Residence - Maintenance - 06/ 07/2022,Casa Grande,85194,Expired,,2068.24
+A-014192,Ebelsheiser Residence - Maintenance - 05/ 27/2021,Casa Grande,85122,Expired,,1636.0
+A-028665,Clark Residence - Maintenance - Ongoing (Winter and Summer) - 2020-12-01,Casa Grande,85122,Expired,,1540.0
+A-013314,Salomon Residence - Maintenance - Ongoing (Winter and Summer) - 2018-06-12,Casa Grande,85194,Expired,,1158.04
+A-013445,McLaughin Residence - Maintenance - Ongoing (Winter and Summer) - 2017-11-03,Casa Grande,85122,Expired,,1882.84
+A-055593,Watson Residence - Maintenance - 05/ 03/2023,Eloy,85131,Expired,,2067.04
+A-014152,Barcellos Residence - Maintenance - Ongoing (Winter and Summer) - 2017-07-21,Maricopa,85138,Expired,,1906.0
+A-055891,Ortiz Residence - Maintenance - 05/ 16/2023,Casa Grande,85194,Expired,,2067.04
+A-047080,Bailey Residence - Maintenance - 03/ 15/2022,Arizona City,85123,Expired,,1636.0
+A-055961,fulmer Residence - Maintenance - 05/ 17/2023,Casa Grande,85122,Expired,,2143.72
+A-013328,Smith Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Florence,85132,Expired,,1882.84
+A-028646,RPM Pinnacle Tucson - Maintenance - Ongoing (Winter and Summer) - 2019-12-27,Tucson,85719,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1496.08
+A-014099,Matz Residence - Maintenance - Ongoing (Winter and Summer) - 2017-01-02,Casa Grande,85122,Expired,,1900.0
+A-055931,Gal Residence - Maintenance - 05/ 18/2023,Casa Grande,85122,Expired,,2143.72
+A-055696,Lolo-Barbierto Residence - Maintenance - 05/ 18/2023,Casa Grande,85122,Expired,,2143.72
+A-032976,Olivarez Residence - Maintenance - 05/ 11/2021,Casa Grande,85193,Expired,,1540.0
+A-046998,Gestetner Residence - Maintenance - 03/ 04/2022,Casa Grande,85122,Expired,,1828.0
+A-031827,Reyes Residence - Maintenance - 03/ 12/2021,Tucson,85743,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1900.0
+A-032411,Cornell Residence - Maintenance - 04/ 13/2021,Arizona City,85123,Expired,,1957.0
+A-047710,Steinhausen Residence - Maintenance - 03/ 28/2022,Maricopa,85138,Expired,,1828.0
+A-032390,Crouch Residence - Maintenance - 04/ 19/2021,Casa Grande,85122,Expired,,1540.0
+A-013491,Starr Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Oro Valley,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1639.0
+A-067532,"Larrivas, Nicole - Maintenance - 04/ 16/2025",Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1980.0
+A-050829,Phillip Residence - Maintenance - 08/ 02/2022,Coolidge,85128,Expired,,2067.04
+A-033155,Milbourn Residence - Maintenance - 05/ 25/2021,Tucson,85743,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1540.0
+A-013090,Peoble Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85739,Expired,,1249.0
+A-049183,Haga Residence - Maintenance - 05/ 12/2022,Casa Grande,85122,Expired,,2008.0
+A-014192,Ebelsheiser Residence - Maintenance - Ongoing (Winter and Summer) - 2017-06-21,Casa Grande,85122,Expired,,1084.0
+A-028455,Gutierrez Residence - Maintenance - Ongoing (Winter and Summer) - 2019-07-22,Vail,85641,Expired,,729.04
+A-026166,Steen Residence - Maintenance - Ongoing (Winter and Summer) - 2019-11-01,San Tan Valley,85143,Expired,,1228.0
+A-014162,Stohr Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85710,Expired,Branch 1 - Tucson East & North (Foothills),976.0
+A-049364,Gadi Residence - Maintenance - 05/ 16/2022,Oro Valley,85755,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1636.0
+A-023058,Laudonio Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85750,Expired,Branch 1 - Tucson East & North (Foothills),1600.0
+A-035814,Offerpad - Maintenance - 01/ 12/2022,Maricopa,85139,Expired,,2008.0
+A-049487,Roughton Residence - Maintenance - 05/ 20/2022,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),2008.0
+A-032086,Molina Residence - Maintenance - 05/ 25/2021,Casa Grande,85122,Expired,,1540.0
+A-014119,Spooner Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),1249.0
+A-032668,Turner Residence - Maintenance - 04/ 23/2021,Tucson,85704,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1708.0
+A-035671,Bernhardt Residence - Maintenance - 12/ 28/2021,Maricopa,85138,Expired,,2068.24
+A-047658,Moser Residence - Maintenance - 03/ 30/2022,Tucson,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1882.84
+A-023312,Southwest Mountain Realty - Maintenance - Ongoing (Winter and Summer) - 2017-05-26,Maricopa,85138,Expired,,1607.34
+A-013784,Donner Residence - Maintenance - Ongoing (Winter and Summer) - 2019-08-08,San Tan Valley,85143,Expired,,1963.18
+A-067591,"Franks, Megan - Maintenance - 04/ 07/2025",Casa Grande,85122,Expired,,1980.0
+A-055946,Long Residence - Maintenance - 05/ 19/2023,Casa Grande,85122,Expired,,2067.04
+A-049666,Moreno Residence - Maintenance - 06/ 03/2022,Casa Grande,85122,Expired,,1882.84
+A-013410,Winebarger Residence - Maintenance - Ongoing (Winter and Summer) - 2017-03-21,Casa Grande,85122,Expired,,1963.18
+A-048062,Juliar Residence - Maintenance - 04/ 13/2022,San Tan Valley,85143,Expired,,1828.0
+A-049185,Flores Residence - Maintenance - 05/ 10/2022,Queen Creek,85143,Expired,,1882.84
+A-056139,Solis Residence - Maintenance - 05/ 25/2023,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1683.88
+A-039040,Southwest Mountain Realty - Maintenance - 06/ 24/2022,Maricopa,85138,Expired,,2068.24
+A-049596,Freudenberg Residence - Maintenance - 05/ 27/2022,Casa Grande,85122,Expired,,2068.24
+A-014100,McLemore Residence - Maintenance - Ongoing (Winter and Summer) - 2017-01-02,Casa Grande,85122,Expired,,1771.6
+A-014080,Sanchez Residence - Maintenance - Ongoing (Winter and Summer) - 2019-10-25,Coolidge,85128,Expired,,1882.84
+A-067694,"Carbajal, John - Maintenance - 04/ 04/2025",Tucson,85711,Expired,Branch 1 - Tucson East & North (Foothills),1980.0
+A-049364,Gadi Residence - Maintenance - 05/ 27/2022,Oro Valley,85755,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2068.24
+A-064540,Thurman Residence - Maintenance - 07/ 10/2024,Florence,85132,Expired,,1980.0
+A-049028,Toomey Residence - Maintenance - 11/ 18/2024,Casa Grande,85122,Expired,,1980.0
+A-028428,Subia Residence - Maintenance - Ongoing (Winter and Summer) - 2019-04-05,Casa Grande,85122,Expired,,700.0
+A-013450,Kanama Residence - Maintenance - Ongoing (Winter and Summer) - 2018-01-02,Maricopa,85138,Expired,,1600.0
+A-054033,Packard Residence - Maintenance - 02/ 09/2023,Casa Grande,85122,Expired,,2067.04
+A-028706,Harris Residence - Maintenance - 03/ 29/2021,Casa Grande,85122,Expired,,1882.84
+A-013322,Campos Residence - Maintenance - 05/ 08/2023,Coolidge,85128,Expired,,2259.64
+A-053391,Dickey Residence - Maintenance - 12/ 19/2022,Casa Grande,85122,Expired,,1881.64
+A-028469,Felix Residence - Maintenance - Ongoing (Winter and Summer) - 2019-08-27,Tucson,85747,Expired,,1171.0
+A-014180,Perez Residence - Maintenance - Ongoing (Winter and Summer) - 2017-07-31,Casa Grande,85122,Expired,,664.0
+A-028404,Gilbert Residence - Maintenance - Ongoing (Winter and Summer) - 2019-11-01,Florence,85132,Expired,,1900.0
+A-013856,Seay Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85748,Expired,Branch 1 - Tucson East & North (Foothills),2020.0
+A-028672,Skubisz Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-02,Casa Grande,85122,Expired,,1900.0
+A-056276,Adkins Residence - Maintenance - 06/ 01/2023,Casa Grande,85122,Expired,,2143.72
+A-051066,Pratt Residence - Maintenance - 10/ 27/2023,Coolidge,85128,Expired,,1860.0
+A-031180,Sanders Residence - Maintenance - 01/ 28/2021,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1660.0
+A-028476,Martin Residence - Maintenance - Ongoing (Winter and Summer) - 2019-09-19,Maricopa,85138,Expired,,1171.0
+A-027346,Evans Residence - Maintenance - Ongoing (Winter and Summer) - 2020-08-31,Casa Grande,85122,Expired,,1560.0
+A-056185,Besignano Residence - Maintenance - 05/ 26/2023,Queen Creek,85143,Expired,,2143.72
+A-013331,Brooks Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Marana,85658,Expired,,1957.0
+A-054478,Camarillo Residence - Maintenance - 03/ 01/2023,Casa Grande,85122,Expired,,2067.04
+A-056176,Carreon Residence - Maintenance - 06/ 09/2023,Casa Grande,85122,Expired,,2143.72
+A-034946,Defries Residence - Maintenance - 07/ 29/2022,Casa Grande,85122,Expired,,1955.8
+A-049475,Feder Residence - Maintenance - 05/ 19/2022,Casa Grande,85122,Expired,,1882.84
+A-056399,Fewer Residence - Maintenance - 06/ 08/2023,San Tan,85143,Expired,,1900.0
+A-056878,Garcia Residence - Maintenance - 07/ 06/2023,Casa Grande,85122,Expired,,1881.64
+A-055513,Irving Residence - Maintenance - 04/ 26/2023,Casa Grande,85194,Expired,,2067.04
+A-013120,Jones Residence - Maintenance - 10/ 21/2021,Casa Grande,85122,Expired,,2055.88
+A-056318,Jury Residence - Maintenance - 06/ 03/2023,Casa Grande,85122,Expired,,2143.72
+A-050008,McKechnie Residence - Maintenance - 06/ 16/2022,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),2068.24
+A-056320,Quiroz Residence - Maintenance - 06/ 03/2023,Tucson,85735,Expired,,2143.72
+A-050606,Ross Residence - Maintenance - 07/ 14/2022,Maricopa,85138,Expired,,2067.04
+A-014083,Stoll Residence - Maintenance - Ongoing (Winter and Summer) - 2017-03-15,Coolidge,85128,Expired,,1400.8
+A-056142,Virgen Residence - Maintenance - 05/ 25/2023,Casa Grande,85122,Expired,,2143.72
+A-034621,Warren Residence - Maintenance - 09/ 29/2021,Tucson,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2055.88
+A-035071,Spearman Residence - Maintenance - 11/ 09/2021,Coolidge,85128,Expired,,1895.2
+A-049830,Skwiot Residence - Maintenance - 06/ 06/2022,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),204.0
+A-054062,Lippmann Residence - Maintenance - 02/ 21/2023,Arizona City,85123,Expired,,2067.04
+A-028466,Rowland Residence - Maintenance - Ongoing (Winter and Summer) - 2019-08-27,Arizona City,85123,Expired,,1963.18
+A-031794,Shea Residence - Maintenance - 03/ 17/2021,Casa Grande,85122,Expired,,1540.0
+A-032533,Greene Residence - Maintenance - 04/ 21/2021,Casa Grande,85122,Expired,,1540.0
+A-028427,Mikulic Residence - Maintenance - 07/ 15/2021,Casa Grande,85122,Expired,,1828.0
+A-056502,Patrick Residence - Maintenance - 06/ 15/2023,Casa Grande,85122,Expired,,1960.0
+A-031210,Acacia Properties - 5702 E 14th St - Maintenance - 02/ 18/2021,Tucson,85711,Expired,Branch 1 - Tucson East & North (Foothills),1480.0
+A-028428,Subia Residence - Maintenance - Ongoing (Winter and Summer) - 2019-04-05,Casa Grande,85122,Expired,,1900.0
+A-013726,Rodriquez Residence - Maintenance - Ongoing (Winter and Summer) - 2018-07-24,Casa Grande,85122,Expired,,1957.0
+A-034419,Browning Residence - Maintenance - 09/ 01/2021,Casa Grande,85122,Expired,,2055.88
+A-028410,Spudich Residence - Maintenance - Ongoing (Winter and Summer) - 2019-11-01,Maricopa,85139,Expired,,1963.18
+A-028770,Jenkins Residence - Maintenance - 04/ 13/2021,Casa Grande,85122,Expired,,1708.0
+A-028468,Welch Residence - Maintenance - Ongoing (Winter and Summer) - 2019-09-04,Maricopa,85138,Expired,,729.04
+A-031156,Salas Residence - Maintenance - 01/ 28/2021,Oro Valley,85755,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1900.0
+A-028742,Thompson Residence - Maintenance - Ongoing (Winter and Summer) - 2020-09-30,Casa Grande,85194,Expired,,1828.0
+A-031171,Soch Residence - Maintenance - 01/ 28/2021,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1540.0
+A-046394,Keator Residence - Maintenance - 06/ 21/2022,Florence,85132,Expired,,1882.84
+A-036008,Sollars Residence - Maintenance - 02/ 02/2022,Casa Grande,85122,Expired,,2008.0
+A-032638,Gumina Residence - Maintenance - 04/ 27/2021,San Tan Valley,85143,Expired,,1540.0
+A-049491,Offerpad - Maintenance - 05/ 25/2022,Marana,85653,Expired,,1968.0
+A-014173,Wooley Residence - Maintenance - Ongoing (Winter and Summer) - 2017-07-11,Florence,85132,Expired,,1720.0
+A-032090,Fields Residence - Maintenance - 03/ 30/2021,Casa Grande,85122,Expired,,1540.0
+A-013120,Jones Residence - Maintenance - 06/ 24/2021,Casa Grande,85122,Expired,,1708.0
+A-028736,Morris Residence - Maintenance - Ongoing (Winter and Summer) - 2020-08-20,Casa Grande,85122,Expired,,1520.08
+A-039040,Southwest Mountain Realty - Maintenance - 03/ 14/2022,Maricopa,85138,Expired,,1636.0
+A-033776,Wood Residence - Maintenance - 03/ 01/2023,Casa Grande,85122,Expired,,2067.04
+A-053742,Jennings Residence - Maintenance - 02/ 07/2023,Tucson,85743,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1881.64
+A-013391,Kilmer Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85194,Expired,,1833.4
+A-048060,Kashner Residence - Maintenance - 04/ 12/2022,Casa Grande,85122,Expired,,1882.84
+A-033370,Williams Residence - Maintenance - 06/ 07/2021,Casa Grande,85194,Expired,,1900.0
+A-027476,Reed Residence - Maintenance - Ongoing (Winter and Summer) - 2020-07-03,Casa Grande,85122,Expired,,1957.0
+A-028679,Hempleman Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-17,Casa Grande,85122,Expired,,1524.4
+A-067251,"Johnson, Jay - Maintenance - 02/ 12/2025",Casa Grande,85122,Expired,,1980.0
+A-030029,Bauer Residence - Maintenance - Ongoing (Winter and Summer) - 2020-11-03,San Tan Valley,85143,Expired,,1804.0
+A-050088,Cline Residence - Maintenance - 06/ 22/2022,Tucson,85748,Expired,Branch 1 - Tucson East & North (Foothills),2008.0
+A-050088,Cline Residence - Maintenance - 06/ 25/2022,Tucson,85748,Expired,Branch 1 - Tucson East & North (Foothills),2008.0
+A-054970,Romo Residence - Maintenance - 03/ 29/2023,Casa Grande,85122,Expired,,2067.04
+A-033856,Torres Residence - Maintenance - 07/ 12/2021,Casa Grande,85194,Expired,,1957.0
+A-056795,Wright Residence - Maintenance - 07/ 02/2023,Casa Grande,85122,Expired,,2067.04
+A-057425,MacMillan Residence - Maintenance - 08/ 15/2023,Queen Creek,85143,Expired,,2067.04
+A-028747,Geide Residence - Maintenance - Ongoing (Winter and Summer) - 2020-09-08,Maricopa,85139,Expired,,753.04
+A-032279,Hagen Residence - Maintenance - 04/ 07/2021,Casa Grande,85122,Expired,,1708.0
+A-031423,Wolff Residence - Maintenance - 02/ 23/2021,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1540.0
+A-046394,Keator Residence - Maintenance - 06/ 28/2022,Florence,85132,Expired,,2308.0
+A-049229,Offerpad - Maintenance - 06/ 02/2022,Tucson,85730,Expired,Branch 1 - Tucson East & North (Foothills),1968.0
+A-013101,Essig Residence - Maintenance - 04/ 25/2022,Casa Grande,85122,Expired,,2068.24
+A-056406,Northsight Management - Maintenance - 06/ 23/2023,Tucson,85739,Expired,,2067.04
+A-056408,Northsight Management - Maintenance - 06/ 23/2023,Tucson,85743,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2067.04
+A-031182,Tseng Residence - Maintenance - 02/ 09/2021,Tucson,85750,Expired,Branch 1 - Tucson East & North (Foothills),1180.0
+A-028768,Porter Residence - Maintenance - Ongoing (Winter and Summer) - 2020-11-19,Casa Grande,85122,Expired,,1882.84
+A-013792,Apadoca Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Casa Grande,85194,Expired,,1080.04
+A-028746,Ehrman Residence - Maintenance - Ongoing (Winter and Summer) - 2020-09-24,Casa Grande,85122,Expired,,1540.0
+A-013707,Fregoso Residence - Maintenance - Ongoing (Winter and Summer) - 2017-02-06,Maricopa,85139,Expired,,690.04
+A-028673,Garcia Residence - Maintenance - Ongoing (Winter and Summer) - 2020-03-31,Tucson,85741,Expired,Branch 2 - Tucson West & Central (Urban & Growth),729.04
+A-028733,Hernandez Residence - Maintenance - Ongoing (Winter and Summer) - 2020-08-18,Casa Grande,85122,Expired,,753.04
+A-028770,Jenkins Residence - Maintenance - 04/ 13/2021,Casa Grande,85122,Expired,,1540.0
+A-027268,Laurine Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-11,Casa Grande,85122,Expired,,753.04
+A-013365,Mataczynski Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-10,Tucson,85712,Expired,Branch 2 - Tucson West & Central (Urban & Growth),715.96
+A-013808,Medina Residence - Maintenance - Ongoing (Winter and Summer) - 2019-11-26,Tucson,85746,Expired,,664.0
+A-014194,Rabatin Residence - Maintenance - Ongoing (Winter and Summer) - 2017-10-13,Maricopa,85138,Expired,,715.96
+A-023060,Rodriguez Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-05,Casa Grande,85122,Expired,,739.96
+A-030731,Russo Residence - Maintenance - 01/ 12/2021,Casa Grande,85122,Expired,,1540.0
+A-013812,Westbrooks Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85710,Expired,Branch 1 - Tucson East & North (Foothills),1197.04
+A-028690,Buchan Residence - Maintenance - Ongoing (Winter and Summer) - 2020-05-27,Casa Grande,85122,Expired,,1906.0
+A-047556,Finnigan Residence - Maintenance - 03/ 24/2022,Casa Grande,85194,Expired,,2188.0
+A-049165,Merritt Residence - Maintenance - 05/ 09/2022,Casa Grande,85122,Expired,,2008.0
+A-034372,Reynold Residence - Maintenance - 08/ 27/2021,Casa Grande,85122,Expired,,1900.0
+A-013345,Ruiz Residence - Maintenance - Ongoing (Winter and Summer) - 2019-09-24,Tucson,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1360.0
+A-031653,Holmes Residence - Maintenance - 04/ 13/2021,Vail,85641,Expired,,2055.88
+A-035329,Northsight Management - Maintenance - 05/ 30/2023,Tucson,85710,Expired,Branch 1 - Tucson East & North (Foothills),2020.84
+A-056407,Northsight Management - Maintenance - 06/ 23/2023,Tucson,85747,Expired,,2067.04
+A-028745,Johnson Residence - Maintenance - 04/ 26/2023,Casa Grande,85122,Expired,,2067.04
+A-067356,"Marinakis, Venice - Maintenance - 02/ 25/2025",Casa Grande,85122,Expired,,1980.0
+A-013346,Tilly Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-26,Tucson,85755,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1963.18
+A-023391,American Homes 4 Rent AZ00774 - Maintenance - 10/ 27/2022,Marana,85653,Expired,,2067.04
+A-013411,Herman Residence - Maintenance - Ongoing (Winter and Summer) - 2017-04-28,Casa Grande,85122,Expired,,1963.18
+A-056081,Gonzales Residence - Maintenance - 05/ 22/2023,Casa Grande,85122,Expired,,2067.04
+A-013412,Parker Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85194,Expired,,1720.0
+A-013105,King Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),2307.78
+A-033380,Kling Residence - Maintenance - 06/ 04/2021,Casa Grande,85122,Expired,,1540.0
+A-051999,Kunz Residence - Maintenance - 09/ 07/2022,Maricopa,85138,Expired,,1881.64
+A-056184,Mainello Residence - Maintenance - 06/ 07/2023,Tucson,85730,Expired,Branch 1 - Tucson East & North (Foothills),2143.72
+A-028444,Brown Residence - Maintenance - Ongoing (Winter and Summer) - 2019-06-24,Maricopa,85138,Expired,,729.04
+A-049149,Offerpad - Maintenance - 05/ 06/2022,Tucson,85757,Expired,,1968.0
+A-035260,Offerpad - Maintenance - 12/ 13/2021,Maricopa,85138,Expired,,2008.0
+A-013849,Cole Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Arizona City,85123,Expired,,786.04
+A-034259,Hart Residence - Maintenance - 08/ 17/2021,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1957.0
+A-028770,Jenkins Residence - Maintenance - 06/ 30/2021,Casa Grande,85122,Expired,,2055.88
+A-013723,McWherter Residence - Maintenance - Ongoing (Winter and Summer) - 2017-06-15,Casa Grande,85122,Expired,,1906.0
+A-068284,"Owen, Lluvia - Maintenance - 06/ 05/2025",Tucson,85746,Expired,,1980.0
+A-052103,Fear Residence - Maintenance - 09/ 14/2022,Tucson,85739,Expired,,2067.04
+A-047030,Offerpad - Maintenance - 03/ 07/2022,Maricopa,85138,Expired,,2068.24
+A-049390,Offerpad - Maintenance - 05/ 26/2022,Maricopa,85138,Expired,,2027.04
+A-049533,Offerpad - Maintenance - 05/ 31/2022,Maricopa,85138,Expired,,2027.04
+A-031999,Wolff Residence - Maintenance - 03/ 23/2021,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1540.0
+A-013717,Cave Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1771.6
+A-051335,Jurado Residence - Maintenance - 08/ 18/2022,Casa Grande,85122,Expired,,2067.04
+A-023061,Norris Management - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1086.04
+A-013423,Norris Management - Maintenance - Ongoing (Winter and Summer) - 2020-06-05,Casa Grande,85122,Expired,,1300.96
+A-013452,Gillespie Residence - Maintenance - Ongoing (Winter and Summer) - 2017-11-29,Coolidge,85128,Expired,,1483.0
+A-028451,Hayes Residence - Maintenance - Ongoing (Winter and Summer) - 2019-06-26,Casa Grande,85122,Expired,,1957.0
+A-048128,Offerpad - Maintenance - 04/ 20/2022,Maricopa,85138,Expired,,2027.04
+A-028427,Mikulic Residence - Maintenance - Ongoing (Winter and Summer) - 2019-05-01,Casa Grande,85122,Expired,,1276.0
+A-014145,Remax Casa Grande - Maintenance - Ongoing (Winter and Summer) - 2017-01-19,Casa Grande,85122,Expired,,1500.3
+A-049450,Juarez Residence - Maintenance - 05/ 24/2022,Casa Grande,85194,Expired,,1685.08
+A-030714,Padula Residence - Maintenance - 01/ 05/2021,Tucson,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1708.0
+A-053416,Ellis Residence - Maintenance - 12/ 19/2022,Coolidge,85128,Expired,,1683.88
+A-032150,Thornbloom Residence - Maintenance - 05/ 12/2021,Casa Grande,85122,Expired,,1540.0
+A-038728,Hill Residence - Maintenance - 02/ 25/2022,Casa Grande,85122,Expired,,2068.24
+A-049309,Offerpad - Maintenance - 05/ 17/2022,Tucson,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2027.04
+A-052232,Allen Residence - Maintenance - 09/ 20/2022,Tucson,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),4094.08
+A-028755,Lopez Residence - Maintenance - Ongoing (Winter and Summer) - 2020-11-25,Casa Grande,85122,Expired,,1108.0
+A-013819,Manasan Residence - Maintenance - Ongoing (Winter and Summer) - 2020-05-28,Maricopa,85138,Expired,,688.0
+A-032238,Hillery Residence - Maintenance - 04/ 05/2021,Casa Grande,85122,Expired,,1108.0
+A-032238,Hillery Residence - Maintenance - 08/ 31/2022,Casa Grande,85122,Expired,,1955.8
+A-046769,Letterly Residence - Maintenance - 09/ 16/2022,Arizona City,85123,Expired,,1683.88
+A-028416,Hardesty Residence - Maintenance - Ongoing (Winter and Summer) - 2019-04-02,Casa Grande,85122,Expired,,1400.8
+A-050167,Offerpad - Maintenance - 07/ 11/2022,Casa Grande,85122,Expired,,1968.0
+A-013483,Raposa Residence - Maintenance - Ongoing (Winter and Summer) - 2018-05-15,San Tan Valley,85143,Expired,,1648.0
+A-031422,Wolff Residence - Maintenance - 03/ 01/2021,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1540.0
+A-028402,Lee Residence - Maintenance - Ongoing (Winter and Summer) - 2019-11-01,San Tan Valley,85143,Expired,,1957.0
+A-030849,Pease Residence - Maintenance - 04/ 13/2021,Maricopa,85138,Expired,,1498.48
+A-055306,Guadalupe Residence - Maintenance - 04/ 18/2023,Casa Grande,85122,Expired,,2067.04
+A-028399,Myers Residence - Maintenance - Ongoing (Winter and Summer) - 2017-01-02,Casa Grande,85122,Expired,,1963.18
+A-034013,Willey Residence - Maintenance - 07/ 26/2021,Maricopa,85139,Expired,,1540.0
+A-049609,Viri Resendence - Maintenance - 05/ 31/2022,Tucson,85746,Expired,,2068.24
+A-031215,Acacia Properties - 3429 S Bowie Pl - Maintenance - 02/ 18/2021,Tucson,85730,Expired,Branch 1 - Tucson East & North (Foothills),1277.2
+A-013348,Assenmacher Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85715,Expired,Branch 1 - Tucson East & North (Foothills),1963.18
+A-049831,Stephens Residence - Maintenance - 06/ 14/2023,Tucson,85710,Expired,Branch 1 - Tucson East & North (Foothills),2067.04
+A-031870,Dunavant Residence - Maintenance - 03/ 17/2021,Oro Valley,85704,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1708.0
+A-028744,Martinez Residence - Maintenance - Ongoing (Winter and Summer) - 2020-09-08,Casa Grande,85122,Expired,,1520.08
+A-031155,Vandenburgh Residence - Maintenance - 01/ 28/2021,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1540.0
+A-028454,Jones Residence - Maintenance - Ongoing (Winter and Summer) - 2019-10-30,Casa Grande,85122,Expired,,1400.8
+A-050312,Garcia Residence - Maintenance - 07/ 09/2022,Casa Grande,85122,Expired,,1683.88
+A-028733,Hernandez Residence - Maintenance - Ongoing (Winter and Summer) - 2020-08-18,Casa Grande,85122,Expired,,1108.0
+A-028449,Holisinger Residence - Maintenance - Ongoing (Winter and Summer) - 2019-07-11,Maricopa,85138,Expired,,1000.0
+A-034946,Defries Residence - Maintenance - 06/ 01/2022,Casa Grande,85122,Expired,,1685.08
+A-048533,Harse Residence - Maintenance - 04/ 19/2022,Casa Grande,85122,Expired,,2068.24
+A-049772,Kronberg Residence - Maintenance - 06/ 02/2022,Casa Grande,85122,Expired,,2068.24
+A-031181,Travis Residence - Maintenance - 02/ 09/2021,Tucson,85750,Expired,Branch 1 - Tucson East & North (Foothills),1957.0
+A-063733,"Harrison, Marvin - Maintenance - 05/ 28/2024",Maricopa,85138,Expired,,2020.0
+A-031216,Acacia Properties - 3901 N Calle Entrada - Maintenance - 02/ 18/2021,Tucson,85749,Expired,Branch 1 - Tucson East & North (Foothills),1153.6
+A-030732,Stone Residence - Maintenance - Ongoing (Winter and Summer) - 2020-12-08,Casa Grande,85122,Expired,,1957.0
+A-031218,Acacia Properties - Maintenance - 02/ 18/2021,Tucson,85716,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1240.0
+A-049831,Stephens Residence - Maintenance - 06/ 06/2022,Tucson,85710,Expired,Branch 1 - Tucson East & North (Foothills),2068.24
+A-035759,Fimbres Residence - Maintenance - 01/ 19/2022,Oro Valley,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1882.84
+A-049832,Perry Residence - Maintenance - 06/ 06/2022,Oro Valley,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2068.24
+A-068312,"Greenlee, Wendy - Maintenance - 06/ 06/2025",Casa Grande,85122,Expired,,1980.0
+A-034959,Hovanec Residence - Maintenance - 10/ 28/2021,Casa Grande,85122,Expired,,2068.24
+A-013792,Apadoca Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Casa Grande,85194,Expired,,1108.0
+A-027298,Edwards Residence - Maintenance - Ongoing (Winter and Summer) - 2020-03-10,Maricopa,85138,Expired,,1117.0
+A-013442,Rosique Residence - Maintenance - Ongoing (Winter and Summer) - 2017-10-19,Casa Grande,85122,Expired,,1366.0
+A-028442,Verheyden Residence - Maintenance - Ongoing (Winter and Summer) - 2019-05-20,San Tan Valley,85143,Expired,,1400.8
+A-014184,Sette Residence - Maintenance - Ongoing (Winter and Summer) - 2018-05-02,Coolidge,85128,Expired,,1648.0
+A-014171,Weyenberg Residence - Maintenance - Ongoing (Winter and Summer) - 2017-07-21,Maricopa,85138,Expired,,664.0
+A-013791,England Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Casa Grande,85193,Expired,,2209.89
+A-048062,Juliar Residence - Maintenance - 05/ 04/2022,San Tan Valley,85143,Expired,,1882.84
+A-048910,Hege Residence - Maintenance - 05/ 19/2022,Tucson,85748,Expired,Branch 1 - Tucson East & North (Foothills),2068.24
+A-032736,Citcher Residence - Maintenance - 04/ 29/2021,Tucson,85746,Expired,,1957.0
+A-056627,Partain Residence - Maintenance - 06/ 23/2023,Casa Grande,85122,Expired,,2067.04
+A-049909,Young Residence - Maintenance - 06/ 09/2022,Vail,85641,Expired,,1882.84
+A-068438,"Sobol, Robert - Maintenance - 06/ 19/2025",Tucson,85710,Expired,Branch 1 - Tucson East & North (Foothills),1980.0
+A-023045,Rodriguez Residence - Maintenance - Ongoing (Winter and Summer) - 2020-05-29,Casa Grande,85122,Expired,,1520.08
+A-013716,Hawk Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1026.04
+A-032969,Winklepleck - Residence - Maintenance - 05/ 11/2021,Casa Grande,85122,Expired,,1540.0
+A-013357,Goodin Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85741,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1524.4
+A-028708,Norris Management - Maintenance - 06/ 27/2023,Casa Grande,85122,Expired,,2067.04
+A-050931,Adamson Residence - Maintenance - 08/ 03/2022,Casa Grande,85122,Expired,,2067.04
+A-028453,Mitchell Residence - Maintenance - Ongoing (Winter and Summer) - 2019-08-06,Maricopa,85138,Expired,,1400.8
+A-031692,Lierley Residence - Maintenance - 03/ 05/2021,Casa Grande,85122,Expired,,1957.0
+A-049980,Miller Residence - Maintenance - 06/ 29/2022,Casa Grande,85122,Expired,,1882.84
+A-028700,Bos Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-02,Coolidge,85128,Expired,,1520.08
+A-013770,Hamlin Residence - Maintenance - Ongoing (Winter and Summer) - 2018-07-09,Maricopa,85138,Expired,,1018.0
+A-030625,Johnston Residence - Maintenance - Ongoing (Winter and Summer) - 2020-02-11,San Tan Valley,85143,Expired,,1171.0
+A-033862,Prater Residence - Maintenance - 07/ 26/2021,Casa Grande,85122,Expired,,1540.0
+A-049200,Greene Residential - Maintenance - 05/ 12/2022,Tucson,85747,Expired,,1882.84
+A-034259,Hart Residence - Maintenance - 08/ 17/2021,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1540.0
+A-064315,Johnson Residence - Maintenance - 06/ 19/2024,Casa Grande,85122,Expired,,2020.0
+A-031594,Ballschmidt Residence - Maintenance - 03/ 12/2021,Maricopa,85138,Expired,,1708.0
+A-013788,Hayes Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Casa Grande,85122,Expired,,1522.0
+A-028738,Scott Residence - Maintenance - Ongoing (Winter and Summer) - 2020-08-28,Casa Grande,85122,Expired,,1442.08
+A-013427,Armel Residence - Maintenance - Ongoing (Winter and Summer) - 2017-06-06,Coolidge,85128,Expired,,1210.0
+A-028461,Watros Residence - Maintenance - Ongoing (Winter and Summer) - 2019-08-05,Maricopa,85138,Expired,,1018.0
+A-047080,Bailey Residence - Maintenance - 05/ 18/2022,Arizona City,85123,Expired,,1499.68
+A-014104,Moore Residence - Maintenance - Ongoing (Winter and Summer) - 2017-01-02,Casa Grande,85122,Expired,,1957.0
+A-049822,Toma Residence - Maintenance - 06/ 06/2022,Casa Grande,85122,Expired,,2068.24
+A-033847,AZ Wedgewood Jr Property Management - Maintenance - 08/ 19/2021,Casa Grande,85194,Expired,,1540.0
+A-028701,Baier Residence - Maintenance - 08/ 02/2021,Casa Grande,85122,Expired,,1540.0
+A-013389,Atienzo Residence - Maintenance - Ongoing (Winter and Summer) - 2019-12-23,Arizona City,85123,Expired,,1957.0
+A-034624,Vogel Residence - Maintenance - 06/ 15/2022,Casa Grande,85122,Expired,,1882.84
+A-013075,Realty Executives - Maintenance - Ongoing (Winter and Summer) - 2017-02-06,Casa Grande,85122,Expired,,1210.0
+A-050361,Shobert Residence - Maintenance - 07/ 01/2022,Casa Grande,85122,Expired,,1881.64
+A-032668,Turner Residence - Maintenance - 04/ 23/2021,Tucson,85704,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1672.72
+A-032630,Ramirez Residence - Maintenance - 05/ 19/2023,Casa Grande,85122,Expired,,2067.04
+A-030977,Easter Residence - Maintenance - 01/ 18/2021,Maricopa,85138,Expired,,1108.0
+A-032771,Lipke Residence - Maintenance - 04/ 29/2021,Arizona City,85123,Expired,,1540.0
+A-013777,Pietrykowski Residence - Maintenance - Ongoing (Winter and Summer) - 2018-07-24,San Tan Valley,85143,Expired,,1158.04
+A-027134,Raymond Residence - Maintenance - 04/ 13/2021,Casa Grande,85122,Expired,,1540.0
+A-031205,Acacia Properties - 7401 E Calle Agerrida - Maintenance - 02/ 18/2021,Tucson,85750,Expired,Branch 1 - Tucson East & North (Foothills),1240.0
+A-023066,Martinez Residence - Maintenance - Ongoing (Winter and Summer) - 2017-01-09,Casa Grande,85122,Expired,,1158.04
+A-028707,Perkins Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-11,Tucson,85750,Expired,Branch 1 - Tucson East & North (Foothills),1018.0
+A-033202,Elmer - Residence - Maintenance - 05/ 27/2021,Tucson,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2055.88
+A-032238,Hillery Residence - Maintenance - 08/ 08/2022,Casa Grande,85122,Expired,,1683.88
+A-028745,Johnson Residence - Maintenance - Ongoing (Winter and Summer) - 2020-09-11,Casa Grande,85122,Expired,,1957.0
+A-033957,Kirk Residence - Maintenance - 07/ 30/2021,Casa Grande,85122,Expired,,1957.0
+A-032086,Molina Residence - Maintenance - 05/ 25/2021,Casa Grande,85122,Expired,,1685.08
+A-047899,Reinhard Residence - Maintenance - 04/ 18/2023,Casa Grande,85122,Expired,,1881.64
+A-068869,"Soto, Madeline - Maintenance - 07/ 31/2025",Casa Grande,85122,Expired,,1980.0
+A-034324,Ames Residence - Maintenance - 08/ 31/2021,Tucson,85739,Expired,,1276.0
+A-013473,Forish Residence - Maintenance - Ongoing (Winter and Summer) - 2018-04-19,Casa Grande,85122,Expired,,1018.0
+A-028641,Weaver Residence - Maintenance - Ongoing (Winter and Summer) - 2019-12-27,Casa Grande,85122,Expired,,1171.0
+A-032482,Brooks Residence - Maintenance - 05/ 03/2022,Maricopa,85138,Expired,,2027.04
+A-013487,Camacho Residence - Maintenance - Ongoing (Winter and Summer) - 2018-09-05,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1524.4
+A-013738,Conway Residence - Maintenance - 04/ 26/2022,Casa Grande,85122,Expired,,2068.24
+A-031095,Holcombe Residence - Maintenance - 04/ 21/2021,Marana,85653,Expired,,1957.0
+A-049874,Jewell Residence - Maintenance - 06/ 07/2022,Oro Valley,85737,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1882.84
+A-030849,Pease Residence - Maintenance - 04/ 13/2021,Maricopa,85138,Expired,,2055.88
+A-056501,Sauceda Residence - Maintenance - 06/ 15/2023,Tucson,85710,Expired,Branch 1 - Tucson East & North (Foothills),2067.04
+A-023053,Southwest Mountain Realty - Maintenance - Ongoing (Winter and Summer) - 2011-10-10,Queen Creek,85143,Expired,,1158.04
+A-068523,"Brown, Kimberly - Maintenance - 06/ 19/2025",Casa Grande,85122,Expired,,1980.0
+A-013434,Thiel Residence - Maintenance - Ongoing (Winter and Summer) - 2020-05-29,Casa Grande,85122,Expired,,1195.0
+A-034092,Webster Residence - Maintenance - 07/ 26/2021,Casa Grande,85122,Expired,,0.0
+A-064889,Carpenter Residence - Maintenance - 08/ 07/2024,Tucson,85750,Expired,Branch 1 - Tucson East & North (Foothills),1980.0
+A-050931,Adamson Residence - Maintenance - 08/ 02/2022,Casa Grande,85122,Expired,,1955.8
+A-051066,Pratt Residence - Maintenance - 08/ 05/2022,Coolidge,85128,Expired,,1881.64
+A-068648,"Yu, Jason - Maintenance - 06/ 26/2025",Casa Grande,85122,Expired,,1980.0
+A-050766,Cannaday Residence - Maintenance - 07/ 22/2022,Casa Grande,85122,Expired,,2067.04
+A-028673,Garcia Residence - Maintenance - Ongoing (Winter and Summer) - 2020-03-31,Tucson,85741,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1108.0
+A-051224,Herdrich Residence - Maintenance - 08/ 09/2022,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2067.04
+A-013683,Tice Residence - Maintenance - Ongoing (Winter and Summer) - 2020-01-23,Casa Grande,85122,Expired,,1018.0
+A-047979,Rock Residence - Maintenance - 04/ 18/2022,Tucson,85704,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1882.84
+A-013682,Evans Residence - Maintenance - Ongoing (Winter and Summer) - 2018-04-09,Tucson,85747,Expired,,1882.84
+A-035481,Fowler Residence - Maintenance - 04/ 04/2022,Tucson,85715,Expired,Branch 1 - Tucson East & North (Foothills),2068.24
+A-028443,Bentley Residence - Maintenance - Ongoing (Winter and Summer) - 2019-05-23,San Tan Valley,85143,Expired,,1963.18
+A-013394,Lakser Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85747,Expired,,1002.04
+A-068280,"Hall, Marilyn - Maintenance - 06/ 06/2025",Casa Grande,85122,Expired,,1980.0
+A-057104,Angeletti Residence - Maintenance - 07/ 17/2023,Casa Grande,85122,Expired,,2067.04
+A-046749,Shore Residence - Maintenance - 03/ 10/2022,Casa Grande,85122,Expired,,1895.2
+A-034344,Green Residence - Maintenance - 08/ 24/2021,Casa Grande,85194,Expired,,1540.0
+A-033080,Madow Residence - Maintenance - 05/ 19/2021,Tucson,85739,Expired,,1540.0
+A-046769,Letterly Residence - Maintenance - 02/ 24/2022,Arizona City,85123,Expired,,2068.24
+A-028454,Jones Residence - Maintenance - 07/ 28/2022,Casa Grande,85122,Expired,,1683.88
+A-052094,Fouch Residence - Maintenance - 09/ 16/2022,Coolidge,85128,Expired,,1881.64
+A-064028,Cerna Residence - Maintenance - 05/ 28/2024,Maricopa,85138,Expired,,2020.0
+A-051218,Waldier Residence - Maintenance - 08/ 09/2022,Casa Grande,85122,Expired,,1683.88
+A-063271,"Higgin, Nick - Maintenance - 05/ 07/2025",Casa Grande,85194,Expired,,1980.0
+A-034068,Quinn Residence - Maintenance - 07/ 27/2021,Tucson,85739,Expired,,1957.0
+A-014074,Hanson Residence - Maintenance - Ongoing (Winter and Summer) - 2019-05-01,Tucson,85739,Expired,,1018.0
+A-050816,Opendoor - Maintenance - 08/ 26/2022,Casa Grande,85122,Expired,,2027.04
+A-013729,Ramirez Residence - Maintenance - Ongoing (Winter and Summer) - 2020-04-08,Casa Grande,85122,Expired,,1236.04
+A-032630,Ramirez Residence - Maintenance - 05/ 21/2021,Casa Grande,85122,Expired,,2055.88
+A-064925,Milliken Residence - Maintenance - 08/ 07/2024,Tucson,85713,Expired,,1980.0
+A-064900,Milliken Residence - Maintenance - 08/ 09/2024,Tucson,85713,Expired,,2020.0
+A-013828,Olson Residence - Maintenance - Ongoing (Winter and Summer) - 2014-09-29,San Tan Valley,85143,Expired,,1963.18
+A-028448,Slaughter Residence - Maintenance - 12/ 30/2021,Maricopa,85139,Expired,,1895.2
+A-014135,Mcgreevy Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85705,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1509.04
+A-013462,Lopez Residence - Maintenance - Ongoing (Winter and Summer) - 2019-08-16,Casa Grande,85122,Expired,,1496.08
+A-031969,Miller Residence - Maintenance - 03/ 30/2021,Tucson,85750,Expired,Branch 1 - Tucson East & North (Foothills),1108.0
+A-049653,Dunlap Residence - Maintenance - 05/ 27/2022,San Tan Valley,85143,Expired,,1586.2
+A-026159,Jacques Residence - Maintenance - 04/ 08/2021,Maricopa,85138,Expired,,1957.0
+A-049295,Taylor Residence - Maintenance - 06/ 30/2022,Maricopa,85138,Expired,,1683.88
+A-054217,Integrity Plus Property Management - Maintenance - 02/ 21/2023,Arizona City,85123,Expired,,2067.04
+A-068054,"Luther, David - Maintenance - 05/ 07/2025",Casa Grande,85122,Expired,,1980.0
+A-028757,Alam Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-23,Casa Grande,85122,Expired,,1108.0
+A-013383,Carrozzi Residence - Maintenance - Ongoing (Winter and Summer) - 2018-09-04,Casa Grande,85122,Expired,,1483.0
+A-014154,Harman Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-21,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),2307.78
+A-014067,Slonsky Residence - Maintenance - Ongoing (Winter and Summer) - 2020-10-30,Casa Grande,85122,Expired,,1771.6
+A-033977,Abrams Residence - Maintenance - 07/ 22/2021,Tucson,85748,Expired,Branch 1 - Tucson East & North (Foothills),1540.0
+A-013738,Conway Residence - Maintenance - 05/ 25/2021,Casa Grande,85122,Expired,,1540.0
+A-028434,Wallace Residence - Maintenance - Ongoing (Winter and Summer) - 2019-05-02,Coolidge,85128,Expired,,1496.08
+A-025798,St Clare Residence - Maintenance - Ongoing (Winter and Summer) - 2020-02-28,Coolidge,85128,Expired,,1957.0
+A-013792,Apadoca Residence - Maintenance - 07/ 06/2021,Casa Grande,85194,Expired,,1957.0
+A-053542,Bass Residence - Maintenance - 01/ 12/2023,Casa Grande,85122,Expired,,1683.88
+A-028717,Brown Residence - Maintenance - Ongoing (Winter and Summer) - 2020-07-14,Casa Grande,85122,Expired,,1771.6
+A-013369,Gardiner Residence - Maintenance - 05/ 05/2023,Casa Grande,85122,Expired,,1881.64
+A-050255,Hawes Residence - Maintenance - 04/ 19/2023,Tucson,85704,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2067.04
+A-028709,Kelly Residence - Maintenance - Ongoing (Winter and Summer) - 2020-06-08,Casa Grande,85122,Expired,,1648.0
+A-013380,Kermode Residence - Maintenance - Ongoing (Winter and Summer) - 2018-08-22,Casa Grande,85122,Expired,,1963.18
+A-050392,Kestner Residence - Maintenance - 07/ 06/2022,Tucson,85742,Expired,Branch 2 - Tucson West & Central (Urban & Growth),1881.64
+A-052236,Krautkremer Residence - Maintenance - 09/ 21/2022,Casa Grande,85122,Expired,,2067.04
+A-014093,Peck Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Casa Grande,85122,Expired,,1957.0
+A-057414,Pennington Residence - Maintenance - 08/ 17/2023,Casa Grande,85122,Expired,,2143.72
+A-031429,Pyne Residence - Maintenance - 02/ 17/2021,Casa Grande,85194,Expired,,1932.28
+A-053731,Subia Residence - Maintenance - 03/ 29/2023,Arizona City,85123,Expired,,2067.04
+A-049461,Terlep Residence - Maintenance - 06/ 21/2023,Tucson,85745,Expired,Branch 2 - Tucson West & Central (Urban & Growth),2067.04
+A-054330,Wedgewood Homes - Maintenance - 03/ 14/2023,Casa Grande,85122,Expired,,2067.04
+A-028735,Lugo Residence - Maintenance - 03/ 12/2021,Casa Grande,85122,Expired,,1540.0
+A-013746,Rhodes Residence - Maintenance - Ongoing (Winter and Summer) - 2019-03-11,Casa Grande,85122,Expired,,1483.0
+A-034274,Zielke Residence - Maintenance - 09/ 03/2021,Queen Creek,85143,Expired,,1276.0
+A-013827,Manthey Residence - Maintenance - Ongoing (Winter and Summer) - 2013-02-20,San Tan Valley,85143,Expired,,1515.48
+A-031927,Dodson Residence - Maintenance - 06/ 25/2021,Casa Grande,85122,Expired,,1540.0
+A-013121,Behrens Residence - Maintenance - Ongoing (Winter and Summer) - 2017-09-21,Casa Grande,85194,Expired,,1400.8
+A-014094,Kramer Residence - Maintenance - Ongoing (Winter and Summer) - 2017-03-14,Arizona City,85123,Expired,,1771.6
+A-054530,Ebert Residence - Maintenance - 03/ 10/2023,Casa Grande,85194,Expired,,2067.04
+A-063271,Nick Higgin - Maintenance - 05/ 16/2024,Casa Grande,85194,Expired,,1980.0
+A-051292,Nix Residence - Maintenance - 08/ 14/2022,Casa Grande,85122,Expired,,2067.04
+A-052374,Davis Residence - Maintenance - 09/ 27/2022,Casa Grande,85122,Active,,2067.04
+A-062060,Duruz Residence - Maintenance - 10/ 19/2023,Eloy,85131,Active,,1881.64
+A-068236,Love. Deb - Maintenance - 05/ 30/2025,Casa Grande,85122,Active,,1980.0
+A-068636,"Reynolds, Alexis - Maintenance - 06/ 26/2025",Casa Grande,85122,Active,,1980.0
+A-050828,Opendoor - Maintenance - 07/ 27/2022,Maricopa,85138,Expired,,2027.04
+A-014082,McDonald Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Eloy,85131,Expired,,1957.0
+A-013846,Hunter Residence - Maintenance - Ongoing (Winter and Summer) - 2016-10-01,Arizona City,85131,Expired,,977.92
+A-050621,Quilter Residence - Maintenance - 07/ 18/2022,Tucson,85718,Expired,Branch 1 - Tucson East & North (Foothills),2067.04
+A-033151,Smith Residence - Maintenance - 05/ 25/2021,Casa Grande,85122,Expired,,1108.0
+A-031449,Neal Residence - Maintenance - 02/ 24/2021,Florence,85132,Expired,,1708.0
+A-031449,Neal Residence - Maintenance - 03/ 09/2021,Florence,85132,Expired,,1708.0

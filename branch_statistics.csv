@@ -1,0 +1,12 @@
+Branch_ID,Branch_Name,Market_Potential,Current_Accounts,Terminated_Accounts,Total_Historical_Accounts,Retention_Rate_%,Lost_Revenue_Annual,Market_Penetration_%
+1,North Scottsdale,22970,131,742,873,15.01,1191083.47,0.57
+2,Central Scottsdale / PV,17675,77,519,596,12.92,850497.3200000001,0.44
+3,North Phoenix I-17,18769,89,536,625,14.24,826470.8699999999,0.47
+4,Central PHX / South,28591,174,1106,1280,13.59,1746352.9100000001,0.61
+5,Peoria / Surprise North,18582,84,700,784,10.71,1065078.52,0.45
+6,Glendale / West PHX,21114,128,794,922,13.88,1209292.23,0.61
+7,Southwest Valley / Laveen,18485,112,773,885,12.66,1169632.17,0.61
+8,Tempe / Chandler West,23191,165,798,963,17.13,1243575.63,0.71
+9,Chandler / Gilbert South,24181,127,547,674,18.84,840334.64,0.53
+10,Mesa Central / Gilbert East,25488,116,553,669,17.34,837040.29,0.46
+11,Mesa East / Pinal Outliers,17589,72,340,412,17.48,526541.9,0.41

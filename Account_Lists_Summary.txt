@@ -1,0 +1,94 @@
+================================================================================
+CONSOLIDATED ACCOUNT LISTS - SUMMARY REPORT
+================================================================================
+
+FILES CREATED:
+  1. Active_Accounts_by_Branch.xlsx
+  2. Terminated_Accounts_by_Branch.xlsx
+
+================================================================================
+ACTIVE ACCOUNTS FILE - STRUCTURE
+================================================================================
+
+Tabs (in order):
+  1. APS - Commercial          74 accounts
+  2. APS of Glendale         493 accounts (West territory)
+  3. APS of Scottsdale       445 accounts (Central territory)
+  4. APS of Chandler         678 accounts (East territory)
+  5. APS of Tucson            74 accounts (Tucson territory)
+  6. Unassigned               10 accounts (problematic zip codes)
+
+TOTAL ACTIVE ACCOUNTS: 1,774
+
+================================================================================
+TERMINATED ACCOUNTS FILE - STRUCTURE
+================================================================================
+
+Tabs (in order):
+  1. APS of Glendale       3,359 accounts (West territory)
+  2. APS of Scottsdale     2,547 accounts (Central territory)
+  3. APS of Chandler       3,226 accounts (East territory)
+  4. APS of Tucson           226 accounts (Tucson territory)
+  5. Unassigned               63 accounts (problematic zip codes)
+
+TOTAL TERMINATED ACCOUNTS: 9,421
+
+================================================================================
+TERRITORY ASSIGNMENTS
+================================================================================
+
+Accounts were assigned to branches based on the current zip code territory
+assignments as reflected in the live map application and recent data files.
+
+Total zip codes in territory database: 156
+
+Zip codes per territory:
+  West      :  43 zip codes
+  Central   :  44 zip codes
+  East      :  43 zip codes
+  Tucson    :  26 zip codes
+
+================================================================================
+UNASSIGNED ACCOUNTS
+================================================================================
+
+ACTIVE UNASSIGNED (10 accounts):
+  These accounts have zip codes that are either:
+    • Outside the Phoenix/Tucson service areas (85218, 85377)
+    • Malformed or invalid in the source data
+
+TERMINATED UNASSIGNED (63 accounts):
+  These accounts have zip codes outside the defined territories,
+  including some out-of-state zip codes (e.g., 98032 - Washington state)
+
+ACTION REQUIRED:
+  Review the 'Unassigned' tabs in both files and manually assign these
+  accounts to the appropriate branches, or confirm they should remain
+  unassigned if they're outside the service area.
+
+================================================================================
+DATA SOURCES
+================================================================================
+
+• Active Residential: Active Residential Phoenix Area Accounts.csv
+• Active Commercial:  Active Commercial in PHX.xlsx
+• Terminated:         Terminated Contract Data for Phoenix Area Final.xlsx
+• Territory Map:      phoenix-tucson-map-data.json (from map application)
+
+================================================================================
+FORMATTING
+================================================================================
+
+Active Accounts:
+  • Header row: Blue background (#366092), white text
+  • Unassigned tab: Red background (#FF6B6B)
+  • All columns auto-sized for readability
+
+Terminated Accounts:
+  • Header row: Dark red background (#C00000), white text
+  • Unassigned tab: Red background (#FF6B6B)
+  • All columns auto-sized for readability
+
+================================================================================
+END OF REPORT
+================================================================================

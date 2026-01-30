@@ -1,0 +1,114 @@
+[
+  {
+    "zip": "75001",
+    "accountCount": 1,
+    "latitude": 32.9542158,
+    "longitude": -96.8530243,
+    "city": "Addison",
+    "territory": "TX - Comm Maint"
+  },
+  {
+    "zip": "75013",
+    "accountCount": 1,
+    "latitude": 33.1071125,
+    "longitude": -96.6845297,
+    "city": "Allen",
+    "territory": "TX - Comm Maint"
+  },
+  {
+    "zip": "75038",
+    "accountCount": 1,
+    "latitude": 32.8841819,
+    "longitude": -96.9564295,
+    "city": "Irving",
+    "territory": "TX - Comm Maint"
+  },
+  {
+    "zip": "75050",
+    "accountCount": 2,
+    "latitude": 32.7635002,
+    "longitude": -97.0621829,
+    "city": "Grand Prairie",
+    "territory": "TX - Comm Maint"
+  },
+  {
+    "zip": "75056",
+    "accountCount": 1,
+    "latitude": 33.0725696,
+    "longitude": -96.8788306,
+    "city": "The Colony",
+    "territory": "TX - Comm Maint"
+  },
+  {
+    "zip": "75067",
+    "accountCount": 1,
+    "latitude": 33.007023,
+    "longitude": -96.99316879999999,
+    "city": "Lewisville",
+    "territory": "TX - Comm Maint"
+  },
+  {
+    "zip": "75104",
+    "accountCount": 2,
+    "latitude": 32.5691429,
+    "longitude": -96.96617049999999,
+    "city": "Cedar Hill",
+    "territory": "TX - Comm Maint"
+  },
+  {
+    "zip": "75137",
+    "accountCount": 1,
+    "latitude": 32.6374297,
+    "longitude": -96.908881,
+    "city": "Duncanville",
+    "territory": "TX - Comm Maint"
+  },
+  {
+    "zip": "75220",
+    "accountCount": 1,
+    "latitude": 32.860982,
+    "longitude": -96.90045549999999,
+    "city": "Dallas",
+    "territory": "TX - Comm Maint"
+  },
+  {
+    "zip": "75229",
+    "accountCount": 1,
+    "latitude": 32.8935567,
+    "longitude": -96.9059047,
+    "city": "Dallas",
+    "territory": "TX - Comm Maint"
+  },
+  {
+    "zip": "75243",
+    "accountCount": 1,
+    "latitude": 32.9095762,
+    "longitude": -96.7300379,
+    "city": "Dallas",
+    "territory": "TX - Comm Maint"
+  },
+  {
+    "zip": "75247",
+    "accountCount": 1,
+    "latitude": 32.82479259999999,
+    "longitude": -96.86961289999999,
+    "city": "Dallas",
+    "territory": "TX - Comm Maint"
+  },
+  {
+    "zip": "76063",
+    "accountCount": 1,
+    "latitude": 32.5696735,
+    "longitude": -97.11973839999999,
+    "city": "Mansfield",
+    "territory": "TX - Comm Maint"
+  },
+  {
+    "zip": "76137",
+    "accountCount": 1,
+    "latitude": 32.8385771,
+    "longitude": -97.2953004,
+    "city": "Fort Worth",
+    "territory": "TX - Comm Maint"
+  }
+]

@@ -1,0 +1,196 @@
+{
+  "_comment": "Single source of truth for branch/territory definitions. Both Python pipeline and TypeScript config read from this file. See CCPLAN Sections 6-7.",
+  "locations": {
+    "arizona": {
+      "label": "Phoenix / Tucson, AZ",
+      "shortLabel": "Arizona",
+      "territories": [
+        {
+          "key": "west",
+          "label": "APS of Glendale",
+          "area": "West",
+          "color": "#3B82F6",
+          "strokeColor": "#2563EB",
+          "description": "Western Phoenix metropolitan area",
+          "office": {
+            "zipCode": "85308",
+            "fullName": "Amenity Pool Services of Glendale",
+            "lat": 33.6604116,
+            "lng": -112.1834256,
+            "category": "NEXT YEAR",
+            "openingYear": 2026
+          }
+        },
+        {
+          "key": "central",
+          "label": "APS of Scottsdale",
+          "area": "Central",
+          "color": "#10B981",
+          "strokeColor": "#059669",
+          "description": "Central Phoenix metropolitan core",
+          "office": {
+            "zipCode": "85254",
+            "fullName": "Amenity Pool Services of Scottsdale",
+            "lat": 33.615485,
+            "lng": -111.9522349,
+            "category": "NEXT YEAR",
+            "openingYear": 2026
+          }
+        },
+        {
+          "key": "east",
+          "label": "APS of Chandler",
+          "area": "East",
+          "color": "#F59E0B",
+          "strokeColor": "#D97706",
+          "description": "Eastern Phoenix + San Tan Valley area",
+          "office": {
+            "zipCode": "85286",
+            "fullName": "Amenity Pool Services of Chandler",
+            "lat": 33.2719948,
+            "lng": -111.8318985,
+            "category": "NEXT YEAR",
+            "openingYear": 2026
+          }
+        },
+        {
+          "key": "tucson",
+          "label": "APS of Tucson",
+          "area": "Tucson",
+          "color": "#A855F7",
+          "strokeColor": "#9333EA",
+          "description": "Tucson metropolitan area",
+          "office": {
+            "zipCode": "85749",
+            "fullName": "Amenity Pool Services of Tucson",
+            "lat": 32.2226066,
+            "lng": -110.7672556,
+            "category": "NEXT YEAR",
+            "openingYear": 2026
+          }
+        }
+      ],
+      "futureOffices": [
+        {
+          "key": "mesa",
+          "label": "APS of Mesa",
+          "zipCode": "85207",
+          "fullName": "Amenity Pool Services of Mesa",
+          "lat": 33.4535068,
+          "lng": -111.6356498,
+          "category": "FUTURE PLANNING"
+        },
+        {
+          "key": "goodyear",
+          "label": "APS of Goodyear",
+          "zipCode": "85338",
+          "fullName": "Amenity Pool Services of Goodyear",
+          "lat": 33.3736979,
+          "lng": -112.4102617,
+          "category": "FUTURE PLANNING"
+        },
+        {
+          "key": "cavecreek",
+          "label": "APS of Cave Creek",
+          "zipCode": "85331",
+          "fullName": "Amenity Pool Services of Cave Creek",
+          "lat": 33.8789366,
+          "lng": -111.9126681,
+          "category": "FUTURE PLANNING"
+        }
+      ],
+      "consolidationMap": {
+        "_comment": "Maps the original 11-branch structure to the current 3-area consolidation (plus Tucson). Used by Python pipeline scripts.",
+        "Branch 1 - North Scottsdale": "East",
+        "Branch 2 - Central Scottsdale/PV": "Central",
+        "Branch 3 - North Phoenix I-17": "Central",
+        "Branch 4 - Central PHX/South": "Central",
+        "Branch 5 - Peoria/Surprise North": "West",
+        "Branch 6 - Glendale/West PHX": "West",
+        "Branch 7 - Southwest Valley/Laveen": "West",
+        "Branch 8 - Tempe/Chandler West": "East",
+        "Branch 9 - Chandler/Gilbert South": "East",
+        "Branch 10 - Mesa Central/Gilbert East": "West",
+        "Branch 11 - Mesa East/Pinal Outliers": "Central"
+      },
+      "historicalBranches": {
+        "_comment": "Original 11-branch ZIP assignments from phoenix_analysis.py. Preserved for pipeline reference.",
+        "Branch 1 - North Scottsdale": ["85255", "85259", "85260", "85262", "85266", "85331", "85377", "85263", "85252"],
+        "Branch 2 - Central Scottsdale/PV": ["85250", "85251", "85258", "85253", "85018", "85016"],
+        "Branch 3 - North Phoenix I-17": ["85086", "85087", "85085", "85083", "85022", "85027", "85050", "85054"],
+        "Branch 4 - Central PHX/South": ["85012", "85013", "85014", "85020", "85021", "85023", "85029", "85002", "85003", "85004", "85006", "85007", "85008", "85009", "85015", "85017", "85019", "85031", "85033", "85034", "85035", "85040", "85041", "85042", "85043"],
+        "Branch 5 - Peoria/Surprise North": ["85383", "85382", "85374", "85379", "85381", "85375", "85351", "85373", "85345"],
+        "Branch 6 - Glendale/West PHX": ["85308", "85304", "85306", "85310", "85302", "85301", "85303", "85305", "85318", "85051", "85053"],
+        "Branch 7 - Southwest Valley/Laveen": ["85338", "85395", "85340", "85323", "85392", "85326", "85396", "85339"],
+        "Branch 8 - Tempe/Chandler West": ["85281", "85282", "85283", "85284", "85288", "85224", "85044", "85048", "85286", "85246", "85201", "85202"],
+        "Branch 9 - Chandler/Gilbert South": ["85225", "85226", "85249", "85233", "85234", "85295"],
+        "Branch 10 - Mesa Central/Gilbert East": ["85296", "85297", "85298", "85203", "85204", "85205", "85209", "85210", "85213", "85215", "85274", "85277"],
+        "Branch 11 - Mesa East/Pinal Outliers": ["85206", "85207", "85208", "85118", "85119", "85120", "85142", "85143", "85140", "85132", "85122", "85193", "85194", "85138", "85139", "85128", "85131", "85144", "85211", "85214"]
+      }
+    },
+    "miami": {
+      "label": "Miami, FL",
+      "shortLabel": "Miami",
+      "territories": [
+        {
+          "key": "north",
+          "label": "APS Miami - North",
+          "area": "North",
+          "color": "#3B82F6",
+          "strokeColor": "#2563EB",
+          "description": "Northern Miami-Dade area"
+        },
+        {
+          "key": "central",
+          "label": "APS Miami - Central",
+          "area": "Central",
+          "color": "#10B981",
+          "strokeColor": "#059669",
+          "description": "Central Miami-Dade area"
+        },
+        {
+          "key": "south",
+          "label": "APS Miami - South",
+          "area": "South",
+          "color": "#F59E0B",
+          "strokeColor": "#D97706",
+          "description": "Southern Miami-Dade area"
+        }
+      ],
+      "offices": [
+        {
+          "zipCode": "33181",
+          "fullName": "APS of Miami",
+          "label": "APS of Miami - Central Office",
+          "lat": 25.8839392,
+          "lng": -80.1657304,
+          "category": "MIAMI"
+        }
+      ]
+    },
+    "dallas": {
+      "label": "Dallas, TX",
+      "shortLabel": "Dallas",
+      "territories": [],
+      "offices": []
+    },
+    "orlando": {
+      "label": "Orlando, FL",
+      "shortLabel": "Orlando",
+      "territories": [],
+      "offices": []
+    },
+    "jacksonville": {
+      "label": "Jacksonville, FL",
+      "shortLabel": "Jacksonville",
+      "territories": [],
+      "offices": []
+    },
+    "portCharlotte": {
+      "label": "Port Charlotte, FL",
+      "shortLabel": "Port Charlotte",
+      "territories": [],
+      "offices": []
+    }
+  }
+}

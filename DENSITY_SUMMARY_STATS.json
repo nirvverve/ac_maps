@@ -1,0 +1,42 @@
+{
+  "overall": {
+    "total_zips": 156,
+    "total_active": 1699,
+    "total_terminated": 9362,
+    "overall_churn_rate": 84.64
+  },
+  "by_area": {
+    "Central": {
+      "zip_count": 49,
+      "active": 527,
+      "terminated": 3010,
+      "churn_rate": 84.57,
+      "top_zip": 85254,
+      "top_zip_active_count": 56
+    },
+    "East": {
+      "zip_count": 36,
+      "active": 570,
+      "terminated": 2527,
+      "churn_rate": 80.86,
+      "top_zip": 85122,
+      "top_zip_active_count": 89
+    },
+    "Tucson": {
+      "zip_count": 26,
+      "active": 73,
+      "terminated": 226,
+      "churn_rate": 72.45,
+      "top_zip": 85750,
+      "top_zip_active_count": 9
+    },
+    "West": {
+      "zip_count": 45,
+      "active": 529,
+      "terminated": 3599,
+      "churn_rate": 86.88,
+      "top_zip": 85308,
+      "top_zip_active_count": 40
+    }
+  }
+}

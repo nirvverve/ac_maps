@@ -1,0 +1,5 @@
+Area,ActiveAccounts,TerminatedAccounts,TotalHistoricalAccounts,RetentionRate,LostRevenue,NumZipCodes,AccountsPerZip,TopCities
+West,529,3598,4127,12.82,5525709.28,45,11.76,"{'PHOENIX': 175, 'GLENDALE': 103, 'PEORIA': 60, 'SURPRISE': 32, 'LAVEEN': 31}"
+Central,527,3001,3528,14.94,4756617.26,49,10.76,"{'SCOTTSDALE': 212, 'PHOENIX': 209, 'MESA': 71, 'TEMPE': 27, 'PARADISE VALLEY': 8}"
+East,570,1909,2479,22.99,2939262.55,36,15.83,"{'CHANDLER': 131, 'CASA GRANDE': 104, 'GILBERT': 104, 'MESA': 67, 'TEMPE': 42}"
+Tucson,73,0,73,100.0,0.0,26,2.81,"{'TUCSON': 65, 'MARANA': 6, 'VAIL': 2}"

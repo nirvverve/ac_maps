@@ -1,0 +1,877 @@
+﻿Customer_Number__c,Display Name,ShippingStreet,ShippingCity,ShippingPostalCode,Sum of Total_Monthly_Contract__c,Name,Maintenance Plan Day of Week
+A-036291,Kyan Askari,10 N.E. 97th Street,Miami Shores,33138,149,18 AFP Route Wesley O,Monday
+A-043855,South Florida MP,100 South Pointe Drive,Miami Beach,33139,295,6 AFP Route Casey D,Friday
+A-053385,Carl Rachel Spencer / Edwards,100 South Pointe Drive,Miami Beach,33139,420,6 AFP Route Casey D,Friday
+A-069601,Nicole Martinez,1001 Northeast 118th Street,Biscayne Park,33161,145,29 AFP Route Erick B,Monday
+A-043901,Mark Quetgles,1003 N.E. 118th Street,Biscayne Park,33161,189,21 AFP Route Carlos M,Monday
+A-057119,Oscar Chen,10041 Southwest 142nd Street,Miami,33176,155,7 AFP Route Andra G,Monday
+A-038349,Jim Cohen,10050 West Broadview Drive,Bay Harbor,33154,179,2 AFP Route Miguel B,Friday
+A-036527,Roger Rucker,10131 N.W. 24th Court,Pembroke Pines,33026,133,103 AFP Route Vacant,Monday
+A-036310,Matt Maciag,1015 Shore Lane,Miami Beach,33141,135,5 AFP Route Freddy S,Monday
+A-048987,Elan Hersh,102 Northeast 109th Street,Miami,33161,159,21 AFP Route Carlos M,Monday
+A-055641,Navendu Shirali,1020 Northeast 83rd Street,Miami,33138,170,29 AFP Route Erick B,Monday
+A-064986,Ana Aida Preza,1021 NW 185th Ave,Pembroke Pines,33029,145,103 AFP Route Vacant,Monday
+A-037032,Rebeca - Mail Invoice Please Schapiro,1025 N.E. 89th Street,Miami,33138,186,24 AFP Route Jorge B,Monday
+A-041106,Dax Sicre,1025 Stillwater Drive,Miami Beach,33141,165,5 AFP Route Freddy S,Monday
+A-037975,Mark Wallace,1030 N.W. 178th Terrace,Miami,33169,165,16 AFP Route Robert D,Monday
+A-064480,Hilda Rodriquez,1030 Northeast 196th Terrace,North Miami Beach,33179,145,16 AFP Route Robert D,Monday
+A-036345,Jane Harvey,1036 N.E. 89th Street,Miami,33138,144,24 AFP Route Jorge B,Monday
+A-036332,Carl Burzenski,1040 N.E. 84 Street,Miami,33138,139,24 AFP Route Jorge B,Monday
+A-062307,Fernanda Moreno,1040 Northeast 122nd Street,North Miami,33168,160,21 AFP Route Carlos M,Monday
+A-064432,Liron Zilberbuch,1040 Northeast 83rd Street,Miami,33138,135,29 AFP Route Erick B,Monday
+A-036952,Robert Pierot,1045 N.E. 97th Street,Miami Shores,33138,139,29 AFP Route Erick B,Monday
+A-069293,Anthony Vickers,1050 Northwest 87th Street,Miami,33150,145,17 AFP Roosevelt F,Monday
+A-036408,Pedro Garcia,10515 N.E. 3rd Avenue,Miami,33138,186,24 AFP Route Jorge B,Monday
+A-049247,Johanna Sundell,1053 Northeast 94th Street,Miami Shores,33138,159,29 AFP Route Erick B,Monday
+A-053754,Leslie Chapus,1060 Stillwater Drive,Miami Beach,33141,270,5 AFP Route Freddy S,Tuesday
+A-063857,Henry Lewiston,10600 Southwest 80th Court,Miami,33156,145,,Friday
+A-038785,Franco Hernandez,10603 Northeast 10th Place,Miami Shores,33138,169,17 AFP Roosevelt F,Monday
+A-065086,Nicholas Schook,10610 Northeast 10th Place,Miami Shores,33138,135,29 AFP Route Erick B,Monday
+A-065492,Kevin Lund,10642 Northeast 10th Place,Miami Shores,33138,135,29 AFP Route Erick B,Monday
+A-037061,Stephen Zawadzkas,10650 N.E. 10th Court,Miami Shores,33138,135,17 AFP Roosevelt F,Monday
+A-041166,Jade Moran,1070 N.E. 105th Street,Miami Shores,33138,155,29 AFP Route Erick B,Monday
+A-038588,Eddy Augsten,10701 S.W. 68th Avenue,Miami,33156,135,7 AFP Route Andra G,Monday
+A-037750,Allan Rodriguez,10706 N.E. 9th Avenue,Biscayne Park,33161,142,29 AFP Route Erick B,Monday
+A-037935,Silas (PRINT ALL OPEN INVOICES) Washington,10720 N.W. 22nd Ave Road,Miami,33167,136,29 AFP Route Erick B,Monday
+A-037333,Jose Alvarado,1077 N.E. 98th Street,Miami Shores,33181,133,29 AFP Route Erick B,Monday
+A-064801,Matt Haiman,1079 Tyler Street,Hollywood,33019,135,105 AFP Route Miguel R,Monday
+A-052643,Anna Maronese,1080 Northeast 105th Street,Miami Shores,33138,165,29 AFP Route Erick B,Monday
+A-067558,Daniel Schor,10801 Northeast 9th Avenue,Biscayne Park,33161,145,17 AFP Roosevelt F,Monday
+A-037741,Patricia D. Walker,10820 Griffing Boulevard,Biscayne Park,33161,153,24 AFP Route Jorge B,Monday
+A-052000,Liliana Morales,1089 Northeast 91st Terrace,Miami Shores,33138,155,29 AFP Route Erick B,Monday
+A-050612,Donna Bailey,10911 North Bayshore Drive,Miami,33161,155,18 AFP Route Wesley O,Monday
+A-037756,Cheryl Jacobi,10939 North Bayshore Drive,North Miami,33161,163,18 AFP Route Wesley O,Monday
+A-043439,Suzy Mosheim,1098 N.E. 96th Street,Miami Shores,33138,205,29 AFP Route Erick B,Monday
+A-057026,Anabella Avellaneda,110 Southwest 22nd Road,Miami,33129,155,11 AFP Route Honatann B,Monday
+A-037310,Fran Laboy,1100 N.E. 200th Street,Miami,33179,125,16 AFP Route Robert D,Monday
+A-037653,Andres Etcchinique,11010 N.E. 9th Avenue,Biscayne Park,33161,133,21 AFP Route Carlos M,Monday
+A-037812,Douglas Laurie,11047 Garden Ridge Ct,Davie,33328,167,105 AFP Route Miguel R,Monday
+A-037641,Jason Mark Vanterpool,11104 N.E. 9th Court,Miami,33161,149,17 AFP Roosevelt F,Monday
+A-036582,Kenneth Cohen,112 1st Dilido Terrace,Miami Beach,33139,152,28 AFP Route Jean D,Monday
+A-054347,Krystal Zahra,1120 Bay Drive,Miami Beach,33141,165,5 AFP Route Freddy S,Monday
+A-068446,Vianca Monroe,1125 Northwest 151st Street,Miami,33169,145,16 AFP Route Robert D,Monday
+A-062716,John Hicks,1131 Northeast 104th Street,Miami Shores,33138,165,29 AFP Route Erick B,Monday
+A-037278,Bibi Jehaludi,11311 Red Berry Drive,Davie,33330,147,105 AFP Route Miguel R,Monday
+A-036107,Aaron Mondshine,1137 South South Lake Drive,Hollywood,33019,149,105 AFP Route Miguel R,Monday
+A-056722,Barron Channer,11380 Northeast 8th Avenue,Biscayne Park,33161,165,17 AFP Roosevelt F,Monday
+A-037645,Alison Kvetko,11400 N.E. 9th Avenue,Biscayne Park,33161,137,21 AFP Route Carlos M,Monday
+A-064213,David Reis,11440 North Bayshore Drive,North Miami,33181,155,18 AFP Route Wesley O,Monday
+A-036734,Giovanni Tosi,115 Venetian Way Dilido Is,Miami Beach,33139,141,5 AFP Route Freddy S,Monday
+A-048092,Felix Bendersky,11500 Northeast 9th Avenue,Biscayne Park,33161,159,21 AFP Route Carlos M,Monday
+A-036109,Matthew Kramer,11530 Northeast 22nd Drive,North Miami,33181,248.45,15 AFP Route Kymani P,Monday
+A-038007,Jose Bodero,11538 N.W. 84th Street,Miami,33178,137,14 AFP Route Jorge A,Monday
+A-067891,Christian Roman,11610 Canal Drive,North Miami,33181,145,21 AFP Route Carlos M,Monday
+A-069057,Salvador Orellana,11625 Southwest 114th Court,Miami,33176,165,6 AFP Route Casey D,Thursday
+A-069615,Victoria Rodriguez,1165 Northeast 105th Street,Miami Shores,33138,145,17 AFP Roosevelt F,Monday
+A-036089,John Ariton,11650 Canal Drive,North Miami,33181,149,21 AFP Route Carlos M,Monday
+A-037561,Reginald Laurent,117 South Gordon Road,Fort Lauderdale,33301,145,105 AFP Route Miguel R,Monday
+A-051483,Joe Tano,11701 Northeast 8th Avenue,Biscayne Park,33161,165,29 AFP Route Erick B,Friday
+A-037655,Paul Aceto,11710 N.E. 10th Avenue,Biscayne Park,33161,125,21 AFP Route Carlos M,Monday
+A-036359,Matthew Leachman,1172 N.E. 103rd Street,Miami Shores,33138,144,24 AFP Route Jorge B,Monday
+A-036129,Scott Test 1,11720 Biscayne Bay Drive,North Miami,33181,160,,Tuesday
+A-057831,The Winfrey Residences,11720 Biscayne Boulevard,Miami,33181,7939.05,,
+A-037744,Cathy Gaines,11755 Griffing Boulevard,Miami,33161,146,29 AFP Route Erick B,Monday
+A-037800,Debra Hines,1179 Mahogany Lane,Weston,33327,133,103 AFP Route Vacant,Monday
+A-038747,Jason Bell,11820 Griffing Boulevard,Biscayne Park,33161,199,21 AFP Route Carlos M,Monday
+A-066969,Robert Zoeller,11851 Griffing Boulevard,Biscayne Park,33161,160,18 AFP Route Wesley O,Thursday
+A-055475,Jessika Figueroa,1190 Northwest 129th Street,North Miami,33168,155,14 AFP Route Jorge A,Monday
+A-062461,Ilias Lekakos,11910 Northeast 11th Court,Biscayne Park,33161,155,29 AFP Route Erick B,Monday
+A-067821,Michelle Mayoral,11910 Southwest 187th Street,Miami,33177,145,7 AFP Route Andra G,Monday
+A-037763,Howard Bushman,11930 N.E. 5th Avenue,Biscayne Park,33161,173,21 AFP Route Carlos M,Monday
+A-038394,Irene Manueco,1195 Bay Drive,Miami Beach,33141,151,5 AFP Route Freddy S,Monday
+A-057726,Darline Jean,1195 Northwest 129th Street,North Miami,33168,165,16 AFP Route Robert D,Monday
+A-063571,Jose Morales,1196 Northwest 120th Street,North Miami,33168,280,29 AFP Route Erick B,
+A-036340,Andres Leyva,1200 N.E. 103rd Street,Miami,33138,133,29 AFP Route Erick B,Monday
+A-037687,Rebeca Kanakis,1200 S.W. 75th Terrace,Plantation,33317,169,105 AFP Route Miguel R,Monday
+A-069047,Hamza El Kabbaj,12000 Northeast 11th Court,Biscayne Park,33161,145,17 AFP Roosevelt F,Wednesday
+A-036324,Katherine Bridges,1207 N.E. 92nd Street,Miami Shores,33138,147,18 AFP Route Wesley O,Tuesday
+A-038326,Kenneth Packar,1210 99th Street,Bay Harbor,33154,133,2 AFP Route Miguel B,Monday
+A-050449,John Mather,1215 Northeast 110th Street,Miami,33161,155,21 AFP Route Carlos M,Monday
+A-057025,Rena Damas,12190 Northwest 4th Avenue,North Miami,33168,155,16 AFP Route Robert D,Friday
+A-057694,Tameka Dickerson,12225 Northeast 11th Court,North Miami,33161,170,21 AFP Route Carlos M,Monday
+A-056286,Vivienne Latimore,1225 Northeast 156th Street,North Miami Beach,33162,145,21 AFP Route Carlos M,Monday
+A-038320,Linda (MAIL INVOICES ONLY) Zilber,1231 95th Street,Bay Harbor,33154,141,18 AFP Route Wesley O,Monday
+A-036437,Karen Barroeta,1235 N.E. 100th Street,Miami Shores,33138,166,24 AFP Route Jorge B,Monday
+A-062456,Richard Suero,1235 N.E. 93rd Street,Miami Shores,33138,165,29 AFP Route Erick B,Monday
+A-037748,Dale Baker,1239 N.E. 143rd Street,Miami,33161,148,103 AFP Route Vacant,Monday
+A-036127,Natasha Goureau,124 Northeast 96th Street,Miami Shores,33138,149,18 AFP Route Wesley O,Monday
+A-069513,Freddy Savelli,1240 Northeast 100th Street,Miami Shores,33138,150,24 AFP Route Jorge B,Friday
+A-037537,Alexander Furth,12405 Keystone Island Drive,North Miami,33181,173,21 AFP Route Carlos M,Monday
+A-044441,Victoria Brennan,1241 Northeast 81st Terrace,Miami,33138,150,29 AFP Route Erick B,Monday
+A-037476,Tiago Simoes,12415 Keystone Island Drive,North Miami,33181,162,21 AFP Route Carlos M,Monday
+A-065146,Antonios Berry,12420 Southwest 90th Avenue,Miami,33176,135,7 AFP Route Andra G,Monday
+A-037056,Jose Salazar,1245 N.E. 92nd Street,Miami Shores,33138,133,24 AFP Route Jorge B,Monday
+A-037049,Sharifa Hunter,1245 N.E. 93rd Street,Miami Shores,33138,138,18 AFP Route Wesley O,Monday
+A-037345,Terry O'Grady,12475 Keystone Island Drive,North Miami,33181,157,,Monday
+A-062622,Jorge Echaniz,12489 Keystone Road,North Miami,33181,155,17 AFP Roosevelt F,Tuesday
+A-066372,Alexandre Sarfati,12490 Keystone Island Drive,North Miami,33181,125,21 AFP Route Carlos M,Monday
+A-046467,Joelene Arena,1250 N.E. 133rd Street,North Miami,33161,165,21 AFP Route Carlos M,Monday
+A-036322,Kimberly Crespo,1250 N.E. 96th Street,Miami Shores,33138,151,29 AFP Route Erick B,Monday
+A-063166,Abigail Goldfarb,12525 Palm Road,North Miami,33181,155,17 AFP Roosevelt F,Monday
+A-064586,Beth Studenberg,1255 Northeast 93rd Street,Miami Shores,33138,135,29 AFP Route Erick B,Monday
+A-037359,Al Price,12555 Palm Road,North Miami,33181,156,17 AFP Roosevelt F,Monday
+A-066981,Sarah Swartz,126 Northeast 109th Street,Miami Shores,33161,145,21 AFP Route Carlos M,Thursday
+A-043000,Lawrence M. Franchetti,1260 N.E. 85th Street,Miami Shores,33138,155,24 AFP Route Jorge B,Monday
+A-037074,Porta Thompson,1261 N.E. 84th Street,Miami,33138,151,24 AFP Route Jorge B,Monday
+A-037974,Randy & Shameika George,12635 N.E. Miami Place,North Miami,33168,135,18 AFP Route Wesley O,
+A-036864,Andrew Forster,1264 Aguila Avenue,Coral Gables,33134,147,7 AFP Route Andra G,Monday
+A-038319,Nancy & Phillip Cohen,1265 100th Street,Bay Harbor Islands,33154,133,18 AFP Route Wesley O,Monday
+A-043667,Dwight & Lele Tracy,1270 N.E. 95th Street,Miami Shores,33138,159,24 AFP Route Jorge B,Monday
+A-038282,Luis Toro Lopez,1270 N.E. 98th Street,Miami Shores,33138,159,29 AFP Route Erick B,Monday
+A-037898,Enrique Estopinan,1270 N.W. 124th Street,Miami,33167,130,16 AFP Route Robert D,Monday
+A-047646,Jocelyne Fisher,1270 Northeast 92nd Street,Miami Shores,33138,159,24 AFP Route Jorge B,Monday
+A-038255,Lisa Kaufman,1270 Stillwater Drive,Miami Beach,33141,179,5 AFP Route Freddy S,Monday
+A-046522,Hollen Rosenberg,1271 100th Street,Bay Harbor Islands,33154,145,2 AFP Route Miguel B,Monday
+A-037352,Maritza Distefano,12740 Biscayne Bay Drive,North Miami,33181,146,17 AFP Roosevelt F,Monday
+A-062904,Jacques Nijankin,1275 Northeast 103rd Street,Miami Shores,33138,145,29 AFP Route Erick B,Monday
+A-056009,Jeffery Mcinnis,12790 Griffing Boulevard,North Miami,33161,145,17 AFP Roosevelt F,Monday
+A-038342,Marc & Yvette Lerner,1281 100th Street,Bay Harbor,33154,129,5 AFP Route Freddy S,Monday
+A-038098,Sean Grosman,12840 North Bayshore Drive,North Miami,33181,135,15 AFP Route Kymani P,Monday
+A-038119,Benjamin Lerman,12855 Maple Road,North Miami,33181,145,17 AFP Roosevelt F,Monday
+A-037341,Barbara Sherman,12880 Biscayne Bay Drive,North Miami,33181,153,17 AFP Roosevelt F,Monday
+A-037552,Jose Hernandez,12901 Auralia Road,North Miami,33181,132,15 AFP Route Kymani P,Monday
+A-037540,Gregory Horton,12914 Banyan Road,North Miami,33181,180,21 AFP Route Carlos M,Monday
+A-037454,Aaron Alper,12916 Cherry Road,North Miami,33181,156,17 AFP Roosevelt F,Monday
+A-057000,Thomas and Angelina Winkler,12934 Ixora Circle,North Miami,33181,135,21 AFP Route Carlos M,Monday
+A-037362,Oran Akerman,12935 Ixora Road,North Miami,33181,137,17 AFP Roosevelt F,Friday
+A-037353,Chris Robinson,12940 Ortega Lane,North Miami,33181,139,21 AFP Route Carlos M,Monday
+A-037366,Sharon Pilch,12945 Ortega Lane,North Miami,33181,263.6,21 AFP Route Carlos M,Monday
+A-065513,Melany Navarro,1296 Northeast 99th Street,Miami Shores,33138,145,29 AFP Route Erick B,Monday
+A-063413,Asinger Robert,12990 Arch Creek Terrace,North Miami,33181,155,21 AFP Route Carlos M,Monday
+A-038444,Jane Freund,130 Park Drive,Bal Harbor,33154,167,2 AFP Route Miguel B,Monday
+A-038662,Smiley Hsu,13005 Ortega Lane,North Miami,33181,133,17 AFP Roosevelt F,Monday
+A-038323,Jeff Stone,1301 100th Street,Bay Harbor,33154,133,2 AFP Route Miguel B,Monday
+A-038064,Lacey Quinn,1301 N.W. 72nd Street,Miami,33147,147,1 AFP Route Sharion S,Monday
+A-065453,Azul Iglesias,13025 Arch Creek Terrace,North Miami,33181,135,21 AFP Route Carlos M,Monday
+A-037471,Michael Lopez,13055 Arch Creek Terrace,North Miami,33181,133,15 AFP Route Kymani P,Wednesday
+A-038350,Paul (please ensure invoices are sent each month!) Novack,1308 Biscaya Drive,Miami,33154,141,18 AFP Route Wesley O,Monday
+A-038072,Ronald Batalha,131 Knollwood Drive,Key Biscayne,33149,152,11 AFP Route Honatann B,Monday
+A-038265,Harold Miller,1310 Bay Drive,Miami Beach,33141,157,5 AFP Route Freddy S,Monday
+A-038442,Jeffery Weiss,1311 99th Street,Bay Harbor,33154,171,2 AFP Route Miguel B,Monday
+A-037361,Lisset Valdes,13115 Biscayne Bay Terrace,North Miami,33181,139,21 AFP Route Carlos M,Monday
+A-036368,Colleen Oliverio,1313 Funston Street,Hollywood,33019,136,103 AFP Route Vacant,Monday
+A-036731,Joseph Malta,1315 North Venetian Way,Miami Beach,33139,145,28 AFP Route Jean D,Tuesday
+A-038653,Omar Sharam,13150 Keystone Terrace,North Miami,33181,149,17 AFP Roosevelt F,Monday
+A-067198,Patricia Khabba,13160 Southwest 28th Place,Davie,33330,145,,Monday
+A-064896,Jamie Santos,1317 North Yale Drive,Hollywood,33021,135,105 AFP Route Miguel R,Monday
+A-067295,John Mather2,13190 Biscayne Island Terrace,North Miami,33181,135,17 AFP Roosevelt F,Monday
+A-066524,Mike Colletto,13195 Biscayne Island Terrace,North Miami,33181,135,15 AFP Route Kymani P,Monday
+A-062473,Karine Megerdoomian,1320 Northeast 138th Street,North Miami,33161,135,21 AFP Route Carlos M,Monday
+A-038101,Brian Gale,13200 Biscayne Island Terrace,North Miami,33181,139,21 AFP Route Carlos M,Monday
+A-052666,Dennis Barnes,13200 Ortega Lane,North Miami,33181,145,17 AFP Roosevelt F,Wednesday
+A-045591,Fred Sanchez,13205 Keystone Terrace,North Miami,33181,135,21 AFP Route Carlos M,Monday
+A-049315,Jason & Allyson Landa,13225 Biscayne Island Terrace,North Miami,33181,159,21 AFP Route Carlos M,Monday
+A-064462,Flavia Carnevale,1325 Northeast 138th Street,North Miami,33161,135,16 AFP Route Robert D,Monday
+A-037526,Ines Beltrame,13250 Keystone Terrace,North Miami,33181,133,17 AFP Roosevelt F,Monday
+A-038116,Clara Baccini,13290 Keystone Terrace,Miami,33181,133,17 AFP Roosevelt F,Monday
+A-038102,Linda Barrocas,13295 Arch Creek Terrace,Miami,33181,135,17 AFP Roosevelt F,Monday
+A-062658,Geroge Windann,13380 Biscayne Bay Drive,North Miami,33181,165,21 AFP Route Carlos M,Monday
+A-038344,Robert Mondshine,134 Bal Bay Drive,Bal Harbor,33154,159,2 AFP Route Miguel B,Monday
+A-051440,Jakeline Leinberger,13468 Northwest 10th Street,Miami,33182,135,14 AFP Route Jorge A,Wednesday
+A-037570,John Viglione,1350 Bayview Drive,Fort Lauderdale,33304,133,105 AFP Route Miguel R,Monday
+A-038251,Anita Krieger,1354 Cleveland Road,Miami Beach,33141,149,2 AFP Route Miguel B,Monday
+A-045758,Tania Caballero,1355 Bay Drive,Miami Beach,33141,159,5 AFP Route Freddy S,Monday
+A-064752,Stephanie Taylor,13590 Northeast 5th Avenue,North Miami,33161,140,16 AFP Route Robert D,Monday
+A-036676,James Osterberg,136 N.E. 86th Street,El Portal,33138,143,29 AFP Route Erick B,Monday
+A-038150,Sonia Guerrero,1370 Stillwater Drive,Miami Beach,33141,147,2 AFP Route Miguel B,Monday
+A-069014,Valentina Gutierrez,1380 Campamento Avenue,Coral Gables,33156,145,7 AFP Route Andra G,Thursday
+A-067544,Guimera Gisberto,13835 South Biscayne River Drive,Miami,33161,150,16 AFP Route Robert D,Monday
+A-056504,Grace Evans,13881 Southwest 84th Court,Palmetto Bay,33158,170,7 AFP Route Andra G,Monday
+A-050991,Paulina Apice,139 Bal Bay Drive,Bal Harbour,33154,165,2 AFP Route Miguel B,Monday
+A-065334,Jackie Vinson,13911 Southwest 79th Street,Miami,33183,145,6 AFP Route Casey D,Monday
+A-062055,Alejandrina Tabora,140 Northwest 117th Street,Miami,33168,155,21 AFP Route Carlos M,Monday
+A-054593,Shirley Volante,14025 South Biscayne River Drive,Miami,33161,155,16 AFP Route Robert D,Monday
+A-054204,Robert Lesser,1405 Country Club Prado,Coral Gables,33134,155,7 AFP Route Andra G,Thursday
+A-038345,John Sragowicz,141 Bal Cross Drive,Bal Harbor,33154,147,5 AFP Route Freddy S,Monday
+A-051875,Susan Jimenez,14135 Northwest 5th Avenue,Miami,33168,170,29 AFP Route Erick B,Monday
+A-038664,Jacob Roche,1414 Capri Street,Coral Gables,33134,152,7 AFP Route Andra G,Monday
+A-067130,June Miller,1415 Northeast 199th Street,Miami,33179,155,6 AFP Route Casey D,Monday
+A-038546,Martin Schleifer,1418 Blue Road,Miami,33146,123,7 AFP Route Andra G,Monday
+A-036156,Lisa Allen,1420 Northeast 101st Street,Miami Shores,33138,411,29 AFP Route Erick B,Monday
+A-038623,Darin Dibello,14201 S.W. 75th Court,Palmetto Bay,33158,135,7 AFP Route Andra G,Monday
+A-055274,William Jones,14245 Northwest 14th Drive,Miami,33167,150,16 AFP Route Robert D,Monday
+A-067206,Amanda Bourque,14465 Southwest 96th Avenue,Miami,33176,119.95,7 AFP Route Andra G,Monday
+A-036337,Zack Crockett,145 N.E. 95th Street,Miami Shores,33138,142,24 AFP Route Jorge B,Monday
+A-037754,Robert Frazier,14500 N.E. 4th Avenue,Miami,33161,153,16 AFP Route Robert D,Monday
+A-036402,Kate Inman,1453 N.E. 104th Street,Miami Shores,33138,139,24 AFP Route Jorge B,Monday
+A-037039,Helen Emerson,1458 N.E. 104th Street,Miami Shores,33138,133,29 AFP Route Erick B,Monday
+A-050645,Delores Holley,1460 Northwest 89th Street,Miami,33147,165,24 AFP Route Jorge B,Monday
+A-057041,Borys 14600 Salt Gurtovyi,14600 South Spur Drive,Miami,33161,159,1 AFP Route Sharion S,Monday
+A-057046,Borys Gurtovyi,14630 South Biscayne River Drive,Miami,33168,159,1 AFP Route Sharion S,
+A-067942,Marsida Mulla,14652 Biscayne Boulevard,North Miami,33181,400,15 AFP Route Kymani P,Monday
+A-065090,Yifei Wang,148 Northwest 96th Street,Miami Shores,33150,135,18 AFP Route Wesley O,Monday
+A-038627,Esther Kramer,14800 S.W. 74th Avenue,Miami,33158,151,7 AFP Route Andra G,Monday
+A-039621,Ruth Gutierrez,14855 North Spur Drive,North Miami Beach,33161,155,6 AFP Route Casey D,Monday
+A-036770,Paul A. Shelowitz,14891 S.W. 75th Court,Miami,33158,148,7 AFP Route Andra G,Monday
+A-053604,Madeline (no auto-p) Alexander,14941 Southwest 75th Court,Palmetto Bay,33158,145,7 AFP Route Andra G,Monday
+A-037078,Pablo Caceres,1496 N.E. 104th Street,Miami Shores,33138,143,17 AFP Roosevelt F,Monday
+A-037894,Lucrezia Laforgia,150 Hunting Lodge Drive,Miami Springs,33166,137,14 AFP Route Jorge A,Monday
+A-038222,Barbara De Penaloza,150 N.W. 94th Street,Miami Shores,33150,163,18 AFP Route Wesley O,Monday
+A-038253,Mario Dorado,1500 Cleveland Road,Miami Beach,33141,149,2 AFP Route Miguel B,Monday
+A-038386,Fred Murphy,1500 South Treasure Drive,Miami Beach,33141,144,5 AFP Route Freddy S,Monday
+A-068375,Eric Carter,1501 Northeast 17th Street,Fort Lauderdale,33305,175,105 AFP Route Miguel R,Monday
+A-038247,Chris Collins,1501 Stillwater Drive,Miami Beach,33141,123,2 AFP Route Miguel B,Monday
+A-036964,Maria Bastos,1501 West 21st Street,Miami Beach,33140,136,28 AFP Route Jean D,Monday
+A-036713,Margit Porter,1501 West 24th Street,Miami Beach,33140,136,28 AFP Route Jean D,Monday
+A-063163,KB Blue White Ocean Corp,1502 Ferdinand Street,Coral Gables,33134,115,7 AFP Route Andra G,Monday
+A-065306,Donald Spann,15021 South Biscayne River Drive,Miami,33168,150,18 AFP Route Wesley O,Tuesday
+A-068665,Paul Carballo,1505 Westward Drive,Miami Springs,33166,135,14 AFP Route Jorge A,Thursday
+A-037624,Lude Georges,15050 North Spur Drive,Miami,33161,178,21 AFP Route Carlos M,Monday
+A-069278,Dorothy Booth,15060 North Spur Drive,Miami,33161,124.99,21 AFP Route Carlos M,Thursday
+A-038240,Dave Morrison,1510 South Treasure Drive,Miami Beach,33141,145,5 AFP Route Freddy S,Monday
+A-037883,Emmanuela Joseph,15171 N.E. 8th Avenue,North Miami Beach,33162,136,16 AFP Route Robert D,Monday
+A-036336,Wendi Walsh,152 N.E. 89th Street,Miami,33138,145,29 AFP Route Erick B,Monday
+A-036677,Mantel Ruth,1520 West 21st Street,Miami Beach,33140,151,28 AFP Route Jean D,Monday
+A-036509,Lindsay Smith,1525 West 27th Street,Miami Beach,33140,146,28 AFP Route Jean D,Monday
+A-067534,Wanda Presley,15365 Northeast 1st Court,Miami,33162,145,103 AFP Route Vacant,Monday
+A-037791,Robert Cardonne,1538 Island Way,Weston,33326,145,103 AFP Route Vacant,Monday
+A-057044,Borys 1541 salt Gurtovyi,1541 Northeast 132nd Road,North Miami,33161,159,1 AFP Route Sharion S,
+A-066660,Veronica Crego- Flores,1547 Harrison Street,Hollywood,33020,145,105 AFP Route Miguel R,Monday
+A-036531,Joe Thomas,1560 East Sandpiper Circle,Pembroke Pines,33026,172,103 AFP Route Vacant,Monday
+A-051727,Dennis Mosner,1560 Michigan Avenue,Miami Beach,33139,270,28 AFP Route Jean D,Monday
+A-038620,Cynthia Arboleda,15620 S.W. 73rd Court,Miami,33157,136,7 AFP Route Andra G,Monday
+A-038614,Paul Luis Kumer,15625 S.W. 99th Avenue,Miami,33157,147,7 AFP Route Andra G,Monday
+A-036827,Raul Falaschini,1570 Biarritz Drive,Miami Beach,33141,138,5 AFP Route Freddy S,Monday
+A-057772,Ashley & Peter Ventre,1570 South Treasure Drive,North Bay Village,33141,165,5 AFP Route Freddy S,Monday
+A-037869,Lina Nikolsky,15741 N.E. 19th Place,Miami,33162,135,15 AFP Route Kymani P,Monday
+A-063254,Boris Gurtovyi,15790 Northeast 2nd Avenue,Miami,33162,159,1 AFP Route Sharion S,Monday
+A-067208,Teresa Patton,15810 Southwest 147th Avenue,Miami,33187,119.95,6 AFP Route Casey D,Monday
+A-065518,Karra Cypress,15971 Southwest 96th Terrace,Miami,33196,270,6 AFP Route Casey D,Thursday
+A-051486,Jonathan Azoulai,1600 Southwest 16th Avenue,Miami,33145,155,11 AFP Route Honatann B,Monday
+A-046974,Dominique Beraja,1603 South Bayshore Drive,Miami,33133,159,11 AFP Route Honatann B,Monday
+A-038770,Carmen Irizarry,16040 Southwest 77th Avenue,Palmetto Bay,33157,169,7 AFP Route Andra G,Monday
+A-036949,Jean-Luc Roy,161 N.E. 106th Street,Miami Shores,33138,126,24 AFP Route Jorge B,Monday
+A-037635,Gwen Belton,161 N.E. 110th Street,North Miami,33161,135,17 AFP Roosevelt F,Thursday
+A-063320,Philip Chemla,1610 Cleveland Road,Miami Beach,33141,155,5 AFP Route Freddy S,Monday
+A-038155,Ron Schuman,1610 South Treasure Drive,Miami Beach,33141,151,5 AFP Route Freddy S,Monday
+A-037788,Greg Willis,1611 Island Way,Weston,33326,167,103 AFP Route Vacant,Monday
+A-037588,Betty Black,1611 N.W. 27th Avenue,Fort Lauderdale,33311,139,105 AFP Route Miguel R,Monday
+A-038545,Christiana Gracie,1617 S.W. 23rd Street,Miami,33145,143,11 AFP Route Honatann B,Tuesday
+A-036483,Francisco Senis,1621 West 21st Street,Miami Beach,33140,141,28 AFP Route Jean D,Monday
+A-038744,John Coerse,1625 Bay Drive,Miami Beach,33141,138,5 AFP Route Freddy S,Monday
+A-037577,Robert Kustin,1634 N.E. 7th Court,Fort Lauderdale,33304,163,105 AFP Route Miguel R,Thursday
+A-038079,Marta Santalla,164 West Mashta Drive,Key Biscayne,33149,137,11 AFP Route Honatann B,Monday
+A-064425,Sohn. Judith,16435 Northeast 32nd Avenue,North Miami Beach,33160,135,2 AFP Route Miguel B,Monday
+A-037129,Jules Oaklander,16460 Northeast 30th Avenue,North Miami Beach,33160,146,2 AFP Route Miguel B,Monday
+A-036919,Gilbert Benhamou,165 Golden Beach Drive,Golden Beach,33160,149,2 AFP Route Miguel B,Monday
+A-038187,Raul Suarez,165 N.E. 98th Street,Miami Shores,33138,169,29 AFP Route Erick B,Monday
+A-051416,Neil Rabinowicz,1650 Diplomat Drive,North Miami Beach,33179,184,16 AFP Route Robert D,Monday
+A-036547,Fedlyn Beason,16501 S.W. 18th Street,Miramar,33027,142,103 AFP Route Vacant,Monday
+A-063653,Alex Ramirez,16559 Botaniko Drive North,Weston,33326,140,105 AFP Route Miguel R,Monday
+A-038209,Steven Shaer,166 N.W. 93rd Street,Miami Shores,33150,144,24 AFP Route Jorge B,Monday
+A-068694,Hong Wan,16619 Botaniko Drive North,Weston,33326,195,103 AFP Route Vacant,Tuesday
+A-067721,Mary Hernandez,1675 Northeast 169th Street,North Miami Beach,33162,145,1 AFP Route Sharion S,Wednesday
+A-036300,Seymour (MAIL COMMUNICATION) Nash,1685 N.E. 104th Street,Miami Shores,33138,148,29 AFP Route Erick B,Monday
+A-055412,Xiomara Concepcion,1690 Bay Drive,Miami Beach,33141,145,5 AFP Route Freddy S,Monday
+A-064366,Maria Bolanos,1695 Northeast 139th Street,North Miami,33181,155,6 AFP Route Casey D,Monday
+A-046306,Rakesh Gangwal,17 Indian Creek Island Road,Indian Creek,33154,185,2 AFP Route Miguel B,Monday
+A-037882,Stephen Johnson,170 N.E. 159th Street,Miami,33162,144,16 AFP Route Robert D,Monday
+A-037045,Carolina (NOTES) Calderon,170 N.E. 94th Street,Miami Shores,33138,132,29 AFP Route Erick B,Monday
+A-036239,Yillian Aspuru,17021 N.W. 85th Court,Miami,33015,163,14 AFP Route Jorge A,Monday
+A-038383,Daisy Kall,1710 Cleveland Road,Miami Beach,33141,144,2 AFP Route Miguel B,Monday
+A-037314,Andrew Rodman,1710 N.E. 197th Terrace,North Miami Beach,33179,147,16 AFP Route Robert D,Monday
+A-046111,Maricela Garcia,1710 S Treasure Dr.,Miami,33141,159,5 AFP Route Freddy S,Monday
+A-046017,Georgina Fernandez,1711 N.E. 139 Street,Miami,33181,160,16 AFP Route Robert D,Monday
+A-053152,Bill Ritchie,1712 Southwest 12th Court,Fort Lauderdale,33312,145,105 AFP Route Miguel R,Wednesday
+A-056489,Diamond Hadley,1721 N.W. 186th Street,Miami Gardens,33056,165,16 AFP Route Robert D,Monday
+A-037861,Carol Rentfrow,1730 N.E. 172nd Street,North Miami Beach,33162,164,16 AFP Route Robert D,Monday
+A-037313,Jorge Lerman,1730 N.E. 197th Terrace,North Miami Beach,33179,131,16 AFP Route Robert D,Monday
+A-038257,Jennifer Duce,1744 Daytonia Road,Miami Beach,33141,144,2 AFP Route Miguel B,Monday
+A-038127,Virginia Kopelman,1745 Daytonia Road,Miami Beach,33141,118,2 AFP Route Miguel B,Monday
+A-044545,Eva Ferguson,1746 Cleveland Road,Miami Beach,33141,165,5 AFP Route Freddy S,Monday
+A-036561,Luis Garcia,1749 N.W. 165th Avenue,Pembroke Pines,33028,146,103 AFP Route Vacant,Monday
+A-038549,David Feldman,1760 Lenox Ave,Miami Beach,33139,175,28 AFP Route Jean D,Monday
+A-037389,Sharon Hernandez,17620 S.W. 51st Street,Southwest Ranches,33331,145,103 AFP Route Vacant,Monday
+A-052558,Donielle Cohen,1765 Daytonia Road,Miami Beach,33141,155,5 AFP Route Freddy S,Monday
+A-053248,Daniel Kirel & Candice Allouch,1765 Northeast 145th Street,Miami,33181,155,21 AFP Route Carlos M,Monday
+A-036151,Arraven Musgrove,17701 Northwest 14th Avenue,Miami Gardens,33169,138,16 AFP Route Robert D,Thursday
+A-038157,Hacik Gazeroglu,1780 Daytonia Road,Miami Beach,33141,136,2 AFP Route Miguel B,Monday
+A-038144,Charlie Alvarez,1785 Daytonia Road,Miami Beach,33141,134,2 AFP Route Miguel B,Monday
+A-056871,Henry Poueriet,1790 Northwest 135th Street,Miami,33167,165,29 AFP Route Erick B,Monday
+A-038151,Rachel Redington,1804 Barritz Drive,Miami Beach,33141,154,5 AFP Route Freddy S,Monday
+A-037453,Pamela Skalet,1805 N.E. 117th Road,North Miami,33181,173,21 AFP Route Carlos M,Monday
+A-042428,Zoe Wolfe,1805 N.E. 118th Road,North Miami,33181,170,21 AFP Route Carlos M,Monday
+A-036240,Marianne (DO NOT PUT ON AUTO-P) Feeney,18141 N.W. 82nd Court,Miami,33015,137,14 AFP Route Jorge A,Monday
+A-038424,David Brown,1845 N.E. 124th Street,North Miami,33181,138,17 AFP Roosevelt F,Monday
+A-067409,Dan Kosten,1845 Northeast 117th Road,North Miami,33181,140,21 AFP Route Carlos M,Monday
+A-067087,Dayna Leslie,1845 Northeast 214th Terrace,North Miami Beach,33179,145,6 AFP Route Casey D,Monday
+A-053120,Golda Chamey,185 Northeast 129th Street,North Miami,33161,155,14 AFP Route Jorge A,Monday
+A-038103,Madeline (no auto-p) Alexander,1850 Hibiscus Drive,Miami,33181,125,15 AFP Route Kymani P,Monday
+A-068526,Lisa Mitchell,1855 Northeast 118th Road,North Miami,33181,148,17 AFP Roosevelt F,Monday
+A-064423,Hava Berman,18606 Northeast 23rd Court,Miami,33180,165,16 AFP Route Robert D,Monday
+A-037539,Carolyn Horowitz,1875 N.E. 118th Road,North Miami,33181,154,1 AFP Route Sharion S,Friday
+A-047791,Yael Pinto,1875 Northeast 124th Street,North Miami,33181,133,21 AFP Route Carlos M,Monday
+A-040975,Hossain Kamrul,1896 N.W. 145th Terrace,Pembroke Pines,33028,145,103 AFP Route Vacant,Monday
+A-056484,Juan Pablo Verdiquio,1900 Northeast 119th Road,North Miami,33181,170,17 AFP Roosevelt F,Monday
+A-038629,Toni Pitta,19010 North Bay Road,Miami,33160,139,2 AFP Route Miguel B,Monday
+A-038670,Andrew Dude,1915 Alamanda Drive,Miami,33181,173,17 AFP Roosevelt F,Monday
+A-057163,Martha Seng,1915 Northwest 137th Way,Pembroke Pines,33028,145,105 AFP Route Miguel R,Monday
+A-037370,Donna Wagener,1917 N.E. 119th Road,North Miami,33181,162,17 AFP Roosevelt F,Monday
+A-054008,Primalo LLC,1922 Northeast 119th Road,North Miami,33181,165,17 AFP Roosevelt F,Monday
+A-037533,Mitch Feldman,1930 N.E. 119th Road,North Miami,33181,137,21 AFP Route Carlos M,Monday
+A-037356,David Lichter,1932 N.E. 119th Road,Miami,33181,156,17 AFP Roosevelt F,Monday
+A-037324,Cynthia Levy,1935 N.E. 201st Street,Miami,33179,162,16 AFP Route Robert D,Monday
+A-036622,Anny Alcantara,19360 S.W. 16th Street,Pembroke Pines,33029,123,103 AFP Route Vacant,Monday
+A-036217,Ural Beach Llc (Somari),19429 40th Court,Golden Beach,33160,142,2 AFP Route Miguel B,Monday
+A-038117,Gregory Dean,1950 Alamanda Drive,North Miami,33181,136,15 AFP Route Kymani P,Monday
+A-039827,Shameen Poplaw,1950 N.E.119 Road,Miami,33181,155,17 AFP Roosevelt F,Monday
+A-037248,Mindy Tucker,19501 N.E. 18th Court,Miami,33179,135,16 AFP Route Robert D,Monday
+A-037365,Terrence Segall,1955 N.E. 117th Road,North Miami,33181,132,18 AFP Route Wesley O,Monday
+A-037351,Lois Beiser,1963 N.E. 119th Road,North Miami,33181,137,21 AFP Route Carlos M,Monday
+A-037422,Brian Lerner,19695 N.E. 23rd Court,North Miami Beach,33180,135,16 AFP Route Robert D,Monday
+A-038097,Hilda Piloto,1973 N.E. 119th Road,Miami,33181,131,17 AFP Roosevelt F,Monday
+A-038230,Brenton Ver Ploeg,1980 Tigertail Avenue,Coconut Grove,33153,155,11 AFP Route Honatann B,Monday
+A-056086,Pascal Piller,1982 Northeast 119th Road,North Miami,33181,155,21 AFP Route Carlos M,Monday
+A-051134,Dafna Haroush,1989 Northeast 119th Road,North Miami,33181,470,17 AFP Roosevelt F,Thursday
+A-037417,Rosalind Haller,19891 N.E. 24th Court,Miami,33180,136,16 AFP Route Robert D,Monday
+A-049751,Laurence Cohen,199 Palm Avenue,Miami Beach,33139,159,6 AFP Route Casey D,Monday
+A-045995,Raquel Grosfeld,1990 N.E. 119th Road,Miami,33181,310,21 AFP Route Carlos M,
+A-037312,Christian Takita,19943 N.E. 19th Place,Miami,33179,151,16 AFP Route Robert D,Monday
+A-037543,Martin-SEND INV MONTHLY BY MAIL Marotta,1995 Keystone Boulevard,Keystone Point,33181,105,17 AFP Roosevelt F,Monday
+A-067167,Oscar Hernandez,1995 North Hibiscus Drive,North Miami,33181,270,103 AFP Route Vacant,Tuesday
+A-037321,Patricia Stevens,19985 N.E. 10th Place Way,Miami,33179,144,16 AFP Route Robert D,Thursday
+A-037862,Eleanor Gay,20 N.E. 162nd Street,Miami,33162,142,29 AFP Route Erick B,Monday
+A-038228,Jennifer Ghersi,20 N.W. 89th Street,El Portal,33150,133,24 AFP Route Jorge B,Monday
+A-056885,Thomas Spina,20 Phoenetia Avenue,Coral Gables,33134,145,6 AFP Route Casey D,Monday
+A-038078,Annika Akerlund,200 Cypress Drive,Key Biscayne,33149,126,11 AFP Route Honatann B,Monday
+A-064876,Hilary Fein,20011 Northeast 25th Avenue,Miami,33180,135,16 AFP Route Robert D,Monday
+A-038107,Juan Faria,2005 Arch Creek Drive,North Miami,33181,136,15 AFP Route Kymani P,Monday
+A-069439,Adrian Abreu,2005 Ixora Road,North Miami,33181,145,21 AFP Route Carlos M,Monday
+A-036645,Andrea Edelstein,201 East Dilido Drive,Miami Beach,33139,144,28 AFP Route Jean D,Monday
+A-037475,Samuel Morjain,2014 N.E. 122nd Road,North Miami,33181,143,17 AFP Roosevelt F,Monday
+A-037460,Daniel McFadden,2015 N.E. 120th Road,North Miami,33181,156,11 AFP Route Honatann B,
+A-037550,Patsy & Allan Glaser,2017 N.E. 121st Road,Miami,33181,118.45,21 AFP Route Carlos M,Monday
+A-037329,Chantal Morhaim,2020 N.E. 211th Terrace,Miami,33179,118,16 AFP Route Robert D,Monday
+A-037408,Alison Burns,20201 S.W. 48th Street,Southwest Ranches,33332,145,105 AFP Route Miguel R,Monday
+A-068050,Jimmy Walsh,20220 Northeast 15th Avenue,Miami,33179,145,18 AFP Route Wesley O,Monday
+A-037293,Juanita Johnson,20225 Highland Lakes Boulevard,Miami,33179,145,16 AFP Route Robert D,Monday
+A-053302,Eric Lahtinen,2035 Alamanda Drive,North Miami,33181,155,15 AFP Route Kymani P,Monday
+A-046132,Fernando Maestre,2035 Arch Creek Drive,Miami,33181,140,21 AFP Route Carlos M,Tuesday
+A-053556,Viviana Alvarez,2035 Northeast 121st Road,North Miami,33181,165,14 AFP Route Jorge A,Monday
+A-036629,Sharon Albritton,2040 N.W. 194th Terrace,Miami Gardens,33056,131,16 AFP Route Robert D,Monday
+A-065032,ingrid coard,20401 Northeast 14th Avenue,Miami,33179,140,16 AFP Route Robert D,Monday
+A-036760,Asun Obregon,2041 South Miami Avenue,Miami,33129,135,11 AFP Route Honatann B,Friday
+A-036139,Ananias Pierre,2042 Northeast 120th Road,North Miami,33181,149,21 AFP Route Carlos M,Monday
+A-038163,Eduardo Hinrichs,20471 N.E. 10th Place,Miami,33179,123,16 AFP Route Robert D,Monday
+A-064883,Alfredo Alabata,205 Northeast 101st Street,Miami Shores,33138,145,11 AFP Route Honatann B,Monday
+A-068079,Amy Levin,2055 Northeast 120th Road,North Miami,33181,175,17 AFP Roosevelt F,Monday
+A-065466,Howard Ferster,20620 Northeast 22nd Court,Miami,33180,135,16 AFP Route Robert D,Friday
+A-038011,Jeff & Julie Respler,2075 N.E. 124th Street,North Miami,33181,129,21 AFP Route Carlos M,Monday
+A-037245,Sylvan Lewis,2075 N.E. 204th Street,Miami,33179,145,15 AFP Route Kymani P,Thursday
+A-037528,Garth Reeves,2082 N.E. 121st Road,North Miami,33181,136,21 AFP Route Carlos M,Monday
+A-037473,Tim Lanham,2085 Keystone Boulevard,North Miami,33181,133,17 AFP Roosevelt F,Thursday
+A-036197,Daren Shienbaum,20921 Northeast 21st Avenue,Miami,33179,138,16 AFP Route Robert D,Monday
+A-037418,Connie Collins,20930 N.E. 24th Avenue,Miami,33180,136,16 AFP Route Robert D,Monday
+A-053080,Michael - Customer Pays for 6 months Homer,2098 Northeast 181st Street,North Miami Beach,33162,145,14 AFP Route Jorge A,Monday
+A-036943,Dave Lawrence,210 N.E. 102nd Street,Miami Shores,33138,145,18 AFP Route Wesley O,Monday
+A-052312,Shah Mahsesh,21131 Northeast 25th Court,Miami,33180,135,16 AFP Route Robert D,Monday
+A-065337,Emelia Diaz,2125 South Miami Avenue,Miami,33129,135,11 AFP Route Honatann B,Monday
+A-037291,Ken Friedman,21305 N.E. 19th Court,Miami,33179,148,16 AFP Route Robert D,Monday
+A-068208,Nick Hernandez,2135 South Miami Avenue,Miami,33129,145,11 AFP Route Honatann B,Friday
+A-037342,Roger Koch,2137 Hibiscus Circle,North Miami,33181,179,17 AFP Roosevelt F,Monday
+A-037317,Bruce Nabat,21411 N.E. 21st Avenue,Miami,33179,146,16 AFP Route Robert D,Monday
+A-037322,Charles Sanders,21424 N.E. 19th Court,Miami,33179,150,16 AFP Route Robert D,Monday
+A-065060,Rochel Elkayam,2145 Northeast 124th Street,North Miami,33181,135,21 AFP Route Carlos M,Monday
+A-038300,Rachel Davis,2157 North 72nd Terrace,Pembroke Pines,33024,134,103 AFP Route Vacant,Monday
+A-055209,Andrea Settembrino,2159 N.E. 59th Court,Fort Lauderdale,33308,165,25 AFP Route Carlos S,Thursday
+A-067143,Scott - Email Paylink Monthly Laborsky,216 Southwest 29th Road,Miami,33129,145,11 AFP Route Honatann B,Monday
+A-040349,Rachel Cardello,2175 Tigertail Avenue,Miami,33133,275,11 AFP Route Honatann B,Monday
+A-038111,Beth Moshe,2180 N.E. 122nd Street,North Miami,33181,259,17 AFP Roosevelt F,Friday
+A-036628,Betty (Felecia Bridges - Sease) Bridges,2200 N.W. 189th Terrace,Miami,33056,136,16 AFP Route Robert D,Monday
+A-037450,Michael Benchetrit,2205 N.E. 207th Street,North Miami Beach,33180,144,15 AFP Route Kymani P,Thursday
+A-055839,Jean Pierre,221 Northeast 24th Street,Pompano Beach,33064,165,25 AFP Route Carlos S,Thursday
+A-036646,Elaine MAIL & EMAIL INVOICES Roark,221 West San Marino Drive,Miami Beach,33139,175,28 AFP Route Jean D,Monday
+A-057401,Iven Sharrak,2210 Northeast 120th Street,North Miami,33181,165,15 AFP Route Kymani P,Monday
+A-046698,Madeline Elias,2211 Northeast 124th Street,North Miami,33181,140.65,17 AFP Roosevelt F,Monday
+A-053145,Mark Paley,2220 Northeast 202nd Street,Miami,33180,135,16 AFP Route Robert D,Monday
+A-037441,Jerry Reich,2223 N.E. 203rd Terrace,North Miami Beach,33180,142,16 AFP Route Robert D,Monday
+A-036187,Alexander Schachler,223 Northeast 108th Street,North Miami,33161,138,21 AFP Route Carlos M,Monday
+A-037421,Penny Shaffer,2240 N.E. 197th Street,Miami,33180,135,16 AFP Route Robert D,Monday
+A-037428,Rebecca Yaker,2241 N.E. 202nd Street,Miami,33180,138,16 AFP Route Robert D,Monday
+A-067364,Randie Hernandez,2243 Keystone Boulevard,North Miami,33181,145,17 AFP Roosevelt F,Monday
+A-036298,Alex Roman,225 N.E. 96th Street,Miami Shores,33138,150,24 AFP Route Jorge B,Monday
+A-037544,Carmen Jackson,2255 N.E. 121st Street,North Miami,33181,130,17 AFP Roosevelt F,Monday
+A-066523,NM Realty LLC,2255 Northeast 120th Street,North Miami,33181,145,21 AFP Route Carlos M,Monday
+A-067318,Ksenia Gruenberg,2261 Northeast 192 Street,Miami,33180,135,,Wednesday
+A-038114,Ida Lang,2290 N.E. 121st Street,North Miami,33181,133,17 AFP Roosevelt F,Monday
+A-037355,Daniel Wood,2290 N.E. 122nd Street,North Miami,33181,145,21 AFP Route Carlos M,Monday
+A-037360,Kim Marks,2293 Bay View Lane,North Miami,33181,149,17 AFP Roosevelt F,Monday
+A-038105,Natan Bresler,2297 N.E. 121st Street,North Miami,33181,134,17 AFP Roosevelt F,Monday
+A-048114,Michelle Jayme,230 Northeast 102nd Street,Miami Shores,33138,159,18 AFP Route Wesley O,Monday
+A-065243,Kathryn & Alfonso Leon,230 Southwest 21st Road,Miami,33129,119.69,14 AFP Route Jorge A,Monday
+A-036967,Paulo Cesar Vasques,2323 Lake Avenue,Miami Beach,33140,199,28 AFP Route Jean D,Monday
+A-041935,Carl Herrmann,2330 Prairie Avenue,Miami Beach,33140,155,28 AFP Route Jean D,Monday
+A-037557,Stephen Sullivan,2340 Arch Creek Drive,North Miami,33181,298.05,21 AFP Route Carlos M,
+A-038108,Monica Greidinger,2345 Biscayne Bay Drive,Miami,33181,135,21 AFP Route Carlos M,Monday
+A-036732,Yale Samole,235 North Hibiscus Drive,Miami Beach,33139,146,28 AFP Route Jean D,Monday
+A-037354,Kevin Gourrier,2350 Bayview Lane,North Miami,33181,135.96,15 AFP Route Kymani P,Monday
+A-037443,Marci Rosenthal,2355 N.E. 214th Street,Miami,33180,143.17,16 AFP Route Robert D,Tuesday
+A-038112,Ervin Peretz,2365 Arch Creek Drive,North Miami,33181,136,21 AFP Route Carlos M,Monday
+A-038441,Anthony Markofsky,238 Park Drive,Bal Harbor,33154,151,2 AFP Route Miguel B,Monday
+A-064399,AZRNJ LLC,240 187th Street,Sunny Isles Beach,33160,155,2 AFP Route Miguel B,Monday
+A-038406,Thomas Deredec,240 North Shore Drive,Miami Beach,33141,172,5 AFP Route Freddy S,Monday
+A-038632,Ellen Block,240 South Island Road,Golden Beach,33160,176.95,2 AFP Route Miguel B,Monday
+A-037439,Linda Pierre,2401 N.E. 199th Street,Miami,33180,136,16 AFP Route Robert D,Monday
+A-038154,Maurice Sepe,2401 North Shore Terrace,Miami Beach,33141,155,5 AFP Route Freddy S,Monday
+A-037434,Russell Karr,2405 N.E. 194th Street,North Miami Beach,33180,151,16 AFP Route Robert D,Monday
+A-041134,Attila Biro,241 N.W. 92nd Street,Miami Shores,33150,159,29 AFP Route Erick B,Monday
+A-037419,Kara Friedman,2420 N.E. 197th Street,Miami,33180,165,16 AFP Route Robert D,Monday
+A-063519,Wendy Craan,2425 Northwest 132nd Street,Miami,33167,155,14 AFP Route Jorge A,Saturday
+A-037423,Robert Beckham,2451 N.E. 200th Street,North Miami Beach,33180,133,16 AFP Route Robert D,Friday
+A-038540,John Chao,2475 S.W. 29th Avenue,Miami,33145,135,7 AFP Route Andra G,Friday
+A-037042,John Berryman,248 N.E. 98th Street,Miami Shores,33138,140,18 AFP Route Wesley O,Monday
+A-051184,Felipe Valencia,248 Northeast 199th Terrace,Miami,33179,155,16 AFP Route Robert D,Monday
+A-053513,Ryan Stewart,249 Hammond Drive,Miami Springs,33166,175,14 AFP Route Jorge A,Monday
+A-037934,Irvin Baulkman,2494 N.W. 112th Street,Miami,33167,157,24 AFP Route Jorge B,Monday
+A-036710,Seymour Frankfurt,2501 Lucerne Avenue,Miami Beach,33140,136,28 AFP Route Jean D,Thursday
+A-066521,Jean Normil,2530 Northwest 175th Terrace,Miami Gardens,33056,165,16 AFP Route Robert D,Monday
+A-037097,Ernesto Cohan,254 Golden Beach Drive,North Miami Beach,33160,153,2 AFP Route Miguel B,Monday
+A-036998,Charles Lowrie,254 West 35th Street,Miami Beach,33140,144,28 AFP Route Jean D,Monday
+A-055822,Keith Mitchell,2540 Northwest 16th Street,Fort Lauderdale,33311,155,105 AFP Route Miguel R,Monday
+A-065498,Guillermo Pinon,256 Southwest 30th Road,Miami,33129,135,11 AFP Route Honatann B,Monday
+A-069509,Simon Czamanski,257 Palm Avenue,Miami Beach,33139,145,6 AFP Route Casey D,Friday
+A-069070,Juan Uribe,260 Northeast 95th Street,Miami Shores,33138,185,1 AFP Route Sharion S,Thursday
+A-036514,Brad Nicholson,260 West 35th Street,Miami Beach,33140,141,28 AFP Route Jean D,Monday
+A-038048,Steve Sparks,2614 Biarritz Drive,Miami Beach,33141,139,5 AFP Route Freddy S,Monday
+A-062787,Daniela Pia Trezza,2614 Clematis Place,Fort Lauderdale,33301,150,105 AFP Route Miguel R,Monday
+A-037580,Todd Lovinger,2657 Bayview Drive,Fort Lauderdale,33306,136,105 AFP Route Miguel R,Monday
+A-043425,Christine Welstead,269 N.E. 100th Street,Miami Shores,33138,145,24 AFP Route Jorge B,Monday
+A-038287,Luis Caso,27 Nw 109th Street,Miami,33127,170,24 AFP Route Jorge B,Monday
+A-036289,Heiko Dobrikow,270 N.E. 100th Street,Miami Shores,33138,133,29 AFP Route Erick B,Monday
+A-066527,Michael Soffer,2720 Dewey Street,Hollywood,33020,135,103 AFP Route Vacant,Monday
+A-037865,Bennie Hill,275 N.E. 154th Street,North Miami Beach,33162,145,1 AFP Route Sharion S,Thursday
+A-037043,Jill Campbell,278 N.E. 97th Street,Miami Shores,33138,148,24 AFP Route Jorge B,Monday
+A-036737,John Gardiner,28 West Rivo Alto Drive,Miami Beach,33139,123.6,28 AFP Route Jean D,Monday
+A-046504,Talia Saka,2817 Prairie Avenue,Miami Beach,33140,155,28 AFP Route Jean D,Monday
+A-037011,Ross Sawitz,2830 Sunset Drive,Miami Beach,33140,144,28 AFP Route Jean D,Thursday
+A-038203,Debbie Cianfoni,285 Buttonwood Drive,Key Biscayne,33149,155,11 AFP Route Honatann B,Monday
+A-036572,Steven Mandell,285 Fairway Drive,Miami Beach,33141,136,,Monday
+A-037037,Warren Bittner,287 N.E. 96th Street,Miami,33138,147,24 AFP Route Jorge B,Monday
+A-069358,Matthew Hicks,287 Northwest 120th Street,Miami,33168,253.47,6 AFP Route Casey D,Tuesday
+A-056429,Karen Sigel,2899 Juniper Lane,Davie,33330,145,105 AFP Route Miguel R,Tuesday
+A-037939,Besson Alexandra,29 N.W. 110th Street,Miami,33168,134,21 AFP Route Carlos M,Monday
+A-069308,Brendan Murphy,29 Northwest 96th Street,Miami Shores,33150,140,18 AFP Route Wesley O,Monday
+A-038224,Guy Chetwind,290 N.W. 86th Street,El Portal,33150,173,24 AFP Route Jorge B,Monday
+A-053600,Neptune Christian,290 Northeast 108th Street,Miami,33161,140,17 AFP Roosevelt F,Monday
+A-038058,Sonja McDonald,2930 N.W. 69th Terrace,Miami,33147,148,1 AFP Route Sharion S,Monday
+A-036096,David Saranow,295 Northeast 94th Street,Miami Shores,33138,138,24 AFP Route Jorge B,Monday
+A-062585,Wintown Property South LLC,2951 Southwest 17th Place,Fort Lauderdale,33312,159,105 AFP Route Miguel R,Monday
+A-038066,Nick Stanham,299 West Enid Drive,Key Biscayne,33149,147,11 AFP Route Honatann B,Monday
+A-041099,Mable Smith,30 Northwest 88th Street,Miami,33150,159,29 AFP Route Erick B,Monday
+A-036103,Jordan Siberry,3000 Southwest 4th Avenue,Miami,33129,175,11 AFP Route Honatann B,Monday
+A-036977,Michael Dalley,3035 Royal Palm Avenue,Miami Beach,33140,145,28 AFP Route Jean D,Monday
+A-053476,Francis De Groote,3055 Washington Street,Miami,33133,180,11 AFP Route Honatann B,Monday
+A-057120,Derrick Bowling,308 Northeast 22nd Street,Wilton Manors,33305,155,105 AFP Route Miguel R,Monday
+A-069098,Patrick Sendowski,31 Northeast 43rd Street,Miami,33137,135,15 AFP Route Kymani P,Monday
+A-036303,Stephen Symes,313 N.E. 92nd Street,Miami Shores,33138,147,29 AFP Route Erick B,Monday
+A-037122,Mario Grosfield,3142 N.E. 166th Street,North Miami Beach,33160,265,103 AFP Route Vacant,Monday
+A-066548,Aslanoba Fatih,315 North Shore Drive,Miami Beach,33141,215,5 AFP Route Freddy S,Monday
+A-066746,Namphuyo McCray,315 Northwest 111th Street,Miami Shores,33168,135,24 AFP Route Jorge B,Monday
+A-046569,Malcom Resnick,3155 North 39th Street,Hollywood,33021,135,103 AFP Route Vacant,Thursday
+A-036985,Angel Triana,3157 Royal Palm Avenue,Miami Beach,33140,151,28 AFP Route Jean D,Monday
+A-036213,John Massad,319 Layne Boulovard,Hallandale,33009,134,105 AFP Route Miguel R,Monday
+A-051650,Lucia Muntean,319 Mendoza Avenue,Miami,33134,145,6 AFP Route Casey D,Monday
+A-064304,Ryan Amin,3190 Northeast 165th Street,North Miami Beach,33160,180,2 AFP Route Miguel B,Monday
+A-038256,Norman Powell,320 Grand Concourse,Miami Shores,33138,159,24 AFP Route Jorge B,Monday
+A-051878,Cristina Mitu,320 Northwest 47th Street,Miami,33127,155,18 AFP Route Wesley O,Monday
+A-038186,Lynn Strauss,3203 N.E. 166th Street,North Miami Beach,33160,133,2 AFP Route Miguel B,Monday
+A-038635,Eric (Do Not put on Auto-p) Isicoff,3206 N.E. 168th Street,North Miami Beach,33160,142,2 AFP Route Miguel B,Monday
+A-062967,Stephanie Coirin,321 Southwest 30th Court,Miami,33135,160,14 AFP Route Jorge A,Monday
+A-064514,Camille Shawn,321 West Dilido Drive,Miami Beach,33139,135,28 AFP Route Jean D,Monday
+A-055556,Earnest Quinn,3245 Northwest 80th Terrace,Miami,33147,165,11 AFP Route Honatann B,Monday
+A-037880,Goksel Karaaslan,3282 N.E 166th Street,North Miami Bch,33160,144,2 AFP Route Miguel B,Monday
+A-036806,Rita Holder,3303 Flamingo Drive,Miami Beach,33140,138,28 AFP Route Jean D,Monday
+A-036562,Thaer Alabgouti,3332 S.W. 179th Avenue,Miramar,33029,148,103 AFP Route Vacant,Monday
+A-054081,Adriana Gomez,3350 Flamingo Drive,Miami Beach,33140,165,28 AFP Route Jean D,Monday
+A-062328,Villa Realty Corp.,340 Atlantic Road,Key Biscayne,33149,155,11 AFP Route Honatann B,Monday
+A-036697,Larry Ciment,3420 Chase Avenue,Miami Beach,33140,145,,Tuesday
+A-037099,Daniel Soranno,3421 N.E. 170th Street,North Miami Beach,33160,146,2 AFP Route Miguel B,Monday
+A-036502,Michael Sorenson,3425 Chase Avenue,Miami Beach,33140,147,28 AFP Route Jean D,Monday
+A-038642,Randy Goldberg,3426 N.E. 168th Street,North Miami Beach,33160,135,2 AFP Route Miguel B,Monday
+A-036820,Ari Ciment,3456 Prairie Avenue,Miami Beach,33140,228,28 AFP Route Jean D,Monday
+A-038019,Rivka Stone,3460 Royal Palm Avenue,Miami Beach,33140,156,28 AFP Route Jean D,Monday
+A-056685,Leslie Lazega,3467 Northeast 168th Street,North Miami Beach,33160,170,103 AFP Route Vacant,Monday
+A-056037,TRS Anchorage Property Trust,3525 Anchorage Way,Miami,33133,145,,
+A-053884,Bert Delldale,3540 Crystal View Court,Miami,33133,155,11 AFP Route Honatann B,Monday
+A-038088,Denisse Garcia,355 West Enid Drive,Key Biscayne,33149,136,11 AFP Route Honatann B,Monday
+A-036715,Cassidy (no auto-p) Buckland,358 N.E. 94th Street,Miami Shores,33138,133,21 AFP Route Carlos M,Monday
+A-044583,Mr. Chaim Cahane,3606 Flamingo Drive,Miami Beach,33140,155,28 AFP Route Jean D,Monday
+A-048034,Ashlee Wright,361 Northeast 97th Street,Miami Shores,33138,190,18 AFP Route Wesley O,Monday
+A-036832,Lauren Amron,3624 Royal Palm Avenue,Coconut Grove,33133,136,7 AFP Route Andra G,Monday
+A-038073,Enrique Jauregui,365 Heather Lane,Key Biscayne,33149,137,11 AFP Route Honatann B,Monday
+A-054393,Joan Gabriele,3650 North 54th Avenue,Hollywood,33021,145,105 AFP Route Miguel R,Monday
+A-036847,Jim Kushlan,3661 Bougainvillea Road,Coconut Grove,33133,150,11 AFP Route Honatann B,Thursday
+A-037435,Jose Uchuya,3711 N.E. 207th Terrace,Aventura,33180,133,16 AFP Route Robert D,Monday
+A-038495,Island Way Community Association,3749 Northeast 208th Street,Aventura,33180,292,16 AFP Route Robert D,Monday
+A-038565,Hassia Diolombi,375 Grand Concourse,Miami,33138,138,24 AFP Route Jorge B,Monday
+A-067538,Cristina Sostre,375 Ridgewood Road,Key Biscayne,33149,165,11 AFP Route Honatann B,Monday
+A-037034,Wanda B. Hewitt,381 N.E. 84th Street,Miami,33138,166,24 AFP Route Jorge B,Monday
+A-063786,Larsen Katherine,381 Northeast 103rd Street,Miami Shores,33138,165,29 AFP Route Erick B,Monday
+A-038076,Rene Asher,381 West Heather Drive,Key Biscayne,33149,137,11 AFP Route Honatann B,Monday
+A-036833,Phillip Kushlan,3830 Carole Court,Coconut Grove,33133,154,7 AFP Route Andra G,Monday
+A-037057,Gonzalo Perez,395 N.E. 96th Street,Miami,33138,133,17 AFP Roosevelt F,Monday
+A-038270,Juan Pinzon,395 North Shore Drive,Miami Beach,33141,144,5 AFP Route Freddy S,Friday
+A-037688,Cleo Burrows,3990 N.W. 50th Avenue,Lauderdale Lake,33319,118,105 AFP Route Miguel R,Monday
+A-037971,Tje16 Llc,400 N.W. 136th Street,Miami,33168,136,16 AFP Route Robert D,Monday
+A-061774,Bettsy Ueno,400 Northeast 132nd Terrace,North Miami,33161,145,16 AFP Route Robert D,Monday
+A-064179,Iliza Novack,4002 East Sailboat Drive,Hollywood,33026,119.97,103 AFP Route Vacant,Monday
+A-038077,Carlos Huerta,402 Fernwood Road,Key Biscayne,33149,142,11 AFP Route Honatann B,Monday
+A-037272,Lynda *call customer* Irving,4021 Blue Grass Lane,Davie,33330,138,105 AFP Route Miguel R,Monday
+A-038644,Michael Lustigman,4027 194th Trail,Sunny Isles Beach,33160,138,2 AFP Route Miguel B,Monday
+A-038459,Audrey Diaz,4033 S.W. 62nd Avenue,Miami,33155,135,6 AFP Route Casey D,Monday
+A-064032,George Pita,4045 Ensenada Avenue,Miami,33133,125,11 AFP Route Honatann B,Monday
+A-036591,Alejandro Carrasco,405 East San Marino Drive,Miami Beach,33139,230,28 AFP Route Jean D,Monday
+A-049055,Bennett Royal,405 Northeast 146th Street,Miami,33161,155,16 AFP Route Robert D,Monday
+A-062337,Susan Martin,4051 North 33rd Terrace,Hollywood,33021,155,105 AFP Route Miguel R,Monday
+A-038536,Cia Mackle,410 Costanera Road,Miami,33143,180,7 AFP Route Andra G,Monday
+A-057109,Mabel Acosta,410 Northwest 106th Street,Miami,33150,155,24 AFP Route Jorge B,Monday
+A-036763,Dave Murray,410 S.W. 30th Road,Miami,33129,133,11 AFP Route Honatann B,Friday
+A-052194,Michael Comras,410 West San Marino Drive,Miami Beach,33139,170,5 AFP Route Freddy S,Monday
+A-068768,Lisset & Denis Bugeja,4131 El Prado Boulevard,Miami,33133,145,14 AFP Route Jorge A,Friday
+A-038254,Victoria Grant,415 Fairway Drive,Miami Beach,33141,136,5 AFP Route Freddy S,Monday
+A-037867,Faith Goodin,415 N.E. 157th Terrace,North Miami,33162,127,16 AFP Route Robert D,Monday
+A-050990,Digna Riva,415 Northeast 127th Street,North Miami,33161,155,16 AFP Route Robert D,Monday
+A-036611,Eric Stewart,4162 S.W. 188th Avenue,Miramar,33029,133,103 AFP Route Vacant,Thursday
+A-038631,Rochelle Parrino,417 Golden Beach Drive,Golden Beach,33160,151,2 AFP Route Miguel B,Monday
+A-036792,Rhonda Sharbani,4170 Nautilus Drive,Miami Beach,33140,165,28 AFP Route Jean D,Monday
+A-066392,Joe llanes,42 Southwest 18th Road,Miami,33129,145,11 AFP Route Honatann B,Monday
+A-036338,Darin Held,420 N.E 87th Street,Miami,33138,144,18 AFP Route Wesley O,Monday
+A-038665,Ana Rivera,420 N.W. 112th Terrace,Miami Shores,33168,138,29 AFP Route Erick B,Monday
+A-062554,Ron Benedit,420 West 44th Street,Miami Beach,33140,165,28 AFP Route Jean D,Monday
+A-066329,Pavel 2 Stepanov,422 Southeast 3rd Street,Dania Beach,33004,125,103 AFP Route Vacant,Monday
+A-036921,Dr. Kim / Carl MAILED INVOICES ONLY Jacobsen,4235 Lake Road,Miami,33137,136,29 AFP Route Erick B,Monday
+A-036499,David Wester,4244 Chase Avenue,Miami Beach,33140,139,28 AFP Route Jean D,Monday
+A-048389,Jorge Dona,4245 Lake Road,Miami,33137,204,29 AFP Route Erick B,Monday
+A-037377,Mark Amarant,4253 Sw 134 Ave.,Davie,33330,186,105 AFP Route Miguel R,Friday
+A-036690,Peter Hamilton,4275 Nautilus Drive,Miami Beach,33140,123.6,28 AFP Route Jean D,Monday
+A-036516,Perry Greenfield,4293 Praire Avenue,Miami Beach,33140,141,28 AFP Route Jean D,Monday
+A-038190,Leah Solomon,430 N.E. 53rd Street,Miami,33137,149,29 AFP Route Erick B,Monday
+A-036522,Solomon & Lindsay Genet,4310 North Michigan Avenue,Miami Beach,33140,152,28 AFP Route Jean D,Monday
+A-036551,William Greenspan,4312 Sw 126 Ave.,Miramar,33027,136,103 AFP Route Vacant,Wednesday
+A-036914,Paul Schiller,4315 Alton Road,Miami Beach,33140,144,28 AFP Route Jean D,Monday
+A-037038,Ralph Choeff,4315 North Jefferson,Miami Beach,33140,143,28 AFP Route Jean D,Monday
+A-036738,James Brewster,433 East Dilido Drive,Miami Beach,33139,144,5 AFP Route Freddy S,Monday
+A-036396,Talia Freiman,4330 North Hills Drive,Hollywood,33021,123,105 AFP Route Miguel R,Monday
+A-064261,Nina Sargent,4334 Alton Road,Miami Beach,33140,155,28 AFP Route Jean D,Monday
+A-036507,Claude Roy,4335 Meridian Avenue,Miami Beach,33140,147,28 AFP Route Jean D,Monday
+A-037280,Robert Vatsan,4343 S.W. 134th Avenue,Davie,33330,145,103 AFP Route Vacant,Monday
+A-036302,Alex Barreras,437 N.E. 102nd Street,Miami,33138,133,18 AFP Route Wesley O,Monday
+A-036989,Tracy Birnbach,4401 North Bay Road,Miami Beach,33140,126,28 AFP Route Jean D,Monday
+A-036490,Andrew Mandala,4420 Pinetree Drive,Miami Beach,33140,151,28 AFP Route Jean D,Monday
+A-036521,Steve Chaneles,4427 Nautilus Drive,Miami Beach,33140,144,28 AFP Route Jean D,Monday
+A-037076,Alyson Holob,444 N.E. 101st Street,Miami Shores,33138,144,18 AFP Route Wesley O,Monday
+A-036785,Ron Miller,4441 North Bay Road,Miami Beach,33140,136,28 AFP Route Jean D,Monday
+A-036805,Lars Ekdahl,4449 North Bay Road,Miami Beach,33140,141,28 AFP Route Jean D,Monday
+A-036886,Louise Daniels,4460 Sabal Palm Road,Miami,33137,145,29 AFP Route Erick B,Monday
+A-038034,Milda Gutierrez,4466 Alton Road,Miami Beach,33140,145,28 AFP Route Jean D,Friday
+A-048732,Angel & Matilda Tropp,4466 Prairie Avenue,Miami Beach,33140,169,28 AFP Route Jean D,Monday
+A-036219,Normand Trubiano,448 Tamarind Drive,Hallandale,33009,273.69,105 AFP Route Miguel R,
+A-050837,Antonella Langone,449 Poinciana Drive,Hallandale Beach,33009,159,105 AFP Route Miguel R,Monday
+A-036221,Roger Rex,449 Tamarind Drive,Hallandale,33009,137,105 AFP Route Miguel R,Monday
+A-054853,Daniel Rafael,4490 Royal Palm Avenue,Miami Beach,33140,165,28 AFP Route Jean D,Wednesday
+A-038465,Benjamin Epstein,4490 S.W. 62nd Court,Miami,33155,152,7 AFP Route Andra G,Monday
+A-062200,Adam Cohen,4501 Royal Palm Avenue,Miami Beach,33140,320,28 AFP Route Jean D,Friday
+A-067173,Esther Goelman,4529 Royal Palm Avenue,Miami Beach,33140,145,28 AFP Route Jean D,Monday
+A-048840,Marcela Gjinia,455 Holiday Drive,Hallandale Beach,33009,159,105 AFP Route Miguel R,Monday
+A-064545,Liza Samuel,4550 North Michigan Avenue,Miami,33140,135,28 AFP Route Jean D,Monday
+A-037481,Elia Robles,4550 S.W. 149th Court,Miami,33185,148,6 AFP Route Casey D,Monday
+A-036969,Alexis Wagner,4554 Adams Avenue,Miami Beach,33140,142,28 AFP Route Jean D,Monday
+A-037563,Lisa Neumayer,456 N.E. 17th Way,Fort Lauderdale,33301,136,105 AFP Route Miguel R,Monday
+A-036326,Jennifer Quinton,457 N.E. 95th Street,Miami,33138,147,24 AFP Route Jorge B,Monday
+A-036970,Leib Schapiro,460 West 43rd Street,Miami Beach,33140,134,28 AFP Route Jean D,Monday
+A-037083,Michael Dribin,4601 Post Avenue,Miami Beach,33140,148,28 AFP Route Jean D,Monday
+A-065476,Monica Garcia,461 Northeast 17th Way,Fort Lauderdale,33301,135,105 AFP Route Miguel R,Thursday
+A-046948,Alessandra Groppi,462 Hampton Lane,Key Biscayne,33149,175,11 AFP Route Honatann B,Monday
+A-036821,Sheila Hollo,4622 North Bay Road,Miami Beach,33140,204,28 AFP Route Jean D,Monday
+A-036489,Sheila Bistritzky,4625 Post Avenue,Miami Beach,33140,137,28 AFP Route Jean D,Monday
+A-038029,Viviana Tenenbaum,4630 Prarie Avenue,Miami Beach,33140,180,28 AFP Route Jean D,Monday
+A-038204,Arie Jusidman,468 Bay Lane,Key Biscayne,33149,177,11 AFP Route Honatann B,Monday
+A-036889,Malisa Delahiguera,4715 N.E. Miami Court,Miami,33137,138,24 AFP Route Jorge B,Monday
+A-036898,Daniel Santiago,4720 N.E. 1st Avenue,Miami,33137,170,1 AFP Route Sharion S,Monday
+A-050891,Ashaki Rucker,4722 Southwest 5th Street,Coral Gables,33134,135,7 AFP Route Andra G,Monday
+A-064919,Marcos Drobiner,473 Tamarind Drive,Hallandale Beach,33009,135,105 AFP Route Miguel R,Monday
+A-055821,Buena Vista District LLC,4736 Northeast Miami Court,Miami,33137,150,18 AFP Route Wesley O,Monday
+A-037030,Anthony Pantano,48 N.E. 88th Street,Miami Shores,33138,173,24 AFP Route Jorge B,Monday
+A-055192,Will Murray,480 Northeast 31st Street PH#5402,Miami,33137,535,6 AFP Route Casey D,Monday
+A-045801,Sean Posner,4815 North Bay Road,Miami Beach,33140,235,28 AFP Route Jean D,Monday
+A-038068,Michael Henderson,482 Hampton Lane,Key Biscayne,33149,136,11 AFP Route Honatann B,Monday
+A-036884,Juan Nunez,484 N.E. 50th Terrace,Miami,33137,148,1 AFP Route Sharion S,Monday
+A-036587,Daniel Von,49 West Rivo Alto Drive,Miami Beach,33139,136,28 AFP Route Jean D,Monday
+A-037101,Jack Halliwell,495 Center Island Drive,Golden Beach,33160,157,2 AFP Route Miguel B,Monday
+A-050447,Russell Rywell,4955 Delaware Avenue,Miami Beach,33140,165,28 AFP Route Jean D,Monday
+A-046309,Fernando Sonnino,4975 Delaware Avenue,Miami Beach,33140,150,28 AFP Route Jean D,Monday
+A-045763,Cathia Darling,5000 N.W. 15th Avenue,Miami,33142,155,24 AFP Route Jorge B,Monday
+A-037892,Susan Zinn,5000 North Bay Road,Miami Beach,33140,211,28 AFP Route Jean D,Monday
+A-036503,Brad Golden,5003 Delaware Avenue,Miami Beach,33140,144,28 AFP Route Jean D,Monday
+A-038070,Norexa Henriquez,501 Harbor Drive,Key Biscayne,33149,180,11 AFP Route Honatann B,Monday
+A-036816,Irene Sabo,5045 North Bay Road,Miami Beach,33140,136,5 AFP Route Freddy S,Monday
+A-036987,Cecilia Castillo,5101 Lakeview Drive,Miami Beach,33140,151,5 AFP Route Freddy S,Monday
+A-036411,Dan Green,511 N.E. 94th Street,Miami Shores,33138,156,18 AFP Route Wesley O,Monday
+A-050920,Jaramillo Rafael,511 Northeast 52nd Street,Miami,33137,160,29 AFP Route Erick B,Monday
+A-036795,Robert Young,5130 Alton Road,Miami Beach,33140,170,28 AFP Route Jean D,Monday
+A-054595,Manuel Martinez,515 Grand Concourse,Miami Shores,33138,290,29 AFP Route Erick B,Monday
+A-037749,Gepsie Metellus,515 N.E. 107th Street,Miami Shores,33161,143,24 AFP Route Jorge B,Monday
+A-037594,Chris Kane,516 West Campus Circle,Fort Lauderdale,33312,147,105 AFP Route Miguel R,Monday
+A-056362,H. Paul Mazer,520 Hunting Lodge Drive,Miami Springs,33166,160,14 AFP Route Jorge A,Monday
+A-036875,Albert Maykel,520 Melaleuca Lane,Miami,33137,149,29 AFP Route Erick B,Monday
+A-049881,Tracy Cohen,520 North Island Road,Golden Beach,33160,169,2 AFP Route Miguel B,Monday
+A-050512,Giovanni Munoz,520 Northeast 118th Street,Miami,33161,165,21 AFP Route Carlos M,Monday
+A-048978,Viviane Cetoute,520 Northeast 136th Street,North Miami,33161,159,21 AFP Route Carlos M,Monday
+A-036756,Ben Ribaudo,521 S.W. 28th Road,Miami,33129,136,11 AFP Route Honatann B,Friday
+A-069317,Davide Danese,5237 Alton Road,Miami Beach,33140,160,28 AFP Route Jean D,Monday
+A-036508,Laura Bernstein,5238 Alton Road,Miami Beach,33140,207,28 AFP Route Jean D,Monday
+A-036308,Ben Kristen Acquario/Jones,524 90th Street,Surfside,33154,159,2 AFP Route Miguel B,Monday
+A-036700,Kim Lord-Strulovis,5252 La Gorce Drive,Miami Beach,33140,144,5 AFP Route Freddy S,Monday
+A-036218,Dave Cuscuna,526 Holiday Drive,Hallandale,33009,145,105 AFP Route Miguel R,Monday
+A-036671,Ocean Boulevard Llc.,527 East Dilido Drive,Miami Beach,33139,150,28 AFP Route Jean D,Monday
+A-038080,Enrique Falla,527 Sabel Palm Drive,Key Biscayne,33149,142,11 AFP Route Honatann B,Monday
+A-038071,Steve Ettenheim,527 Satinwood Drive,Key Biscayne,33149,141,11 AFP Route Honatann B,Monday
+A-038328,Raj Karlan & Mandeep Singh,53 Camden Drive,Bal Harbor,33154,137,2 AFP Route Miguel B,Monday
+A-068890,Virgina Hayward,530 Northeast 52nd Street,Miami,33137,160,24 AFP Route Jorge B,Thursday
+A-038414,Gustavo Hegewisch,530 Santurce Avenue,Miami,33143,151,7 AFP Route Andra G,Monday
+A-049354,Gail Dewitt,5335 Lagorce Drive,Miami Beach,33140,159,28 AFP Route Jean D,Monday
+A-038006,Lyla (call before charging) Todywala,5340 N.W. 104th Court,Miami,33178,148,14 AFP Route Jorge A,Monday
+A-036808,Dr. Nancy Gould,5343 Alton Road,Miami Beach,33140,144,5 AFP Route Freddy S,Monday
+A-036791,Krista Richman,5344 La Gorce Drive,Miami Beach,33140,218,2 AFP Route Miguel B,Monday
+A-038601,Dan Ehrenstein,5345 Fairchild Way,Coral Gables,33156,162,7 AFP Route Andra G,Monday
+A-038567,Doug Broeker,538 N.E. 55th Terrace,Miami,33137,143,29 AFP Route Erick B,Monday
+A-037102,Alex Gordon,540 Ocean Boulevard,Golden Beach,33160,144,2 AFP Route Miguel B,Monday
+A-038523,Fernando Fernandez,540 Tivoli Avenue,Coral Gables,33143,193,7 AFP Route Andra G,Monday
+A-038652,John Stout,541 N.E. 106th Street,Miami Shores,33138,149,29 AFP Route Erick B,Monday
+A-036902,Pat- MAIL INVS Caralis,541 Pidgeon Plum Lane,Miami,33137,144,29 AFP Route Erick B,Monday
+A-036493,Dan Gelber,5445 La Gorce Drive,Miami Beach,33140,180,5 AFP Route Freddy S,Monday
+A-039143,Enrique Novella,545 Allendale Road,Key Biscayne,33149,159,11 AFP Route Honatann B,Monday
+A-038423,Brad & Sarah Larson,545 Hampton Lane,Key Biscayne,33149,173,11 AFP Route Honatann B,Monday
+A-036112,Carlton Saint-Aime,545 Northeast 139th Street,North Miami,33161,283.75,21 AFP Route Carlos M,Monday
+A-050838,Jeremy Klein,545 Sabal Palm Road,Miami,33137,155,29 AFP Route Erick B,Monday
+A-038553,Jared Abrams,5470 Lagorce Drive,Miami Beach,33140,234,28 AFP Route Jean D,Monday
+A-069088,549 MB LLC,549 West 47th Street,Miami Beach,33140,165,5 AFP Route Freddy S,Tuesday
+A-036907,George Helmstetter,550 Sabal Palm Road,Miami,33137,172,29 AFP Route Erick B,Monday
+A-037747,Carl Manzelli,560 N.E. 108th Street,North Miami,33161,139,21 AFP Route Carlos M,Monday
+A-054694,Gayle Pomerantz,560 West 51st Terrace,Miami Beach,33140,160,5 AFP Route Freddy S,Monday
+A-067227,Carlos Tobon,5601 Arbor Lane,Coral Gables,33156,160,14 AFP Route Jorge A,Friday
+A-036758,Robert F & Christel Skinner,561 Sabal Palm Drive,Key Biscayne,33149,151,11 AFP Route Honatann B,Monday
+A-037668,Jorge Fraticelli,5644 S Sterling Ranch Drive,Davie,33314,139,103 AFP Route Vacant,Monday
+A-038266,Oleg Pyriq,565 Lakeview Drive,Miami Beach,33140,139,5 AFP Route Freddy S,Monday
+A-037681,Patricia Carpenter,5660 Oakwood Road,Plantation,33317,128,105 AFP Route Miguel R,Monday
+A-036716,Jon & Abra Adrabi,57 N.E. 93rd Street,Miami,33138,164,18 AFP Route Wesley O,Monday
+A-068532,Angie Guerrero,5701 Southwest 33rd Street,Miami,33155,145,6 AFP Route Casey D,Thursday
+A-037107,James Allen,571 Golden Beach Drive,Golden Beach,33160,144,2 AFP Route Miguel B,Monday
+A-038206,Marcella Yanes,571 South Mashta Drive,Key Biscayne,33149,125,11 AFP Route Honatann B,Monday
+A-038460,Nilia Gasson,5712 S.W. 26th Street,Miami,33155,253,7 AFP Route Andra G,Monday
+A-036168,David Wallack,5725 North Bayshore Drive,Miami,33137,185,24 AFP Route Jorge B,Monday
+A-057122,Franziska Alesso,5728 Pine Tree Drive,Miami Beach,33140,165,5 AFP Route Freddy S,Monday
+A-068070,Carmen Irizarry,5731 Southwest 107th Street,Miami,33156,180,,Monday
+A-036950,Esther Denise,576 N.E. 97th Street,Miami Shores,33138,147,18 AFP Route Wesley O,Monday
+A-066423,Stewart Angel,580 Reinante Avenue,Coral Gables,33156,1150,7 AFP Route Andra G,Monday
+A-037766,Tracy Hunter,5801 Pinetree Drive,Miami Beach,33140,167,5 AFP Route Freddy S,Monday
+A-036510,Laurie Holtz,5846 LaGorce Drive,Miami Beach,33140,139,5 AFP Route Freddy S,Monday
+A-036495,Liz Borges,5860 Pinetree Drive,Miami Beach,33140,147,5 AFP Route Freddy S,Monday
+A-036885,Vanessa Elias,589 N.E. 57th Street,Miami,33137,147,18 AFP Route Wesley O,Monday
+A-069533,Veronica Vecchitto,590 Northeast 52nd Terrace,Miami,33137,145,17 AFP Roosevelt F,Friday
+A-037663,Heather Hoffman,5901 S.W. 33rd Terrace,Fort Lauderdale,33312,155,105 AFP Route Miguel R,Monday
+A-036903,Sam Luby,5911 N.E. 6th Avenue,Miami,33137,161,18 AFP Route Wesley O,Monday
+A-055145,Daykel Menendez,5920 Southwest 27th Street,Miami,33155,155,7 AFP Route Andra G,Monday
+A-036512,Elliot Basner,5931 North Bay Road,Miami Beach,33140,135,2 AFP Route Miguel B,Monday
+A-036876,Philip Sturges,5946 N.E. 5th Avenue,Miami,33137,136,29 AFP Route Erick B,Monday
+A-063394,Steffen Kruger,60 Northeast 89th Street,El Portal,33138,310,18 AFP Route Wesley O,Tuesday
+A-036906,Alejandro Granado,600 Sabal Palm Road,Miami,33137,156,17 AFP Roosevelt F,Monday
+A-036962,Jay & Carmen Leonard,6044 Pinetree Drive,Miami Beach,33140,144,2 AFP Route Miguel B,Monday
+A-038461,Stephanie Hofmann,6046 S.W. 31st Street,Miami,33155,135,7 AFP Route Andra G,Monday
+A-038250,Fernanda Pacini,605 North Shore Drive,Miami Beach,33141,151,5 AFP Route Freddy S,Monday
+A-066297,Olga Poisik,607 Cardinal Street,Plantation,33324,145,105 AFP Route Miguel R,Monday
+A-037120,Nicole (SEND PAYLINK) Bassman,610 Ocean Boulevard,Golden Beach,33160,169,2 AFP Route Miguel B,Friday
+A-062373,Ryan Marks,611 Bird Road,Coral Gables,33146,165,7 AFP Route Andra G,Monday
+A-036935,David Young,617 Sabal Palm Road,Miami,33137,154,17 AFP Roosevelt F,Monday
+A-036913,Jonathan & Liz Levy,617 West 46th Street,Miami Beach,33140,168,28 AFP Route Jean D,Monday
+A-038467,Samantha Murphy,6262 S.W. 50th Terrace,Miami,33155,298,7 AFP Route Andra G,Monday
+A-037768,Vitali Teperchuk,630 N.E. 121st Street,Biscayne Park,33161,201,29 AFP Route Erick B,Monday
+A-062978,Jon Freeman,630 Southeast 25th Avenue,Fort Lauderdale,33301,155,105 AFP Route Miguel R,Monday
+A-038392,Joel Rattner,6324 North Bay Road,Miami Beach,33141,169,28 AFP Route Jean D,Monday
+A-038595,Cindy Boozer,6350 S.W. 114th Street,Miami,33156,168,7 AFP Route Andra G,Monday
+A-062299,Alex Uslar,6350 Southwest 23rd Street,Miami,33155,155,7 AFP Route Andra G,Monday
+A-038091,Barbara Savage,640 Ridgewood Road,Key Biscayne,33149,146,11 AFP Route Honatann B,Monday
+A-037071,Rana Buckner,646 N.E. 83rd Street,Miami,33138,151,24 AFP Route Jorge B,Monday
+A-036866,David Katz,650 North Mashta Drive,Key Biscayne,33149,135,11 AFP Route Honatann B,Monday
+A-038464,Rick Cano,6500 S.W. 49th Terrace,Miami,33155,135,7 AFP Route Andra G,Monday
+A-038511,Lisa Dirienzo,6535 S.W. 82nd Avenue,Miami,33143,134,7 AFP Route Andra G,Monday
+A-038513,Mary Jane Starr,6550 S.W. 58th Street,Miami,33143,143,7 AFP Route Andra G,Monday
+A-038399,Olivier Foulquier,6580 Indian Creek Drive #606,Miami Beach,33141,180,5 AFP Route Freddy S,Monday
+A-037866,Milton Smiley,660 N.E. 172nd Terrace,Miami,33162,135,16 AFP Route Robert D,Monday
+A-036934,Berry Perrin,660 N.E. 50th Terrace,Miami,33137,130,18 AFP Route Wesley O,Monday
+A-036887,Sharon MAIL INVOICES Robinson,660 Sable Palm Road,Miami,33137,146,29 AFP Route Erick B,Monday
+A-036928,John Sicilian,665 N.E. 25th Street PH #201,Miami,33137,219,6 AFP Route Casey D,Friday
+A-052169,Miami Shores Holding LLC,667 Northeast 105th Street,Miami Shores,33138,165,24 AFP Route Jorge B,Monday
+A-037385,Jeff Granger,6670 West Wedgewood Avenue,Davie,33331,142,103 AFP Route Vacant,Monday
+A-038672,Nicolas Cortes,670 South Mashta Drive,Key Biscayne,33149,160,11 AFP Route Honatann B,Monday
+A-057452,CARL JOHNSON,670 Southwest 92nd Passage,Miami,33174,155,6 AFP Route Casey D,Monday
+A-036124,Winston & Sonia Webb,6720 Royal Melbourne Drive,Hialeah,33015,138,14 AFP Route Jorge A,Monday
+A-036882,Rosa Sugranes,675 N.E. 50th Terrace,Miami,33137,156,24 AFP Route Jorge B,Monday
+A-038065,Dennis Harrold,675 Woodcrest Road,Key Biscayne,33149,143,11 AFP Route Honatann B,Monday
+A-038200,Joachin Gunkel,676 Ridgewood Drive,Key Biscayne,33149,146,11 AFP Route Honatann B,Monday
+A-052049,Brice Rege-Turo,680 Curtiswood Drive,Miami,33149,165,11 AFP Route Honatann B,Monday
+A-049871,Nicholas Barna,6885 Gleneagle Drive,Miami Lakes,33014,290.96000000000004,14 AFP Route Jorge A,
+A-036685,Pamela Padilla,690 Allendale Road,Key Biscayne,33149,149,11 AFP Route Honatann B,Monday
+A-067812,Ruth Naranjo,6920 Bottle Brush Drive,Miami Lakes,33014,150,14 AFP Route Jorge A,Monday
+A-036235,Manuela Fonte,6921 Bottlebrush Drive,Hialeah,33014,133,14 AFP Route Jorge A,Monday
+A-038408,Daniel Jones,6925 Trouville Estate,Miami Beach,33141,166,5 AFP Route Freddy S,Monday
+A-038514,Ayman Rizkalla,6930 S.W. 64th Court,Miami,33143,135,7 AFP Route Andra G,Monday
+A-046781,Brett Friedman,695 Northeast 70th Street,Miami,33138,159,24 AFP Route Jorge B,Monday
+A-043606,Claude Sezalory,699 North Mashta Drive,Key Biscayne,33149,159,11 AFP Route Honatann B,Monday
+A-037679,Ann Henderson,704 S.E. 8th Street,Fort Lauderdale,33316,145,105 AFP Route Miguel R,Monday
+A-044705,Mercedes Muniz,707 West 40th Place,Hialeah,33012,159,14 AFP Route Jorge A,Monday
+A-064431,Thomas Dereymez,71 Northeast 116th Street,Miami,33161,155,1 AFP Route Sharion S,Monday
+A-038201,Dana Jofre,710 North Mashta Drive,Key Biscayne,33149,180,11 AFP Route Honatann B,Monday
+A-068412,Catherine Guerra,7100 Southwest 115th Terrace,Miami,33156,145,6 AFP Route Casey D,Thursday
+A-037891,Juan Cabrera,711 Heron Avenue,Miami Springs,33166,155,14 AFP Route Jorge A,Monday
+A-037077,David Martinez,711 N.E. 72nd Terrace,Miami,33138,139,29 AFP Route Erick B,Monday
+A-047481,Sonia Norris,711 Northeast 159th Street,North Miami Beach,33162,140,16 AFP Route Robert D,Monday
+A-036301,Lianne K. Yao,712 N.E. 95th Street,Miami,33138,148,29 AFP Route Erick B,Monday
+A-037878,Meer Hossain,715 N.E. 152nd Street,Miami,33162,147,21 AFP Route Carlos M,Monday
+A-037567,David Cooper,717 Riviera Isle Drive,Fort Lauderdale,33301,118,105 AFP Route Miguel R,Monday
+A-037661,Barbara Cornell,720 N.E. 140th Street,North Miami,33161,130,17 AFP Roosevelt F,Monday
+A-037562,Jeff Fox,725 Flamingo Drive,Fort Lauderdale,33301,173,105 AFP Route Miguel R,Monday
+A-037466,Mario Vieira,726 N.E. 73rd Street,Miami,33181,210,14 AFP Route Jorge A,Monday
+A-036565,Stefan Chin,728 N.E. 72nd Street,Miami,33138,122,29 AFP Route Erick B,Monday
+A-057092,C2BS LLC,7291 Southwest 47th Court,Miami,33143,150,7 AFP Route Andra G,Monday
+A-037648,Calvin Pitts,730 N.E. 142nd Street,North Miami Beach,33161,122,21 AFP Route Carlos M,Monday
+A-067480,Kirby Gee,7300 Southwest 52nd Court,Miami,33143,140,7 AFP Route Andra G,Monday
+A-037059,Clauidio Tuda,7330 Belle Meade Boulevard,Miami,33138,131,24 AFP Route Jorge B,Monday
+A-038515,Ellen Walker,7330 S.W. 52nd Court,Miami,33143,135,7 AFP Route Andra G,Monday
+A-052467,Antillana Inc. Villa,734 Navarre Avenue,Coral Gables,33134,155,6 AFP Route Casey D,Monday
+A-037976,Vivian Louis,735 N.W. 200th Terrace,Miami,33169,132,16 AFP Route Robert D,Monday
+A-068320,Shannon Strauss,735 Northeast 111th Street,Biscayne Park,33161,215,21 AFP Route Carlos M,Monday
+A-062968,WALTER MONTENEGRO (Charge on the 15th),735 Northeast 72nd Street,Miami,33138,145,,Friday
+A-066284,Qing Chan,7350 Southwest 31st Street,Miami,33155,135,7 AFP Route Andra G,Monday
+A-036948,Jere Miles,7351 Bellemead Island Drive,Miami,33138,141,11 AFP Route Honatann B,Monday
+A-036275,Matthew Robbins,740 N.E. 76th Street,Miami,33138,133,29 AFP Route Erick B,Monday
+A-037759,Lorie Mertes,741 N.E. 114th Street,Miami,33161,136,17 AFP Roosevelt F,Monday
+A-045072,Mitch Sklawer,741 Northeast 87th Street,El Portal,33138,200,17 AFP Roosevelt F,Tuesday
+A-038128,Gaviota South Florida Llc,7411 Beachview Drive,Miami Beach,33141,133,5 AFP Route Freddy S,Monday
+A-036718,Erica Saylor,7420 N.E. 8th Avenue,Miami,33138,133,24 AFP Route Jorge B,Monday
+A-038138,Enrique Zenderman,7421 Beachview Drive,Miami Beach,33141,148,5 AFP Route Freddy S,Monday
+A-037040,Sebastian Tettamanti,745 N.E. 77th Street,Miami,33138,137,24 AFP Route Jorge B,Monday
+A-038676,Vivien Dorsey,745 N.E. 88th Street,Miami,33138,138,24 AFP Route Jorge B,Monday
+A-036241,Luis Torres,7455 N.W. 167th Street,Hialeah,33015,134,14 AFP Route Jorge A,Monday
+A-037938,Joseph Louissaint,75 N.W. 124th Street,Miami,33168,140,21 AFP Route Carlos M,Monday
+A-039751,Ryna Headrick-Kirschning,750 N.E. 121st Street,North Miami,33161,135,21 AFP Route Carlos M,Monday
+A-053352,Daniel Boatman,750 Northeast 113th Street,Biscayne Park,33161,155,21 AFP Route Carlos M,Monday
+A-036804,Mark Breslow,750 West 51st Street,Miami Beach,33140,135,5 AFP Route Freddy S,Monday
+A-067209,Beth Sims,7500 Southwest 147th Court,Miami,33193,119.95,6 AFP Route Casey D,Monday
+A-038584,Scott Lyons,7505 S.W. 113th Street,Miami,33156,173,7 AFP Route Andra G,Monday
+A-053494,Ryan Whidby,7509 Adventure Avenue,North Bay Village,33141,210,5 AFP Route Freddy S,Monday
+A-037874,Richard (no auto-p) Silverstein,751 N.E. 151st Street,North Miami Beach,33162,139,16 AFP Route Robert D,Thursday
+A-052099,Maria Moraes,7531 Beachview Drive,North Bay Village,33141,155,5 AFP Route Freddy S,Monday
+A-067155,Kathy Chen,7531 Center Bay Drive,North Bay Village,33141,70,5 AFP Route Freddy S,Monday
+A-051591,Wendy Duvall,7549 Buccaneer Avenue,North Bay Village,33141,155,5 AFP Route Freddy S,Monday
+A-038293,Lucila Tijman,755 Lakeview Drive,Miami Beach,33140,132,5 AFP Route Freddy S,Monday
+A-036360,Dan Kerr,759 N.E. 94th Street,Miami Shores,33138,136,29 AFP Route Erick B,Monday
+A-038089,Max Bercum,760 Myrtlewood Lane,Key Biscayne,33149,267.65999999999997,11 AFP Route Honatann B,Monday
+A-038152,Paul Murphy,7600 Coquina Drive,Miami Beach,33141,144,5 AFP Route Freddy S,Monday
+A-046104,Jack Rattner,7611 Beach View Drive,North Bay Village,33141,135,28 AFP Route Jean D,Monday
+A-046100,Goldie Wasman,765 North Shore Drive,Miami Beach,33141,169,5 AFP Route Freddy S,Monday
+A-063482,Jarred Leibner,7711 Coquina Drive,North Bay Village,33141,155,5 AFP Route Freddy S,Monday
+A-036598,Megan Murphy,7755 Noremac Avenue,Miami Beach,33139,129,5 AFP Route Freddy S,Monday
+A-038174,Rolando Machado,7790 Nw 162nd Terrace,Hialeah,33016,123,14 AFP Route Jorge A,Monday
+A-038199,Marcus Berto,780 Harbor Drive,Key Biscayne,33149,146,11 AFP Route Honatann B,Monday
+A-057647,Kaitlyn Metcalfe,780 Northwest 43rd Street,Oakland Park,33309,170,105 AFP Route Miguel R,Monday
+A-038149,Marietta Vogel,7801 Beachview Drive,Miami Beach,33141,129,5 AFP Route Freddy S,Monday
+A-038140,Zeke Rodriguez,7810 Beachview Drive,Miami Beach,33141,144,5 AFP Route Freddy S,Monday
+A-068836,Hillary Masters,7820 Hawthorne Avenue,Miami Beach,33141,135,,Monday
+A-038084,Christina Cuervo,786 Curtiswood Drive,Key Biscayne,33149,145,11 AFP Route Honatann B,Monday
+A-036520,Henri Spiegel,790 West 49th Street,Miami Beach,33140,144,5 AFP Route Freddy S,Monday
+A-064914,Carolina Arguelles,7901 Southwest 37th Terrace,Miami,33155,135,7 AFP Route Andra G,Monday
+A-065484,"Steven & Berenika ""MUST LEAVE DOOR HANGER"" Walbroehl",795 Lakeview Drive,Miami Beach,33140,145,28 AFP Route Jean D,Monday
+A-068100,Nicolas Cortes,797 Ridgewood Road,Key Biscayne,33149,145,11 AFP Route Honatann B,Monday
+A-066345,Jim Dettore,"799 Crandon Boulevard
+PH 7",Key Biscayne,33149,250,11 AFP Route Honatann B,Thursday
+A-063664,Michael Sullivan,799 Northeast 72nd Street,Miami,33138,170,18 AFP Route Wesley O,Monday
+A-052786,Ferruh Tasdemir,7990 Hawthorne Avenue,Miami Beach,33141,165,5 AFP Route Freddy S,Monday
+A-037691,Widmayer Boucard,7998 Nw 21 Street,Sunrise,33322,145,105 AFP Route Miguel R,Monday
+A-062642,Chartouni Rhona & Adib,800 Lake Road,Miami,33137,155,24 AFP Route Jorge B,Monday
+A-036160,Walter Puls,801 90th Street,Surfside,33154,159,2 AFP Route Miguel B,Monday
+A-055722,Kevin Feeney,801 Falcon Avenue,Miami Springs,33166,145,14 AFP Route Jorge A,Monday
+A-036436,Jacob Khan,801 N.E. 72nd Street,Miami,33138,141,24 AFP Route Jorge B,Monday
+A-057816,Vlade Lembovski,811 Northeast 73rd Street,Miami,33138,155,29 AFP Route Erick B,Monday
+A-068241,David Chavarria,8111 North Bayshore Drive,Miami,33138,145,29 AFP Route Erick B,Monday
+A-037646,Beatriz Romero,820 N.E. 118th Street,Miami,33161,151,21 AFP Route Carlos M,Monday
+A-067161,Michelle Bresler,820 Northeast 73rd Street,Miami,33138,125,29 AFP Route Erick B,Monday
+A-039890,Geoff Green,821 South Shore Drive,Miami Beach,33141,135,5 AFP Route Freddy S,Monday
+A-038582,Larry & Cassandra Zacke,8220 S.W. 96th Street,Miami,33156,136,7 AFP Route Andra G,Monday
+A-037320,Thomas Joly,824 N.E. 205th Terrace,Miami,33179,136,16 AFP Route Robert D,Monday
+A-036355,Mila Bizzotto,8251 N.E. 12th Avenue,Miami,33138,137,29 AFP Route Erick B,Monday
+A-045019,Sheila Lopez,8260 N Bayshore Dr,Miami,33135,135,29 AFP Route Erick B,Monday
+A-037346,Richard Carmel,835 Lenox Avenue,Miami Beach,33139,212,28 AFP Route Jean D,Monday
+A-038120,Jack Barnes,8400 North Bayshore Drive,Miami,33181,151,29 AFP Route Erick B,Thursday
+A-064263,Arturo Cadilla,841 Northeast 95th Street,Miami Shores,33138,155,21 AFP Route Carlos M,Friday
+A-057506,Ana Paz,844 Tyler Street,Hollywood,33019,320,105 AFP Route Miguel R,
+A-036325,Philippe Dadesky,845 N.E. 74th Street,Miami,33138,147,24 AFP Route Jorge B,Monday
+A-037052,Lynda Devarona,8510 N.E. 10th Avenue,Miami,33138,136,24 AFP Route Jorge B,Monday
+A-052142,Amir Mahini,8591 North Bayshore Drive,Miami,33138,180,29 AFP Route Erick B,Monday
+A-037048,Gunther Meyer,860 N.E. 98th Street,Miami Shores,33138,148,24 AFP Route Jorge B,Monday
+A-036464,Geraldine Coleman,8640 Miramar Parkway,Miramar,33025,136,103 AFP Route Vacant,Tuesday
+A-062853,Robert Greenberg,870 North Shore Drive,Miami Beach,33141,170,5 AFP Route Freddy S,Monday
+A-036940,Leah Levy,8700 N.E. 10th Avenue,Miami,33138,134,24 AFP Route Jorge B,Monday
+A-065347,Michael Buzzi,8701 Southwest 86th Court,Miami,33143,135,7 AFP Route Andra G,Monday
+A-054360,Betsy Olmino,8721 Southwest 27th Street,Davie,33328,155,105 AFP Route Miguel R,Monday
+A-037612,A.D.O.M.,8801 North Bayshore Drive,Miami,33138,212,29 AFP Route Erick B,
+A-038591,David Wilson,8818 Hawthorne Avenue,Surfside,33154,244.18,2 AFP Route Miguel B,
+A-036418,Shane & Jessie Light,8849 North Bayshore Drive,Miami,33138,326,21 AFP Route Carlos M,Tuesday
+A-036357,David Vecchitto,8865 N.E. 9th Court,Miami Shores,33138,144,29 AFP Route Erick B,Monday
+A-046345,Daniel Rodriguez,890 N.E. 113th Street,Biscayne Park,33161,145,21 AFP Route Carlos M,Monday
+A-040344,Charles Faibisch,8911 North Bayshore Drive,Miami,33138,165,18 AFP Route Wesley O,Monday
+A-056689,Genesis Conway,8915 Southwest 102nd Court,Miami,33176,160,6 AFP Route Casey D,Monday
+A-037036,James Bridges,8935 N.E. 10th Avenue,Miami Shores,33138,135,24 AFP Route Jorge B,Monday
+A-047629,David Carmona,8958 Carlyle Avenue,Surfside,33154,138,2 AFP Route Miguel B,Monday
+A-065283,Nikki Holbrook,900 Calbira Ave,Coral Gables,33134,120,7 AFP Route Andra G,Monday
+A-036282,Ken Barrington,900 N.E. 78th Street,Miami,33138,128,29 AFP Route Erick B,Monday
+A-054184,Ronald Frazier,900 Northeast 97th Street,Miami Shores,33138,155,24 AFP Route Jorge B,Monday
+A-061955,Brendaliz Goldstein,9000 Northeast 4th Avenue,El Portal,33138,165,17 AFP Roosevelt F,Monday
+A-038231,Virginia-Holly Rango,9009 Carlyle Avenue,Surfside,33154,133,2 AFP Route Miguel B,Monday
+A-036717,Judy Shannon,901 N.E. 84th Street,Miami,33138,133,24 AFP Route Jorge B,Monday
+A-038330,Mila Leon,9016 Garland Avenue,Miami Beach,33154,137,18 AFP Route Wesley O,Monday
+A-042743,Regino Rodriguez,9065 Froude Avenue,Surfside,33154,135,2 AFP Route Miguel B,Monday
+A-066321,Pavel 1 Stepanov,"907 N 13th Ave Hollywood, FL",Hollywood,33019,125,1 AFP Route Sharion S,Monday
+A-036295,Clark Knapp,9105 North Bayshore Drive,Miami,33138,137,18 AFP Route Wesley O,Monday
+A-063171,Vania Cruz,911 Northeast 84th Street,Miami,33138,135,18 AFP Route Wesley O,Monday
+A-038057,Launtrice (MAIL INVOICES) Starke,9115 N.W. 13th Avenue,Miami,33147,137,14 AFP Route Jorge A,Monday
+A-050370,Eunice Hogan,9125 Northwest 13th Avenue,North Miami,33167,155,14 AFP Route Jorge A,Monday
+A-067723,Vanessa Robinson,9135 Northwest 13th Avenue,Miami,33147,155,14 AFP Route Jorge A,Monday
+A-045749,Mark Huffman,915 NE 120 Street,Miami,33161,145,17 AFP Roosevelt F,Monday
+A-052239,Benjamin Moratov,9165 Harding Avenue,Surfside,33154,147,2 AFP Route Miguel B,Monday
+A-067718,Robert Stout,92 Northeast 90th Street,El Portal,33138,150,29 AFP Route Erick B,Monday
+A-064760,Marcio Lucchese,9200 Bay Drive,Surfside,33154,130,2 AFP Route Miguel B,Monday
+A-037995,Luis Ramos,9200 S.W. 100th Ave Road,Miami,33176,134,7 AFP Route Andra G,Tuesday
+A-050890,Harold Fenzl,9209 Emerson Avenue,Surfside,33154,160,2 AFP Route Miguel B,Monday
+A-047174,Joshua Patkin,921 North Venetian Drive,Miami Beach,33139,324.5,5 AFP Route Freddy S,Monday
+A-065490,Cynthia Rodriguez,9211 Southwest 12th Street,Miami,33174,135,14 AFP Route Jorge A,Monday
+A-043726,LLC IMB Investment,924 N.E. 109th Street,Biscayne Park,33161,159,21 AFP Route Carlos M,Monday
+A-053874,Melissa Lake,926 Northeast 109th Street,Biscayne Park,33161,155,17 AFP Roosevelt F,Monday
+A-038059,Roosevelt Cullins,9280 Little River Boulevard,Miami,33147,148,24 AFP Route Jorge B,Monday
+A-038220,Corey Valestra,9301 N.W. 2nd Place,Miami Shores,33150,180,24 AFP Route Jorge B,Monday
+A-068049,Todd Schefflin,9314 Northwest 2nd Place,Miami Shores,33150,120,18 AFP Route Wesley O,Monday
+A-038435,Micheal Horn,9317 Carlyle Avenue,Surfside,33154,144,2 AFP Route Miguel B,Monday
+A-062689,Jeffery Kopple,9324 Carlyle Avenue,Surfside,33154,155,5 AFP Route Freddy S,Monday
+A-055658,Cynthia Hilu,9349 Byron Avenue,Surfside,33154,150,2 AFP Route Miguel B,Monday
+A-051953,Rick Borge,9376 Northeast 9th Place,Miami Shores,33138,155,18 AFP Route Wesley O,Monday
+A-047684,Lauren Caban,940 Northeast 118th Street,Biscayne Park,33161,185,21 AFP Route Carlos M,Monday
+A-037895,Michelle Carvajal,940 Quail Avenue,Miami Springs,33166,133,14 AFP Route Jorge A,Monday
+A-067580,Lynda Galitz,9400 East Broadview Drive,Bay Harbor Islands,33154,145,2 AFP Route Miguel B,Monday
+A-038596,Jim Walker,9401 S.W. 60th Court,Miami,33156,271,7 AFP Route Andra G,Monday
+A-038317,Saeed Fini,9416 Bay Drive,Surfside,33154,182,2 AFP Route Miguel B,Monday
+A-055865,Rodger Vieira,9417 Carlyle Avenue,Surfside,33154,155,2 AFP Route Miguel B,Monday
+A-062056,Cristobal Raveau,945 Northeast 89th Terrace,Miami,33138,155,24 AFP Route Jorge B,Monday
+A-038332,Ilene Tessler,9450 East Broadview Drive,Bay Harbor Isl.,33154,135,2 AFP Route Miguel B,Monday
+A-050502,Luis Guardia,9477 Southwest 224th Terrace,Cutler Bay,33190,0,,
+A-038446,Rochelle Finvarb,9500 West Broadview Drive,Bay Harbor,33154,165,2 AFP Route Miguel B,Monday
+A-038980,Juliana Arraras,9549 Byron Avenue,Surfside,33154,159,2 AFP Route Miguel B,Monday
+A-062644,Leopoldo Bertini,955 Northeast 89th Terrace,Miami,33138,155,24 AFP Route Jorge B,Monday
+A-038322,Joan Di Pietro,96 Bal Cross Drive,Bal Harbor,33154,123,2 AFP Route Miguel B,Monday
+A-041742,Oliver Di Pietro,9707 N.E. 5th Avenue,Miami Shores,33138,159,18 AFP Route Wesley O,Monday
+A-038002,Ron Bernstein,9740 S.W. 127th Street,Miami,33176,133,7 AFP Route Andra G,Monday
+A-049019,Johan Pedraza,980 Northeast 78th Street,Miami,33138,159,29 AFP Route Erick B,Monday
+A-037055,Christine Clavijo,9825 N.E. 4th Avenue Road,Miami,33138,126.69,24 AFP Route Jorge B,Monday
+A-054295,Jono De Leon,985 Northeast 116th Street,Biscayne Park,33161,155,21 AFP Route Carlos M,Monday
+A-036393,Shannon Rohlman,99 Juniper Road,Hollywood,33021,136,103 AFP Route Vacant,Monday
+A-038000,Marilyn Sussman,9901 S.W. 99th Street,Miami,33176,133,7 AFP Route Andra G,Monday
+A-038237,Prosper Mamane,9911 West Broadview Drive,Bay Harbor,33154,156,2 AFP Route Miguel B,Monday

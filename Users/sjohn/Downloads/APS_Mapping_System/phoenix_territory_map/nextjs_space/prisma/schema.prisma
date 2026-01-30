@@ -1,0 +1,31 @@
+generator client {
+    provider = "prisma-client-js"
+    binaryTargets = ["native", "linux-musl-arm64-openssl-3.0.x"]
+    output = "/home/ubuntu/phoenix_territory_map/nextjs_space/node_modules/.prisma/client"
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  ADMIN
+  LEVEL2
+  LEVEL1
+}
+
+model User {
+  id                String   @id @default(cuid())
+  email             String   @unique
+  password          String?  // Nullable until user sets their password
+  role              UserRole @default(LEVEL1)
+  hasRegistered     Boolean  @default(false)
+  verificationCode  String?  // 6-digit code for email verification
+  codeExpiresAt     DateTime? // Expiry time for verification code
+  emailVerified     Boolean  @default(false) // Track if email has been verified
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+  
+  @@index([email])
+}

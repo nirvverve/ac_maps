@@ -1,0 +1,1046 @@
+[
+  {
+    "zipCode": "85321",
+    "permittedPools": 13
+  },
+  {
+    "zipCode": "85645",
+    "permittedPools": 31
+  },
+  {
+    "zipCode": "85086",
+    "permittedPools": 1834,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85119",
+    "permittedPools": 544,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85120",
+    "permittedPools": 380,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85322",
+    "permittedPools": 4
+  },
+  {
+    "zipCode": "85323",
+    "permittedPools": 1202,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85392",
+    "permittedPools": 3177,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85602",
+    "permittedPools": 7
+  },
+  {
+    "zipCode": "85326",
+    "permittedPools": 2250,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85396",
+    "permittedPools": 2434,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85377",
+    "permittedPools": 8
+  },
+  {
+    "zipCode": "85122",
+    "permittedPools": 1847,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85193",
+    "permittedPools": 32,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85194",
+    "permittedPools": 308,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85327",
+    "permittedPools": 1
+  },
+  {
+    "zipCode": "85331",
+    "permittedPools": 6171,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85224",
+    "permittedPools": 4101,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85225",
+    "permittedPools": 4491,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85226",
+    "permittedPools": 4036,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85246",
+    "permittedPools": 1
+  },
+  {
+    "zipCode": "85248",
+    "permittedPools": 2802,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85249",
+    "permittedPools": 6957,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85286",
+    "permittedPools": 5106,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85128",
+    "permittedPools": 240,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85641",
+    "permittedPools": 1,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85641",
+    "permittedPools": 52,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85086",
+    "permittedPools": 1,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85335",
+    "permittedPools": 627,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85131",
+    "permittedPools": 170,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85132",
+    "permittedPools": 761,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85264",
+    "permittedPools": 40
+  },
+  {
+    "zipCode": "85268",
+    "permittedPools": 3928,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85337",
+    "permittedPools": 2
+  },
+  {
+    "zipCode": "85233",
+    "permittedPools": 4393,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85234",
+    "permittedPools": 6092,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85295",
+    "permittedPools": 4148,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85296",
+    "permittedPools": 5080,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85297",
+    "permittedPools": 3593,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85298",
+    "permittedPools": 5156,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85301",
+    "permittedPools": 1452,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85302",
+    "permittedPools": 3159,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85303",
+    "permittedPools": 1492,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85304",
+    "permittedPools": 3552,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85305",
+    "permittedPools": 853,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85306",
+    "permittedPools": 2445,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85307",
+    "permittedPools": 415
+  },
+  {
+    "zipCode": "85308",
+    "permittedPools": 8045,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85310",
+    "permittedPools": 3264,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85318",
+    "permittedPools": 3
+  },
+  {
+    "zipCode": "85118",
+    "permittedPools": 955,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85119",
+    "permittedPools": 10,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85338",
+    "permittedPools": 4825,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85395",
+    "permittedPools": 3770,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85614",
+    "permittedPools": 618
+  },
+  {
+    "zipCode": "85622",
+    "permittedPools": 224
+  },
+  {
+    "zipCode": "85283",
+    "permittedPools": 5,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85236",
+    "permittedPools": 2
+  },
+  {
+    "zipCode": "85339",
+    "permittedPools": 2215,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85340",
+    "permittedPools": 3840,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85653",
+    "permittedPools": 592,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85658",
+    "permittedPools": 1425,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85138",
+    "permittedPools": 2119,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85139",
+    "permittedPools": 726,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85201",
+    "permittedPools": 1246,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85202",
+    "permittedPools": 2666,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85203",
+    "permittedPools": 2753,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85204",
+    "permittedPools": 2615,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85205",
+    "permittedPools": 2927,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85206",
+    "permittedPools": 1311,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85207",
+    "permittedPools": 5130,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85208",
+    "permittedPools": 1337,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85209",
+    "permittedPools": 2945,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85210",
+    "permittedPools": 1876,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85211",
+    "permittedPools": 2
+  },
+  {
+    "zipCode": "85212",
+    "permittedPools": 4621,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85213",
+    "permittedPools": 3918,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85214",
+    "permittedPools": 1
+  },
+  {
+    "zipCode": "85215",
+    "permittedPools": 1641,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85274",
+    "permittedPools": 1
+  },
+  {
+    "zipCode": "85277",
+    "permittedPools": 1
+  },
+  {
+    "zipCode": "85342",
+    "permittedPools": 23
+  },
+  {
+    "zipCode": "85087",
+    "permittedPools": 820,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85623",
+    "permittedPools": 64
+  },
+  {
+    "zipCode": "85704",
+    "permittedPools": 13,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85742",
+    "permittedPools": 132,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85755",
+    "permittedPools": 1605,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85253",
+    "permittedPools": 4249,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85345",
+    "permittedPools": 2911,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85373",
+    "permittedPools": 297,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85381",
+    "permittedPools": 2697,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85382",
+    "permittedPools": 3325,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85383",
+    "permittedPools": 8995,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85002",
+    "permittedPools": 1
+  },
+  {
+    "zipCode": "85003",
+    "permittedPools": 283,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85004",
+    "permittedPools": 44
+  },
+  {
+    "zipCode": "85006",
+    "permittedPools": 268,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85007",
+    "permittedPools": 360,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85008",
+    "permittedPools": 904,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85009",
+    "permittedPools": 302,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85012",
+    "permittedPools": 610,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85013",
+    "permittedPools": 1118,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85014",
+    "permittedPools": 849,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85015",
+    "permittedPools": 745,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85016",
+    "permittedPools": 2069,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85017",
+    "permittedPools": 604,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85018",
+    "permittedPools": 4111,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85019",
+    "permittedPools": 1163,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85020",
+    "permittedPools": 2239,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85021",
+    "permittedPools": 2511,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85022",
+    "permittedPools": 3831,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85023",
+    "permittedPools": 2777,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85024",
+    "permittedPools": 2480,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85027",
+    "permittedPools": 2328,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85028",
+    "permittedPools": 4339,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85029",
+    "permittedPools": 3304,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85031",
+    "permittedPools": 957,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85032",
+    "permittedPools": 5287,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85033",
+    "permittedPools": 1975,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85034",
+    "permittedPools": 4
+  },
+  {
+    "zipCode": "85035",
+    "permittedPools": 1137,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85037",
+    "permittedPools": 1828,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85040",
+    "permittedPools": 300,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85041",
+    "permittedPools": 1551,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85042",
+    "permittedPools": 1881,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85043",
+    "permittedPools": 832,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85044",
+    "permittedPools": 4375,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85045",
+    "permittedPools": 1789,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85048",
+    "permittedPools": 5862,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85050",
+    "permittedPools": 3739,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85051",
+    "permittedPools": 2682,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85053",
+    "permittedPools": 2903,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85054",
+    "permittedPools": 548,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85082",
+    "permittedPools": 1
+  },
+  {
+    "zipCode": "85083",
+    "permittedPools": 3072,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85085",
+    "permittedPools": 2426,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85086",
+    "permittedPools": 2953,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85140",
+    "permittedPools": 175,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85142",
+    "permittedPools": 6619,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85144",
+    "permittedPools": 84
+  },
+  {
+    "zipCode": "85118",
+    "permittedPools": 2,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85145",
+    "permittedPools": 2
+  },
+  {
+    "zipCode": "85263",
+    "permittedPools": 343
+  },
+  {
+    "zipCode": "85629",
+    "permittedPools": 819
+  },
+  {
+    "zipCode": "85631",
+    "permittedPools": 12
+  },
+  {
+    "zipCode": "85140",
+    "permittedPools": 1050,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85143",
+    "permittedPools": 1699,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85144",
+    "permittedPools": 618
+  },
+  {
+    "zipCode": "85250",
+    "permittedPools": 1806,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85251",
+    "permittedPools": 2303,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85252",
+    "permittedPools": 1
+  },
+  {
+    "zipCode": "85253",
+    "permittedPools": 1,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85254",
+    "permittedPools": 9684,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85255",
+    "permittedPools": 7685,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85257",
+    "permittedPools": 2273,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85258",
+    "permittedPools": 3977,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85259",
+    "permittedPools": 4552,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85260",
+    "permittedPools": 5068,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85262",
+    "permittedPools": 3442,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85266",
+    "permittedPools": 2693,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85637",
+    "permittedPools": 3
+  },
+  {
+    "zipCode": "85172",
+    "permittedPools": 13
+  },
+  {
+    "zipCode": "85351",
+    "permittedPools": 582,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85373",
+    "permittedPools": 668,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85375",
+    "permittedPools": 1152,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85248",
+    "permittedPools": 772,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85173",
+    "permittedPools": 3
+  },
+  {
+    "zipCode": "85374",
+    "permittedPools": 2261,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85378",
+    "permittedPools": 233,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85379",
+    "permittedPools": 4063,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85387",
+    "permittedPools": 1096,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85388",
+    "permittedPools": 2790,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85281",
+    "permittedPools": 358,
+    "territory": "Central"
+  },
+  {
+    "zipCode": "85282",
+    "permittedPools": 3995,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85283",
+    "permittedPools": 3517,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85284",
+    "permittedPools": 3473,
+    "territory": "East"
+  },
+  {
+    "zipCode": "85288",
+    "permittedPools": 369
+  },
+  {
+    "zipCode": "85353",
+    "permittedPools": 985,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85354",
+    "permittedPools": 35
+  },
+  {
+    "zipCode": "85701",
+    "permittedPools": 24
+  },
+  {
+    "zipCode": "85704",
+    "permittedPools": 2817,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85705",
+    "permittedPools": 229,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85706",
+    "permittedPools": 280,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85710",
+    "permittedPools": 2975,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85711",
+    "permittedPools": 1269,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85712",
+    "permittedPools": 564,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85713",
+    "permittedPools": 313
+  },
+  {
+    "zipCode": "85714",
+    "permittedPools": 60
+  },
+  {
+    "zipCode": "85715",
+    "permittedPools": 1727,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85716",
+    "permittedPools": 749,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85718",
+    "permittedPools": 4490,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85719",
+    "permittedPools": 513
+  },
+  {
+    "zipCode": "85728",
+    "permittedPools": 2
+  },
+  {
+    "zipCode": "85730",
+    "permittedPools": 1897,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85731",
+    "permittedPools": 1
+  },
+  {
+    "zipCode": "85735",
+    "permittedPools": 207
+  },
+  {
+    "zipCode": "85736",
+    "permittedPools": 50
+  },
+  {
+    "zipCode": "85737",
+    "permittedPools": 2831,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85739",
+    "permittedPools": 881,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85740",
+    "permittedPools": 1
+  },
+  {
+    "zipCode": "85741",
+    "permittedPools": 1761,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85742",
+    "permittedPools": 2029,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85743",
+    "permittedPools": 1972,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85745",
+    "permittedPools": 2024,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85746",
+    "permittedPools": 863,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85747",
+    "permittedPools": 1604,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85748",
+    "permittedPools": 1989
+  },
+  {
+    "zipCode": "85749",
+    "permittedPools": 3656,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85750",
+    "permittedPools": 3599,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85752",
+    "permittedPools": 1
+  },
+  {
+    "zipCode": "85755",
+    "permittedPools": 526,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85756",
+    "permittedPools": 349,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85757",
+    "permittedPools": 510,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85641",
+    "permittedPools": 2202,
+    "territory": "Tucson"
+  },
+  {
+    "zipCode": "85355",
+    "permittedPools": 1237,
+    "territory": "West"
+  },
+  {
+    "zipCode": "85390",
+    "permittedPools": 261
+  },
+  {
+    "zipCode": "85192",
+    "permittedPools": 2
+  },
+  {
+    "zipCode": "85361",
+    "permittedPools": 234
+  },
+  {
+    "zipCode": "85363",
+    "permittedPools": 90
+  }
+]

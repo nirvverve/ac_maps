@@ -1,0 +1,173 @@
+[
+  {
+    "zip": "32081",
+    "city": "Ponte Vedra",
+    "latitude": 30.0806656,
+    "longitude": -81.4054585,
+    "activeCount": 129,
+    "terminatedCount": 0,
+    "totalRevenue": 22629.440000000002
+  },
+  {
+    "zip": "32082",
+    "city": "Ponte Vedra",
+    "latitude": 30.1919473,
+    "longitude": -81.36444569999999,
+    "activeCount": 83,
+    "terminatedCount": 0,
+    "totalRevenue": 15246.99
+  },
+  {
+    "zip": "32084",
+    "city": "St. Augustine",
+    "latitude": 29.9079511,
+    "longitude": -81.3494784,
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalRevenue": 186.3
+  },
+  {
+    "zip": "32092",
+    "city": "St. Augustine",
+    "latitude": 30.0402595,
+    "longitude": -81.56441989999999,
+    "activeCount": 22,
+    "terminatedCount": 0,
+    "totalRevenue": 4084.3700000000003
+  },
+  {
+    "zip": "32095",
+    "city": "St. Augustine",
+    "latitude": 30.0236517,
+    "longitude": -81.3939173,
+    "activeCount": 10,
+    "terminatedCount": 0,
+    "totalRevenue": 1727.25
+  },
+  {
+    "zip": "32206",
+    "city": "Jacksonville",
+    "latitude": 30.3580332,
+    "longitude": -81.6442625,
+    "activeCount": 0,
+    "terminatedCount": 0,
+    "totalRevenue": 825
+  },
+  {
+    "zip": "32211",
+    "city": "Jacksonville",
+    "latitude": 30.3356001,
+    "longitude": -81.56591929999999,
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalRevenue": 940
+  },
+  {
+    "zip": "32224",
+    "city": "Jacksonville",
+    "latitude": 30.2741902,
+    "longitude": -81.49542509999999,
+    "activeCount": 28,
+    "terminatedCount": 0,
+    "totalRevenue": 5042.65
+  },
+  {
+    "zip": "32225",
+    "city": "Jacksonville",
+    "latitude": 30.3736174,
+    "longitude": -81.5148746,
+    "activeCount": 7,
+    "terminatedCount": 0,
+    "totalRevenue": 1950.3
+  },
+  {
+    "zip": "32233",
+    "city": "Atlantic Beach",
+    "latitude": 30.341017,
+    "longitude": -81.39798739999999,
+    "activeCount": 15,
+    "terminatedCount": 0,
+    "totalRevenue": 2915.64
+  },
+  {
+    "zip": "32244",
+    "city": "Jacksonville",
+    "latitude": 30.2138446,
+    "longitude": -81.770467,
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalRevenue": 975
+  },
+  {
+    "zip": "32246",
+    "city": "Jacksonville",
+    "latitude": 30.3060673,
+    "longitude": -81.4733581,
+    "activeCount": 9,
+    "terminatedCount": 0,
+    "totalRevenue": 1600
+  },
+  {
+    "zip": "32250",
+    "city": "Jacksonville Beach",
+    "latitude": 30.2707836,
+    "longitude": -81.3985507,
+    "activeCount": 15,
+    "terminatedCount": 0,
+    "totalRevenue": 2824.9500000000003
+  },
+  {
+    "zip": "32256",
+    "city": "Jacksonville",
+    "latitude": 30.194754,
+    "longitude": -81.504626,
+    "activeCount": 10,
+    "terminatedCount": 0,
+    "totalRevenue": 2552.3
+  },
+  {
+    "zip": "32257",
+    "city": "Jacksonville",
+    "latitude": 30.2026755,
+    "longitude": -81.6422654,
+    "activeCount": 3,
+    "terminatedCount": 0,
+    "totalRevenue": 577
+  },
+  {
+    "zip": "32258",
+    "city": "Jacksonville",
+    "latitude": 30.1482221,
+    "longitude": -81.56642289999999,
+    "activeCount": 4,
+    "terminatedCount": 0,
+    "totalRevenue": 700
+  },
+  {
+    "zip": "32259",
+    "city": "Jacksonville",
+    "latitude": 30.1110347,
+    "longitude": -81.6421036,
+    "activeCount": 42,
+    "terminatedCount": 0,
+    "totalRevenue": 7660.050000000001
+  },
+  {
+    "zip": "32266",
+    "city": "Neptune Beach",
+    "latitude": 30.312407,
+    "longitude": -81.4193607,
+    "activeCount": 7,
+    "terminatedCount": 0,
+    "totalRevenue": 1087.77
+  },
+  {
+    "zip": "32277",
+    "city": "Jacksonville",
+    "latitude": 30.3745677,
+    "longitude": -81.59498719999999,
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalRevenue": 165
+  }
+]

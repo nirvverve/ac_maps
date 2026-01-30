@@ -1,0 +1,782 @@
+[
+  {
+    "zip": "85003",
+    "area": "Central",
+    "accounts": 6
+  },
+  {
+    "zip": "85006",
+    "area": "Central",
+    "accounts": 4
+  },
+  {
+    "zip": "85007",
+    "area": "Central",
+    "accounts": 3
+  },
+  {
+    "zip": "85008",
+    "area": "Central",
+    "accounts": 4
+  },
+  {
+    "zip": "85009",
+    "area": "Central",
+    "accounts": 3
+  },
+  {
+    "zip": "85012",
+    "area": "Central",
+    "accounts": 6
+  },
+  {
+    "zip": "85013",
+    "area": "Central",
+    "accounts": 5
+  },
+  {
+    "zip": "85014",
+    "area": "Central",
+    "accounts": 9
+  },
+  {
+    "zip": "85015",
+    "area": "Central",
+    "accounts": 9
+  },
+  {
+    "zip": "85016",
+    "area": "Central",
+    "accounts": 9
+  },
+  {
+    "zip": "85017",
+    "area": "Central",
+    "accounts": 1
+  },
+  {
+    "zip": "85018",
+    "area": "Central",
+    "accounts": 25
+  },
+  {
+    "zip": "85019",
+    "area": "Central",
+    "accounts": 3
+  },
+  {
+    "zip": "85024",
+    "area": "Central",
+    "accounts": 10
+  },
+  {
+    "zip": "85027",
+    "area": "Central",
+    "accounts": 8
+  },
+  {
+    "zip": "85031",
+    "area": "Central",
+    "accounts": 1
+  },
+  {
+    "zip": "85033",
+    "area": "Central",
+    "accounts": 1
+  },
+  {
+    "zip": "85035",
+    "area": "Central",
+    "accounts": 6
+  },
+  {
+    "zip": "85037",
+    "area": "Central",
+    "accounts": 6
+  },
+  {
+    "zip": "85040",
+    "area": "Central",
+    "accounts": 2
+  },
+  {
+    "zip": "85041",
+    "area": "Central",
+    "accounts": 17
+  },
+  {
+    "zip": "85042",
+    "area": "Central",
+    "accounts": 26
+  },
+  {
+    "zip": "85043",
+    "area": "Central",
+    "accounts": 4
+  },
+  {
+    "zip": "85044",
+    "area": "Central",
+    "accounts": 13
+  },
+  {
+    "zip": "85045",
+    "area": "West",
+    "accounts": 5
+  },
+  {
+    "zip": "85051",
+    "area": "Central",
+    "accounts": 8
+  },
+  {
+    "zip": "85201",
+    "area": "Central",
+    "accounts": 4
+  },
+  {
+    "zip": "85202",
+    "area": "Central",
+    "accounts": 9
+  },
+  {
+    "zip": "85203",
+    "area": "Central",
+    "accounts": 11
+  },
+  {
+    "zip": "85204",
+    "area": "Central",
+    "accounts": 5
+  },
+  {
+    "zip": "85205",
+    "area": "Central",
+    "accounts": 9
+  },
+  {
+    "zip": "85206",
+    "area": "Central",
+    "accounts": 5
+  },
+  {
+    "zip": "85208",
+    "area": "East",
+    "accounts": 1
+  },
+  {
+    "zip": "85209",
+    "area": "East",
+    "accounts": 11
+  },
+  {
+    "zip": "85210",
+    "area": "Central",
+    "accounts": 7
+  },
+  {
+    "zip": "85212",
+    "area": "East",
+    "accounts": 15
+  },
+  {
+    "zip": "85215",
+    "area": "East",
+    "accounts": 7
+  },
+  {
+    "zip": "85224",
+    "area": "East",
+    "accounts": 17
+  },
+  {
+    "zip": "85225",
+    "area": "East",
+    "accounts": 12
+  },
+  {
+    "zip": "85233",
+    "area": "East",
+    "accounts": 16
+  },
+  {
+    "zip": "85248",
+    "area": "East",
+    "accounts": 22
+  },
+  {
+    "zip": "85249",
+    "area": "East",
+    "accounts": 33
+  },
+  {
+    "zip": "85250",
+    "area": "Central",
+    "accounts": 8
+  },
+  {
+    "zip": "85251",
+    "area": "Central",
+    "accounts": 7
+  },
+  {
+    "zip": "85253",
+    "area": "Central",
+    "accounts": 8
+  },
+  {
+    "zip": "85254",
+    "area": "Central",
+    "accounts": 56
+  },
+  {
+    "zip": "85255",
+    "area": "Central",
+    "accounts": 39
+  },
+  {
+    "zip": "85256",
+    "area": "Central",
+    "accounts": 1
+  },
+  {
+    "zip": "85257",
+    "area": "Central",
+    "accounts": 14
+  },
+  {
+    "zip": "85258",
+    "area": "Central",
+    "accounts": 18
+  },
+  {
+    "zip": "85259",
+    "area": "Central",
+    "accounts": 21
+  },
+  {
+    "zip": "85260",
+    "area": "Central",
+    "accounts": 22
+  },
+  {
+    "zip": "85262",
+    "area": "Central",
+    "accounts": 12
+  },
+  {
+    "zip": "85266",
+    "area": "Central",
+    "accounts": 14
+  },
+  {
+    "zip": "85048",
+    "area": "East",
+    "accounts": 27
+  },
+  {
+    "zip": "85050",
+    "area": "Central",
+    "accounts": 18
+  },
+  {
+    "zip": "85054",
+    "area": "Central",
+    "accounts": 2
+  },
+  {
+    "zip": "85083",
+    "area": "West",
+    "accounts": 6
+  },
+  {
+    "zip": "85118",
+    "area": "East",
+    "accounts": 2
+  },
+  {
+    "zip": "85119",
+    "area": "East",
+    "accounts": 2
+  },
+  {
+    "zip": "85120",
+    "area": "East",
+    "accounts": 3
+  },
+  {
+    "zip": "85122",
+    "area": "East",
+    "accounts": 89
+  },
+  {
+    "zip": "85123",
+    "area": "East",
+    "accounts": 10
+  },
+  {
+    "zip": "85128",
+    "area": "East",
+    "accounts": 12
+  },
+  {
+    "zip": "85131",
+    "area": "East",
+    "accounts": 6
+  },
+  {
+    "zip": "85132",
+    "area": "East",
+    "accounts": 2
+  },
+  {
+    "zip": "85138",
+    "area": "East",
+    "accounts": 12
+  },
+  {
+    "zip": "85139",
+    "area": "East",
+    "accounts": 6
+  },
+  {
+    "zip": "85140",
+    "area": "East",
+    "accounts": 8
+  },
+  {
+    "zip": "85142",
+    "area": "East",
+    "accounts": 17
+  },
+  {
+    "zip": "85143",
+    "area": "East",
+    "accounts": 7
+  },
+  {
+    "zip": "85193",
+    "area": "East",
+    "accounts": 4
+  },
+  {
+    "zip": "85194",
+    "area": "East",
+    "accounts": 11
+  },
+  {
+    "zip": "85207",
+    "area": "East",
+    "accounts": 33
+  },
+  {
+    "zip": "85213",
+    "area": "Central",
+    "accounts": 21
+  },
+  {
+    "zip": "85226",
+    "area": "East",
+    "accounts": 21
+  },
+  {
+    "zip": "85234",
+    "area": "East",
+    "accounts": 22
+  },
+  {
+    "zip": "85281",
+    "area": "Central",
+    "accounts": 7
+  },
+  {
+    "zip": "85282",
+    "area": "Central",
+    "accounts": 20
+  },
+  {
+    "zip": "85283",
+    "area": "East",
+    "accounts": 23
+  },
+  {
+    "zip": "85284",
+    "area": "East",
+    "accounts": 19
+  },
+  {
+    "zip": "85286",
+    "area": "East",
+    "accounts": 26
+  },
+  {
+    "zip": "85295",
+    "area": "East",
+    "accounts": 23
+  },
+  {
+    "zip": "85296",
+    "area": "East",
+    "accounts": 23
+  },
+  {
+    "zip": "85297",
+    "area": "East",
+    "accounts": 11
+  },
+  {
+    "zip": "85298",
+    "area": "East",
+    "accounts": 9
+  },
+  {
+    "zip": "85326",
+    "area": "West",
+    "accounts": 5
+  },
+  {
+    "zip": "85345",
+    "area": "West",
+    "accounts": 16
+  },
+  {
+    "zip": "85392",
+    "area": "West",
+    "accounts": 10
+  },
+  {
+    "zip": "85396",
+    "area": "West",
+    "accounts": 12
+  },
+  {
+    "zip": "85641",
+    "area": "Tucson",
+    "accounts": 2
+  },
+  {
+    "zip": "85653",
+    "area": "Tucson",
+    "accounts": 1
+  },
+  {
+    "zip": "85658",
+    "area": "Tucson",
+    "accounts": 5
+  },
+  {
+    "zip": "85706",
+    "area": "Tucson",
+    "accounts": 1
+  },
+  {
+    "zip": "85704",
+    "area": "Tucson",
+    "accounts": 3
+  },
+  {
+    "zip": "85705",
+    "area": "Tucson",
+    "accounts": 1
+  },
+  {
+    "zip": "85710",
+    "area": "Tucson",
+    "accounts": 2
+  },
+  {
+    "zip": "85711",
+    "area": "Tucson",
+    "accounts": 1
+  },
+  {
+    "zip": "85712",
+    "area": "Tucson",
+    "accounts": 2
+  },
+  {
+    "zip": "85715",
+    "area": "Tucson",
+    "accounts": 2
+  },
+  {
+    "zip": "85716",
+    "area": "Tucson",
+    "accounts": 1
+  },
+  {
+    "zip": "85718",
+    "area": "Tucson",
+    "accounts": 6
+  },
+  {
+    "zip": "85730",
+    "area": "Tucson",
+    "accounts": 4
+  },
+  {
+    "zip": "85737",
+    "area": "Tucson",
+    "accounts": 3
+  },
+  {
+    "zip": "85739",
+    "area": "Tucson",
+    "accounts": 3
+  },
+  {
+    "zip": "85741",
+    "area": "Tucson",
+    "accounts": 7
+  },
+  {
+    "zip": "85742",
+    "area": "Tucson",
+    "accounts": 2
+  },
+  {
+    "zip": "85743",
+    "area": "Tucson",
+    "accounts": 1
+  },
+  {
+    "zip": "85745",
+    "area": "Tucson",
+    "accounts": 1
+  },
+  {
+    "zip": "85746",
+    "area": "Tucson",
+    "accounts": 2
+  },
+  {
+    "zip": "85747",
+    "area": "Tucson",
+    "accounts": 1
+  },
+  {
+    "zip": "85749",
+    "area": "Tucson",
+    "accounts": 3
+  },
+  {
+    "zip": "85750",
+    "area": "Tucson",
+    "accounts": 9
+  },
+  {
+    "zip": "85755",
+    "area": "Tucson",
+    "accounts": 2
+  },
+  {
+    "zip": "85756",
+    "area": "Tucson",
+    "accounts": 4
+  },
+  {
+    "zip": "85757",
+    "area": "Tucson",
+    "accounts": 4
+  },
+  {
+    "zip": "85020",
+    "area": "West",
+    "accounts": 18
+  },
+  {
+    "zip": "85021",
+    "area": "West",
+    "accounts": 19
+  },
+  {
+    "zip": "85022",
+    "area": "West",
+    "accounts": 21
+  },
+  {
+    "zip": "85023",
+    "area": "West",
+    "accounts": 11
+  },
+  {
+    "zip": "85028",
+    "area": "West",
+    "accounts": 20
+  },
+  {
+    "zip": "85029",
+    "area": "West",
+    "accounts": 15
+  },
+  {
+    "zip": "85032",
+    "area": "West",
+    "accounts": 13
+  },
+  {
+    "zip": "85053",
+    "area": "West",
+    "accounts": 16
+  },
+  {
+    "zip": "85085",
+    "area": "West",
+    "accounts": 16
+  },
+  {
+    "zip": "85086",
+    "area": "West",
+    "accounts": 15
+  },
+  {
+    "zip": "85087",
+    "area": "West",
+    "accounts": 3
+  },
+  {
+    "zip": "85268",
+    "area": "East",
+    "accounts": 8
+  },
+  {
+    "zip": "85301",
+    "area": "West",
+    "accounts": 5
+  },
+  {
+    "zip": "85302",
+    "area": "West",
+    "accounts": 9
+  },
+  {
+    "zip": "85303",
+    "area": "West",
+    "accounts": 7
+  },
+  {
+    "zip": "85304",
+    "area": "West",
+    "accounts": 17
+  },
+  {
+    "zip": "85305",
+    "area": "West",
+    "accounts": 5
+  },
+  {
+    "zip": "85306",
+    "area": "West",
+    "accounts": 7
+  },
+  {
+    "zip": "85308",
+    "area": "West",
+    "accounts": 40
+  },
+  {
+    "zip": "85310",
+    "area": "West",
+    "accounts": 13
+  },
+  {
+    "zip": "85323",
+    "area": "West",
+    "accounts": 10
+  },
+  {
+    "zip": "85331",
+    "area": "West",
+    "accounts": 21
+  },
+  {
+    "zip": "85335",
+    "area": "West",
+    "accounts": 3
+  },
+  {
+    "zip": "85338",
+    "area": "West",
+    "accounts": 16
+  },
+  {
+    "zip": "85339",
+    "area": "West",
+    "accounts": 31
+  },
+  {
+    "zip": "85340",
+    "area": "West",
+    "accounts": 15
+  },
+  {
+    "zip": "85351",
+    "area": "West",
+    "accounts": 1
+  },
+  {
+    "zip": "85353",
+    "area": "West",
+    "accounts": 5
+  },
+  {
+    "zip": "85355",
+    "area": "West",
+    "accounts": 8
+  },
+  {
+    "zip": "85373",
+    "area": "West",
+    "accounts": 5
+  },
+  {
+    "zip": "85374",
+    "area": "West",
+    "accounts": 4
+  },
+  {
+    "zip": "85375",
+    "area": "West",
+    "accounts": 1
+  },
+  {
+    "zip": "85378",
+    "area": "West",
+    "accounts": 2
+  },
+  {
+    "zip": "85379",
+    "area": "West",
+    "accounts": 11
+  },
+  {
+    "zip": "85381",
+    "area": "West",
+    "accounts": 9
+  },
+  {
+    "zip": "85382",
+    "area": "West",
+    "accounts": 14
+  },
+  {
+    "zip": "85383",
+    "area": "West",
+    "accounts": 21
+  },
+  {
+    "zip": "85387",
+    "area": "West",
+    "accounts": 2
+  },
+  {
+    "zip": "85388",
+    "area": "West",
+    "accounts": 13
+  },
+  {
+    "zip": "85395",
+    "area": "West",
+    "accounts": 13
+  }
+]

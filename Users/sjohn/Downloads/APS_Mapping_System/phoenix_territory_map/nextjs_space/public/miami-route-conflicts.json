@@ -1,0 +1,194 @@
+[
+  {
+    "route": "29 AFP Route Erick B",
+    "totalCustomers": 74,
+    "territories": {
+      "Central": 60,
+      "South": 13,
+      "North": 1
+    },
+    "hasConflict": true,
+    "primaryTerritory": "Central"
+  },
+  {
+    "route": "21 AFP Route Carlos M",
+    "totalCustomers": 72,
+    "territories": {
+      "Central": 70,
+      "North": 2
+    },
+    "hasConflict": true,
+    "primaryTerritory": "Central"
+  },
+  {
+    "route": "28 AFP Route Jean D",
+    "totalCustomers": 72,
+    "territories": {
+      "South": 70,
+      "Central": 2
+    },
+    "hasConflict": true,
+    "primaryTerritory": "South"
+  },
+  {
+    "route": "2 AFP Route William A",
+    "totalCustomers": 65,
+    "territories": {
+      "Central": 39,
+      "North": 23,
+      "South": 3
+    },
+    "hasConflict": true,
+    "primaryTerritory": "Central"
+  },
+  {
+    "route": "16 AFP Route Robert D",
+    "totalCustomers": 64,
+    "territories": {
+      "North": 50,
+      "Central": 14
+    },
+    "hasConflict": true,
+    "primaryTerritory": "North"
+  },
+  {
+    "route": "5 AFP Route Freddy S",
+    "totalCustomers": 64,
+    "territories": {
+      "Central": 45,
+      "South": 19
+    },
+    "hasConflict": true,
+    "primaryTerritory": "Central"
+  },
+  {
+    "route": "24 AFP Route Jorge B",
+    "totalCustomers": 58,
+    "territories": {
+      "Central": 52,
+      "South": 6
+    },
+    "hasConflict": true,
+    "primaryTerritory": "Central"
+  },
+  {
+    "route": "11 AFP Route Honatann B",
+    "totalCustomers": 58,
+    "territories": {
+      "South": 54,
+      "Central": 4
+    },
+    "hasConflict": true,
+    "primaryTerritory": "South"
+  },
+  {
+    "route": "17 AFP Roosevelt F",
+    "totalCustomers": 57,
+    "territories": {
+      "South": 2,
+      "Central": 55
+    },
+    "hasConflict": true,
+    "primaryTerritory": "Central"
+  },
+  {
+    "route": "18 AFP Route Wesley O",
+    "totalCustomers": 41,
+    "territories": {
+      "Central": 36,
+      "South": 5
+    },
+    "hasConflict": true,
+    "primaryTerritory": "Central"
+  },
+  {
+    "route": "14 AFP Route Jorge A",
+    "totalCustomers": 34,
+    "territories": {
+      "North": 10,
+      "Central": 8,
+      "South": 16
+    },
+    "hasConflict": true,
+    "primaryTerritory": "South"
+  },
+  {
+    "route": "103 AFP Route Vacant",
+    "totalCustomers": 27,
+    "territories": {
+      "North": 26,
+      "Central": 1
+    },
+    "hasConflict": true,
+    "primaryTerritory": "North"
+  },
+  {
+    "route": "6 AFP Route Casey D",
+    "totalCustomers": 24,
+    "territories": {
+      "South": 19,
+      "Central": 3,
+      "North": 2
+    },
+    "hasConflict": true,
+    "primaryTerritory": "South"
+  },
+  {
+    "route": "1 AFP Route Sharion S",
+    "totalCustomers": 20,
+    "territories": {
+      "South": 3,
+      "North": 7,
+      "Central": 10
+    },
+    "hasConflict": true,
+    "primaryTerritory": "Central"
+  },
+  {
+    "route": "15 AFP Route Kymani P",
+    "totalCustomers": 18,
+    "territories": {
+      "Central": 13,
+      "North": 4,
+      "South": 1
+    },
+    "hasConflict": true,
+    "primaryTerritory": "Central"
+  },
+  {
+    "route": "105 AFP Route Miguel R",
+    "totalCustomers": 49,
+    "territories": {
+      "North": 49
+    },
+    "hasConflict": false,
+    "primaryTerritory": "North"
+  },
+  {
+    "route": "7 AFP Route Andra G",
+    "totalCustomers": 49,
+    "territories": {
+      "South": 49
+    },
+    "hasConflict": false,
+    "primaryTerritory": "South"
+  },
+  {
+    "route": "25 AFP Route Carlos S",
+    "totalCustomers": 2,
+    "territories": {
+      "North": 2
+    },
+    "hasConflict": false,
+    "primaryTerritory": "North"
+  },
+  {
+    "route": "Every week on Thursday",
+    "totalCustomers": 1,
+    "territories": {
+      "Unassigned": 1
+    },
+    "hasConflict": false,
+    "primaryTerritory": "Unassigned"
+  }
+]

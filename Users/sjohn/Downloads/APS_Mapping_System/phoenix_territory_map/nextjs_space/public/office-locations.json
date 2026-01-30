@@ -1,0 +1,65 @@
+[
+  {
+    "zipCode": "85308",
+    "area": "West",
+    "category": "NEXT YEAR",
+    "label": "APS of Glendale (Opening 2026)",
+    "fullName": "Amenity Pool Services of Glendale",
+    "lat": 33.6604116,
+    "lng": -112.1834256
+  },
+  {
+    "zipCode": "85286",
+    "area": "East",
+    "category": "NEXT YEAR",
+    "label": "APS of Chandler (Opening 2026)",
+    "fullName": "Amenity Pool Services of Chandler",
+    "lat": 33.2719948,
+    "lng": -111.8318985
+  },
+  {
+    "zipCode": "85254",
+    "area": "Central",
+    "category": "NEXT YEAR",
+    "label": "APS of Scottsdale (Opening 2026)",
+    "fullName": "Amenity Pool Services of Scottsdale",
+    "lat": 33.615485,
+    "lng": -111.9522349
+  },
+  {
+    "zipCode": "85749",
+    "area": "Tucson",
+    "category": "NEXT YEAR",
+    "label": "APS of Tucson (Opening 2026)",
+    "fullName": "Amenity Pool Services of Tucson",
+    "lat": 32.2226066,
+    "lng": -110.7672556
+  },
+  {
+    "zipCode": "85207",
+    "area": "Mesa",
+    "category": "FUTURE PLANNING",
+    "label": "APS of Mesa (Future)",
+    "fullName": "Amenity Pool Services of Mesa",
+    "lat": 33.4535068,
+    "lng": -111.6356498
+  },
+  {
+    "zipCode": "85338",
+    "area": "Goodyear",
+    "category": "FUTURE PLANNING",
+    "label": "APS of Goodyear (Future)",
+    "fullName": "Amenity Pool Services of Goodyear",
+    "lat": 33.3736979,
+    "lng": -112.4102617
+  },
+  {
+    "zipCode": "85331",
+    "area": "Cave Creek",
+    "category": "FUTURE PLANNING",
+    "label": "APS of Cave Creek (Future)",
+    "fullName": "Amenity Pool Services of Cave Creek",
+    "lat": 33.8789366,
+    "lng": -111.9126681
+  }
+]

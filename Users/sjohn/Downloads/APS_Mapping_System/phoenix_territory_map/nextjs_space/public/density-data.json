@@ -1,0 +1,1290 @@
+[
+  {
+    "zipCode": "85003",
+    "area": "Central",
+    "activeCount": 6,
+    "terminatedCount": 28,
+    "totalHistorical": 34,
+    "churnRate": 82.4
+  },
+  {
+    "zipCode": "85004",
+    "area": "Central",
+    "activeCount": 0,
+    "terminatedCount": 4,
+    "totalHistorical": 4,
+    "churnRate": 100.0
+  },
+  {
+    "zipCode": "85006",
+    "area": "Central",
+    "activeCount": 4,
+    "terminatedCount": 17,
+    "totalHistorical": 21,
+    "churnRate": 81.0
+  },
+  {
+    "zipCode": "85007",
+    "area": "Central",
+    "activeCount": 3,
+    "terminatedCount": 56,
+    "totalHistorical": 59,
+    "churnRate": 94.9
+  },
+  {
+    "zipCode": "85008",
+    "area": "Central",
+    "activeCount": 4,
+    "terminatedCount": 30,
+    "totalHistorical": 34,
+    "churnRate": 88.2
+  },
+  {
+    "zipCode": "85009",
+    "area": "Central",
+    "activeCount": 1,
+    "terminatedCount": 17,
+    "totalHistorical": 18,
+    "churnRate": 94.4
+  },
+  {
+    "zipCode": "85012",
+    "area": "Central",
+    "activeCount": 6,
+    "terminatedCount": 35,
+    "totalHistorical": 41,
+    "churnRate": 85.4
+  },
+  {
+    "zipCode": "85013",
+    "area": "Central",
+    "activeCount": 5,
+    "terminatedCount": 43,
+    "totalHistorical": 48,
+    "churnRate": 89.6
+  },
+  {
+    "zipCode": "85014",
+    "area": "Central",
+    "activeCount": 9,
+    "terminatedCount": 39,
+    "totalHistorical": 48,
+    "churnRate": 81.2
+  },
+  {
+    "zipCode": "85015",
+    "area": "Central",
+    "activeCount": 9,
+    "terminatedCount": 39,
+    "totalHistorical": 48,
+    "churnRate": 81.2
+  },
+  {
+    "zipCode": "85016",
+    "area": "Central",
+    "activeCount": 9,
+    "terminatedCount": 104,
+    "totalHistorical": 113,
+    "churnRate": 92.0
+  },
+  {
+    "zipCode": "85017",
+    "area": "Central",
+    "activeCount": 1,
+    "terminatedCount": 7,
+    "totalHistorical": 8,
+    "churnRate": 87.5
+  },
+  {
+    "zipCode": "85018",
+    "area": "Central",
+    "activeCount": 25,
+    "terminatedCount": 153,
+    "totalHistorical": 178,
+    "churnRate": 86.0
+  },
+  {
+    "zipCode": "85019",
+    "area": "Central",
+    "activeCount": 3,
+    "terminatedCount": 15,
+    "totalHistorical": 18,
+    "churnRate": 83.3
+  },
+  {
+    "zipCode": "85020",
+    "area": "West",
+    "activeCount": 18,
+    "terminatedCount": 93,
+    "totalHistorical": 111,
+    "churnRate": 83.8
+  },
+  {
+    "zipCode": "85021",
+    "area": "West",
+    "activeCount": 19,
+    "terminatedCount": 100,
+    "totalHistorical": 119,
+    "churnRate": 84.0
+  },
+  {
+    "zipCode": "85022",
+    "area": "West",
+    "activeCount": 21,
+    "terminatedCount": 100,
+    "totalHistorical": 121,
+    "churnRate": 82.6
+  },
+  {
+    "zipCode": "85023",
+    "area": "West",
+    "activeCount": 11,
+    "terminatedCount": 94,
+    "totalHistorical": 105,
+    "churnRate": 89.5
+  },
+  {
+    "zipCode": "85024",
+    "area": "Central",
+    "activeCount": 10,
+    "terminatedCount": 67,
+    "totalHistorical": 77,
+    "churnRate": 87.0
+  },
+  {
+    "zipCode": "85027",
+    "area": "Central",
+    "activeCount": 8,
+    "terminatedCount": 62,
+    "totalHistorical": 70,
+    "churnRate": 88.6
+  },
+  {
+    "zipCode": "85028",
+    "area": "West",
+    "activeCount": 20,
+    "terminatedCount": 133,
+    "totalHistorical": 153,
+    "churnRate": 86.9
+  },
+  {
+    "zipCode": "85029",
+    "area": "West",
+    "activeCount": 15,
+    "terminatedCount": 96,
+    "totalHistorical": 111,
+    "churnRate": 86.5
+  },
+  {
+    "zipCode": "85031",
+    "area": "Central",
+    "activeCount": 1,
+    "terminatedCount": 9,
+    "totalHistorical": 10,
+    "churnRate": 90.0
+  },
+  {
+    "zipCode": "85032",
+    "area": "West",
+    "activeCount": 13,
+    "terminatedCount": 118,
+    "totalHistorical": 131,
+    "churnRate": 90.1
+  },
+  {
+    "zipCode": "85033",
+    "area": "Central",
+    "activeCount": 1,
+    "terminatedCount": 30,
+    "totalHistorical": 31,
+    "churnRate": 96.8
+  },
+  {
+    "zipCode": "85035",
+    "area": "Central",
+    "activeCount": 6,
+    "terminatedCount": 22,
+    "totalHistorical": 28,
+    "churnRate": 78.6
+  },
+  {
+    "zipCode": "85037",
+    "area": "Central",
+    "activeCount": 6,
+    "terminatedCount": 50,
+    "totalHistorical": 56,
+    "churnRate": 89.3
+  },
+  {
+    "zipCode": "85040",
+    "area": "Central",
+    "activeCount": 2,
+    "terminatedCount": 21,
+    "totalHistorical": 23,
+    "churnRate": 91.3
+  },
+  {
+    "zipCode": "85041",
+    "area": "East",
+    "activeCount": 17,
+    "terminatedCount": 142,
+    "totalHistorical": 159,
+    "churnRate": 89.3
+  },
+  {
+    "zipCode": "85042",
+    "area": "East",
+    "activeCount": 26,
+    "terminatedCount": 125,
+    "totalHistorical": 151,
+    "churnRate": 82.8
+  },
+  {
+    "zipCode": "85043",
+    "area": "Central",
+    "activeCount": 4,
+    "terminatedCount": 44,
+    "totalHistorical": 48,
+    "churnRate": 91.7
+  },
+  {
+    "zipCode": "85044",
+    "area": "East",
+    "activeCount": 13,
+    "terminatedCount": 87,
+    "totalHistorical": 100,
+    "churnRate": 87.0
+  },
+  {
+    "zipCode": "85045",
+    "area": "East",
+    "activeCount": 5,
+    "terminatedCount": 44,
+    "totalHistorical": 49,
+    "churnRate": 89.8
+  },
+  {
+    "zipCode": "85048",
+    "area": "East",
+    "activeCount": 27,
+    "terminatedCount": 121,
+    "totalHistorical": 148,
+    "churnRate": 81.8
+  },
+  {
+    "zipCode": "85050",
+    "area": "Central",
+    "activeCount": 18,
+    "terminatedCount": 107,
+    "totalHistorical": 125,
+    "churnRate": 85.6
+  },
+  {
+    "zipCode": "85051",
+    "area": "Central",
+    "activeCount": 8,
+    "terminatedCount": 52,
+    "totalHistorical": 60,
+    "churnRate": 86.7
+  },
+  {
+    "zipCode": "85053",
+    "area": "West",
+    "activeCount": 16,
+    "terminatedCount": 74,
+    "totalHistorical": 90,
+    "churnRate": 82.2
+  },
+  {
+    "zipCode": "85054",
+    "area": "Central",
+    "activeCount": 2,
+    "terminatedCount": 15,
+    "totalHistorical": 17,
+    "churnRate": 88.2
+  },
+  {
+    "zipCode": "85083",
+    "area": "West",
+    "activeCount": 6,
+    "terminatedCount": 85,
+    "totalHistorical": 91,
+    "churnRate": 93.4
+  },
+  {
+    "zipCode": "85085",
+    "area": "West",
+    "activeCount": 16,
+    "terminatedCount": 68,
+    "totalHistorical": 84,
+    "churnRate": 81.0
+  },
+  {
+    "zipCode": "85086",
+    "area": "West",
+    "activeCount": 15,
+    "terminatedCount": 88,
+    "totalHistorical": 103,
+    "churnRate": 85.4
+  },
+  {
+    "zipCode": "85087",
+    "area": "West",
+    "activeCount": 3,
+    "terminatedCount": 11,
+    "totalHistorical": 14,
+    "churnRate": 78.6
+  },
+  {
+    "zipCode": "85118",
+    "area": "East",
+    "activeCount": 2,
+    "terminatedCount": 27,
+    "totalHistorical": 29,
+    "churnRate": 93.1
+  },
+  {
+    "zipCode": "85119",
+    "area": "East",
+    "activeCount": 2,
+    "terminatedCount": 20,
+    "totalHistorical": 22,
+    "churnRate": 90.9
+  },
+  {
+    "zipCode": "85120",
+    "area": "East",
+    "activeCount": 3,
+    "terminatedCount": 4,
+    "totalHistorical": 7,
+    "churnRate": 57.1
+  },
+  {
+    "zipCode": "85122",
+    "area": "East",
+    "activeCount": 89,
+    "terminatedCount": 333,
+    "totalHistorical": 422,
+    "churnRate": 78.9
+  },
+  {
+    "zipCode": "85123",
+    "area": "East",
+    "activeCount": 9,
+    "terminatedCount": 33,
+    "totalHistorical": 42,
+    "churnRate": 78.6
+  },
+  {
+    "zipCode": "85128",
+    "area": "East",
+    "activeCount": 10,
+    "terminatedCount": 37,
+    "totalHistorical": 47,
+    "churnRate": 78.7
+  },
+  {
+    "zipCode": "85131",
+    "area": "East",
+    "activeCount": 6,
+    "terminatedCount": 10,
+    "totalHistorical": 16,
+    "churnRate": 62.5
+  },
+  {
+    "zipCode": "85132",
+    "area": "East",
+    "activeCount": 2,
+    "terminatedCount": 21,
+    "totalHistorical": 23,
+    "churnRate": 91.3
+  },
+  {
+    "zipCode": "85138",
+    "area": "East",
+    "activeCount": 12,
+    "terminatedCount": 74,
+    "totalHistorical": 86,
+    "churnRate": 86.0
+  },
+  {
+    "zipCode": "85139",
+    "area": "East",
+    "activeCount": 6,
+    "terminatedCount": 13,
+    "totalHistorical": 19,
+    "churnRate": 68.4
+  },
+  {
+    "zipCode": "85140",
+    "area": "East",
+    "activeCount": 8,
+    "terminatedCount": 28,
+    "totalHistorical": 36,
+    "churnRate": 77.8
+  },
+  {
+    "zipCode": "85142",
+    "area": "East",
+    "activeCount": 17,
+    "terminatedCount": 100,
+    "totalHistorical": 117,
+    "churnRate": 85.5
+  },
+  {
+    "zipCode": "85143",
+    "area": "East",
+    "activeCount": 7,
+    "terminatedCount": 51,
+    "totalHistorical": 58,
+    "churnRate": 87.9
+  },
+  {
+    "zipCode": "85193",
+    "area": "East",
+    "activeCount": 4,
+    "terminatedCount": 6,
+    "totalHistorical": 10,
+    "churnRate": 60.0
+  },
+  {
+    "zipCode": "85194",
+    "area": "East",
+    "activeCount": 11,
+    "terminatedCount": 40,
+    "totalHistorical": 51,
+    "churnRate": 78.4
+  },
+  {
+    "zipCode": "85201",
+    "area": "Central",
+    "activeCount": 5,
+    "terminatedCount": 27,
+    "totalHistorical": 32,
+    "churnRate": 84.4
+  },
+  {
+    "zipCode": "85202",
+    "area": "Central",
+    "activeCount": 9,
+    "terminatedCount": 45,
+    "totalHistorical": 54,
+    "churnRate": 83.3
+  },
+  {
+    "zipCode": "85203",
+    "area": "Central",
+    "activeCount": 11,
+    "terminatedCount": 54,
+    "totalHistorical": 65,
+    "churnRate": 83.1
+  },
+  {
+    "zipCode": "85204",
+    "area": "Central",
+    "activeCount": 5,
+    "terminatedCount": 24,
+    "totalHistorical": 29,
+    "churnRate": 82.8
+  },
+  {
+    "zipCode": "85205",
+    "area": "East",
+    "activeCount": 9,
+    "terminatedCount": 43,
+    "totalHistorical": 52,
+    "churnRate": 82.7
+  },
+  {
+    "zipCode": "85206",
+    "area": "East",
+    "activeCount": 5,
+    "terminatedCount": 11,
+    "totalHistorical": 16,
+    "churnRate": 68.8
+  },
+  {
+    "zipCode": "85207",
+    "area": "East",
+    "activeCount": 33,
+    "terminatedCount": 117,
+    "totalHistorical": 150,
+    "churnRate": 78.0
+  },
+  {
+    "zipCode": "85208",
+    "area": "East",
+    "activeCount": 1,
+    "terminatedCount": 32,
+    "totalHistorical": 33,
+    "churnRate": 97.0
+  },
+  {
+    "zipCode": "85209",
+    "area": "East",
+    "activeCount": 11,
+    "terminatedCount": 57,
+    "totalHistorical": 68,
+    "churnRate": 83.8
+  },
+  {
+    "zipCode": "85210",
+    "area": "Central",
+    "activeCount": 6,
+    "terminatedCount": 47,
+    "totalHistorical": 53,
+    "churnRate": 88.7
+  },
+  {
+    "zipCode": "85212",
+    "area": "East",
+    "activeCount": 15,
+    "terminatedCount": 67,
+    "totalHistorical": 82,
+    "churnRate": 81.7
+  },
+  {
+    "zipCode": "85213",
+    "area": "Central",
+    "activeCount": 21,
+    "terminatedCount": 64,
+    "totalHistorical": 85,
+    "churnRate": 75.3
+  },
+  {
+    "zipCode": "85215",
+    "area": "East",
+    "activeCount": 7,
+    "terminatedCount": 40,
+    "totalHistorical": 47,
+    "churnRate": 85.1
+  },
+  {
+    "zipCode": "85218",
+    "area": "East",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "85224",
+    "area": "East",
+    "activeCount": 17,
+    "terminatedCount": 87,
+    "totalHistorical": 104,
+    "churnRate": 83.7
+  },
+  {
+    "zipCode": "85225",
+    "area": "East",
+    "activeCount": 12,
+    "terminatedCount": 84,
+    "totalHistorical": 96,
+    "churnRate": 87.5
+  },
+  {
+    "zipCode": "85226",
+    "area": "East",
+    "activeCount": 21,
+    "terminatedCount": 103,
+    "totalHistorical": 124,
+    "churnRate": 83.1
+  },
+  {
+    "zipCode": "85233",
+    "area": "East",
+    "activeCount": 16,
+    "terminatedCount": 80,
+    "totalHistorical": 96,
+    "churnRate": 83.3
+  },
+  {
+    "zipCode": "85234",
+    "area": "East",
+    "activeCount": 21,
+    "terminatedCount": 91,
+    "totalHistorical": 112,
+    "churnRate": 81.2
+  },
+  {
+    "zipCode": "85248",
+    "area": "East",
+    "activeCount": 22,
+    "terminatedCount": 83,
+    "totalHistorical": 105,
+    "churnRate": 79.0
+  },
+  {
+    "zipCode": "85249",
+    "area": "East",
+    "activeCount": 33,
+    "terminatedCount": 129,
+    "totalHistorical": 162,
+    "churnRate": 79.6
+  },
+  {
+    "zipCode": "85250",
+    "area": "Central",
+    "activeCount": 8,
+    "terminatedCount": 44,
+    "totalHistorical": 52,
+    "churnRate": 84.6
+  },
+  {
+    "zipCode": "85251",
+    "area": "Central",
+    "activeCount": 7,
+    "terminatedCount": 46,
+    "totalHistorical": 53,
+    "churnRate": 86.8
+  },
+  {
+    "zipCode": "85253",
+    "area": "Central",
+    "activeCount": 10,
+    "terminatedCount": 91,
+    "totalHistorical": 101,
+    "churnRate": 90.1
+  },
+  {
+    "zipCode": "85254",
+    "area": "Central",
+    "activeCount": 56,
+    "terminatedCount": 221,
+    "totalHistorical": 277,
+    "churnRate": 79.8
+  },
+  {
+    "zipCode": "85255",
+    "area": "Central",
+    "activeCount": 39,
+    "terminatedCount": 177,
+    "totalHistorical": 216,
+    "churnRate": 81.9
+  },
+  {
+    "zipCode": "85256",
+    "area": "Central",
+    "activeCount": 1,
+    "terminatedCount": 1,
+    "totalHistorical": 2,
+    "churnRate": 50.0
+  },
+  {
+    "zipCode": "85257",
+    "area": "Central",
+    "activeCount": 14,
+    "terminatedCount": 81,
+    "totalHistorical": 95,
+    "churnRate": 85.3
+  },
+  {
+    "zipCode": "85258",
+    "area": "Central",
+    "activeCount": 18,
+    "terminatedCount": 81,
+    "totalHistorical": 99,
+    "churnRate": 81.8
+  },
+  {
+    "zipCode": "85259",
+    "area": "Central",
+    "activeCount": 21,
+    "terminatedCount": 148,
+    "totalHistorical": 169,
+    "churnRate": 87.6
+  },
+  {
+    "zipCode": "85260",
+    "area": "Central",
+    "activeCount": 22,
+    "terminatedCount": 122,
+    "totalHistorical": 144,
+    "churnRate": 84.7
+  },
+  {
+    "zipCode": "85262",
+    "area": "Central",
+    "activeCount": 12,
+    "terminatedCount": 77,
+    "totalHistorical": 89,
+    "churnRate": 86.5
+  },
+  {
+    "zipCode": "85263",
+    "area": "Central",
+    "activeCount": 0,
+    "terminatedCount": 3,
+    "totalHistorical": 3,
+    "churnRate": 100.0
+  },
+  {
+    "zipCode": "85266",
+    "area": "Central",
+    "activeCount": 14,
+    "terminatedCount": 60,
+    "totalHistorical": 74,
+    "churnRate": 81.1
+  },
+  {
+    "zipCode": "85268",
+    "area": "Central",
+    "activeCount": 8,
+    "terminatedCount": 51,
+    "totalHistorical": 59,
+    "churnRate": 86.4
+  },
+  {
+    "zipCode": "85281",
+    "area": "Central",
+    "activeCount": 8,
+    "terminatedCount": 24,
+    "totalHistorical": 32,
+    "churnRate": 75.0
+  },
+  {
+    "zipCode": "85282",
+    "area": "East",
+    "activeCount": 19,
+    "terminatedCount": 104,
+    "totalHistorical": 123,
+    "churnRate": 84.6
+  },
+  {
+    "zipCode": "85283",
+    "area": "East",
+    "activeCount": 23,
+    "terminatedCount": 98,
+    "totalHistorical": 121,
+    "churnRate": 81.0
+  },
+  {
+    "zipCode": "85284",
+    "area": "East",
+    "activeCount": 19,
+    "terminatedCount": 118,
+    "totalHistorical": 137,
+    "churnRate": 86.1
+  },
+  {
+    "zipCode": "85286",
+    "area": "East",
+    "activeCount": 26,
+    "terminatedCount": 87,
+    "totalHistorical": 113,
+    "churnRate": 77.0
+  },
+  {
+    "zipCode": "85295",
+    "area": "East",
+    "activeCount": 23,
+    "terminatedCount": 60,
+    "totalHistorical": 83,
+    "churnRate": 72.3
+  },
+  {
+    "zipCode": "85296",
+    "area": "East",
+    "activeCount": 23,
+    "terminatedCount": 98,
+    "totalHistorical": 121,
+    "churnRate": 81.0
+  },
+  {
+    "zipCode": "85297",
+    "area": "East",
+    "activeCount": 11,
+    "terminatedCount": 68,
+    "totalHistorical": 79,
+    "churnRate": 86.1
+  },
+  {
+    "zipCode": "85298",
+    "area": "East",
+    "activeCount": 9,
+    "terminatedCount": 58,
+    "totalHistorical": 67,
+    "churnRate": 86.6
+  },
+  {
+    "zipCode": "85301",
+    "area": "West",
+    "activeCount": 5,
+    "terminatedCount": 35,
+    "totalHistorical": 40,
+    "churnRate": 87.5
+  },
+  {
+    "zipCode": "85302",
+    "area": "West",
+    "activeCount": 9,
+    "terminatedCount": 92,
+    "totalHistorical": 101,
+    "churnRate": 91.1
+  },
+  {
+    "zipCode": "85303",
+    "area": "West",
+    "activeCount": 7,
+    "terminatedCount": 41,
+    "totalHistorical": 48,
+    "churnRate": 85.4
+  },
+  {
+    "zipCode": "85304",
+    "area": "West",
+    "activeCount": 17,
+    "terminatedCount": 97,
+    "totalHistorical": 114,
+    "churnRate": 85.1
+  },
+  {
+    "zipCode": "85305",
+    "area": "West",
+    "activeCount": 5,
+    "terminatedCount": 27,
+    "totalHistorical": 32,
+    "churnRate": 84.4
+  },
+  {
+    "zipCode": "85306",
+    "area": "West",
+    "activeCount": 7,
+    "terminatedCount": 37,
+    "totalHistorical": 44,
+    "churnRate": 84.1
+  },
+  {
+    "zipCode": "85308",
+    "area": "West",
+    "activeCount": 40,
+    "terminatedCount": 267,
+    "totalHistorical": 307,
+    "churnRate": 87.0
+  },
+  {
+    "zipCode": "85310",
+    "area": "West",
+    "activeCount": 13,
+    "terminatedCount": 72,
+    "totalHistorical": 85,
+    "churnRate": 84.7
+  },
+  {
+    "zipCode": "85323",
+    "area": "West",
+    "activeCount": 10,
+    "terminatedCount": 52,
+    "totalHistorical": 62,
+    "churnRate": 83.9
+  },
+  {
+    "zipCode": "85326",
+    "area": "West",
+    "activeCount": 5,
+    "terminatedCount": 60,
+    "totalHistorical": 65,
+    "churnRate": 92.3
+  },
+  {
+    "zipCode": "85331",
+    "area": "West",
+    "activeCount": 20,
+    "terminatedCount": 148,
+    "totalHistorical": 168,
+    "churnRate": 88.1
+  },
+  {
+    "zipCode": "85335",
+    "area": "West",
+    "activeCount": 3,
+    "terminatedCount": 22,
+    "totalHistorical": 25,
+    "churnRate": 88.0
+  },
+  {
+    "zipCode": "85338",
+    "area": "West",
+    "activeCount": 17,
+    "terminatedCount": 116,
+    "totalHistorical": 133,
+    "churnRate": 87.2
+  },
+  {
+    "zipCode": "85339",
+    "area": "East",
+    "activeCount": 31,
+    "terminatedCount": 195,
+    "totalHistorical": 226,
+    "churnRate": 86.3
+  },
+  {
+    "zipCode": "85340",
+    "area": "West",
+    "activeCount": 15,
+    "terminatedCount": 78,
+    "totalHistorical": 93,
+    "churnRate": 83.9
+  },
+  {
+    "zipCode": "85345",
+    "area": "West",
+    "activeCount": 16,
+    "terminatedCount": 113,
+    "totalHistorical": 129,
+    "churnRate": 87.6
+  },
+  {
+    "zipCode": "85351",
+    "area": "West",
+    "activeCount": 1,
+    "terminatedCount": 17,
+    "totalHistorical": 18,
+    "churnRate": 94.4
+  },
+  {
+    "zipCode": "85353",
+    "area": "West",
+    "activeCount": 5,
+    "terminatedCount": 64,
+    "totalHistorical": 69,
+    "churnRate": 92.8
+  },
+  {
+    "zipCode": "85355",
+    "area": "West",
+    "activeCount": 8,
+    "terminatedCount": 24,
+    "totalHistorical": 32,
+    "churnRate": 75.0
+  },
+  {
+    "zipCode": "85373",
+    "area": "West",
+    "activeCount": 5,
+    "terminatedCount": 25,
+    "totalHistorical": 30,
+    "churnRate": 83.3
+  },
+  {
+    "zipCode": "85374",
+    "area": "West",
+    "activeCount": 4,
+    "terminatedCount": 58,
+    "totalHistorical": 62,
+    "churnRate": 93.5
+  },
+  {
+    "zipCode": "85375",
+    "area": "West",
+    "activeCount": 1,
+    "terminatedCount": 24,
+    "totalHistorical": 25,
+    "churnRate": 96.0
+  },
+  {
+    "zipCode": "85377",
+    "area": "Central",
+    "activeCount": 1,
+    "terminatedCount": 7,
+    "totalHistorical": 8,
+    "churnRate": 87.5
+  },
+  {
+    "zipCode": "85378",
+    "area": "West",
+    "activeCount": 2,
+    "terminatedCount": 8,
+    "totalHistorical": 10,
+    "churnRate": 80.0
+  },
+  {
+    "zipCode": "85379",
+    "area": "West",
+    "activeCount": 11,
+    "terminatedCount": 118,
+    "totalHistorical": 129,
+    "churnRate": 91.5
+  },
+  {
+    "zipCode": "85381",
+    "area": "West",
+    "activeCount": 9,
+    "terminatedCount": 75,
+    "totalHistorical": 84,
+    "churnRate": 89.3
+  },
+  {
+    "zipCode": "85382",
+    "area": "West",
+    "activeCount": 16,
+    "terminatedCount": 100,
+    "totalHistorical": 116,
+    "churnRate": 86.2
+  },
+  {
+    "zipCode": "85383",
+    "area": "West",
+    "activeCount": 21,
+    "terminatedCount": 170,
+    "totalHistorical": 191,
+    "churnRate": 89.0
+  },
+  {
+    "zipCode": "85387",
+    "area": "West",
+    "activeCount": 2,
+    "terminatedCount": 18,
+    "totalHistorical": 20,
+    "churnRate": 90.0
+  },
+  {
+    "zipCode": "85388",
+    "area": "West",
+    "activeCount": 13,
+    "terminatedCount": 69,
+    "totalHistorical": 82,
+    "churnRate": 84.1
+  },
+  {
+    "zipCode": "85392",
+    "area": "West",
+    "activeCount": 10,
+    "terminatedCount": 124,
+    "totalHistorical": 134,
+    "churnRate": 92.5
+  },
+  {
+    "zipCode": "85395",
+    "area": "West",
+    "activeCount": 12,
+    "terminatedCount": 92,
+    "totalHistorical": 104,
+    "churnRate": 88.5
+  },
+  {
+    "zipCode": "85396",
+    "area": "West",
+    "activeCount": 12,
+    "terminatedCount": 56,
+    "totalHistorical": 68,
+    "churnRate": 82.4
+  },
+  {
+    "zipCode": "85641",
+    "area": "Tucson",
+    "activeCount": 2,
+    "terminatedCount": 11,
+    "totalHistorical": 13,
+    "churnRate": 84.6
+  },
+  {
+    "zipCode": "85653",
+    "area": "Tucson",
+    "activeCount": 1,
+    "terminatedCount": 5,
+    "totalHistorical": 6,
+    "churnRate": 83.3
+  },
+  {
+    "zipCode": "85658",
+    "area": "Tucson",
+    "activeCount": 5,
+    "terminatedCount": 8,
+    "totalHistorical": 13,
+    "churnRate": 61.5
+  },
+  {
+    "zipCode": "85704",
+    "area": "Tucson",
+    "activeCount": 3,
+    "terminatedCount": 11,
+    "totalHistorical": 14,
+    "churnRate": 78.6
+  },
+  {
+    "zipCode": "85705",
+    "area": "Tucson",
+    "activeCount": 1,
+    "terminatedCount": 1,
+    "totalHistorical": 2,
+    "churnRate": 50.0
+  },
+  {
+    "zipCode": "85706",
+    "area": "Tucson",
+    "activeCount": 1,
+    "terminatedCount": 1,
+    "totalHistorical": 2,
+    "churnRate": 50.0
+  },
+  {
+    "zipCode": "85710",
+    "area": "Tucson",
+    "activeCount": 2,
+    "terminatedCount": 11,
+    "totalHistorical": 13,
+    "churnRate": 84.6
+  },
+  {
+    "zipCode": "85711",
+    "area": "Tucson",
+    "activeCount": 1,
+    "terminatedCount": 3,
+    "totalHistorical": 4,
+    "churnRate": 75.0
+  },
+  {
+    "zipCode": "85712",
+    "area": "Tucson",
+    "activeCount": 2,
+    "terminatedCount": 2,
+    "totalHistorical": 4,
+    "churnRate": 50.0
+  },
+  {
+    "zipCode": "85715",
+    "area": "Tucson",
+    "activeCount": 2,
+    "terminatedCount": 7,
+    "totalHistorical": 9,
+    "churnRate": 77.8
+  },
+  {
+    "zipCode": "85716",
+    "area": "Tucson",
+    "activeCount": 1,
+    "terminatedCount": 4,
+    "totalHistorical": 5,
+    "churnRate": 80.0
+  },
+  {
+    "zipCode": "85718",
+    "area": "Tucson",
+    "activeCount": 6,
+    "terminatedCount": 17,
+    "totalHistorical": 23,
+    "churnRate": 73.9
+  },
+  {
+    "zipCode": "85730",
+    "area": "Tucson",
+    "activeCount": 4,
+    "terminatedCount": 8,
+    "totalHistorical": 12,
+    "churnRate": 66.7
+  },
+  {
+    "zipCode": "85735",
+    "area": "Tucson",
+    "activeCount": 0,
+    "terminatedCount": 3,
+    "totalHistorical": 3,
+    "churnRate": 100.0
+  },
+  {
+    "zipCode": "85737",
+    "area": "Tucson",
+    "activeCount": 3,
+    "terminatedCount": 19,
+    "totalHistorical": 22,
+    "churnRate": 86.4
+  },
+  {
+    "zipCode": "85739",
+    "area": "Tucson",
+    "activeCount": 3,
+    "terminatedCount": 8,
+    "totalHistorical": 11,
+    "churnRate": 72.7
+  },
+  {
+    "zipCode": "85741",
+    "area": "Tucson",
+    "activeCount": 7,
+    "terminatedCount": 10,
+    "totalHistorical": 17,
+    "churnRate": 58.8
+  },
+  {
+    "zipCode": "85742",
+    "area": "Tucson",
+    "activeCount": 2,
+    "terminatedCount": 17,
+    "totalHistorical": 19,
+    "churnRate": 89.5
+  },
+  {
+    "zipCode": "85743",
+    "area": "Tucson",
+    "activeCount": 1,
+    "terminatedCount": 9,
+    "totalHistorical": 10,
+    "churnRate": 90.0
+  },
+  {
+    "zipCode": "85745",
+    "area": "Tucson",
+    "activeCount": 1,
+    "terminatedCount": 15,
+    "totalHistorical": 16,
+    "churnRate": 93.8
+  },
+  {
+    "zipCode": "85746",
+    "area": "Tucson",
+    "activeCount": 2,
+    "terminatedCount": 8,
+    "totalHistorical": 10,
+    "churnRate": 80.0
+  },
+  {
+    "zipCode": "85747",
+    "area": "Tucson",
+    "activeCount": 2,
+    "terminatedCount": 7,
+    "totalHistorical": 9,
+    "churnRate": 77.8
+  },
+  {
+    "zipCode": "85749",
+    "area": "Tucson",
+    "activeCount": 3,
+    "terminatedCount": 18,
+    "totalHistorical": 21,
+    "churnRate": 85.7
+  },
+  {
+    "zipCode": "85750",
+    "area": "Tucson",
+    "activeCount": 9,
+    "terminatedCount": 10,
+    "totalHistorical": 19,
+    "churnRate": 52.6
+  },
+  {
+    "zipCode": "85755",
+    "area": "Tucson",
+    "activeCount": 2,
+    "terminatedCount": 9,
+    "totalHistorical": 11,
+    "churnRate": 81.8
+  },
+  {
+    "zipCode": "85756",
+    "area": "Tucson",
+    "activeCount": 4,
+    "terminatedCount": 5,
+    "totalHistorical": 9,
+    "churnRate": 55.6
+  },
+  {
+    "zipCode": "85757",
+    "area": "Tucson",
+    "activeCount": 4,
+    "terminatedCount": 2,
+    "totalHistorical": 6,
+    "churnRate": 33.3
+  }
+]

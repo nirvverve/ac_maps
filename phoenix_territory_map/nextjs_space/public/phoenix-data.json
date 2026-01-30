@@ -1,0 +1,777 @@
+[
+  {
+    "zip_code": 85003,
+    "area": "Central",
+    "account_count": 6
+  },
+  {
+    "zip_code": 85007,
+    "area": "Central",
+    "account_count": 3
+  },
+  {
+    "zip_code": 85009,
+    "area": "Central",
+    "account_count": 3
+  },
+  {
+    "zip_code": 85012,
+    "area": "Central",
+    "account_count": 6
+  },
+  {
+    "zip_code": 85013,
+    "area": "Central",
+    "account_count": 5
+  },
+  {
+    "zip_code": 85014,
+    "area": "Central",
+    "account_count": 9
+  },
+  {
+    "zip_code": 85015,
+    "area": "Central",
+    "account_count": 9
+  },
+  {
+    "zip_code": 85017,
+    "area": "Central",
+    "account_count": 1
+  },
+  {
+    "zip_code": 85018,
+    "area": "Central",
+    "account_count": 25
+  },
+  {
+    "zip_code": 85019,
+    "area": "Central",
+    "account_count": 3
+  },
+  {
+    "zip_code": 85020,
+    "area": "Central",
+    "account_count": 18
+  },
+  {
+    "zip_code": 85021,
+    "area": "Central",
+    "account_count": 19
+  },
+  {
+    "zip_code": 85022,
+    "area": "Central",
+    "account_count": 21
+  },
+  {
+    "zip_code": 85023,
+    "area": "Central",
+    "account_count": 11
+  },
+  {
+    "zip_code": 85028,
+    "area": "Central",
+    "account_count": 20
+  },
+  {
+    "zip_code": 85029,
+    "area": "Central",
+    "account_count": 15
+  },
+  {
+    "zip_code": 85031,
+    "area": "Central",
+    "account_count": 1
+  },
+  {
+    "zip_code": 85032,
+    "area": "Central",
+    "account_count": 13
+  },
+  {
+    "zip_code": 85033,
+    "area": "Central",
+    "account_count": 1
+  },
+  {
+    "zip_code": 85035,
+    "area": "Central",
+    "account_count": 6
+  },
+  {
+    "zip_code": 85037,
+    "area": "Central",
+    "account_count": 6
+  },
+  {
+    "zip_code": 85040,
+    "area": "Central",
+    "account_count": 2
+  },
+  {
+    "zip_code": 85043,
+    "area": "Central",
+    "account_count": 4
+  },
+  {
+    "zip_code": 85051,
+    "area": "Central",
+    "account_count": 8
+  },
+  {
+    "zip_code": 85053,
+    "area": "Central",
+    "account_count": 16
+  },
+  {
+    "zip_code": 85201,
+    "area": "Central",
+    "account_count": 4
+  },
+  {
+    "zip_code": 85257,
+    "area": "Central",
+    "account_count": 14
+  },
+  {
+    "zip_code": 85281,
+    "area": "Central",
+    "account_count": 7
+  },
+  {
+    "zip_code": 85301,
+    "area": "Central",
+    "account_count": 5
+  },
+  {
+    "zip_code": 85302,
+    "area": "Central",
+    "account_count": 9
+  },
+  {
+    "zip_code": 85303,
+    "area": "Central",
+    "account_count": 7
+  },
+  {
+    "zip_code": 85304,
+    "area": "Central",
+    "account_count": 17
+  },
+  {
+    "zip_code": 85305,
+    "area": "Central",
+    "account_count": 5
+  },
+  {
+    "zip_code": 85306,
+    "area": "Central",
+    "account_count": 7
+  },
+  {
+    "zip_code": 85308,
+    "area": "Central",
+    "account_count": 40
+  },
+  {
+    "zip_code": 85310,
+    "area": "Central",
+    "account_count": 13
+  },
+  {
+    "zip_code": 85323,
+    "area": "Central",
+    "account_count": 10
+  },
+  {
+    "zip_code": 85326,
+    "area": "Central",
+    "account_count": 5
+  },
+  {
+    "zip_code": 85338,
+    "area": "Central",
+    "account_count": 16
+  },
+  {
+    "zip_code": 85340,
+    "area": "Central",
+    "account_count": 15
+  },
+  {
+    "zip_code": 85345,
+    "area": "Central",
+    "account_count": 16
+  },
+  {
+    "zip_code": 85353,
+    "area": "Central",
+    "account_count": 5
+  },
+  {
+    "zip_code": 85381,
+    "area": "Central",
+    "account_count": 9
+  },
+  {
+    "zip_code": 85382,
+    "area": "Central",
+    "account_count": 14
+  },
+  {
+    "zip_code": 85392,
+    "area": "Central",
+    "account_count": 10
+  },
+  {
+    "zip_code": 85395,
+    "area": "Central",
+    "account_count": 13
+  },
+  {
+    "zip_code": 85396,
+    "area": "Central",
+    "account_count": 12
+  },
+  {
+    "zip_code": 85006,
+    "area": "East",
+    "account_count": 4
+  },
+  {
+    "zip_code": 85008,
+    "area": "East",
+    "account_count": 4
+  },
+  {
+    "zip_code": 85016,
+    "area": "East",
+    "account_count": 9
+  },
+  {
+    "zip_code": 85024,
+    "area": "East",
+    "account_count": 10
+  },
+  {
+    "zip_code": 85027,
+    "area": "East",
+    "account_count": 8
+  },
+  {
+    "zip_code": 85050,
+    "area": "East",
+    "account_count": 18
+  },
+  {
+    "zip_code": 85054,
+    "area": "East",
+    "account_count": 2
+  },
+  {
+    "zip_code": 85083,
+    "area": "East",
+    "account_count": 6
+  },
+  {
+    "zip_code": 85085,
+    "area": "East",
+    "account_count": 16
+  },
+  {
+    "zip_code": 85086,
+    "area": "East",
+    "account_count": 15
+  },
+  {
+    "zip_code": 85087,
+    "area": "East",
+    "account_count": 3
+  },
+  {
+    "zip_code": 85118,
+    "area": "East",
+    "account_count": 2
+  },
+  {
+    "zip_code": 85119,
+    "area": "East",
+    "account_count": 2
+  },
+  {
+    "zip_code": 85120,
+    "area": "East",
+    "account_count": 3
+  },
+  {
+    "zip_code": 85140,
+    "area": "East",
+    "account_count": 8
+  },
+  {
+    "zip_code": 85202,
+    "area": "East",
+    "account_count": 9
+  },
+  {
+    "zip_code": 85203,
+    "area": "East",
+    "account_count": 11
+  },
+  {
+    "zip_code": 85204,
+    "area": "East",
+    "account_count": 5
+  },
+  {
+    "zip_code": 85205,
+    "area": "East",
+    "account_count": 9
+  },
+  {
+    "zip_code": 85206,
+    "area": "East",
+    "account_count": 5
+  },
+  {
+    "zip_code": 85207,
+    "area": "East",
+    "account_count": 33
+  },
+  {
+    "zip_code": 85208,
+    "area": "East",
+    "account_count": 1
+  },
+  {
+    "zip_code": 85210,
+    "area": "East",
+    "account_count": 7
+  },
+  {
+    "zip_code": 85213,
+    "area": "East",
+    "account_count": 21
+  },
+  {
+    "zip_code": 85215,
+    "area": "East",
+    "account_count": 7
+  },
+  {
+    "zip_code": 85250,
+    "area": "East",
+    "account_count": 8
+  },
+  {
+    "zip_code": 85251,
+    "area": "East",
+    "account_count": 7
+  },
+  {
+    "zip_code": 85253,
+    "area": "East",
+    "account_count": 8
+  },
+  {
+    "zip_code": 85254,
+    "area": "East",
+    "account_count": 56
+  },
+  {
+    "zip_code": 85255,
+    "area": "East",
+    "account_count": 39
+  },
+  {
+    "zip_code": 85256,
+    "area": "East",
+    "account_count": 1
+  },
+  {
+    "zip_code": 85258,
+    "area": "East",
+    "account_count": 18
+  },
+  {
+    "zip_code": 85259,
+    "area": "East",
+    "account_count": 21
+  },
+  {
+    "zip_code": 85260,
+    "area": "East",
+    "account_count": 22
+  },
+  {
+    "zip_code": 85262,
+    "area": "East",
+    "account_count": 12
+  },
+  {
+    "zip_code": 85266,
+    "area": "East",
+    "account_count": 14
+  },
+  {
+    "zip_code": 85268,
+    "area": "East",
+    "account_count": 8
+  },
+  {
+    "zip_code": 85331,
+    "area": "East",
+    "account_count": 21
+  },
+  {
+    "zip_code": 85335,
+    "area": "East",
+    "account_count": 3
+  },
+  {
+    "zip_code": 85351,
+    "area": "East",
+    "account_count": 1
+  },
+  {
+    "zip_code": 85355,
+    "area": "East",
+    "account_count": 8
+  },
+  {
+    "zip_code": 85373,
+    "area": "East",
+    "account_count": 5
+  },
+  {
+    "zip_code": 85374,
+    "area": "East",
+    "account_count": 4
+  },
+  {
+    "zip_code": 85375,
+    "area": "East",
+    "account_count": 1
+  },
+  {
+    "zip_code": 85379,
+    "area": "East",
+    "account_count": 11
+  },
+  {
+    "zip_code": 85383,
+    "area": "East",
+    "account_count": 21
+  },
+  {
+    "zip_code": 85387,
+    "area": "East",
+    "account_count": 2
+  },
+  {
+    "zip_code": 85388,
+    "area": "East",
+    "account_count": 13
+  },
+  {
+    "zip_code": "85122",
+    "area": "Tucson",
+    "account_count": 89
+  },
+  {
+    "zip_code": "85123",
+    "area": "Tucson",
+    "account_count": 10
+  },
+  {
+    "zip_code": "85128",
+    "area": "Tucson",
+    "account_count": 12
+  },
+  {
+    "zip_code": "85131",
+    "area": "Tucson",
+    "account_count": 6
+  },
+  {
+    "zip_code": "85132",
+    "area": "Tucson",
+    "account_count": 2
+  },
+  {
+    "zip_code": "85138",
+    "area": "Tucson",
+    "account_count": 12
+  },
+  {
+    "zip_code": "85139",
+    "area": "Tucson",
+    "account_count": 6
+  },
+  {
+    "zip_code": "85143",
+    "area": "Tucson",
+    "account_count": 7
+  },
+  {
+    "zip_code": "85193",
+    "area": "Tucson",
+    "account_count": 4
+  },
+  {
+    "zip_code": "85194",
+    "area": "Tucson",
+    "account_count": 11
+  },
+  {
+    "zip_code": "85641",
+    "area": "Tucson",
+    "account_count": 2
+  },
+  {
+    "zip_code": "85653",
+    "area": "Tucson",
+    "account_count": 1
+  },
+  {
+    "zip_code": "85658",
+    "area": "Tucson",
+    "account_count": 5
+  },
+  {
+    "zip_code": "85704",
+    "area": "Tucson",
+    "account_count": 3
+  },
+  {
+    "zip_code": "85705",
+    "area": "Tucson",
+    "account_count": 1
+  },
+  {
+    "zip_code": "85706",
+    "area": "Tucson",
+    "account_count": 1
+  },
+  {
+    "zip_code": "85710",
+    "area": "Tucson",
+    "account_count": 2
+  },
+  {
+    "zip_code": "85711",
+    "area": "Tucson",
+    "account_count": 1
+  },
+  {
+    "zip_code": "85712",
+    "area": "Tucson",
+    "account_count": 2
+  },
+  {
+    "zip_code": "85715",
+    "area": "Tucson",
+    "account_count": 2
+  },
+  {
+    "zip_code": "85716",
+    "area": "Tucson",
+    "account_count": 1
+  },
+  {
+    "zip_code": "85718",
+    "area": "Tucson",
+    "account_count": 6
+  },
+  {
+    "zip_code": "85730",
+    "area": "Tucson",
+    "account_count": 4
+  },
+  {
+    "zip_code": "85737",
+    "area": "Tucson",
+    "account_count": 3
+  },
+  {
+    "zip_code": "85739",
+    "area": "Tucson",
+    "account_count": 3
+  },
+  {
+    "zip_code": "85741",
+    "area": "Tucson",
+    "account_count": 7
+  },
+  {
+    "zip_code": "85742",
+    "area": "Tucson",
+    "account_count": 2
+  },
+  {
+    "zip_code": "85743",
+    "area": "Tucson",
+    "account_count": 1
+  },
+  {
+    "zip_code": "85745",
+    "area": "Tucson",
+    "account_count": 1
+  },
+  {
+    "zip_code": "85746",
+    "area": "Tucson",
+    "account_count": 2
+  },
+  {
+    "zip_code": "85747",
+    "area": "Tucson",
+    "account_count": 1
+  },
+  {
+    "zip_code": "85749",
+    "area": "Tucson",
+    "account_count": 3
+  },
+  {
+    "zip_code": "85750",
+    "area": "Tucson",
+    "account_count": 9
+  },
+  {
+    "zip_code": "85755",
+    "area": "Tucson",
+    "account_count": 2
+  },
+  {
+    "zip_code": "85756",
+    "area": "Tucson",
+    "account_count": 4
+  },
+  {
+    "zip_code": "85757",
+    "area": "Tucson",
+    "account_count": 4
+  },
+  {
+    "zip_code": 85041,
+    "area": "West",
+    "account_count": 17
+  },
+  {
+    "zip_code": 85042,
+    "area": "West",
+    "account_count": 26
+  },
+  {
+    "zip_code": 85044,
+    "area": "West",
+    "account_count": 13
+  },
+  {
+    "zip_code": 85045,
+    "area": "West",
+    "account_count": 5
+  },
+  {
+    "zip_code": 85048,
+    "area": "West",
+    "account_count": 27
+  },
+  {
+    "zip_code": 85142,
+    "area": "West",
+    "account_count": 17
+  },
+  {
+    "zip_code": 85209,
+    "area": "West",
+    "account_count": 11
+  },
+  {
+    "zip_code": 85212,
+    "area": "West",
+    "account_count": 15
+  },
+  {
+    "zip_code": 85224,
+    "area": "West",
+    "account_count": 17
+  },
+  {
+    "zip_code": 85225,
+    "area": "West",
+    "account_count": 12
+  },
+  {
+    "zip_code": 85226,
+    "area": "West",
+    "account_count": 21
+  },
+  {
+    "zip_code": 85233,
+    "area": "West",
+    "account_count": 16
+  },
+  {
+    "zip_code": 85234,
+    "area": "West",
+    "account_count": 22
+  },
+  {
+    "zip_code": 85248,
+    "area": "West",
+    "account_count": 22
+  },
+  {
+    "zip_code": 85249,
+    "area": "West",
+    "account_count": 33
+  },
+  {
+    "zip_code": 85282,
+    "area": "West",
+    "account_count": 20
+  },
+  {
+    "zip_code": 85283,
+    "area": "West",
+    "account_count": 23
+  },
+  {
+    "zip_code": 85284,
+    "area": "West",
+    "account_count": 19
+  },
+  {
+    "zip_code": 85286,
+    "area": "West",
+    "account_count": 26
+  },
+  {
+    "zip_code": 85295,
+    "area": "West",
+    "account_count": 23
+  },
+  {
+    "zip_code": 85296,
+    "area": "West",
+    "account_count": 23
+  },
+  {
+    "zip_code": 85297,
+    "area": "West",
+    "account_count": 11
+  },
+  {
+    "zip_code": 85298,
+    "area": "West",
+    "account_count": 9
+  },
+  {
+    "zip_code": 85339,
+    "area": "West",
+    "account_count": 31
+  }
+]

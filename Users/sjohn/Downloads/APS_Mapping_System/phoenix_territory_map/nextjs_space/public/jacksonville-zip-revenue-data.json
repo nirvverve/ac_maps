@@ -1,0 +1,3719 @@
+[
+  {
+    "zip": "32081",
+    "city": "Ponte Vedra",
+    "territory": "JAX - Maint Nocatee",
+    "accountCount": 129,
+    "totalRevenue": 22629.440000000002,
+    "accounts": [
+      {
+        "customerNumber": "A-065597",
+        "customerName": "Rebecca Rosenberg",
+        "address": "107 Mahi Dr",
+        "monthlyPrice": 160,
+        "yearlyPrice": 1920,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067478",
+        "customerName": "Gary (Country Brook) Amann",
+        "address": "109 Country Brook Avenue",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065665",
+        "customerName": "Jay Landrum",
+        "address": "109 Willow Falls Trail",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068940",
+        "customerName": "Tom Fleury",
+        "address": "118 Oak Creek Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066215",
+        "customerName": "Martin Asaro",
+        "address": "126 Bison Trail",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-069617",
+        "customerName": "Bill McClure",
+        "address": "129 Auburndale Drive",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065738",
+        "customerName": "Beverly & Brian Jones",
+        "address": "129 Gardiners Bay Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065756",
+        "customerName": "Vanessa Dirani",
+        "address": "133 Mahi Dr",
+        "monthlyPrice": 160,
+        "yearlyPrice": 1920,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065708",
+        "customerName": "Michele Ludwick",
+        "address": "135 Cumberland Island Circle",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066210",
+        "customerName": "Olga - Owner Tishinin",
+        "address": "1361 Sylvie Ln",
+        "monthlyPrice": 160,
+        "yearlyPrice": 1920,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065646",
+        "customerName": "David Domeshek",
+        "address": "139 Grand Myrtle Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065609",
+        "customerName": "Gary Amann",
+        "address": "139 Palm Island Way",
+        "monthlyPrice": 170.77,
+        "yearlyPrice": 2049.2400000000002,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065750",
+        "customerName": "Stephen Panoff",
+        "address": "14 Portside Ave",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065808",
+        "customerName": "Justin & Beth Moy",
+        "address": "143 Legacy Crossing Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065809",
+        "customerName": "Kim & Harris, Bill Holland",
+        "address": "151 Gardiners Bay Dr",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066194",
+        "customerName": "Vanessa Diaz",
+        "address": "155 Bent Trail",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065587",
+        "customerName": "Mike Petrauskas",
+        "address": "156 Coach Lamp Way",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066209",
+        "customerName": "John Eremita",
+        "address": "16 Palm Island Way",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066180",
+        "customerName": "Robert Murino",
+        "address": "161 Hazelwood Dr",
+        "monthlyPrice": 160,
+        "yearlyPrice": 1920,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065810",
+        "customerName": "Shiraz Shehab",
+        "address": "164 Legacy Crossing Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065719",
+        "customerName": "Tony & Judy Valverde",
+        "address": "166 Kiwi Palm Ct",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065608",
+        "customerName": "Sheila Gavens",
+        "address": "166 Portside Ave",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065744",
+        "customerName": "Heather Cox",
+        "address": "169 Portside Ave",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065588",
+        "customerName": "Param Sahni",
+        "address": "17 Gardiners Bay Dr",
+        "monthlyPrice": 165.6,
+        "yearlyPrice": 1987.1999999999998,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065601",
+        "customerName": "Laura Smith",
+        "address": "171 Gardiners Bay Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067028",
+        "customerName": "Raychel Raymer",
+        "address": "173 Valley Grove Drive",
+        "monthlyPrice": 100,
+        "yearlyPrice": 1200,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065579",
+        "customerName": "Karen Smith",
+        "address": "177 Clay Gully Trail",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065709",
+        "customerName": "Rikki Denniston",
+        "address": "180 Deer Ridge Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065729",
+        "customerName": "Francisco & Connie Aleman",
+        "address": "180 Palm Island Way",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067438",
+        "customerName": "Alex Pantinakis 2",
+        "address": "180 Perdido Key Court",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066185",
+        "customerName": "Mike Giordano",
+        "address": "181 Portsmouth Bay Ave",
+        "monthlyPrice": 196.65,
+        "yearlyPrice": 2359.8,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066201",
+        "customerName": "Sherry Dehner",
+        "address": "182 Senegal Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065774",
+        "customerName": "Eliza Cuevas",
+        "address": "184 Gulfstream Way",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065657",
+        "customerName": "Jennifer Vernacotola",
+        "address": "184 Willow Falls Trail",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065741",
+        "customerName": "Andrew Dove",
+        "address": "189 Willow Bay Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065607",
+        "customerName": "Marianna Zielinska",
+        "address": "192 Palm Island Way",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065796",
+        "customerName": "Rick & Sue Chang",
+        "address": "192 Skywood Trail",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065699",
+        "customerName": "Margaret Beidler",
+        "address": "1921 Abercrombie Ln",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066197",
+        "customerName": "Wendell Cook",
+        "address": "194 Portside Ave",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065655",
+        "customerName": "Troy Teasdale",
+        "address": "196 Gardiners Bay Dr",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065702",
+        "customerName": "Katie Feather",
+        "address": "197 Oak Creek Dr",
+        "monthlyPrice": 195,
+        "yearlyPrice": 2340,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065652",
+        "customerName": "Kathy Spellacy",
+        "address": "200 Royal Lake Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065727",
+        "customerName": "Cindy Golod",
+        "address": "201 Palm Island Way",
+        "monthlyPrice": 200,
+        "yearlyPrice": 2400,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065613",
+        "customerName": "Robert & Heather Henning",
+        "address": "201 S. Shipwreck Ave",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065725",
+        "customerName": "Dan & Sandra Zaffuto",
+        "address": "208 Senegal Dr",
+        "monthlyPrice": 225,
+        "yearlyPrice": 2700,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065761",
+        "customerName": "Bill Strautz",
+        "address": "215 Topsail Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065768",
+        "customerName": "Sheila Haines",
+        "address": "216 Bermuda Greens Ave",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065721",
+        "customerName": "Libby Smith",
+        "address": "222 Aspen Leaf Dr",
+        "monthlyPrice": 196.65,
+        "yearlyPrice": 2359.8,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065706",
+        "customerName": "Michael Nordness",
+        "address": "228 Cameron Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065849",
+        "customerName": "Becca & Bill Brown",
+        "address": "229 Cezanne Circle",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065720",
+        "customerName": "Leon Alvarez",
+        "address": "231 Glenwood St",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065660",
+        "customerName": "John Zilinski",
+        "address": "235 Gardiners Bay Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065605",
+        "customerName": "Jason Landry",
+        "address": "237 Port Charlotte Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065596",
+        "customerName": "Chad & Amie Meadows",
+        "address": "247 Gardiners Bay Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066195",
+        "customerName": "Ryan Reay",
+        "address": "25 Bermuda Greens Ave",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065659",
+        "customerName": "Janet Swallow",
+        "address": "251 Royal Lake Dr",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065928",
+        "customerName": "Vikram Anand",
+        "address": "254 Gulfstream Way",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065713",
+        "customerName": "Jared & Jennifer Orlando",
+        "address": "254 Howland Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065749",
+        "customerName": "Dennis Pickett",
+        "address": "259 Gulfstream Way",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065698",
+        "customerName": "Ed Lucas",
+        "address": "262 Mahi Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065773",
+        "customerName": "Alex Marques",
+        "address": "266 Topsail Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065778",
+        "customerName": "Tom Bottichio",
+        "address": "275 Portside Ave",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065662",
+        "customerName": "David Nazario",
+        "address": "276 Gardiners Bay Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065798",
+        "customerName": "Patrick & Abby Stanford",
+        "address": "28 Lighthouse Point Circle",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065747",
+        "customerName": "Olinda Soria",
+        "address": "29 Stately Shoals Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066174",
+        "customerName": "Matt Lawrence",
+        "address": "298 Pelican Pointe Rd",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065731",
+        "customerName": "Kerin Herstone",
+        "address": "300 Woodland Greens Dr",
+        "monthlyPrice": 171,
+        "yearlyPrice": 2052,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065570",
+        "customerName": "Kevin Hancock",
+        "address": "305 Cape May Ave",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065712",
+        "customerName": "Michelle Tesori",
+        "address": "311 Greenleaf Lakes Ave",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065604",
+        "customerName": "Judith Bevington",
+        "address": "313 Marsh Hollow Rd",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066200",
+        "customerName": "Mike Pettinella",
+        "address": "316 Shadow Ridge Trail",
+        "monthlyPrice": 155,
+        "yearlyPrice": 1860,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065711",
+        "customerName": "Brian Mercurio",
+        "address": "324 Cliffside Trail",
+        "monthlyPrice": 181.12,
+        "yearlyPrice": 2173.44,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066216",
+        "customerName": "Travis Lenander",
+        "address": "324 Mahi Dr",
+        "monthlyPrice": 175.95,
+        "yearlyPrice": 2111.3999999999996,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065802",
+        "customerName": "Arjun Jagannath",
+        "address": "335 Portsmouth Bay Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065554",
+        "customerName": "William Matthess",
+        "address": "343 Pelican Point Rd",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066173",
+        "customerName": "Bruce Munson",
+        "address": "343 Wild Cypress Circle",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065610",
+        "customerName": "Jose Benavidez",
+        "address": "348 Mahi Dr",
+        "monthlyPrice": 175.95,
+        "yearlyPrice": 2111.3999999999996,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065730",
+        "customerName": "Jennifer Davey",
+        "address": "356 Park Forest Drive",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065933",
+        "customerName": "Akhil Dubey",
+        "address": "362 Auburndale Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065701",
+        "customerName": "Evan Walton",
+        "address": "365 Park Forest Dr",
+        "monthlyPrice": 160,
+        "yearlyPrice": 1920,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065734",
+        "customerName": "Sherif El-Salawy",
+        "address": "373 Cross Ridge Dr",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065622",
+        "customerName": "Doug Reed",
+        "address": "387 Portsmouth Bay Ave",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065700",
+        "customerName": "Matt Maynard",
+        "address": "395 Village Grand Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065710",
+        "customerName": "Samantha & Konstantin Gazaryants",
+        "address": "406 Howland Dr",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065728",
+        "customerName": "Joe Warren",
+        "address": "42 King Palm Ct",
+        "monthlyPrice": 200,
+        "yearlyPrice": 2400,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065594",
+        "customerName": "David Chait",
+        "address": "425 Old Bluff Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065716",
+        "customerName": "Diane Pisacreta",
+        "address": "43 Pine Manor Dr",
+        "monthlyPrice": 215,
+        "yearlyPrice": 2580,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065934",
+        "customerName": "Robert Pope",
+        "address": "43 Quail Vista Ct",
+        "monthlyPrice": 185,
+        "yearlyPrice": 2220,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065571",
+        "customerName": "Charles Lizak",
+        "address": "46 Woodgrove Ct",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065932",
+        "customerName": "Kenneth Burdick",
+        "address": "460 Old Bluff Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065870",
+        "customerName": "Don & Michaela Albon",
+        "address": "486 Captiva Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065626",
+        "customerName": "Kelly Cholmondeley",
+        "address": "488 Portsmouth Bay Ave",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065876",
+        "customerName": "Cara Ferreira",
+        "address": "491 Captiva Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065603",
+        "customerName": "Brook Hoover",
+        "address": "492 Mahi Dr.",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065561",
+        "customerName": "Shawn Van Valkenburg",
+        "address": "501 Old Bluff Dr.",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066474",
+        "customerName": "Kevin & Dina Fitzgerald",
+        "address": "503 South Harbor Lights Drive",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066193",
+        "customerName": "Mike & Kara Cantrell",
+        "address": "509 Ashton Ln",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066204",
+        "customerName": "Dianne Frederick",
+        "address": "51 Marathon Key Way",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065707",
+        "customerName": "Michael Randle",
+        "address": "511 Cape May Ave",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065695",
+        "customerName": "Brian Williams",
+        "address": "52 Bermuda Greens Ave",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065560",
+        "customerName": "Andrew Colavito",
+        "address": "521 Pelican Pointe Rd",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065705",
+        "customerName": "Justin Mitten",
+        "address": "526 Parkbluff Circle",
+        "monthlyPrice": 196.65,
+        "yearlyPrice": 2359.8,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065632",
+        "customerName": "Kay Crouch",
+        "address": "53 Bermuda Greens Ave",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066208",
+        "customerName": "Scott Fyfe",
+        "address": "539 Old Bluff Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065737",
+        "customerName": "Michael Lahris",
+        "address": "54 Marsala St",
+        "monthlyPrice": 196.65,
+        "yearlyPrice": 2359.8,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065582",
+        "customerName": "Nisra Thongpreda",
+        "address": "568 Old Bluff Dr",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065717",
+        "customerName": "Sonny Antunes",
+        "address": "58 Payne Trail",
+        "monthlyPrice": 196.65,
+        "yearlyPrice": 2359.8,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065667",
+        "customerName": "Nikki O'Connor",
+        "address": "580 Port Charlotte Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065746",
+        "customerName": "Connie Durney",
+        "address": "637 Old Bluff Dr",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065740",
+        "customerName": "Laura Bartz",
+        "address": "66 Beach Club Ct",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065923",
+        "customerName": "Chris Skotz",
+        "address": "66 Bonita Vista Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065674",
+        "customerName": "Jennifer Jones",
+        "address": "678 Port Charlotte Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065670",
+        "customerName": "Adam & Megan King",
+        "address": "69 Castlebrook Ln",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065575",
+        "customerName": "Jonathon Reid",
+        "address": "695 Old Bluff Dr",
+        "monthlyPrice": 200,
+        "yearlyPrice": 2400,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068914",
+        "customerName": "Jacqueline Parks",
+        "address": "70 Constitution Drive",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065714",
+        "customerName": "Fred Ritenour",
+        "address": "722 Port Charlotte Dr",
+        "monthlyPrice": 165.6,
+        "yearlyPrice": 1987.1999999999998,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065722",
+        "customerName": "Tom Salmon",
+        "address": "741 W. Devonhurst Ln.",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065612",
+        "customerName": "Jordan Allen",
+        "address": "76 Reunion Trail",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066213",
+        "customerName": "Tim Wilcox",
+        "address": "79 Mahi Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065704",
+        "customerName": "John Willis",
+        "address": "79 Maiden Terrace",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065739",
+        "customerName": "Ed Ronsman",
+        "address": "818 Old Bluff Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065748",
+        "customerName": "Laura Shoemaker",
+        "address": "82 Portside Ave",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065757",
+        "customerName": "Shana Ryan",
+        "address": "82 Tarpon Bay Ct",
+        "monthlyPrice": 160,
+        "yearlyPrice": 1920,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065569",
+        "customerName": "Barton Ledford",
+        "address": "827 Old Bluff Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066176",
+        "customerName": "Terry & Sharon Stavropoulos",
+        "address": "84 Woodgrove Ct",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065584",
+        "customerName": "Bart & Krystal Edgar",
+        "address": "841 Old Bluff Dr.",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065644",
+        "customerName": "Mike & Agape Blanchard",
+        "address": "88 Gulfstream Way",
+        "monthlyPrice": 160,
+        "yearlyPrice": 1920,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068826",
+        "customerName": "Nicolas Holdcraft",
+        "address": "96 Barbados Drive",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066196",
+        "customerName": "Dorothy Browning",
+        "address": "97 Payne Trail",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Nocatee",
+        "accountType": "Residential"
+      }
+    ]
+  },
+  {
+    "zip": "32082",
+    "city": "Ponte Vedra",
+    "territory": "JAX - Maint Ponte Vedra",
+    "accountCount": 83,
+    "totalRevenue": 15246.99,
+    "accounts": [
+      {
+        "customerNumber": "A-066223",
+        "customerName": "James & LuAnn Coffey",
+        "address": "1 Ocean RIdge Ct",
+        "monthlyPrice": 362.25,
+        "yearlyPrice": 4347,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065939",
+        "customerName": "Hossein Nezami",
+        "address": "1 San Juan Circle",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066187",
+        "customerName": "Kelsey Marcin",
+        "address": "100 Bent Oak Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065895",
+        "customerName": "Tyler Pezak",
+        "address": "100 N Mill Ridge Trail",
+        "monthlyPrice": 181.12,
+        "yearlyPrice": 2173.44,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066189",
+        "customerName": "Mary Derderian",
+        "address": "101 Heritage Way",
+        "monthlyPrice": 207,
+        "yearlyPrice": 2484,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065752",
+        "customerName": "Gail Fisher",
+        "address": "104 Mayfair Ln",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065916",
+        "customerName": "Peter Flynn",
+        "address": "104 Seaglass Way",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065650",
+        "customerName": "Tom & Linda Dekar",
+        "address": "105 Plantation Circle",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066191",
+        "customerName": "Jacob Adler",
+        "address": "107 Overlook Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065764",
+        "customerName": "Ted Petitt",
+        "address": "108 Twelve Oaks Ln",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065679",
+        "customerName": "Debra Owens",
+        "address": "111 Mayfair Ln",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065875",
+        "customerName": "Barbara Oneill",
+        "address": "112 Alsace Ct",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065658",
+        "customerName": "David Wilson",
+        "address": "112 Laurel Way",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065888",
+        "customerName": "Steve Betz",
+        "address": "112 Payasada Oaks Trail",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065742",
+        "customerName": "Reagan Majoria",
+        "address": "112 Settlers Row N",
+        "monthlyPrice": 350,
+        "yearlyPrice": 4200,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065859",
+        "customerName": "Christine Wanderon",
+        "address": "1135 Ponte Vedra Blvd",
+        "monthlyPrice": 235,
+        "yearlyPrice": 2820,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065911",
+        "customerName": "Peter Scholz",
+        "address": "1158 Salt Creek Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065574",
+        "customerName": "Andrew Skigen",
+        "address": "121 Carriage Lamp Way",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066556",
+        "customerName": "Raghuram Kanadam",
+        "address": "124 Kingfisher Drive",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065769",
+        "customerName": "Wendy Leach",
+        "address": "125 Middleton Pl",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065537",
+        "customerName": "Frederic Motz",
+        "address": "125 Nandina Circle",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065548",
+        "customerName": "Karen Still",
+        "address": "1272 Fish Hook Way",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065787",
+        "customerName": "Mignyon Warren",
+        "address": "128 Haverhill Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065853",
+        "customerName": "Anthony Peduto",
+        "address": "1317 Ponte Vedra Blvd",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065551",
+        "customerName": "Jerome Sugar",
+        "address": "132 Deer Haven Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066770",
+        "customerName": "Kate Reynolds",
+        "address": "132 Haverhill Drive",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065892",
+        "customerName": "Michael & Dottie Cunningham",
+        "address": "136 Grand Palm Ct",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065883",
+        "customerName": "John Vincent",
+        "address": "136 Ponte Vedra East Blvd",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065854",
+        "customerName": "Marcos Tepedino",
+        "address": "137 Indian Cove Ln",
+        "monthlyPrice": 160,
+        "yearlyPrice": 1920,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065910",
+        "customerName": "Magdy El-Sayed Ahmed",
+        "address": "139 S Roscoe Blvd",
+        "monthlyPrice": 175.95,
+        "yearlyPrice": 2111.3999999999996,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-069182",
+        "customerName": "Paul Rizk",
+        "address": "140 Belvedere Place",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065759",
+        "customerName": "Justin Ragognetti",
+        "address": "141 Oceans Edge Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065901",
+        "customerName": "Perry Johnson",
+        "address": "148 Woodlands Creek Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065771",
+        "customerName": "Mike Costello",
+        "address": "154 Bay Cove Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065915",
+        "customerName": "Steven Wahlberg",
+        "address": "156 Sea Glass Way",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065865",
+        "customerName": "Kate Bumpus",
+        "address": "159 Bay Cove Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-069264",
+        "customerName": "Paul Tiperio",
+        "address": "177 River Marsh Drive",
+        "monthlyPrice": 179,
+        "yearlyPrice": 2148,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065675",
+        "customerName": "Maria Coyne",
+        "address": "204 S Shipwreck Ave",
+        "monthlyPrice": 181.12,
+        "yearlyPrice": 2173.44,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067732",
+        "customerName": "Kendall Higginbothan",
+        "address": "206 Sanctuary Estates Lane",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065848",
+        "customerName": "Jon & Sherri Hatfield",
+        "address": "209 Avenue C",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065672",
+        "customerName": "Matt Foxhall",
+        "address": "212 Avenue C",
+        "monthlyPrice": 200,
+        "yearlyPrice": 2400,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065673",
+        "customerName": "Greg Kainz",
+        "address": "220 Avenue C",
+        "monthlyPrice": 207,
+        "yearlyPrice": 2484,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065776",
+        "customerName": "Sherrin & Kantor, Debbie Whiteman",
+        "address": "220 Clearwater Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065874",
+        "customerName": "Tom Argyris",
+        "address": "2304 Greenside Ct",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066222",
+        "customerName": "Matthew & Anna Spanton",
+        "address": "231 Payasada Circle",
+        "monthlyPrice": 175.95,
+        "yearlyPrice": 2111.3999999999996,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065897",
+        "customerName": "Stephen Pierce",
+        "address": "232 Woody Creek Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065902",
+        "customerName": "Mike Conway",
+        "address": "244 N. Mill View Way",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065559",
+        "customerName": "Christy Rohlfing",
+        "address": "24504 Indian Midden Way",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065573",
+        "customerName": "David & Catherine Bird",
+        "address": "24567 Harbour View Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065913",
+        "customerName": "Jada Davies",
+        "address": "2620 Lighthouse Bend Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065784",
+        "customerName": "Angie Hummell",
+        "address": "283 Clearwater Dr",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066214",
+        "customerName": "Amy Murphy",
+        "address": "299 Clearwater Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065690",
+        "customerName": "Steve Sherman",
+        "address": "304 Sea Moss Lane",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065884",
+        "customerName": "Ian Maclean",
+        "address": "3141 La Reserve Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065840",
+        "customerName": "Klaus Dorfi",
+        "address": "329 Pablo Rd",
+        "monthlyPrice": 200,
+        "yearlyPrice": 2400,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065858",
+        "customerName": "Vincent DePorre",
+        "address": "340 Clearwater Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065887",
+        "customerName": "Tara & Rob Hetzel",
+        "address": "367 Possum Trot Rd",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065906",
+        "customerName": "Regina & Jud Durel",
+        "address": "377 Sawmill Ln.",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065860",
+        "customerName": "Jason & Merill - Send Paylink Every Month Engelhardt",
+        "address": "385 Clearwater Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065797",
+        "customerName": "Tracy Strong",
+        "address": "396 Clearwater Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065777",
+        "customerName": "Chris Nace",
+        "address": "412 S Mill View Way",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065689",
+        "customerName": "Hugh & Wendy Durden",
+        "address": "414 Ponte Vedra Blvd",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065593",
+        "customerName": "Joanne Edwards",
+        "address": "422 Royal Tern Rd S",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065899",
+        "customerName": "Kyle Winham",
+        "address": "432 S. Lakewood Run Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065898",
+        "customerName": "Michael Rogerson",
+        "address": "436 S. Lakewood Run Dr.",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065927",
+        "customerName": "Paul Corbett",
+        "address": "449 S Mill View Way",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065868",
+        "customerName": "Mike Tropiano",
+        "address": "46 Ramona St",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066227",
+        "customerName": "Whitney Zangel",
+        "address": "46 Sea Glass Way",
+        "monthlyPrice": 185,
+        "yearlyPrice": 2220,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068095",
+        "customerName": "Jennifer Teneyck",
+        "address": "5 Starfish Court",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066175",
+        "customerName": "Phillip Brigman",
+        "address": "5140 Otter Creek Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065580",
+        "customerName": "Chris & Beverly Casey",
+        "address": "5160 Bridlewood Ct",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065600",
+        "customerName": "Rick Natsch",
+        "address": "608 Ibis Cove Place",
+        "monthlyPrice": 225,
+        "yearlyPrice": 2700,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065885",
+        "customerName": "Jennifer Maynard",
+        "address": "628 W Surf Spray Ln",
+        "monthlyPrice": 225,
+        "yearlyPrice": 2700,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065857",
+        "customerName": "Aaron Lesher",
+        "address": "660 Ponte Vedra Blvd",
+        "monthlyPrice": 245,
+        "yearlyPrice": 2940,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065929",
+        "customerName": "Ned Kelly",
+        "address": "701 Ponte Vedra Blvd",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066415",
+        "customerName": "Melissa Knarr",
+        "address": "7021 Cypress Bridge Drive North",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065813",
+        "customerName": "Dennis Williamson",
+        "address": "716 Berry Ln",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065614",
+        "customerName": "Maria Raymer",
+        "address": "813 Harbor Preserve Ct",
+        "monthlyPrice": 100,
+        "yearlyPrice": 1200,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065547",
+        "customerName": "Debra Rozen",
+        "address": "8204 Seven Mile Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068567",
+        "customerName": "Kelly Cerabino",
+        "address": "833 Baytree Lane",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066217",
+        "customerName": "Deborah - Owner Giambruno",
+        "address": "837 Baytree Ln",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065869",
+        "customerName": "Will Smith",
+        "address": "84 Sea Glass Way",
+        "monthlyPrice": 225,
+        "yearlyPrice": 2700,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066768",
+        "customerName": "Lee Moon",
+        "address": "9652 Preston Trail West",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Ponte Vedra",
+        "accountType": "Residential"
+      }
+    ]
+  },
+  {
+    "zip": "32084",
+    "city": "St. Augustine",
+    "territory": "JAX - Maint St. Augustine",
+    "accountCount": 1,
+    "totalRevenue": 186.3,
+    "accounts": [
+      {
+        "customerNumber": "A-065546",
+        "customerName": "Sara McDavitt",
+        "address": "984 Oxford Dr",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint St. Augustine",
+        "accountType": "Residential"
+      }
+    ]
+  },
+  {
+    "zip": "32092",
+    "city": "St. Augustine",
+    "territory": "JAX - Maint St. Johns",
+    "accountCount": 22,
+    "totalRevenue": 4084.3700000000003,
+    "accounts": [
+      {
+        "customerNumber": "A-065602",
+        "customerName": "Karin Paretta",
+        "address": "105 Woodsong Ln",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065804",
+        "customerName": "Karyn Guler",
+        "address": "117 Woodsong Ln",
+        "monthlyPrice": 201.82,
+        "yearlyPrice": 2421.84,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066801",
+        "customerName": "Lisa Schosker",
+        "address": "118 Sparrow Creek Drive",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066190",
+        "customerName": "Jimmy Viola",
+        "address": "1246 Garrison Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065838",
+        "customerName": "Michaela Sanchez",
+        "address": "151 Woodsong Ln",
+        "monthlyPrice": 207,
+        "yearlyPrice": 2484,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067233",
+        "customerName": "Kaleigh Simcoe",
+        "address": "155 Sumter Pl",
+        "monthlyPrice": 185,
+        "yearlyPrice": 2220,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065595",
+        "customerName": "Mike Hanley",
+        "address": "162 Glenneyre Circle",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066459",
+        "customerName": "Floyd Alexander",
+        "address": "182 Spanish Bay Drive",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065841",
+        "customerName": "Clay Wilde",
+        "address": "200 St Johns Golf Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065611",
+        "customerName": "Jordan Bennett",
+        "address": "2100 S Cranbrook Ave",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065668",
+        "customerName": "Chris Hanks",
+        "address": "2109 W. Quay Rd",
+        "monthlyPrice": 210,
+        "yearlyPrice": 2520,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065839",
+        "customerName": "Alejandro Chaves",
+        "address": "317 Rivercliff Trail",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065598",
+        "customerName": "Mike Moceri",
+        "address": "318 Seahill Drive",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065633",
+        "customerName": "Elena Koteski",
+        "address": "342 Silver Sage Ln",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065799",
+        "customerName": "Carson & Katharine Ridenhour",
+        "address": "386 Beale Avenue",
+        "monthlyPrice": 196.65,
+        "yearlyPrice": 2359.8,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065814",
+        "customerName": "James Sterling",
+        "address": "412 N Pimlico St",
+        "monthlyPrice": 225,
+        "yearlyPrice": 2700,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065788",
+        "customerName": "Cristobal Orozco",
+        "address": "581 Glenneyre Circle",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066551",
+        "customerName": "Desmond McNamee",
+        "address": "616 Glenneyre Circle",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066182",
+        "customerName": "Dean Uva",
+        "address": "751 Windley Dr",
+        "monthlyPrice": 195,
+        "yearlyPrice": 2340,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068370",
+        "customerName": "Fiona Chen",
+        "address": "909 Las Navas Place",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065606",
+        "customerName": "Pat & Joanne Parme",
+        "address": "94 Grady Ct.",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065785",
+        "customerName": "Steve & Ellen Edwards",
+        "address": "981 Glenneyre Circle",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      }
+    ]
+  },
+  {
+    "zip": "32095",
+    "city": "St. Augustine",
+    "territory": "JAX - Maint St. Augustine",
+    "accountCount": 10,
+    "totalRevenue": 1727.25,
+    "accounts": [
+      {
+        "customerNumber": "A-065589",
+        "customerName": "Michael & Elizabeth Stewart",
+        "address": "1030 Dove House Lane",
+        "monthlyPrice": 175.95,
+        "yearlyPrice": 2111.3999999999996,
+        "territory": "JAX - Maint St. Augustine",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065623",
+        "customerName": "Rich Wead",
+        "address": "121 Hutchinson Ln",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint St. Augustine",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065562",
+        "customerName": "Lorraine & David Evans",
+        "address": "219 N. River Drive",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint St. Augustine",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065568",
+        "customerName": "Vilma Newton",
+        "address": "260 Medio Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Augustine",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067048",
+        "customerName": "Darrin Pelletier",
+        "address": "285 Beechnut Circle",
+        "monthlyPrice": 115,
+        "yearlyPrice": 1380,
+        "territory": "JAX - Maint St. Augustine",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065654",
+        "customerName": "Kristen & Colbie Wacker",
+        "address": "285 Diamondback Ave",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Augustine",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065558",
+        "customerName": "Nilam Gibson",
+        "address": "364 Sophia Terrace",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Augustine",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065583",
+        "customerName": "Debra Delvecchio",
+        "address": "473 Appaloosa Ave",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Augustine",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065576",
+        "customerName": "Steve Kimsey",
+        "address": "50 Lazo Ct",
+        "monthlyPrice": 185,
+        "yearlyPrice": 2220,
+        "territory": "JAX - Maint St. Augustine",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065552",
+        "customerName": "Jude Kunnen",
+        "address": "70 Antler Branch Ct",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Augustine",
+        "accountType": "Residential"
+      }
+    ]
+  },
+  {
+    "zip": "32206",
+    "city": "Jacksonville",
+    "territory": "JAX - Comm Maint",
+    "accountCount": 1,
+    "totalRevenue": 825,
+    "accounts": [
+      {
+        "customerNumber": "A-067064",
+        "customerName": "Sanctuary Walk Apartments",
+        "address": "645 East 21st Street",
+        "monthlyPrice": 825,
+        "yearlyPrice": 9900,
+        "territory": "JAX - Comm Maint",
+        "accountType": "Commercial"
+      }
+    ]
+  },
+  {
+    "zip": "32211",
+    "city": "Jacksonville",
+    "territory": "JAX - Maint Jacksonville",
+    "accountCount": 2,
+    "totalRevenue": 940,
+    "accounts": [
+      {
+        "customerNumber": "A-067555",
+        "customerName": "Jacob Mathew",
+        "address": "1343 Lostara Avenue West",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068289",
+        "customerName": "Alderman Park Apartments",
+        "address": "1600 Lansdowne Drive",
+        "monthlyPrice": 750,
+        "yearlyPrice": 9000,
+        "territory": "JAX - Comm Maint",
+        "accountType": "Commercial"
+      }
+    ]
+  },
+  {
+    "zip": "32224",
+    "city": "Jacksonville",
+    "territory": "JAX - Maint Jacksonville",
+    "accountCount": 28,
+    "totalRevenue": 5042.65,
+    "accounts": [
+      {
+        "customerNumber": "A-068632",
+        "customerName": "Barbara Parke",
+        "address": "12255 Mantle Drive",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065664",
+        "customerName": "Maisha Robinson",
+        "address": "12821 Quailbrook Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065578",
+        "customerName": "Clint Alphen",
+        "address": "12826 Quailbrook Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065577",
+        "customerName": "Tanya & Craig Cantor",
+        "address": "12832 Quailbrook Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065671",
+        "customerName": "Doris Van Saun",
+        "address": "12889 Oxford Crossing Dr",
+        "monthlyPrice": 160,
+        "yearlyPrice": 1920,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065676",
+        "customerName": "Bob Personette",
+        "address": "12900 Oxford Crossing Dr",
+        "monthlyPrice": 150,
+        "yearlyPrice": 1800,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067916",
+        "customerName": "John Van Dam",
+        "address": "12939 Planters Creek Circle South",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065590",
+        "customerName": "Peter Zunich",
+        "address": "13137 Cricket Cove Rd",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065920",
+        "customerName": "Misty DeGross",
+        "address": "13740 White Heron Place",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065908",
+        "customerName": "Dan Schreurs",
+        "address": "14105 Cambridge Falls Ct",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065842",
+        "customerName": "Dottie Metz-Kudashick",
+        "address": "14348 Sandy Run Ln",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065867",
+        "customerName": "Amy Moyer",
+        "address": "3573 Forest Bend Te",
+        "monthlyPrice": 200,
+        "yearlyPrice": 2400,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066212",
+        "customerName": "Matthew Robinson",
+        "address": "3621 Shady Woods Street South",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065684",
+        "customerName": "Denise Lyle",
+        "address": "3626 Valverde Circle",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065682",
+        "customerName": "Christine Filipone",
+        "address": "3632 Valverde Circle",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068725",
+        "customerName": "Jason #2 Landry",
+        "address": "3646 Chatsfield Court",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065921",
+        "customerName": "Brad Lunsford",
+        "address": "3678 Crossview Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065877",
+        "customerName": "Susan Rother",
+        "address": "3692 Crossview Dr",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065563",
+        "customerName": "Jose Nativi",
+        "address": "3875 Biggin Church Rd. W.",
+        "monthlyPrice": 186,
+        "yearlyPrice": 2232,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067843",
+        "customerName": "Bruce Swindell",
+        "address": "4010 Windsor Park Drive East",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066575",
+        "customerName": "Matt Schellhorn",
+        "address": "4019 Windsor Park Drive East",
+        "monthlyPrice": 195,
+        "yearlyPrice": 2340,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066177",
+        "customerName": "Alexa Gillikin",
+        "address": "4060 Jebb island Circle W",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065763",
+        "customerName": "Jeff Whitaker",
+        "address": "4410 Hanover Park Dr",
+        "monthlyPrice": 196.65,
+        "yearlyPrice": 2359.8,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065656",
+        "customerName": "Bill & Nancy Thompson",
+        "address": "4439 Catheys Club  Ln",
+        "monthlyPrice": 225,
+        "yearlyPrice": 2700,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065812",
+        "customerName": "Michael Adams",
+        "address": "5133 Wilton Walk Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065930",
+        "customerName": "Jason Cromer",
+        "address": "5146 Commisioners Dr",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065818",
+        "customerName": "Jason Sluzevich",
+        "address": "5262 Tallulah Lake Ct",
+        "monthlyPrice": 195,
+        "yearlyPrice": 2340,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065830",
+        "customerName": "Amit Merchea",
+        "address": "5369 Bent Pine Cove Rd",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      }
+    ]
+  },
+  {
+    "zip": "32225",
+    "city": "Jacksonville",
+    "territory": "JAX - Maint Jacksonville",
+    "accountCount": 8,
+    "totalRevenue": 1950.3,
+    "accounts": [
+      {
+        "customerNumber": "A-066767",
+        "customerName": "Dedra Belvin",
+        "address": "11353 Oak Landings Drive",
+        "monthlyPrice": 100,
+        "yearlyPrice": 1200,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065545",
+        "customerName": "Scott Pride",
+        "address": "1207 Soaring Flight Way",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067643",
+        "customerName": "Chip Gleisson",
+        "address": "13472 Troon Trace Lane",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-069152",
+        "customerName": "Betty Worri",
+        "address": "13775 Saxon Lake Drive",
+        "monthlyPrice": 179,
+        "yearlyPrice": 2148,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065904",
+        "customerName": "Nicole Towcimak",
+        "address": "13777 Bromley Point Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065549",
+        "customerName": "Tammy Brownell",
+        "address": "353 Blagdon Ct",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068215",
+        "customerName": "Laurie Evans",
+        "address": "361 Blagdon Court",
+        "monthlyPrice": 145,
+        "yearlyPrice": 1740,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068941",
+        "customerName": "Portofino Club",
+        "address": "3333 Monument Road",
+        "monthlyPrice": 800,
+        "yearlyPrice": 9600,
+        "territory": "JAX - Comm Maint",
+        "accountType": "Commercial"
+      }
+    ]
+  },
+  {
+    "zip": "32233",
+    "city": "Atlantic Beach",
+    "territory": "JAX - Maint Beaches",
+    "accountCount": 15,
+    "totalRevenue": 2915.64,
+    "accounts": [
+      {
+        "customerNumber": "A-066224",
+        "customerName": "Sam Swingle",
+        "address": "161 16th St",
+        "monthlyPrice": 150,
+        "yearlyPrice": 1800,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065894",
+        "customerName": "Amanda Runquist",
+        "address": "1735 Maritime Oak Dr.",
+        "monthlyPrice": 232.87,
+        "yearlyPrice": 2794.44,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065850",
+        "customerName": "Breon Allen",
+        "address": "1747 Maritime Oak Dr",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065861",
+        "customerName": "Courtney Rhoades",
+        "address": "1752 Maritime Oak Dr",
+        "monthlyPrice": 200,
+        "yearlyPrice": 2400,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065890",
+        "customerName": "Georgia Goldman",
+        "address": "1774 Atlantic Beach Dr",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065882",
+        "customerName": "Josh & Meredith Ring",
+        "address": "1822 Atlantic Beach Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065790",
+        "customerName": "Yvette Potter",
+        "address": "1865 Atlantic Beach Dr",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065914",
+        "customerName": "Robert Tubbs",
+        "address": "1871 Atlantic Beach Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065878",
+        "customerName": "Brandon Ponsoll",
+        "address": "1877 Atlantic Beach Dr.",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065811",
+        "customerName": "Tom Degiovanni",
+        "address": "342 5th St.",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065807",
+        "customerName": "Marilyn Cassese",
+        "address": "348 Plaza",
+        "monthlyPrice": 225,
+        "yearlyPrice": 2700,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065896",
+        "customerName": "Joanna DeLoach",
+        "address": "349 Plaza",
+        "monthlyPrice": 230,
+        "yearlyPrice": 2760,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065844",
+        "customerName": "Debbie Sherman",
+        "address": "377 4th St",
+        "monthlyPrice": 181.12,
+        "yearlyPrice": 2173.44,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067420",
+        "customerName": "Philip Loeb",
+        "address": "390 10th Street",
+        "monthlyPrice": 225,
+        "yearlyPrice": 2700,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065886",
+        "customerName": "Susan Hughes",
+        "address": "544 Atlantic Beach Ct",
+        "monthlyPrice": 196.65,
+        "yearlyPrice": 2359.8,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      }
+    ]
+  },
+  {
+    "zip": "32244",
+    "city": "Jacksonville",
+    "territory": "JAX - Maint Outskirts",
+    "accountCount": 3,
+    "totalRevenue": 975,
+    "accounts": [
+      {
+        "customerNumber": "A-066678",
+        "customerName": "Bateney Avril",
+        "address": "7398 Overland Park Boulevard West",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Outskirts",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066226",
+        "customerName": "Antonio Taylor",
+        "address": "8079 Lamb Ct",
+        "monthlyPrice": 155,
+        "yearlyPrice": 1860,
+        "territory": "JAX - Maint Outskirts",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068402",
+        "customerName": "Ortega Village Apartments",
+        "address": "4754 Ortega Hills Drive",
+        "monthlyPrice": 650,
+        "yearlyPrice": 7800,
+        "territory": "JAX - Comm Maint",
+        "accountType": "Commercial"
+      }
+    ]
+  },
+  {
+    "zip": "32246",
+    "city": "Jacksonville",
+    "territory": "JAX - Maint Jacksonville",
+    "accountCount": 9,
+    "totalRevenue": 1600,
+    "accounts": [
+      {
+        "customerNumber": "A-065615",
+        "customerName": "Shaun Aure",
+        "address": "2382 Provati Ct",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065618",
+        "customerName": "Nancy Hajjar",
+        "address": "2447 Karatas Ct",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-069128",
+        "customerName": "Donald Kerridge",
+        "address": "2836 Pescara Drive",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065628",
+        "customerName": "Julie Kaplan",
+        "address": "2912 Sans Pareil St",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065651",
+        "customerName": "Tim Hancock",
+        "address": "3014 Brettungar Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065638",
+        "customerName": "Roselyn Jose",
+        "address": "3019 Savona Ct",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065627",
+        "customerName": "Josh Witt",
+        "address": "3051 Savona Ct",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065630",
+        "customerName": "Mark Couch",
+        "address": "3081 Savona Ct",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065648",
+        "customerName": "Mirela Hadziavdic",
+        "address": "3084 Danube Ct",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      }
+    ]
+  },
+  {
+    "zip": "32250",
+    "city": "Jacksonville Beach",
+    "territory": "JAX - Maint Beaches",
+    "accountCount": 15,
+    "totalRevenue": 2824.9500000000003,
+    "accounts": [
+      {
+        "customerNumber": "A-066220",
+        "customerName": "Lauren Abrutz",
+        "address": "1218 Seabreeze Ave",
+        "monthlyPrice": 200,
+        "yearlyPrice": 2400,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065767",
+        "customerName": "Megan Peck",
+        "address": "14360 Stacey Rd",
+        "monthlyPrice": 207,
+        "yearlyPrice": 2484,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065891",
+        "customerName": "Albert Lechner",
+        "address": "14726 Plumosa Dr",
+        "monthlyPrice": 225,
+        "yearlyPrice": 2700,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-069083",
+        "customerName": "Gary Warren",
+        "address": "1624 Roberts Drive",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065815",
+        "customerName": "Eric Malnove",
+        "address": "25 Fairway Ln",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065835",
+        "customerName": "Sandrine Causse",
+        "address": "3804 Tropical Terrace",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067439",
+        "customerName": "Meghan Waldron",
+        "address": "4115 Avalon Circle",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065905",
+        "customerName": "Erin Voss",
+        "address": "418 17th Ave. N.",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065909",
+        "customerName": "Danny Hanson",
+        "address": "422 17th Ave N",
+        "monthlyPrice": 196.65,
+        "yearlyPrice": 2359.8,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065862",
+        "customerName": "Michael Liller",
+        "address": "4256 Tradewinds Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065879",
+        "customerName": "Stephen Mellett",
+        "address": "4408 Seabreeze Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065918",
+        "customerName": "Michael Sharp",
+        "address": "525 16th Ave. N",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068732",
+        "customerName": "Marcelo Alvarado",
+        "address": "679 12th Avenue South",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065936",
+        "customerName": "Amy Catena",
+        "address": "714 16th Ave S",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065912",
+        "customerName": "Randy Rose",
+        "address": "875 Bonaire Circle",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      }
+    ]
+  },
+  {
+    "zip": "32256",
+    "city": "Jacksonville",
+    "territory": "JAX - Maint Jacksonville",
+    "accountCount": 11,
+    "totalRevenue": 2552.3,
+    "accounts": [
+      {
+        "customerNumber": "A-068096",
+        "customerName": "Tara McDonough",
+        "address": "10056 Illumination Drive",
+        "monthlyPrice": 185,
+        "yearlyPrice": 2220,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066552",
+        "customerName": "Devin Lloyd",
+        "address": "10379 Silverbrook Trail",
+        "monthlyPrice": 225,
+        "yearlyPrice": 2700,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068374",
+        "customerName": "Cedric McNish",
+        "address": "10480 Silverbrook Trail",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068200",
+        "customerName": "Katrina Poladian",
+        "address": "10886 Town View Drive",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065791",
+        "customerName": "Debbie Nabert",
+        "address": "10982 Hickory Trace Ln",
+        "monthlyPrice": 207,
+        "yearlyPrice": 2484,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065715",
+        "customerName": "Nina Quilts",
+        "address": "110 Kiwi Palm Ct.",
+        "monthlyPrice": 185,
+        "yearlyPrice": 2220,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065745",
+        "customerName": "Terri Nordeen",
+        "address": "11030 Kentworth Way",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065703",
+        "customerName": "Emmanuel Mattos",
+        "address": "13876 Harlowton Ave",
+        "monthlyPrice": 207,
+        "yearlyPrice": 2484,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065592",
+        "customerName": "Isaac Altman",
+        "address": "321 Wild Rose Dr",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065755",
+        "customerName": "Bob Wilkerson",
+        "address": "8529 Royalwood Dr",
+        "monthlyPrice": 207,
+        "yearlyPrice": 2484,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067651",
+        "customerName": "Four Points by Sheraton Baymeadows",
+        "address": "8520 Baymeadows Road",
+        "monthlyPrice": 625,
+        "yearlyPrice": 7500,
+        "territory": "JAX - Comm Maint",
+        "accountType": "Commercial"
+      }
+    ]
+  },
+  {
+    "zip": "32257",
+    "city": "Jacksonville",
+    "territory": "JAX - Maint St. Johns",
+    "accountCount": 3,
+    "totalRevenue": 577,
+    "accounts": [
+      {
+        "customerNumber": "A-065631",
+        "customerName": "Steve Edmonds",
+        "address": "2935 Forest Circle",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-069318",
+        "customerName": "Tammy Felix",
+        "address": "3653 Ballestero Drive South",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065617",
+        "customerName": "Erny Ravenscroft",
+        "address": "4153 Timberlake Dr N",
+        "monthlyPrice": 207,
+        "yearlyPrice": 2484,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      }
+    ]
+  },
+  {
+    "zip": "32258",
+    "city": "Jacksonville",
+    "territory": "JAX - Maint St. Johns",
+    "accountCount": 4,
+    "totalRevenue": 700,
+    "accounts": [
+      {
+        "customerNumber": "A-066225",
+        "customerName": "Michelle Wesson",
+        "address": "12470 Acosta Oaks Drive",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065663",
+        "customerName": "Janice Garza",
+        "address": "14888 Corklan Branch Circle",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066045",
+        "customerName": "Mitch Dembrowski",
+        "address": "4640 Early Rise Lane",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065678",
+        "customerName": "Patrick McCarthy",
+        "address": "6087 White Tip Rd",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      }
+    ]
+  },
+  {
+    "zip": "32259",
+    "city": "Jacksonville",
+    "territory": "JAX - Maint St. Johns",
+    "accountCount": 42,
+    "totalRevenue": 7660.050000000001,
+    "accounts": [
+      {
+        "customerNumber": "A-066769",
+        "customerName": "Natalia Safronov",
+        "address": "1045 Oakvale Road",
+        "monthlyPrice": 200,
+        "yearlyPrice": 2400,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065643",
+        "customerName": "Jason Day",
+        "address": "1048 Lauriston Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066186",
+        "customerName": "Rebecca Monteau",
+        "address": "112 Berot Circle",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-069227",
+        "customerName": "Holly Murphy",
+        "address": "117 Pineta Way",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065693",
+        "customerName": "Mike & Bethany Leonard",
+        "address": "121 Bracken Ct",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065629",
+        "customerName": "Bobby & Penny Cowan",
+        "address": "124 Berot Circle",
+        "monthlyPrice": 175.95,
+        "yearlyPrice": 2111.3999999999996,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066772",
+        "customerName": "Angel Jurich",
+        "address": "131 Honey Blossom Road",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065624",
+        "customerName": "Carlton Golden",
+        "address": "131 Rockcreek Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065694",
+        "customerName": "Ron Jones",
+        "address": "1337 Honeysuckle  Dr",
+        "monthlyPrice": 196.65,
+        "yearlyPrice": 2359.8,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065833",
+        "customerName": "Rich Bartolucci",
+        "address": "134 Honeyblossom Rd",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066179",
+        "customerName": "Christina Dunn",
+        "address": "135 Autmn Bliss Dr",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065823",
+        "customerName": "Andrew Pomerans",
+        "address": "137 Riva Ridge Place",
+        "monthlyPrice": 200,
+        "yearlyPrice": 2400,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065758",
+        "customerName": "Brian & Megan Fulton",
+        "address": "139 Ann Scott Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066553",
+        "customerName": "Jennie Muniz",
+        "address": "143 Astra Way",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065834",
+        "customerName": "Jeff Vanderpool",
+        "address": "146 Blue Sky Dr",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065753",
+        "customerName": "Casey Murphy",
+        "address": "166 Huguenot Ln",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065931",
+        "customerName": "Avawn Maier",
+        "address": "172 Crest Haven Pl",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065581",
+        "customerName": "Rashid Brittain",
+        "address": "172 Oxbridge Way",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067119",
+        "customerName": "Don Turlington",
+        "address": "181 Quail Creek Circle",
+        "monthlyPrice": 195,
+        "yearlyPrice": 2340,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065640",
+        "customerName": "Tom McDavitt",
+        "address": "1901 Dumfries Ct",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065825",
+        "customerName": "Shady Farah",
+        "address": "194 Calumet Drive",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065585",
+        "customerName": "Dean Muncer",
+        "address": "209 White Horse Way",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065680",
+        "customerName": "Ed Fulmer",
+        "address": "2200 McIntosh Ct",
+        "monthlyPrice": 275,
+        "yearlyPrice": 3300,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066184",
+        "customerName": "Hudson. Danan",
+        "address": "221 S. Torwood Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065805",
+        "customerName": "John Van Santen",
+        "address": "264 Lakeview Pass Way",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065564",
+        "customerName": "Rob & Nancy Sosa",
+        "address": "289 Calumet Dr.",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065732",
+        "customerName": "Ben Finke",
+        "address": "308 N. Lombardy Loop",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065829",
+        "customerName": "Rajeshwar Polaty",
+        "address": "317 Honey Blossom Rd",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065938",
+        "customerName": "John Peragine",
+        "address": "4005 Lonicera Loop",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065780",
+        "customerName": "Kris & Jennefer Flood",
+        "address": "4012 Lonicera Loop",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065692",
+        "customerName": "Mark & Ariel Enoch",
+        "address": "424 Oak Pond Dr.",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065565",
+        "customerName": "Richard & Crystal Holmes",
+        "address": "43 Honey Blossom Rd",
+        "monthlyPrice": 186.3,
+        "yearlyPrice": 2235.6000000000004,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065718",
+        "customerName": "Lendy Callihan",
+        "address": "489 East Kesley Ln",
+        "monthlyPrice": 200,
+        "yearlyPrice": 2400,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065619",
+        "customerName": "Marco & Daniela Marra",
+        "address": "55 Waterline Dr",
+        "monthlyPrice": 175.95,
+        "yearlyPrice": 2111.3999999999996,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065653",
+        "customerName": "Lenny & Amy Roger",
+        "address": "62 Cypress Banks Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065783",
+        "customerName": "Srinivasan Sattiraju",
+        "address": "64 Ridge Cove",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065760",
+        "customerName": "Amanda Robben",
+        "address": "65 Sitara Ln",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068136",
+        "customerName": "David & Annette Couch",
+        "address": "665 Box Branch Circle",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065691",
+        "customerName": "Christelle Oben",
+        "address": "715 Chesswood Ct",
+        "monthlyPrice": 185,
+        "yearlyPrice": 2220,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-068193",
+        "customerName": "Joe Jensen",
+        "address": "78 Calumet Drive",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-066205",
+        "customerName": "Shellie Milano",
+        "address": "904 Liatris Loop",
+        "monthlyPrice": 170,
+        "yearlyPrice": 2040,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065836",
+        "customerName": "Walter Arruda",
+        "address": "93 Lake Mist Ct",
+        "monthlyPrice": 210,
+        "yearlyPrice": 2520,
+        "territory": "JAX - Maint St. Johns",
+        "accountType": "Residential"
+      }
+    ]
+  },
+  {
+    "zip": "32266",
+    "city": "Neptune Beach",
+    "territory": "JAX - Maint Beaches",
+    "accountCount": 7,
+    "totalRevenue": 1087.77,
+    "accounts": [
+      {
+        "customerNumber": "A-065794",
+        "customerName": "Zach Roth",
+        "address": "1330 Trailwood Dr",
+        "monthlyPrice": 175,
+        "yearlyPrice": 2100,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065775",
+        "customerName": "Gary Connolly",
+        "address": "1416 Neptune Grove Dr W",
+        "monthlyPrice": 190,
+        "yearlyPrice": 2280,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065786",
+        "customerName": "David Dekevich",
+        "address": "1907 Strickland Rd",
+        "monthlyPrice": 181.12,
+        "yearlyPrice": 2173.44,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065820",
+        "customerName": "Deborah Bledsoe",
+        "address": "514 Poinsettia Dr",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065893",
+        "customerName": "John Defilippo",
+        "address": "622 Cherry St",
+        "monthlyPrice": 180,
+        "yearlyPrice": 2160,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-065903",
+        "customerName": "Christopher Kalkines",
+        "address": "623 Cherry St",
+        "monthlyPrice": 196.65,
+        "yearlyPrice": 2359.8,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      },
+      {
+        "customerNumber": "A-067415",
+        "customerName": "Patricia Westerman",
+        "address": "713 Mccollum Circle",
+        "monthlyPrice": 0,
+        "yearlyPrice": 0,
+        "territory": "JAX - Maint Beaches",
+        "accountType": "Residential"
+      }
+    ]
+  },
+  {
+    "zip": "32277",
+    "city": "Jacksonville",
+    "territory": "JAX - Maint Jacksonville",
+    "accountCount": 1,
+    "totalRevenue": 165,
+    "accounts": [
+      {
+        "customerNumber": "A-066473",
+        "customerName": "Klaus Teschke",
+        "address": "3995 Post Oak Road North",
+        "monthlyPrice": 165,
+        "yearlyPrice": 1980,
+        "territory": "JAX - Maint Jacksonville",
+        "accountType": "Residential"
+      }
+    ]
+  }
+]

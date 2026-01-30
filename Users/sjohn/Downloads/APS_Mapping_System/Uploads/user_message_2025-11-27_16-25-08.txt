@@ -1,0 +1,185 @@
+Here is the error code for when you try to select a technician , currently - 1 of 1 error
+
+Unhandled Runtime Error
+
+Error: Maximum update depth exceeded. This can happen when a component repeatedly calls setState inside componentWillUpdate or componentDidUpdate. React limits the number of nested updates to prevent infinite loops.
+
+Call Stack
+throwIfInfiniteUpdateLoopDetected
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (53776:20)
+getRootForUpdatedFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (34610:36)
+dispatchSetState
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (40056:43)
+setRef
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/app/page.js (26126:8)
+forEach
+
+[native code]
+setRef
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/app/page.js (26126:8)
+forEach
+
+[native code]
+safelyDetachRef
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (47827:25)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49581:28)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49859:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49859:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49859:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49859:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49432:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49576:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35)
+commitMutationEffectsOnFiber
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49576:43)
+recursivelyTraverseMutationEffects
+
+file:///home/ubuntu/phoenix_territory_map/nextjs_space/.next/static/chunks/main-app.js (49410:35). and from the browser console - page-92dc573f290bad84.js:25 📊 Starting to load territory data...
+page-92dc573f290bad84.js:25 📊 Fetch response received: 200 true
+page-92dc573f290bad84.js:25 📊 Data loaded successfully: 175 records
+page-92dc573f290bad84.js:25 📊 State updated with data
+page-92dc573f290bad84.js:25 📊 Loading complete
+main.js:397 As of February 21st, 2024, google.maps.Marker is deprecated. Please use google.maps.marker.AdvancedMarkerElement instead. At this time, google.maps.Marker is not scheduled to be discontinued, but google.maps.marker.AdvancedMarkerElement is recommended over google.maps.Marker. While google.maps.Marker will continue to receive bug fixes for any major regressions, existing bugs in google.maps.Marker will not be addressed. At least 12 months notice will be given before support is discontinued. Please see https://developers.google.com/maps/deprecations for additional details and https://developers.google.com/maps/documentation/javascript/advanced-markers/migration for the migration guide.
+Yz @ main.js:397
+page-92dc573f290bad84.js:25 ⚠️ No boundary data available
+(anonymous) @ page-92dc573f290bad84.js:25
+page-92dc573f290bad84.js:25 📊 Routes data loaded: 1671 records
+page-92dc573f290bad84.js:25 👷 Technicians found: 33
+page-92dc573f290bad84.js:25 ⚠️ No boundary data available
+(anonymous) @ page-92dc573f290bad84.js:25
+page-92dc573f290bad84.js:25 🗺️ Rendering polygons for 0 unique ZIP codes
+page-92dc573f290bad84.js:25 ✅ Generated 0 polygon objects
+117-00a257304b802841.js:1 Error: Minified React error #185; visit https://react.dev/errors/185 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at ik (fd9d1056-3a962e1a39502390.js:1:110226)
+    at nf (fd9d1056-3a962e1a39502390.js:1:26354)
+    at nu (fd9d1056-3a962e1a39502390.js:1:25922)
+    at lc (fd9d1056-3a962e1a39502390.js:1:48870)
+    at 96-16a74c8c938caea2.js:1:5953
+    at Array.forEach (<anonymous>)
+    at 96-16a74c8c938caea2.js:1:5920
+    at 96-16a74c8c938caea2.js:1:5953
+    at Array.forEach (<anonymous>)
+    at 96-16a74c8c938caea2.js:1:5920
+window.console.error @ 117-00a257304b802841.js:1
+favicon.ico:1  Failed to load resource: the server responded with a status of 404 ()
+(index):1 The resource https://phoenixnewlocations.abacusai.app/_next/static/media/e4af272ccee01ff0-s.p.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.

@@ -1,0 +1,129 @@
+ShippingPostalCode,ActiveAccounts,TerminatedAccounts,LostRevenue,TotalHistorical,ChurnRate,AvgLostRevenuePerAccount,ProposedBranch
+85003,6.0,22,38509.479999999996,28.0,78.57,1750.43,Branch 4 - Central PHX/South
+85004,0.0,1,1708.0,1.0,100.0,1708.0,Branch 4 - Central PHX/South
+85006,4.0,15,25097.0,19.0,78.95,1673.13,Branch 4 - Central PHX/South
+85007,3.0,49,85375.28,52.0,94.23,1742.35,Branch 4 - Central PHX/South
+85008,4.0,22,41030.32,26.0,84.62,1865.01,Branch 4 - Central PHX/South
+85009,1.0,10,16682.0,11.0,90.91,1668.2,Branch 4 - Central PHX/South
+85012,6.0,23,37448.6,29.0,79.31,1628.2,Branch 4 - Central PHX/South
+85013,5.0,33,56563.0,38.0,86.84,1714.03,Branch 4 - Central PHX/South
+85014,9.0,28,46696.18,37.0,75.68,1667.72,Branch 4 - Central PHX/South
+85015,9.0,29,47503.48,38.0,76.32,1638.05,Branch 4 - Central PHX/South
+85016,9.0,80,137409.83,89.0,89.89,1717.62,Branch 2 - Central Scottsdale/PV
+85017,1.0,3,5580.48,4.0,75.0,1860.16,Branch 4 - Central PHX/South
+85018,25.0,119,205700.09,144.0,82.64,1728.57,Branch 2 - Central Scottsdale/PV
+85019,4.0,11,18386.0,15.0,73.33,1671.45,Branch 4 - Central PHX/South
+85020,19.0,75,126634.25,94.0,79.79,1688.46,Branch 4 - Central PHX/South
+85021,19.0,75,125490.95,94.0,79.79,1673.21,Branch 4 - Central PHX/South
+85022,21.0,68,116531.95,89.0,76.4,1713.71,Branch 3 - North Phoenix I-17
+85023,11.0,78,125507.65,89.0,87.64,1609.07,Branch 4 - Central PHX/South
+85024,10.0,48,79338.2,58.0,82.76,1652.88,
+85027,8.0,40,64052.58,48.0,83.33,1601.31,Branch 3 - North Phoenix I-17
+85028,23.0,95,164071.66,118.0,80.51,1727.07,
+85029,15.0,73,120080.38,88.0,82.95,1644.94,Branch 4 - Central PHX/South
+85031,1.0,5,8492.0,6.0,83.33,1698.4,Branch 4 - Central PHX/South
+85032,13.0,88,144047.15,101.0,87.13,1636.9,
+85033,1.0,18,29862.16,19.0,94.74,1659.01,Branch 4 - Central PHX/South
+85035,6.0,14,23886.08,20.0,70.0,1706.15,Branch 4 - Central PHX/South
+85037,6.0,38,60322.92,44.0,86.36,1587.45,
+85040,2.0,13,21195.75,15.0,86.67,1630.44,Branch 4 - Central PHX/South
+85041,17.0,114,196186.04,131.0,87.02,1720.93,Branch 4 - Central PHX/South
+85042,27.0,97,168389.52,124.0,78.23,1735.97,Branch 4 - Central PHX/South
+85043,4.0,35,59681.15,39.0,89.74,1705.18,Branch 4 - Central PHX/South
+85044,13.0,66,110005.68,79.0,83.54,1666.75,Branch 8 - Tempe/Chandler West
+85045,5.0,31,52698.84,36.0,86.11,1699.96,
+85048,27.0,88,148070.56,115.0,76.52,1682.62,Branch 8 - Tempe/Chandler West
+85050,18.0,76,129636.04,94.0,80.85,1705.74,Branch 3 - North Phoenix I-17
+85051,8.0,35,58405.86,43.0,81.4,1668.74,Branch 6 - Glendale/West PHX
+85053,16.0,53,86033.05,69.0,76.81,1623.27,Branch 6 - Glendale/West PHX
+85054,2.0,9,15840.039999999999,11.0,81.82,1760.0,Branch 3 - North Phoenix I-17
+85083,6.0,59,95306.88,65.0,90.77,1615.37,Branch 3 - North Phoenix I-17
+85085,16.0,59,100312.84,75.0,78.67,1700.22,Branch 3 - North Phoenix I-17
+85086,15.0,66,116143.56,81.0,81.48,1759.75,Branch 3 - North Phoenix I-17
+85087,3.0,10,16564.46,13.0,76.92,1656.45,Branch 3 - North Phoenix I-17
+85118,2.0,18,32733.0,20.0,90.0,1818.5,Branch 11 - Mesa East/Pinal Outliers
+85119,2.0,16,28819.420000000002,18.0,88.89,1801.21,Branch 11 - Mesa East/Pinal Outliers
+85120,3.0,2,3296.0,5.0,40.0,1648.0,Branch 11 - Mesa East/Pinal Outliers
+85140,8.0,19,30533.48,27.0,70.37,1607.03,Branch 11 - Mesa East/Pinal Outliers
+85142,17.0,66,109581.26,83.0,79.52,1660.32,Branch 11 - Mesa East/Pinal Outliers
+85201,4.0,22,38724.4,26.0,84.62,1760.2,Branch 8 - Tempe/Chandler West
+85202,9.0,30,49100.87,39.0,76.92,1636.7,Branch 8 - Tempe/Chandler West
+85203,12.0,39,63863.8,51.0,76.47,1637.53,Branch 10 - Mesa Central/Gilbert East
+85204,5.0,19,31049.18,24.0,79.17,1634.17,Branch 10 - Mesa Central/Gilbert East
+85205,9.0,30,46366.71,39.0,76.92,1545.56,Branch 10 - Mesa Central/Gilbert East
+85206,5.0,8,13083.8,13.0,61.54,1635.48,Branch 11 - Mesa East/Pinal Outliers
+85207,34.0,85,143486.38,119.0,71.43,1688.08,Branch 11 - Mesa East/Pinal Outliers
+85208,1.0,29,48152.4,30.0,96.67,1660.43,Branch 11 - Mesa East/Pinal Outliers
+85209,11.0,42,62681.06,53.0,79.25,1492.41,Branch 10 - Mesa Central/Gilbert East
+85210,7.0,38,62431.34,45.0,84.44,1642.93,Branch 10 - Mesa Central/Gilbert East
+85212,15.0,50,76662.76,65.0,76.92,1533.26,
+85213,21.0,50,83657.81,71.0,70.42,1673.16,Branch 10 - Mesa Central/Gilbert East
+85215,7.0,29,48440.17,36.0,80.56,1670.35,Branch 10 - Mesa Central/Gilbert East
+85224,17.0,67,109730.22,84.0,79.76,1637.76,Branch 8 - Tempe/Chandler West
+85225,12.0,69,114212.22,81.0,85.19,1655.25,Branch 9 - Chandler/Gilbert South
+85226,21.0,82,143627.76,103.0,79.61,1751.56,Branch 9 - Chandler/Gilbert South
+85233,16.0,53,87162.52,69.0,76.81,1644.58,Branch 9 - Chandler/Gilbert South
+85234,22.0,62,97728.54,84.0,73.81,1576.27,Branch 9 - Chandler/Gilbert South
+85236,0.0,1,1900.0,1.0,100.0,1900.0,
+85248,22.0,65,108436.36,87.0,74.71,1668.25,
+85249,33.0,112,182517.6,145.0,77.24,1629.62,Branch 9 - Chandler/Gilbert South
+85250,8.0,34,56594.32,42.0,80.95,1664.54,Branch 2 - Central Scottsdale/PV
+85251,7.0,38,64703.28,45.0,84.44,1702.72,Branch 2 - Central Scottsdale/PV
+85253,10.0,65,127931.2,75.0,86.67,1968.17,Branch 2 - Central Scottsdale/PV
+85254,56.0,156,261927.14,212.0,73.58,1679.02,
+85255,39.0,136,233251.35,175.0,77.71,1715.08,Branch 1 - North Scottsdale
+85256,1.0,1,1833.4,2.0,50.0,1833.4,
+85257,14.0,63,105935.64,77.0,81.82,1681.52,
+85258,18.0,66,108859.56,84.0,78.57,1649.39,Branch 2 - Central Scottsdale/PV
+85259,22.0,104,183437.94,126.0,82.54,1763.83,Branch 1 - North Scottsdale
+85260,22.0,92,150136.32,114.0,80.7,1631.92,Branch 1 - North Scottsdale
+85262,13.0,61,102519.8,74.0,82.43,1680.65,Branch 1 - North Scottsdale
+85263,0.0,2,3200.0,2.0,100.0,1600.0,Branch 1 - North Scottsdale
+85266,14.0,39,67096.24,53.0,73.58,1720.42,Branch 1 - North Scottsdale
+85268,8.0,40,67485.68,48.0,83.33,1687.14,
+85281,7.0,16,27203.08,23.0,69.57,1700.19,Branch 8 - Tempe/Chandler West
+85282,20.0,85,142313.8,105.0,80.95,1674.28,Branch 8 - Tempe/Chandler West
+85283,23.0,77,132957.78,100.0,77.0,1726.72,Branch 8 - Tempe/Chandler West
+85284,19.0,92,159130.66,111.0,82.88,1729.68,Branch 8 - Tempe/Chandler West
+85286,26.0,68,113241.98,94.0,72.34,1665.32,Branch 8 - Tempe/Chandler West
+85295,23.0,40,66213.36,63.0,63.49,1655.33,Branch 9 - Chandler/Gilbert South
+85296,23.0,73,113639.18,96.0,76.04,1556.7,Branch 10 - Mesa Central/Gilbert East
+85297,12.0,47,81332.64,59.0,79.66,1730.48,Branch 10 - Mesa Central/Gilbert East
+85298,9.0,45,73950.2,54.0,83.33,1643.34,Branch 10 - Mesa Central/Gilbert East
+85301,5.0,26,43705.16,31.0,83.87,1680.97,Branch 6 - Glendale/West PHX
+85302,9.0,67,104264.45,76.0,88.16,1556.19,Branch 6 - Glendale/West PHX
+85303,7.0,27,43745.36,34.0,79.41,1620.2,Branch 6 - Glendale/West PHX
+85304,17.0,72,119626.31999999999,89.0,80.9,1661.48,Branch 6 - Glendale/West PHX
+85305,5.0,24,39571.84,29.0,82.76,1648.83,Branch 6 - Glendale/West PHX
+85306,7.0,29,48353.29,36.0,80.56,1667.35,Branch 6 - Glendale/West PHX
+85307,0.0,13,22141.4,13.0,100.0,1703.18,
+85308,41.0,216,348359.86,257.0,84.05,1612.78,Branch 6 - Glendale/West PHX
+85310,13.0,51,82723.36,64.0,79.69,1622.03,Branch 6 - Glendale/West PHX
+85323,10.0,40,59349.69,50.0,80.0,1483.74,Branch 7 - Southwest Valley/Laveen
+85326,5.0,42,73770.52,47.0,89.36,1756.44,Branch 7 - Southwest Valley/Laveen
+85331,21.0,116,195662.14,137.0,84.67,1686.74,Branch 1 - North Scottsdale
+85335,3.0,18,29763.82,21.0,85.71,1653.55,
+85338,15.0,77,126042.36,92.0,83.7,1636.91,Branch 7 - Southwest Valley/Laveen
+85339,31.0,152,245599.88,183.0,83.06,1615.79,Branch 7 - Southwest Valley/Laveen
+85340,15.0,59,95049.22,74.0,79.73,1611.0,Branch 7 - Southwest Valley/Laveen
+85345,16.0,92,159608.84,108.0,85.19,1734.88,Branch 5 - Peoria/Surprise North
+85351,1.0,13,21207.4,14.0,92.86,1631.34,Branch 5 - Peoria/Surprise North
+85353,5.0,57,96463.07,62.0,91.94,1692.33,
+85355,8.0,20,34910.56,28.0,71.43,1745.53,
+85363,0.0,1,1980.0,1.0,100.0,1980.0,
+85373,5.0,18,31573.44,23.0,78.26,1754.08,Branch 5 - Peoria/Surprise North
+85374,5.0,49,75544.06999999999,54.0,90.74,1541.72,Branch 5 - Peoria/Surprise North
+85375,1.0,16,26826.0,17.0,94.12,1676.62,Branch 5 - Peoria/Surprise North
+85377,0.0,7,12246.4,7.0,100.0,1749.49,Branch 1 - North Scottsdale
+85378,2.0,8,12067.380000000001,10.0,80.0,1508.42,
+85379,12.0,92,145411.2,104.0,88.46,1580.56,Branch 5 - Peoria/Surprise North
+85381,9.0,63,101828.98,72.0,87.5,1616.33,Branch 5 - Peoria/Surprise North
+85382,14.0,68,109089.87,82.0,82.93,1604.26,Branch 5 - Peoria/Surprise North
+85383,21.0,120,198156.12,141.0,85.11,1651.3,Branch 5 - Peoria/Surprise North
+85387,2.0,13,24234.88,15.0,86.67,1864.22,
+85388,13.0,60,93521.24,73.0,82.19,1558.69,
+85392,10.0,90,141202.06,100.0,90.0,1568.91,Branch 7 - Southwest Valley/Laveen
+85395,13.0,70,111061.62,83.0,84.34,1586.59,Branch 7 - Southwest Valley/Laveen
+85396,13.0,40,67046.46,53.0,75.47,1676.16,Branch 7 - Southwest Valley/Laveen
+98032,0.0,1,1720.0,1.0,100.0,1720.0,
+nan,0.0,3,0.0,3.0,100.0,0.0,

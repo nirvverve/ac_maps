@@ -1,0 +1,33 @@
+Technician_Name,Current_Route,Office_Prefix,Old_Territory,Total_Accounts,West_Accounts,Central_Accounts,East_Accounts,Tucson_Accounts,Unassigned_Accounts,Primary_NEW_Territory,Pct_in_Primary,Territories_Served,Alignment_Status
+Corey Cox,CG - CG - Route 1 - Corey Cox,CG,CG,46,0,0,46,0,0,East,100.0,1,Fully Aligned
+Ivan Martinez,CG - CG - Route 3 - Ivan Martinez,CG,CG,47,0,0,46,0,1,East,97.9,1,Fully Aligned
+Kenneth Felix,CG - CG - Route 2 - Kenneth Felix,CG,CG,62,0,0,62,0,0,East,100.0,1,Fully Aligned
+Anthony Garcia,PHX - East - Route 2 - Anthony Garcia,PHX,East,69,0,1,68,0,0,East,98.6,2,Mostly Aligned
+David Bontrager,PHX - East - Route 5 - David Bontrager,PHX,East,74,0,44,27,0,3,Central,59.5,2,Mixed Territory
+Gerrytt Nikolaus,PHX - East - Route 3 - Gerrytt Nikolaus,PHX,East,86,0,0,85,0,1,East,98.8,1,Fully Aligned
+Joseph Strong,PHX - East - Route 7 - Joseph Strong,PHX,East,37,0,2,35,0,0,East,94.6,2,Mostly Aligned
+Kent Armer,PHX - East - Route 6 - Kent Armer,PHX,East,66,5,13,48,0,0,East,72.7,3,Mixed Territory
+Mike Montgomery,PHX - East - Route 1 - Mike Montgomery,PHX,East,81,0,35,45,0,1,East,55.6,2,Mixed Territory
+Qualen Cunningham,PHX - East - Route 4 - Qualen Cunningham,PHX,East,66,0,4,61,0,1,East,92.4,2,Mostly Aligned
+Angel Ortiz,PHX - SC - Route 7 - Angel Ortiz,PHX,SC,83,9,74,0,0,0,Central,89.2,2,Mostly Aligned
+Christian Carlson,PHX - SC - Route 5 - Christian Carlson,PHX,SC,62,0,61,0,0,1,Central,98.4,1,Fully Aligned
+Johan Chavez,PHX - SC - Route 4 - Johan Chavez,PHX,SC,84,20,63,0,0,1,Central,75.0,2,Mixed Territory
+Kyle Sparrgrove,PHX - SC - Route 1 - Kyle Sparrgrove,PHX,SC,1,1,0,0,0,0,West,100.0,1,Fully Aligned
+Nicolas Cavazos,PHX - SC - Route 2 - Nicolas Cavazos,PHX,SC,100,93,7,0,0,0,West,93.0,2,Mostly Aligned
+Tony Pangburn,PHX - SC - Route 3 - Tony Pangburn,PHX,SC,63,2,60,0,0,1,Central,95.2,2,Mostly Aligned
+William Odell,PHX - SC - Route 6 - William Odell,PHX,SC,67,19,40,7,0,1,Central,59.7,3,Mixed Territory
+Jovany Cardenas,PHX - West - Route 3 - Jovany Cardenas,PHX,West,3,3,0,0,0,0,West,100.0,1,Fully Aligned
+Kenje Dalmacio,PHX - West - Route 4 - Kenje Dalmacio,PHX,West,75,32,43,0,0,0,Central,57.3,2,Mixed Territory
+Mason Constable,PHX - West - Route 1 - Mason Constable,PHX,West,61,61,0,0,0,0,West,100.0,1,Fully Aligned
+Michael Vendetti,PHX - West - Route 5 - Michael Vendetti,PHX,West,80,79,1,0,0,0,West,98.8,2,Mostly Aligned
+Miranda Loveland,PHX - West - Route 3 - Miranda Loveland,PHX,West,53,45,8,0,0,0,West,84.9,2,Mostly Aligned
+Open,PHX - West - Route 6 - Open,PHX,West,10,9,1,0,0,0,West,90.0,2,Mostly Aligned
+"Ray ""Pancho"" Vega","PHX - West - Route 2 - Ray ""Pancho"" Vega",PHX,West,56,39,17,0,0,0,West,69.6,2,Mixed Territory
+Reyandres Vega Mendoza,PHX - West - Route 7 - Reyandres Vega Mendoza,PHX,West,100,92,7,0,0,1,West,92.0,2,Mostly Aligned
+Miguel Rivero,TUC - TUC - Route 1 - Miguel Rivero,TUC,TUC,3,0,0,3,0,0,East,100.0,1,Fully Aligned
+Mike Wall,TUC - TUC - Route 1 - Mike Wall,TUC,TUC,74,0,0,0,74,0,Tucson,100.0,1,Fully Aligned
+Charles Gay,Unknown - Unknown - Unknown - Charles Gay,Unknown,Unknown,2,1,0,1,0,0,West,50.0,2,Mixed Territory
+Christian Nolan,Unknown - Unknown - Unknown - Christian Nolan,Unknown,Unknown,18,0,10,8,0,0,Central,55.6,2,Mixed Territory
+Doug Coplen,Unknown - Unknown - Unknown - Doug Coplen,Unknown,Unknown,1,0,1,0,0,0,Central,100.0,1,Fully Aligned
+Fernando Montes,Unknown - Unknown - Unknown - Fernando Montes,Unknown,Unknown,1,1,0,0,0,0,West,100.0,1,Fully Aligned
+Ray Saltsman,Unknown - Unknown - Unknown - Ray Saltsman,Unknown,Unknown,2,0,2,0,0,0,Central,100.0,1,Fully Aligned

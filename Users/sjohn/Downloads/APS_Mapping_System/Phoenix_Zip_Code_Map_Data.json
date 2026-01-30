@@ -1,0 +1,912 @@
+[
+  {
+    "Zip_Code": 85122,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 89,
+    "Special_Flag_Count": 89
+  },
+  {
+    "Zip_Code": 85254,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 56,
+    "Special_Flag_Count": 56
+  },
+  {
+    "Zip_Code": 85308,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 41,
+    "Special_Flag_Count": 41
+  },
+  {
+    "Zip_Code": 85255,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 39,
+    "Special_Flag_Count": 39
+  },
+  {
+    "Zip_Code": 85207,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 34,
+    "Special_Flag_Count": 34
+  },
+  {
+    "Zip_Code": 85249,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 33,
+    "Special_Flag_Count": 33
+  },
+  {
+    "Zip_Code": 85339,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 31,
+    "Special_Flag_Count": 31
+  },
+  {
+    "Zip_Code": 85042,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 27,
+    "Special_Flag_Count": 27
+  },
+  {
+    "Zip_Code": 85048,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 27,
+    "Special_Flag_Count": 27
+  },
+  {
+    "Zip_Code": 85286,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 26,
+    "Special_Flag_Count": 26
+  },
+  {
+    "Zip_Code": 85018,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 25,
+    "Special_Flag_Count": 25
+  },
+  {
+    "Zip_Code": 85283,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 23,
+    "Special_Flag_Count": 23
+  },
+  {
+    "Zip_Code": 85295,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 23,
+    "Special_Flag_Count": 23
+  },
+  {
+    "Zip_Code": 85296,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 23,
+    "Special_Flag_Count": 23
+  },
+  {
+    "Zip_Code": 85028,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 23,
+    "Special_Flag_Count": 23
+  },
+  {
+    "Zip_Code": 85259,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 22,
+    "Special_Flag_Count": 22
+  },
+  {
+    "Zip_Code": 85234,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 22,
+    "Special_Flag_Count": 22
+  },
+  {
+    "Zip_Code": 85260,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 22,
+    "Special_Flag_Count": 22
+  },
+  {
+    "Zip_Code": 85248,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 22,
+    "Special_Flag_Count": 22
+  },
+  {
+    "Zip_Code": 85226,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 21,
+    "Special_Flag_Count": 21
+  },
+  {
+    "Zip_Code": 85022,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 21,
+    "Special_Flag_Count": 21
+  },
+  {
+    "Zip_Code": 85331,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 21,
+    "Special_Flag_Count": 21
+  },
+  {
+    "Zip_Code": 85213,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 21,
+    "Special_Flag_Count": 21
+  },
+  {
+    "Zip_Code": 85383,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 21,
+    "Special_Flag_Count": 21
+  },
+  {
+    "Zip_Code": 85282,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 20,
+    "Special_Flag_Count": 20
+  },
+  {
+    "Zip_Code": 85020,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 19,
+    "Special_Flag_Count": 19
+  },
+  {
+    "Zip_Code": 85021,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 19,
+    "Special_Flag_Count": 19
+  },
+  {
+    "Zip_Code": 85284,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 19,
+    "Special_Flag_Count": 19
+  },
+  {
+    "Zip_Code": 85050,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 18,
+    "Special_Flag_Count": 18
+  },
+  {
+    "Zip_Code": 85258,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 18,
+    "Special_Flag_Count": 18
+  },
+  {
+    "Zip_Code": 85224,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 17,
+    "Special_Flag_Count": 17
+  },
+  {
+    "Zip_Code": 85041,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 17,
+    "Special_Flag_Count": 17
+  },
+  {
+    "Zip_Code": 85304,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 17,
+    "Special_Flag_Count": 17
+  },
+  {
+    "Zip_Code": 85142,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 17,
+    "Special_Flag_Count": 17
+  },
+  {
+    "Zip_Code": 85233,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 16,
+    "Special_Flag_Count": 16
+  },
+  {
+    "Zip_Code": 85345,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 16,
+    "Special_Flag_Count": 16
+  },
+  {
+    "Zip_Code": 85053,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 16,
+    "Special_Flag_Count": 16
+  },
+  {
+    "Zip_Code": 85085,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 16,
+    "Special_Flag_Count": 16
+  },
+  {
+    "Zip_Code": 85340,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 15,
+    "Special_Flag_Count": 15
+  },
+  {
+    "Zip_Code": 85029,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 15,
+    "Special_Flag_Count": 15
+  },
+  {
+    "Zip_Code": 85212,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 15,
+    "Special_Flag_Count": 15
+  },
+  {
+    "Zip_Code": 85338,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 15,
+    "Special_Flag_Count": 15
+  },
+  {
+    "Zip_Code": 85086,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 15,
+    "Special_Flag_Count": 15
+  },
+  {
+    "Zip_Code": 85257,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 14,
+    "Special_Flag_Count": 14
+  },
+  {
+    "Zip_Code": 85266,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 14,
+    "Special_Flag_Count": 14
+  },
+  {
+    "Zip_Code": 85382,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 14,
+    "Special_Flag_Count": 14
+  },
+  {
+    "Zip_Code": 85388,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 13,
+    "Special_Flag_Count": 13
+  },
+  {
+    "Zip_Code": 85310,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 13,
+    "Special_Flag_Count": 13
+  },
+  {
+    "Zip_Code": 85396,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 13,
+    "Special_Flag_Count": 13
+  },
+  {
+    "Zip_Code": 85032,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 13,
+    "Special_Flag_Count": 13
+  },
+  {
+    "Zip_Code": 85044,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 13,
+    "Special_Flag_Count": 13
+  },
+  {
+    "Zip_Code": 85262,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 13,
+    "Special_Flag_Count": 13
+  },
+  {
+    "Zip_Code": 85395,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 13,
+    "Special_Flag_Count": 13
+  },
+  {
+    "Zip_Code": 85379,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 12,
+    "Special_Flag_Count": 12
+  },
+  {
+    "Zip_Code": 85225,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 12,
+    "Special_Flag_Count": 12
+  },
+  {
+    "Zip_Code": 85203,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 12,
+    "Special_Flag_Count": 12
+  },
+  {
+    "Zip_Code": 85297,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 12,
+    "Special_Flag_Count": 12
+  },
+  {
+    "Zip_Code": 85128,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 12,
+    "Special_Flag_Count": 12
+  },
+  {
+    "Zip_Code": 85138,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 12,
+    "Special_Flag_Count": 12
+  },
+  {
+    "Zip_Code": 85023,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 11,
+    "Special_Flag_Count": 11
+  },
+  {
+    "Zip_Code": 85194,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 11,
+    "Special_Flag_Count": 11
+  },
+  {
+    "Zip_Code": 85209,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 11,
+    "Special_Flag_Count": 11
+  },
+  {
+    "Zip_Code": 85123,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 10,
+    "Special_Flag_Count": 10
+  },
+  {
+    "Zip_Code": 85024,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 10,
+    "Special_Flag_Count": 10
+  },
+  {
+    "Zip_Code": 85323,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 10,
+    "Special_Flag_Count": 10
+  },
+  {
+    "Zip_Code": 85253,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 10,
+    "Special_Flag_Count": 10
+  },
+  {
+    "Zip_Code": 85392,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 10,
+    "Special_Flag_Count": 10
+  },
+  {
+    "Zip_Code": 85014,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 9,
+    "Special_Flag_Count": 9
+  },
+  {
+    "Zip_Code": 85381,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 9,
+    "Special_Flag_Count": 9
+  },
+  {
+    "Zip_Code": 85015,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 9,
+    "Special_Flag_Count": 9
+  },
+  {
+    "Zip_Code": 85202,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 9,
+    "Special_Flag_Count": 9
+  },
+  {
+    "Zip_Code": 85205,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 9,
+    "Special_Flag_Count": 9
+  },
+  {
+    "Zip_Code": 85298,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 9,
+    "Special_Flag_Count": 9
+  },
+  {
+    "Zip_Code": 85302,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 9,
+    "Special_Flag_Count": 9
+  },
+  {
+    "Zip_Code": 85016,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 9,
+    "Special_Flag_Count": 9
+  },
+  {
+    "Zip_Code": 85268,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 8,
+    "Special_Flag_Count": 8
+  },
+  {
+    "Zip_Code": 85027,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 8,
+    "Special_Flag_Count": 8
+  },
+  {
+    "Zip_Code": 85355,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 8,
+    "Special_Flag_Count": 8
+  },
+  {
+    "Zip_Code": 85051,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 8,
+    "Special_Flag_Count": 8
+  },
+  {
+    "Zip_Code": 85250,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 8,
+    "Special_Flag_Count": 8
+  },
+  {
+    "Zip_Code": 85140,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 8,
+    "Special_Flag_Count": 8
+  },
+  {
+    "Zip_Code": 85143,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 7,
+    "Special_Flag_Count": 7
+  },
+  {
+    "Zip_Code": 85281,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 7,
+    "Special_Flag_Count": 7
+  },
+  {
+    "Zip_Code": 85303,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 7,
+    "Special_Flag_Count": 7
+  },
+  {
+    "Zip_Code": 85210,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 7,
+    "Special_Flag_Count": 7
+  },
+  {
+    "Zip_Code": 85251,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 7,
+    "Special_Flag_Count": 7
+  },
+  {
+    "Zip_Code": 85215,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 7,
+    "Special_Flag_Count": 7
+  },
+  {
+    "Zip_Code": 85306,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 7,
+    "Special_Flag_Count": 7
+  },
+  {
+    "Zip_Code": 85003,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 6,
+    "Special_Flag_Count": 6
+  },
+  {
+    "Zip_Code": 85083,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 6,
+    "Special_Flag_Count": 6
+  },
+  {
+    "Zip_Code": 85037,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 6,
+    "Special_Flag_Count": 6
+  },
+  {
+    "Zip_Code": 85012,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 6,
+    "Special_Flag_Count": 6
+  },
+  {
+    "Zip_Code": 85139,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 6,
+    "Special_Flag_Count": 6
+  },
+  {
+    "Zip_Code": 85035,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 6,
+    "Special_Flag_Count": 6
+  },
+  {
+    "Zip_Code": 85131,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 6,
+    "Special_Flag_Count": 6
+  },
+  {
+    "Zip_Code": 85013,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 5,
+    "Special_Flag_Count": 5
+  },
+  {
+    "Zip_Code": 85206,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 5,
+    "Special_Flag_Count": 5
+  },
+  {
+    "Zip_Code": 85204,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 5,
+    "Special_Flag_Count": 5
+  },
+  {
+    "Zip_Code": 85353,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 5,
+    "Special_Flag_Count": 5
+  },
+  {
+    "Zip_Code": 85373,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 5,
+    "Special_Flag_Count": 5
+  },
+  {
+    "Zip_Code": 85326,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 5,
+    "Special_Flag_Count": 5
+  },
+  {
+    "Zip_Code": 85374,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 5,
+    "Special_Flag_Count": 5
+  },
+  {
+    "Zip_Code": 85301,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 5,
+    "Special_Flag_Count": 5
+  },
+  {
+    "Zip_Code": 85045,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 5,
+    "Special_Flag_Count": 5
+  },
+  {
+    "Zip_Code": 85305,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 5,
+    "Special_Flag_Count": 5
+  },
+  {
+    "Zip_Code": 85019,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 4,
+    "Special_Flag_Count": 4
+  },
+  {
+    "Zip_Code": 85201,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 4,
+    "Special_Flag_Count": 4
+  },
+  {
+    "Zip_Code": 85008,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 4,
+    "Special_Flag_Count": 4
+  },
+  {
+    "Zip_Code": 85193,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 4,
+    "Special_Flag_Count": 4
+  },
+  {
+    "Zip_Code": 85006,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 4,
+    "Special_Flag_Count": 4
+  },
+  {
+    "Zip_Code": 85043,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 4,
+    "Special_Flag_Count": 4
+  },
+  {
+    "Zip_Code": 85007,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 3,
+    "Special_Flag_Count": 3
+  },
+  {
+    "Zip_Code": 85087,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 3,
+    "Special_Flag_Count": 3
+  },
+  {
+    "Zip_Code": 85120,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 3,
+    "Special_Flag_Count": 3
+  },
+  {
+    "Zip_Code": 85335,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 3,
+    "Special_Flag_Count": 3
+  },
+  {
+    "Zip_Code": 85054,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85378,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85040,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85119,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85132,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85387,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85118,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85256,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85208,
+    "Area": "East",
+    "Branch_Assignment": "Phoenix East",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85009,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85033,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85017,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85031,
+    "Area": "Central",
+    "Branch_Assignment": "Phoenix Central",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85351,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85375,
+    "Area": "West",
+    "Branch_Assignment": "Phoenix West",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  }
+]

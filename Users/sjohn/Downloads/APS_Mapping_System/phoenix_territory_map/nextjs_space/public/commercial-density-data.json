@@ -1,0 +1,410 @@
+[
+  {
+    "zip": "85021",
+    "accountCount": 2,
+    "latitude": 33.5594209,
+    "longitude": -112.0928747,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85268",
+    "accountCount": 1,
+    "latitude": 33.606089,
+    "longitude": -111.7432765,
+    "city": "Fountain Hills",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85251",
+    "accountCount": 2,
+    "latitude": 33.4935134,
+    "longitude": -111.9192394,
+    "city": "Scottsdale",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85206",
+    "accountCount": 3,
+    "latitude": 33.3963369,
+    "longitude": -111.7170929,
+    "city": "Mesa",
+    "territory": "East"
+  },
+  {
+    "zip": "85051",
+    "accountCount": 2,
+    "latitude": 33.5586588,
+    "longitude": -112.132418,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85029",
+    "accountCount": 2,
+    "latitude": 33.5947382,
+    "longitude": -112.109861,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85353",
+    "accountCount": 1,
+    "latitude": 33.4175113,
+    "longitude": -112.2769735,
+    "city": "Tolleson",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85383",
+    "accountCount": 1,
+    "latitude": 33.802087,
+    "longitude": -112.2477027,
+    "city": "Peoria",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85032",
+    "accountCount": 2,
+    "latitude": 33.6259203,
+    "longitude": -112.0025027,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85086",
+    "accountCount": 2,
+    "latitude": 33.815971,
+    "longitude": -112.1198362,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85020",
+    "accountCount": 2,
+    "latitude": 33.5673508,
+    "longitude": -112.0535909,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85040",
+    "accountCount": 2,
+    "latitude": 33.4064788,
+    "longitude": -112.0254688,
+    "city": "Phoenix",
+    "territory": "East"
+  },
+  {
+    "zip": "85013",
+    "accountCount": 1,
+    "latitude": 33.5110869,
+    "longitude": -112.084749,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85118",
+    "accountCount": 2,
+    "latitude": 33.3521289,
+    "longitude": -111.3209893,
+    "city": "Gold Canyon",
+    "territory": "East"
+  },
+  {
+    "zip": "85210",
+    "accountCount": 2,
+    "latitude": 33.3897328,
+    "longitude": -111.8435049,
+    "city": "Mesa",
+    "territory": "East"
+  },
+  {
+    "zip": "85043",
+    "accountCount": 1,
+    "latitude": 33.4319054,
+    "longitude": -112.1969982,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85119",
+    "accountCount": 1,
+    "latitude": 33.4096855,
+    "longitude": -111.50196,
+    "city": "Apache Junction",
+    "territory": "East"
+  },
+  {
+    "zip": "85382",
+    "accountCount": 1,
+    "latitude": 33.6542905,
+    "longitude": -112.2494735,
+    "city": "Peoria",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85053",
+    "accountCount": 1,
+    "latitude": 33.6299394,
+    "longitude": -112.1313442,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85254",
+    "accountCount": 1,
+    "latitude": 33.615485,
+    "longitude": -111.9522349,
+    "city": "Scottsdale",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85028",
+    "accountCount": 2,
+    "latitude": 33.5757399,
+    "longitude": -112.0084094,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85208",
+    "accountCount": 1,
+    "latitude": 33.4033068,
+    "longitude": -111.6280633,
+    "city": "Mesa",
+    "territory": "East"
+  },
+  {
+    "zip": "85250",
+    "accountCount": 1,
+    "latitude": 33.5344512,
+    "longitude": -111.8873536,
+    "city": "Scottsdale",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85233",
+    "accountCount": 1,
+    "latitude": 33.353505,
+    "longitude": -111.811432,
+    "city": "Gilbert",
+    "territory": "East"
+  },
+  {
+    "zip": "85201",
+    "accountCount": 1,
+    "latitude": 33.4335449,
+    "longitude": -111.8503995,
+    "city": "Mesa",
+    "territory": "East"
+  },
+  {
+    "zip": "85008",
+    "accountCount": 2,
+    "latitude": 33.4629542,
+    "longitude": -111.985178,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85323",
+    "accountCount": 2,
+    "latitude": 33.4197465,
+    "longitude": -112.3268903,
+    "city": "Avondale",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85035",
+    "accountCount": 1,
+    "latitude": 33.4714493,
+    "longitude": -112.1947323,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85014",
+    "accountCount": 1,
+    "latitude": 33.5083158,
+    "longitude": -112.0573513,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85224",
+    "accountCount": 2,
+    "latitude": 33.324113,
+    "longitude": -111.8782168,
+    "city": "Chandler",
+    "territory": "East"
+  },
+  {
+    "zip": "85031",
+    "accountCount": 1,
+    "latitude": 33.493971,
+    "longitude": -112.1669261,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85142",
+    "accountCount": 1,
+    "latitude": 33.1999903,
+    "longitude": -111.6362938,
+    "city": "Queen Creek",
+    "territory": "East"
+  },
+  {
+    "zip": "85018",
+    "accountCount": 1,
+    "latitude": 33.5059563,
+    "longitude": -111.985386,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85225",
+    "accountCount": 1,
+    "latitude": 33.317448,
+    "longitude": -111.830487,
+    "city": "Chandler",
+    "territory": "East"
+  },
+  {
+    "zip": "85345",
+    "accountCount": 2,
+    "latitude": 33.5732438,
+    "longitude": -112.2458515,
+    "city": "Peoria",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85338",
+    "accountCount": 1,
+    "latitude": 33.3736979,
+    "longitude": -112.4102617,
+    "city": "Goodyear",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85302",
+    "accountCount": 1,
+    "latitude": 33.5679716,
+    "longitude": -112.1779609,
+    "city": "Glendale",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85310",
+    "accountCount": 1,
+    "latitude": 33.7076486,
+    "longitude": -112.1592139,
+    "city": "Glendale",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85286",
+    "accountCount": 1,
+    "latitude": 33.2719948,
+    "longitude": -111.8318985,
+    "city": "Chandler",
+    "territory": "East"
+  },
+  {
+    "zip": "85226",
+    "accountCount": 1,
+    "latitude": 33.2505448,
+    "longitude": -112.0158981,
+    "city": "Chandler",
+    "territory": "East"
+  },
+  {
+    "zip": "85257",
+    "accountCount": 1,
+    "latitude": 33.4619603,
+    "longitude": -111.9163918,
+    "city": "Scottsdale",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85282",
+    "accountCount": 1,
+    "latitude": 33.3936822,
+    "longitude": -111.9316977,
+    "city": "Tempe",
+    "territory": "East"
+  },
+  {
+    "zip": "85281",
+    "accountCount": 2,
+    "latitude": 33.4274133,
+    "longitude": -111.933836,
+    "city": "Tempe",
+    "territory": "East"
+  },
+  {
+    "zip": "85004",
+    "accountCount": 2,
+    "latitude": 33.4515666,
+    "longitude": -112.0698864,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85007",
+    "accountCount": 1,
+    "latitude": 33.4476142,
+    "longitude": -112.0908828,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85016",
+    "accountCount": 1,
+    "latitude": 33.511517,
+    "longitude": -112.019166,
+    "city": "Phoenix",
+    "territory": "Commercial"
+  },
+  {
+    "zip": "85737",
+    "accountCount": 1,
+    "latitude": 32.4146149,
+    "longitude": -110.9465615,
+    "city": "ORO VALLEY",
+    "territory": "Tucson"
+  },
+  {
+    "zip": "85138",
+    "accountCount": 1,
+    "latitude": 33.0072862,
+    "longitude": -111.9892581,
+    "city": "Maricopa",
+    "territory": "East"
+  },
+  {
+    "zip": "85122",
+    "accountCount": 4,
+    "latitude": 32.9171249,
+    "longitude": -111.7442097,
+    "city": "Casa Grande",
+    "territory": "East"
+  },
+  {
+    "zip": "85705",
+    "accountCount": 1,
+    "latitude": 32.2713547,
+    "longitude": -110.9920511,
+    "city": "Tucson",
+    "territory": "Tucson"
+  },
+  {
+    "zip": "85131",
+    "accountCount": 1,
+    "latitude": 32.6725108,
+    "longitude": -111.5472781,
+    "city": "Eloy",
+    "territory": "East"
+  }
+]

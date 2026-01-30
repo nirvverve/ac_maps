@@ -1,0 +1,659 @@
+[
+  {
+    "zipCode": "32701",
+    "city": "Altamonte Springs",
+    "activeCount": 6,
+    "terminatedCount": 2,
+    "totalHistorical": 8,
+    "churnRate": 25.0,
+    "avgCustomerLifetimeMonths": 15.5
+  },
+  {
+    "zipCode": "32703",
+    "city": "Apopka",
+    "activeCount": 6,
+    "terminatedCount": 3,
+    "totalHistorical": 9,
+    "churnRate": 33.3,
+    "avgCustomerLifetimeMonths": 18.3
+  },
+  {
+    "zipCode": "32707",
+    "city": "Casselberry",
+    "activeCount": 1,
+    "terminatedCount": 1,
+    "totalHistorical": 2,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 7.5
+  },
+  {
+    "zipCode": "32708",
+    "city": "Winter Springs",
+    "activeCount": 2,
+    "terminatedCount": 4,
+    "totalHistorical": 6,
+    "churnRate": 66.7,
+    "avgCustomerLifetimeMonths": 10.5
+  },
+  {
+    "zipCode": "32712",
+    "city": "Apopka",
+    "activeCount": 15,
+    "terminatedCount": 9,
+    "totalHistorical": 24,
+    "churnRate": 37.5,
+    "avgCustomerLifetimeMonths": 14.4
+  },
+  {
+    "zipCode": "32714",
+    "city": "Altamonte Springs",
+    "activeCount": 16,
+    "terminatedCount": 6,
+    "totalHistorical": 22,
+    "churnRate": 27.3,
+    "avgCustomerLifetimeMonths": 17.9
+  },
+  {
+    "zipCode": "32746",
+    "city": "Lake Mary",
+    "activeCount": 13,
+    "terminatedCount": 9,
+    "totalHistorical": 22,
+    "churnRate": 40.9,
+    "avgCustomerLifetimeMonths": 13.0
+  },
+  {
+    "zipCode": "32750",
+    "city": "Longwood",
+    "activeCount": 11,
+    "terminatedCount": 5,
+    "totalHistorical": 16,
+    "churnRate": 31.2,
+    "avgCustomerLifetimeMonths": 14.3
+  },
+  {
+    "zipCode": "32751",
+    "city": "Maitland",
+    "activeCount": 22,
+    "terminatedCount": 20,
+    "totalHistorical": 42,
+    "churnRate": 47.6,
+    "avgCustomerLifetimeMonths": 14.9
+  },
+  {
+    "zipCode": "32757",
+    "city": "Mount Dora",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 23.0
+  },
+  {
+    "zipCode": "32765",
+    "city": "Oviedo",
+    "activeCount": 7,
+    "terminatedCount": 10,
+    "totalHistorical": 17,
+    "churnRate": 58.8,
+    "avgCustomerLifetimeMonths": 9.2
+  },
+  {
+    "zipCode": "32766",
+    "city": "Oviedo",
+    "activeCount": 1,
+    "terminatedCount": 1,
+    "totalHistorical": 2,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 2.5
+  },
+  {
+    "zipCode": "32771",
+    "city": "Sanford",
+    "activeCount": 7,
+    "terminatedCount": 3,
+    "totalHistorical": 10,
+    "churnRate": 30.0,
+    "avgCustomerLifetimeMonths": 14.7
+  },
+  {
+    "zipCode": "32773",
+    "city": "Sanford",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 17.5
+  },
+  {
+    "zipCode": "32779",
+    "city": "Longwood",
+    "activeCount": 35,
+    "terminatedCount": 17,
+    "totalHistorical": 52,
+    "churnRate": 32.7,
+    "avgCustomerLifetimeMonths": 16.2
+  },
+  {
+    "zipCode": "32789",
+    "city": "Winter Park",
+    "activeCount": 51,
+    "terminatedCount": 16,
+    "totalHistorical": 67,
+    "churnRate": 23.9,
+    "avgCustomerLifetimeMonths": 16.8
+  },
+  {
+    "zipCode": "32792",
+    "city": "Winter Park",
+    "activeCount": 12,
+    "terminatedCount": 4,
+    "totalHistorical": 16,
+    "churnRate": 25.0,
+    "avgCustomerLifetimeMonths": 17.5
+  },
+  {
+    "zipCode": "32801",
+    "city": "Orlando",
+    "activeCount": 1,
+    "terminatedCount": 1,
+    "totalHistorical": 2,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 18.5
+  },
+  {
+    "zipCode": "32803",
+    "city": "Orlando",
+    "activeCount": 26,
+    "terminatedCount": 10,
+    "totalHistorical": 36,
+    "churnRate": 27.8,
+    "avgCustomerLifetimeMonths": 14.8
+  },
+  {
+    "zipCode": "32804",
+    "city": "Orlando",
+    "activeCount": 93,
+    "terminatedCount": 48,
+    "totalHistorical": 141,
+    "churnRate": 34.0,
+    "avgCustomerLifetimeMonths": 17.4
+  },
+  {
+    "zipCode": "32805",
+    "city": "Orlando",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 20.5
+  },
+  {
+    "zipCode": "32806",
+    "city": "Orlando",
+    "activeCount": 6,
+    "terminatedCount": 10,
+    "totalHistorical": 16,
+    "churnRate": 62.5,
+    "avgCustomerLifetimeMonths": 12.4
+  },
+  {
+    "zipCode": "32807",
+    "city": "Orlando",
+    "activeCount": 5,
+    "terminatedCount": 0,
+    "totalHistorical": 5,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 23.0
+  },
+  {
+    "zipCode": "32808",
+    "city": "Orlando",
+    "activeCount": 9,
+    "terminatedCount": 5,
+    "totalHistorical": 14,
+    "churnRate": 35.7,
+    "avgCustomerLifetimeMonths": 14.1
+  },
+  {
+    "zipCode": "32809",
+    "city": "Orlando",
+    "activeCount": 1,
+    "terminatedCount": 2,
+    "totalHistorical": 3,
+    "churnRate": 66.7,
+    "avgCustomerLifetimeMonths": 11.0
+  },
+  {
+    "zipCode": "32810",
+    "city": "Orlando",
+    "activeCount": 17,
+    "terminatedCount": 8,
+    "totalHistorical": 25,
+    "churnRate": 32.0,
+    "avgCustomerLifetimeMonths": 16.3
+  },
+  {
+    "zipCode": "32812",
+    "city": "Orlando",
+    "activeCount": 7,
+    "terminatedCount": 4,
+    "totalHistorical": 11,
+    "churnRate": 36.4,
+    "avgCustomerLifetimeMonths": 15.1
+  },
+  {
+    "zipCode": "32814",
+    "city": "Orlando",
+    "activeCount": 6,
+    "terminatedCount": 2,
+    "totalHistorical": 8,
+    "churnRate": 25.0,
+    "avgCustomerLifetimeMonths": 16.8
+  },
+  {
+    "zipCode": "32817",
+    "city": "Orlando",
+    "activeCount": 5,
+    "terminatedCount": 1,
+    "totalHistorical": 6,
+    "churnRate": 16.7,
+    "avgCustomerLifetimeMonths": 20.8
+  },
+  {
+    "zipCode": "32818",
+    "city": "Orlando",
+    "activeCount": 9,
+    "terminatedCount": 9,
+    "totalHistorical": 18,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 12.8
+  },
+  {
+    "zipCode": "32819",
+    "city": "Orlando",
+    "activeCount": 2,
+    "terminatedCount": 2,
+    "totalHistorical": 4,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 5.5
+  },
+  {
+    "zipCode": "32820",
+    "city": "Orlando",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 12.0
+  },
+  {
+    "zipCode": "32822",
+    "city": "Orlando",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 2.0
+  },
+  {
+    "zipCode": "32824",
+    "city": "Orlando",
+    "activeCount": 2,
+    "terminatedCount": 4,
+    "totalHistorical": 6,
+    "churnRate": 66.7,
+    "avgCustomerLifetimeMonths": 10.5
+  },
+  {
+    "zipCode": "32825",
+    "city": "Orlando",
+    "activeCount": 6,
+    "terminatedCount": 1,
+    "totalHistorical": 7,
+    "churnRate": 14.3,
+    "avgCustomerLifetimeMonths": 18.4
+  },
+  {
+    "zipCode": "32826",
+    "city": "Orlando",
+    "activeCount": 3,
+    "terminatedCount": 0,
+    "totalHistorical": 3,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 23.0
+  },
+  {
+    "zipCode": "32827",
+    "city": "Orlando",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 19.0
+  },
+  {
+    "zipCode": "32828",
+    "city": "Orlando",
+    "activeCount": 7,
+    "terminatedCount": 2,
+    "totalHistorical": 9,
+    "churnRate": 22.2,
+    "avgCustomerLifetimeMonths": 17.3
+  },
+  {
+    "zipCode": "32832",
+    "city": "Orlando",
+    "activeCount": 0,
+    "terminatedCount": 2,
+    "totalHistorical": 2,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 14.0
+  },
+  {
+    "zipCode": "32833",
+    "city": "Orlando",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 5.0
+  },
+  {
+    "zipCode": "32835",
+    "city": "Orlando",
+    "activeCount": 3,
+    "terminatedCount": 3,
+    "totalHistorical": 6,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 15.8
+  },
+  {
+    "zipCode": "32836",
+    "city": "Orlando",
+    "activeCount": 3,
+    "terminatedCount": 3,
+    "totalHistorical": 6,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 6.0
+  },
+  {
+    "zipCode": "32837",
+    "city": "Orlando",
+    "activeCount": 2,
+    "terminatedCount": 1,
+    "totalHistorical": 3,
+    "churnRate": 33.3,
+    "avgCustomerLifetimeMonths": 11.3
+  },
+  {
+    "zipCode": "32839",
+    "city": "Edgewood",
+    "activeCount": 3,
+    "terminatedCount": 0,
+    "totalHistorical": 3,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 23.0
+  },
+  {
+    "zipCode": "33908",
+    "city": "Fort Myers",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 3.0
+  },
+  {
+    "zipCode": "33919",
+    "city": "Fort Myers",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 1.0
+  },
+  {
+    "zipCode": "33946",
+    "city": "Placida",
+    "activeCount": 3,
+    "terminatedCount": 0,
+    "totalHistorical": 3,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 5.0
+  },
+  {
+    "zipCode": "33947",
+    "city": "Rotonda West",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 2.5
+  },
+  {
+    "zipCode": "33948",
+    "city": "Port Charlotte",
+    "activeCount": 5,
+    "terminatedCount": 0,
+    "totalHistorical": 5,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 1.6
+  },
+  {
+    "zipCode": "33950",
+    "city": "Punta Gorda",
+    "activeCount": 10,
+    "terminatedCount": 1,
+    "totalHistorical": 11,
+    "churnRate": 9.1,
+    "avgCustomerLifetimeMonths": 3.5
+  },
+  {
+    "zipCode": "33952",
+    "city": "Port Charlotte",
+    "activeCount": 6,
+    "terminatedCount": 0,
+    "totalHistorical": 6,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 3.0
+  },
+  {
+    "zipCode": "33953",
+    "city": "Port Charlotte",
+    "activeCount": 6,
+    "terminatedCount": 0,
+    "totalHistorical": 6,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 3.7
+  },
+  {
+    "zipCode": "33954",
+    "city": "Port Charlotte",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 2.0
+  },
+  {
+    "zipCode": "33955",
+    "city": "Punta Gorda",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 2.0
+  },
+  {
+    "zipCode": "33980",
+    "city": "Port Charlotte",
+    "activeCount": 3,
+    "terminatedCount": 0,
+    "totalHistorical": 3,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 4.0
+  },
+  {
+    "zipCode": "33981",
+    "city": "Port Charlotte",
+    "activeCount": 3,
+    "terminatedCount": 2,
+    "totalHistorical": 5,
+    "churnRate": 40.0,
+    "avgCustomerLifetimeMonths": 2.6
+  },
+  {
+    "zipCode": "33983",
+    "city": "Punta Gorda",
+    "activeCount": 5,
+    "terminatedCount": 0,
+    "totalHistorical": 5,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 3.6
+  },
+  {
+    "zipCode": "34223",
+    "city": "Englewood",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 1.5
+  },
+  {
+    "zipCode": "34224",
+    "city": "Englewood",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 1.0
+  },
+  {
+    "zipCode": "34234",
+    "city": "Sarasota",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 6.0
+  },
+  {
+    "zipCode": "34285",
+    "city": "Venice",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 1.0
+  },
+  {
+    "zipCode": "34286",
+    "city": "North Port",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 2.0
+  },
+  {
+    "zipCode": "34287",
+    "city": "North Port",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 1.0
+  },
+  {
+    "zipCode": "34288",
+    "city": "North Port",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 2.0
+  },
+  {
+    "zipCode": "34293",
+    "city": "Venice",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0,
+    "avgCustomerLifetimeMonths": 3.0
+  },
+  {
+    "zipCode": "34711",
+    "city": "Clermont",
+    "activeCount": 1,
+    "terminatedCount": 2,
+    "totalHistorical": 3,
+    "churnRate": 66.7,
+    "avgCustomerLifetimeMonths": 8.3
+  },
+  {
+    "zipCode": "34714",
+    "city": "Clermont",
+    "activeCount": 0,
+    "terminatedCount": 1,
+    "totalHistorical": 1,
+    "churnRate": 100.0,
+    "avgCustomerLifetimeMonths": 10.0
+  },
+  {
+    "zipCode": "34715",
+    "city": "Clermont",
+    "activeCount": 2,
+    "terminatedCount": 1,
+    "totalHistorical": 3,
+    "churnRate": 33.3,
+    "avgCustomerLifetimeMonths": 11.3
+  },
+  {
+    "zipCode": "34734",
+    "city": "Gotha",
+    "activeCount": 1,
+    "terminatedCount": 1,
+    "totalHistorical": 2,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 3.5
+  },
+  {
+    "zipCode": "34736",
+    "city": "Groveland",
+    "activeCount": 1,
+    "terminatedCount": 1,
+    "totalHistorical": 2,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 5.0
+  },
+  {
+    "zipCode": "34761",
+    "city": "Ocoee",
+    "activeCount": 3,
+    "terminatedCount": 3,
+    "totalHistorical": 6,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 6.7
+  },
+  {
+    "zipCode": "34786",
+    "city": "Windermere",
+    "activeCount": 9,
+    "terminatedCount": 12,
+    "totalHistorical": 21,
+    "churnRate": 57.1,
+    "avgCustomerLifetimeMonths": 12.3
+  },
+  {
+    "zipCode": "34787",
+    "city": "Winter Garden",
+    "activeCount": 1,
+    "terminatedCount": 1,
+    "totalHistorical": 2,
+    "churnRate": 50.0,
+    "avgCustomerLifetimeMonths": 10.0
+  }
+]

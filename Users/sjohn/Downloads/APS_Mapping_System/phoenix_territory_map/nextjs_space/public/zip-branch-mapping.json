@@ -1,0 +1,710 @@
+[
+  {
+    "zipCode": "85004",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85007",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85008",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85013",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85014",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85016",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85018",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85020",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85021",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85028",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85029",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85031",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85032",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85035",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85040",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85043",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85051",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85053",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85086",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85118",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85119",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85122",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85131",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85138",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85142",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85201",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85206",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85208",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85210",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85224",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85225",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85226",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85233",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85250",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85251",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85254",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85257",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85268",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85281",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85282",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85286",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85288",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85302",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85310",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85323",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85338",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85345",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85353",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85382",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85383",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85705",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85737",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85022",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85023",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85083",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85085",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85087",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85301",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85303",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85304",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85305",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85306",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85308",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85322",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85326",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85331",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85335",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85340",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85342",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85351",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85354",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85355",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85361",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85373",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85374",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85375",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85378",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85379",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85381",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85387",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85388",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85392",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85395",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85396",
+    "branch": "Glendale"
+  },
+  {
+    "zipCode": "85003",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85006",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85009",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85012",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85013",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85015",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85017",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85019",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85024",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85027",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85033",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85034",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85037",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85050",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85054",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85202",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85203",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85204",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85213",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85253",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85255",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85256",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85258",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85259",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85260",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85262",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85263",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85264",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85266",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85337",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85377",
+    "branch": "Scottsdale"
+  },
+  {
+    "zipCode": "85041",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85042",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85044",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85045",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85048",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85120",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85123",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85128",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85132",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85139",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85140",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85143",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85193",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85194",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85205",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85207",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85209",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85212",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85215",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85234",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85248",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85249",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85283",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85284",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85295",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85296",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85297",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85298",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85339",
+    "branch": "Chandler"
+  },
+  {
+    "zipCode": "85192",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85602",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85622",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85623",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85631",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85637",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85641",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85645",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85653",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85658",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85704",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85706",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85710",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85711",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85712",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85715",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85716",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85718",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85730",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85735",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85736",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85739",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85741",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85742",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85743",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85745",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85746",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85747",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85749",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85750",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85755",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85756",
+    "branch": "Tucson"
+  },
+  {
+    "zipCode": "85757",
+    "branch": "Tucson"
+  }
+]

@@ -1,0 +1,44 @@
+Employee_ID,Name,Address,City,Zip,Latitude,Longitude,Business_Title,Current_Location,Manager,Dist_West_NEXT_YEAR,Dist_East_NEXT_YEAR,Dist_Central_NEXT_YEAR,Dist_East_FUTURE_PLANNING,Dist_West_FUTURE_PLANNING,Dist_Central_FUTURE_PLANNING,Recommended_Office,Distance_to_Recommended
+CP5148233,Kenneth Felix,"1354 E Cactus Bloomway, Casa Grande, Arizona 85122-1145",Casa Grande,85122,32.8906,-111.754,Service Professional,Tucson,Matthew Halteman,58.6,26.7,51.3,39.4,50.6,68.7,East,26.7
+CP5150006,Matthew Halteman,"6191 West Sandburg Ct, Tucson, Arizona 85743-8248",Tucson,85743,32.3366,-111.1771,Assistant Director of Service,Tucson,Todd Johnston,108.3,74.9,99.0,81.5,101.3,114.5,East,74.9
+CPQ000014,Michael Grant,"1502 West Glendale Ave, Phoenix, Arizona 85021",Phoenix,85021,33.56,-112.0927,Service Professional,Phoenix,Talynn Stewart,8.7,24.9,9.0,27.4,22.4,24.3,West,8.7
+CPQ000192,Joan Magana-Chavez,"11792 North 147th Ln, Surprise, Arizona 85379-6321",Surprise,85379,33.6021,-112.3736,Service Professional,Phoenix,Steve Gutierrez,11.7,38.7,24.3,43.8,15.9,32.7,West,11.7
+CPQ00243,Gerrytt Nikolaus,"4701 E Jones Ave, Phoenix, Arizona 85040",Phoenix,85040,33.4061,-112.0265,Service Professional,Phoenix,Charles Gay,19.7,14.6,15.1,22.8,22.3,33.2,East,14.6
+CPQ112568,Thomas Rau,"1345 East Lemon St, Tempe, Arizona 85281-4322",Tempe,85281,33.4227,-111.9261,Service Professional,Phoenix,Talynn Stewart,22.1,11.7,13.4,16.9,28.2,31.5,East,11.7
+CPQ122802,Bryan Walters,"5322 W. Karen Dr., Glendale, Arizona 85308",Glendale,85308,33.6539,-112.1694,Repair Service Professional,Phoenix,Steve Lucas,0.9,32.8,12.8,33.8,23.8,21.4,West,0.9
+CPQ148114,Michael Montgomery,"1107 East University Dr, Mesa, Arizona 85203-8052",Mesa,85203,33.437,-111.8057,Service Professional,Phoenix,Charles Gay,26.7,11.5,14.9,9.9,35.2,31.1,East,11.5
+CPQ157235,David Bontrager,"6401 South 37th St, Phoenix, Arizona 85042-5003",Phoenix,85042,33.3794,-112.0283,Service Professional,Phoenix,Charles Gay,21.3,13.6,16.9,23.3,22.1,35.1,East,13.6
+CPQ157497,Qualen Ross-Cunningham,"3059 South Danielson Pl, Chandler, Arizona 85286-2399",Chandler,85286,33.2711,-111.8311,Service Professional,Phoenix,Charles Gay,33.7,0.1,24.7,16.9,34.2,42.2,East,0.1
+CPQ157547,Charles Gay,"1849 s power rd, Mesa, Arizona 85208-8643",Mesa,85208,33.3984,-111.6513,Assistant Director of Service,Phoenix,Todd Johnston,35.6,13.6,22.9,3.9,43.9,36.4,East,13.6
+101777,Steve Gutierrez,"2153 E Fairfiled St,, Mesa, Arizona 85213",Mesa,85213,33.4367,-111.7731,Assistant Director of Service,Phoenix,Todd Johnston,28.3,11.8,16.1,8.0,37.1,31.5,East,11.8
+102170,Chris Bentley,"8830 N New World Dr, Glendale, Arizona 85302",Glendale,85302,33.5675,-112.1753,Operations Coordinator,Phoenix,Alexis Butler,6.4,28.4,13.3,32.1,19.0,26.3,West,6.4
+114763,Corey Cox,"1317 E Rocio Ct, Casa Grande, Arizona 85122",Casa Grande,85122,32.8906,-111.754,Service Professional,Tucson,Matthew Halteman,58.6,26.7,51.3,39.4,50.6,68.7,East,26.7
+116688,Tony Pangburn,"3211 West Via Del Sol Drive, Phoenix, Arizona 85027",Phoenix,85027,33.6819,-112.0996,Service Professional,Phoenix,Steve Gutierrez,5.1,32.2,9.6,31.1,27.8,17.3,West,5.1
+123197,Jordan Garcia,"4730 West Northern Avenue, Glendale, Arizona 85301",Glendale,85301,33.5311,-112.1767,Service Professional,Phoenix,Charles Gay,8.9,26.8,14.2,31.7,17.3,28.4,West,8.9
+125095,IVAN MARTINEZ,"413 N Roosevelt Ave, Casa Grande, Arizona 85122",Casa Grande,85122,32.8906,-111.754,Service Professional,Tucson,Matthew Halteman,58.6,26.7,51.3,39.4,50.6,68.7,East,26.7
+125101,Talynn Stewart,"13850 N 19th Ave, Phoenix, Arizona 85023",Phoenix,85023,33.6324,-112.1118,Assistant Director of Service,Phoenix,Donnie O'Neal,4.6,29.6,9.3,30.1,24.8,20.5,West,4.6
+125603,Reyandres Vega,"4810 North 63rd Avenue, Phoenix, Arizona 85033",Phoenix,85033,33.4944,-112.2132,Service Professional,Phoenix,Oney Urquiza,11.6,26.9,17.2,33.5,14.1,31.7,West,11.6
+129014,Angel Ortiz,"3624 West Orangewood Avenue, Phoenix, Arizona 85051",Phoenix,85051,33.5591,-112.1332,Service Professional,Phoenix,Steve Gutierrez,7.6,26.4,11.1,29.6,20.5,25.4,West,7.6
+129015,Oney Urquiza,"15928 West Paradise Lane, Surprise, Arizona 85374",Surprise,85374,33.63,-112.3314,Assistant Director of Service,Phoenix,Todd Johnston,8.8,38.0,21.9,42.0,18.2,29.6,West,8.8
+131061,Wilfred Lambert,"9999 W. Missouri Ave. , Glendale, Arizona 85305",Glendale,85305,33.5291,-112.2482,Commercial Service Professional,Phoenix,Talynn Stewart,9.8,29.9,18.1,35.8,14.2,30.9,West,9.8
+131137,KENJE DALMACIO,"5252 West Leodra Lane, Laveen, Arizona 85339",Laveen,85339,33.3436,-112.1716,Service Professional,Phoenix,Oney Urquiza,21.8,20.3,22.6,31.9,14.0,39.8,East,20.3
+131227,Todd Johnston,"1763 East Constitution Dr., Chandler, Arizona 85225",Chandler,85225,33.3105,-111.8239,Director of Service,Phoenix,Donnie O'Neal,31.8,2.7,22.3,14.7,34.2,39.5,East,2.7
+131443,Megan Bradley,"7240 W Judy Lynn Ln, Peoria, Arizona 85382",Peoria,85382,33.6308,-112.2072,Service Professional,Phoenix,Oney Urquiza,2.5,32.9,14.7,35.2,21.2,24.1,West,2.5
+131444,Christian Carlson,"6933 E. Glenrosa Ave, Scottsdale, Arizona 85251",Scottsdale,85251,33.4936,-111.9167,Service Professional,Phoenix,Steve Gutierrez,19.2,16.0,8.6,16.5,29.7,26.6,Central,8.6
+131448,Ray Vega,"5722 West Heatherbrae Drive, Phoenix, Arizona 85031",Phoenix,85031,33.4939,-112.1696,Service Professional,Phoenix,Oney Urquiza,11.5,24.8,15.1,31.0,16.2,30.4,West,11.5
+131638,Kent Armer,"18205 North 25th Place, Phoenix, Arizona 85032",Phoenix,85032,33.6238,-112.0044,Service Professional,Phoenix,Charles Gay,10.6,26.2,3.1,24.3,29.1,18.4,Central,3.1
+131706,Ray Saltsman,"6451 West Bell Road, Glendale, Arizona 85308",Glendale,85308,33.6539,-112.1694,Service Professional,Phoenix,Steve Gutierrez,0.9,32.8,12.8,33.8,23.8,21.4,West,0.9
+131726,Michael Vendetti,"8976 South 253rd Avenue, Buckeye, Arizona 85326",Buckeye,85326,33.389,-112.6077,Service Professional,Phoenix,Oney Urquiza,30.8,45.6,40.9,56.4,11.5,52.4,West,30.8
+131752,Anthony Garcia,"1506 South Alvaro Circle, Mesa, Arizona 85206",Mesa,85206,33.4026,-111.7242,Service Professional,Phoenix,Charles Gay,31.9,10.9,19.7,6.2,39.7,34.6,East,10.9
+134733,Steve Lucas,"9590 N. 81st Drive, Peoria, Arizona 85345",Peoria,85345,33.5761,-112.2344,Repair Director,Phoenix,Donnie O'Neal,6.5,31.3,16.5,35.6,17.3,27.9,West,6.5
+136786,William ODell,"5815 East Saint John Road, Scottsdale, Arizona 85254",Scottsdale,85254,33.6165,-111.9554,Service Professional,Phoenix,Steve Gutierrez,13.5,24.8,0.2,21.6,31.1,18.3,Central,0.2
+137616,Joseph Strong,"2610 North Recker Road, Mesa, Arizona 85215",Mesa,85215,33.4707,-111.7188,Service Professional,Phoenix,Charles Gay,29.8,15.2,16.8,4.9,40.5,30.3,East,15.2
+138233,Mason Constable,"16132 W Shiloh Ln, Goodyear, Arizona 85338",Goodyear,85338,33.4368,-112.3834,Service Professional,Phoenix,Oney Urquiza,19.3,33.9,27.8,43.2,4.6,40.8,West,19.3
+138245,John McCowan,"625 North Hobson, Mesa, Arizona 85203",Mesa,85203,33.437,-111.8057,Pool Technician,Phoenix,Steve Lucas,26.7,11.5,14.9,9.9,35.2,31.1,East,11.5
+138650,Hassan El bouqa,"201 West Hermosa Drive, Tempe, Arizona 85282",Tempe,85282,33.3917,-111.9249,Service Professional I,Phoenix,Talynn Stewart,23.8,9.8,15.5,17.3,28.1,33.6,East,9.8
+138666,Christian Nolan,"1009 West Hudson Way, Gilbert, Arizona 85233",Gilbert,85233,33.3354,-111.8153,Service Professional I,Phoenix,Charles Gay,30.9,4.5,20.9,13.2,34.5,37.9,East,4.5
+138745,Miranda Loveland,"6550 North 47th Avenue, Glendale, Arizona 85301",Glendale,85301,33.5311,-112.1767,Service Professional I,Phoenix,Oney Urquiza,8.9,26.8,14.2,31.7,17.3,28.4,West,8.9
+138859,Mike Wall,"6312 North Lime Way, Tucson, Arizona 85741",Tucson,85741,32.3472,-111.0419,Service Professional I,Tucson,Matthew Halteman,112.2,78.6,102.1,83.7,106.5,117.0,East,78.6
+138878,Alexander Widom,"1301 East Watson Drive, Tempe, Arizona 85283",Tempe,85283,33.3665,-111.9312,Service Professional I,Phoenix,Oney Urquiza,24.9,8.7,17.2,18.1,27.7,35.3,East,8.7
+138920,Jeremy Hodge,"13040 South Trawood Circle, Arizona City, Arizona 85123",Arizona City,85123,32.7452,-111.6033,Service Professional I,Tucson,Matthew Halteman,71.5,38.7,63.3,48.8,63.8,80.2,East,38.7
+138935,Shae Blackburn,"9600 West Georgia Avenue, Glendale, Arizona 85305",Glendale,85305,33.5291,-112.2482,Repair Technician - Driver,Phoenix,Steve Lucas,9.8,29.9,18.1,35.8,14.2,30.9,West,9.8

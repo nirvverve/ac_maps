@@ -1,0 +1,164 @@
+[
+  {
+    "zipCode": "33946",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 3,
+    "terminatedCount": 0,
+    "totalHistorical": 3,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "33947",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "33948",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 5,
+    "terminatedCount": 0,
+    "totalHistorical": 5,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "33950",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 10,
+    "terminatedCount": 0,
+    "totalHistorical": 10,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "33952",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 6,
+    "terminatedCount": 0,
+    "totalHistorical": 6,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "33953",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 6,
+    "terminatedCount": 0,
+    "totalHistorical": 6,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "33954",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "33955",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "33980",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 3,
+    "terminatedCount": 0,
+    "totalHistorical": 3,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "33981",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 3,
+    "terminatedCount": 0,
+    "totalHistorical": 3,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "33983",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 5,
+    "terminatedCount": 0,
+    "totalHistorical": 5,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "34223",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "34224",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "34285",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "34286",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "34287",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "34288",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 2,
+    "terminatedCount": 0,
+    "totalHistorical": 2,
+    "churnRate": 0.0
+  },
+  {
+    "zipCode": "34293",
+    "area": "Port Charlotte",
+    "territory": "All Pool - Outlying Maintenance",
+    "activeCount": 1,
+    "terminatedCount": 0,
+    "totalHistorical": 1,
+    "churnRate": 0.0
+  }
+]

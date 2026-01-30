@@ -1,0 +1,226 @@
+
+===============================================================================
+EMPLOYEE LOCATION ANALYSIS & OFFICE ASSIGNMENT RECOMMENDATIONS
+Phoenix Territory Map - Employee Workforce Optimization Study
+Generated: November 13, 2025 at 07:59 PM
+===============================================================================
+
+EXECUTIVE SUMMARY
+-----------------
+Total Employees Analyzed: 43
+Phoenix Employees: 37
+Tucson Employees: 6
+
+2026 OFFICE ASSIGNMENT RECOMMENDATIONS
+---------------------------------------
+Based on home address proximity to the three 2026 office locations:
+
+West Office (Glendale - 85308):     19 employees
+Central Office (Scottsdale - 85254): 3 employees  
+East Office (Chandler - 85286):     21 employees
+
+AVERAGE COMMUTE DISTANCES
+-------------------------
+West Office:    9.2 miles
+Central Office: 4.0 miles
+East Office:    20.6 miles
+
+Overall Average Commute to Recommended Office: 14.4 miles
+
+===============================================================================
+DETAILED OFFICE ASSIGNMENTS
+===============================================================================
+
+
+WEST OFFICE - 19 EMPLOYEES
+================================================================================
+Employee Name                  City                 Title                     Distance
+--------------------------------------------------------------------------------
+Bryan Walters                  Glendale             Repair Service Professional   0.9 mi
+Ray Saltsman                   Glendale             Service Professional        0.9 mi
+Megan Bradley                  Peoria               Service Professional        2.5 mi
+Talynn Stewart                 Phoenix              Assistant Director of Service   4.6 mi
+Tony Pangburn                  Phoenix              Service Professional        5.1 mi
+Chris Bentley                  Glendale             Operations Coordinator      6.4 mi
+Steve Lucas                    Peoria               Repair Director             6.5 mi
+Angel Ortiz                    Phoenix              Service Professional        7.6 mi
+Michael Grant                  Phoenix              Service Professional        8.7 mi
+Oney Urquiza                   Surprise             Assistant Director of Service   8.8 mi
+Jordan Garcia                  Glendale             Service Professional        8.9 mi
+Miranda Loveland               Glendale             Service Professional I      8.9 mi
+Shae Blackburn                 Glendale             Repair Technician - Driver   9.8 mi
+Wilfred Lambert                Glendale             Commercial Service Professional   9.8 mi
+Ray Vega                       Phoenix              Service Professional       11.5 mi
+Reyandres Vega                 Phoenix              Service Professional       11.6 mi
+Joan Magana-Chavez             Surprise             Service Professional       11.7 mi
+Mason Constable                Goodyear             Service Professional       19.3 mi
+Michael Vendetti               Buckeye              Service Professional       30.8 mi
+
+Average Commute: 9.2 miles
+
+
+CENTRAL OFFICE - 3 EMPLOYEES
+================================================================================
+Employee Name                  City                 Title                     Distance
+--------------------------------------------------------------------------------
+William ODell                  Scottsdale           Service Professional        0.2 mi
+Kent Armer                     Phoenix              Service Professional        3.1 mi
+Christian Carlson              Scottsdale           Service Professional        8.6 mi
+
+Average Commute: 4.0 miles
+
+
+EAST OFFICE - 21 EMPLOYEES
+================================================================================
+Employee Name                  City                 Title                     Distance
+--------------------------------------------------------------------------------
+Qualen Ross-Cunningham         Chandler             Service Professional        0.1 mi
+Todd Johnston                  Chandler             Director of Service         2.7 mi
+Christian Nolan                Gilbert              Service Professional I      4.5 mi
+Alexander Widom                Tempe                Service Professional I      8.7 mi
+Hassan El bouqa                Tempe                Service Professional I      9.8 mi
+Anthony Garcia                 Mesa                 Service Professional       10.9 mi
+John McCowan                   Mesa                 Pool Technician            11.5 mi
+Michael Montgomery             Mesa                 Service Professional       11.5 mi
+Thomas Rau                     Tempe                Service Professional       11.7 mi
+Steve Gutierrez                Mesa                 Assistant Director of Service  11.8 mi
+Charles Gay                    Mesa                 Assistant Director of Service  13.6 mi
+David Bontrager                Phoenix              Service Professional       13.6 mi
+Gerrytt Nikolaus               Phoenix              Service Professional       14.6 mi
+Joseph Strong                  Mesa                 Service Professional       15.2 mi
+KENJE DALMACIO                 Laveen               Service Professional       20.3 mi
+IVAN MARTINEZ                  Casa Grande          Service Professional       26.7 mi
+Kenneth Felix                  Casa Grande          Service Professional       26.7 mi
+Corey Cox                      Casa Grande          Service Professional       26.7 mi
+Jeremy Hodge                   Arizona City         Service Professional I     38.7 mi
+Matthew Halteman               Tucson               Assistant Director of Service  74.9 mi
+Mike Wall                      Tucson               Service Professional I     78.6 mi
+
+Average Commute: 20.6 miles
+
+
+================================================================================
+COMMUTE OPTIMIZATION IMPACT
+================================================================================
+
+Current Average Commute (single Phoenix office):  20.4 miles
+Optimized Average Commute (3 offices):           14.4 miles
+Improvement:                                      29.6% reduction
+Total Miles Saved Per Day (round trip):          520 miles
+
+Employees with 15+ mile commutes: 10
+  - Kenneth Felix: Casa Grande → East Office (26.7 mi)
+  - Matthew Halteman: Tucson → East Office (74.9 mi)
+  - Corey Cox: Casa Grande → East Office (26.7 mi)
+  - IVAN MARTINEZ: Casa Grande → East Office (26.7 mi)
+  - KENJE DALMACIO: Laveen → East Office (20.3 mi)
+  - Michael Vendetti: Buckeye → West Office (30.8 mi)
+  - Joseph Strong: Mesa → East Office (15.2 mi)
+  - Mason Constable: Goodyear → West Office (19.3 mi)
+  - Mike Wall: Tucson → East Office (78.6 mi)
+  - Jeremy Hodge: Arizona City → East Office (38.7 mi)
+
+
+================================================================================
+TUCSON EMPLOYEES - SPECIAL CONSIDERATION
+================================================================================
+
+The following employees are currently assigned to Tucson but show up in Phoenix
+office recommendations. These may need special consideration:
+
+- Kenneth Felix (Casa Grande)
+  Distance to East Office: 26.7 miles
+  Note: Currently assigned to Tucson location
+
+- Matthew Halteman (Tucson)
+  Distance to East Office: 74.9 miles
+  Note: Currently assigned to Tucson location
+
+- Corey Cox (Casa Grande)
+  Distance to East Office: 26.7 miles
+  Note: Currently assigned to Tucson location
+
+- IVAN MARTINEZ (Casa Grande)
+  Distance to East Office: 26.7 miles
+  Note: Currently assigned to Tucson location
+
+- Mike Wall (Tucson)
+  Distance to East Office: 78.6 miles
+  Note: Currently assigned to Tucson location
+
+- Jeremy Hodge (Arizona City)
+  Distance to East Office: 38.7 miles
+  Note: Currently assigned to Tucson location
+
+
+================================================================================
+MANAGER DISTRIBUTION ACROSS OFFICES
+================================================================================
+
+
+Matthew Halteman:
+  - East Office: 5 employee(s)
+
+Todd Johnston:
+  - East Office: 3 employee(s)
+  - West Office: 1 employee(s)
+
+Talynn Stewart:
+  - East Office: 2 employee(s)
+  - West Office: 2 employee(s)
+
+Steve Gutierrez:
+  - Central Office: 2 employee(s)
+  - West Office: 4 employee(s)
+
+Charles Gay:
+  - Central Office: 1 employee(s)
+  - East Office: 7 employee(s)
+  - West Office: 1 employee(s)
+
+Steve Lucas:
+  - East Office: 1 employee(s)
+  - West Office: 2 employee(s)
+
+Alexis Butler:
+  - West Office: 1 employee(s)
+
+Donnie O'Neal:
+  - East Office: 1 employee(s)
+  - West Office: 2 employee(s)
+
+Oney Urquiza:
+  - East Office: 2 employee(s)
+  - West Office: 6 employee(s)
+
+
+================================================================================
+INTERACTIVE MAP AVAILABLE
+================================================================================
+
+Visit the live map to explore employee locations:
+https://phoenixnewlocations.abacusai.app
+
+Click on the "Employee Locations" tab to:
+- View all employees' home locations on the map
+- See color-coded office assignments (Blue=West, Green=Central, Purple=East)
+- Filter by recommended office
+- Click individual employees for detailed information
+- View star markers showing 2026 and future office locations
+
+NEXT STEPS FOR ROUTE SUITABILITY ANALYSIS
+------------------------------------------
+To complete the route suitability analysis, we need:
+
+1. Current Route/Territory Assignments: Which routes/zip codes is each technician 
+   currently responsible for?
+
+2. Account Distribution Data: Match current routes to the account data we have to 
+   analyze if technicians are servicing accounts near their home or traveling long 
+   distances unnecessarily.
+
+3. Route Optimization Recommendations: Based on home location and account density, 
+   recommend route reassignments for maximum efficiency.
+
+Please provide the current route/territory assignments for each technician to 
+continue this analysis.

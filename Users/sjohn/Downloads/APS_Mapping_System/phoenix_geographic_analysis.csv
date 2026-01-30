@@ -1,0 +1,134 @@
+Consolidated_Area,Original_Branch,Source,ZIP_Code,Active_Accounts,Terminated_Accounts,Churn_Rate
+West,Branch 6 - Glendale/West PHX,Phoenix,85308,41,216,84.05
+West,Branch 7 - Southwest Valley/Laveen,Phoenix,85339,31,152,83.06
+West,Branch 5 - Peoria/Surprise North,Phoenix,85383,21,120,85.11
+West,Branch 6 - Glendale/West PHX,Phoenix,85304,17,72,80.9
+West,Branch 6 - Glendale/West PHX,Phoenix,85053,16,53,76.81
+West,Branch 5 - Peoria/Surprise North,Phoenix,85345,16,92,85.19
+West,Branch 7 - Southwest Valley/Laveen,Phoenix,85338,15,77,83.7
+West,Branch 7 - Southwest Valley/Laveen,Phoenix,85340,15,59,79.73
+West,Branch 5 - Peoria/Surprise North,Phoenix,85382,14,68,82.93
+West,Branch 6 - Glendale/West PHX,Phoenix,85310,13,51,79.69
+West,Branch 5 - Peoria/Surprise North,Phoenix,85388,13,60,82.19
+West,Branch 7 - Southwest Valley/Laveen,Phoenix,85395,13,70,84.34
+West,Branch 7 - Southwest Valley/Laveen,Phoenix,85396,13,40,75.47
+West,Branch 5 - Peoria/Surprise North,Phoenix,85379,12,92,88.46
+West,Branch 7 - Southwest Valley/Laveen,Phoenix,85323,10,40,80.0
+West,Branch 7 - Southwest Valley/Laveen,Phoenix,85392,10,90,90.0
+West,Branch 6 - Glendale/West PHX,Phoenix,85302,9,67,88.16
+West,Branch 5 - Peoria/Surprise North,Phoenix,85381,9,63,87.5
+West,Branch 6 - Glendale/West PHX,Phoenix,85051,8,35,81.4
+West,Branch 7 - Southwest Valley/Laveen,Phoenix,85355,8,20,71.43
+West,Branch 6 - Glendale/West PHX,Phoenix,85303,7,27,79.41
+West,Branch 6 - Glendale/West PHX,Phoenix,85306,7,29,80.56
+West,Branch 6 - Glendale/West PHX,Phoenix,85037,6,38,86.36
+West,Branch 6 - Glendale/West PHX,Phoenix,85301,5,26,83.87
+West,Branch 6 - Glendale/West PHX,Phoenix,85305,5,24,82.76
+West,Branch 7 - Southwest Valley/Laveen,Phoenix,85326,5,42,89.36
+West,Branch 5 - Peoria/Surprise North,Phoenix,85353,5,57,91.94
+West,Branch 5 - Peoria/Surprise North,Phoenix,85373,5,18,78.26
+West,Branch 5 - Peoria/Surprise North,Phoenix,85374,5,49,90.74
+West,Branch 5 - Peoria/Surprise North,Phoenix,85378,2,8,80.0
+West,Branch 7 - Southwest Valley/Laveen,Phoenix,85387,2,13,86.67
+West,Branch 5 - Peoria/Surprise North,Phoenix,85351,1,13,92.86
+West,Branch 5 - Peoria/Surprise North,Phoenix,85375,1,16,94.12
+Central,Branch 1 - North Scottsdale,Phoenix,85254,56,156,73.58
+Central,Branch 1 - North Scottsdale,Phoenix,85255,39,136,77.71
+Central,Branch 4 - Central PHX/South,Phoenix,85042,27,97,78.23
+Central,Branch 2 - Central Scottsdale/PV,Phoenix,85018,25,119,82.64
+Central,Branch 3 - North Phoenix I-17,Phoenix,85028,23,95,80.51
+Central,Branch 1 - North Scottsdale,Phoenix,85259,22,104,82.54
+Central,Branch 1 - North Scottsdale,Phoenix,85260,22,92,80.7
+Central,Branch 3 - North Phoenix I-17,Phoenix,85022,21,68,76.4
+Central,Branch 1 - North Scottsdale,Phoenix,85331,21,116,84.67
+Central,Branch 4 - Central PHX/South,Phoenix,85020,19,75,79.79
+Central,Branch 4 - Central PHX/South,Phoenix,85021,19,75,79.79
+Central,Branch 3 - North Phoenix I-17,Phoenix,85050,18,76,80.85
+Central,Branch 2 - Central Scottsdale/PV,Phoenix,85258,18,66,78.57
+Central,Branch 4 - Central PHX/South,Phoenix,85041,17,114,87.02
+Central,Branch 3 - North Phoenix I-17,Phoenix,85085,16,59,78.67
+Central,Branch 4 - Central PHX/South,Phoenix,85029,15,73,82.95
+Central,Branch 3 - North Phoenix I-17,Phoenix,85086,15,66,81.48
+Central,Branch 2 - Central Scottsdale/PV,Phoenix,85257,14,63,81.82
+Central,Branch 1 - North Scottsdale,Phoenix,85266,14,39,73.58
+Central,Branch 3 - North Phoenix I-17,Phoenix,85032,13,88,87.13
+Central,Branch 1 - North Scottsdale,Phoenix,85262,13,61,82.43
+Central,Branch 4 - Central PHX/South,Phoenix,85023,11,78,87.64
+Central,Branch 3 - North Phoenix I-17,Phoenix,85024,10,48,82.76
+Central,Branch 2 - Central Scottsdale/PV,Phoenix,85253,10,65,86.67
+Central,Branch 4 - Central PHX/South,Phoenix,85014,9,28,75.68
+Central,Branch 4 - Central PHX/South,Phoenix,85015,9,29,76.32
+Central,Branch 2 - Central Scottsdale/PV,Phoenix,85016,9,80,89.89
+Central,Branch 3 - North Phoenix I-17,Phoenix,85027,8,40,83.33
+Central,Branch 2 - Central Scottsdale/PV,Phoenix,85250,8,34,80.95
+Central,Branch 1 - North Scottsdale,Phoenix,85268,8,40,83.33
+Central,Branch 2 - Central Scottsdale/PV,Phoenix,85251,7,38,84.44
+Central,Branch 4 - Central PHX/South,Phoenix,85003,6,22,78.57
+Central,Branch 4 - Central PHX/South,Phoenix,85012,6,23,79.31
+Central,Branch 4 - Central PHX/South,Phoenix,85035,6,14,70.0
+Central,Branch 3 - North Phoenix I-17,Phoenix,85083,6,59,90.77
+Central,Branch 4 - Central PHX/South,Phoenix,85013,5,33,86.84
+Central,Branch 4 - Central PHX/South,Phoenix,85006,4,15,78.95
+Central,Branch 4 - Central PHX/South,Phoenix,85008,4,22,84.62
+Central,Branch 4 - Central PHX/South,Phoenix,85019,4,11,73.33
+Central,Branch 4 - Central PHX/South,Phoenix,85043,4,35,89.74
+Central,Branch 4 - Central PHX/South,Phoenix,85007,3,49,94.23
+Central,Branch 3 - North Phoenix I-17,Phoenix,85087,3,10,76.92
+Central,Branch 4 - Central PHX/South,Phoenix,85040,2,13,86.67
+Central,Branch 3 - North Phoenix I-17,Phoenix,85054,2,9,81.82
+Central,Branch 4 - Central PHX/South,Phoenix,85009,1,10,90.91
+Central,Branch 4 - Central PHX/South,Phoenix,85017,1,3,75.0
+Central,Branch 4 - Central PHX/South,Phoenix,85031,1,5,83.33
+Central,Branch 4 - Central PHX/South,Phoenix,85033,1,18,94.74
+Central,Branch 2 - Central Scottsdale/PV,Phoenix,85256,1,1,50.0
+Central,Branch 4 - Central PHX/South,Phoenix,85004,0,1,100.0
+Central,Branch 1 - North Scottsdale,Phoenix,85263,0,2,100.0
+Central,Branch 1 - North Scottsdale,Phoenix,85377,0,7,100.0
+East,Branch 11 - Mesa East/Pinal Outliers,Phoenix,85207,34,85,71.43
+East,Branch 9 - Chandler/Gilbert South,Phoenix,85249,33,112,77.24
+East,Branch 8 - Tempe/Chandler West,Phoenix,85048,27,88,76.52
+East,Branch 8 - Tempe/Chandler West,Phoenix,85286,26,68,72.34
+East,Branch 8 - Tempe/Chandler West,Phoenix,85283,23,77,77.0
+East,Branch 9 - Chandler/Gilbert South,Phoenix,85295,23,40,63.49
+East,Branch 10 - Mesa Central/Gilbert East,Phoenix,85296,23,73,76.04
+East,Branch 9 - Chandler/Gilbert South,Phoenix,85234,22,62,73.81
+East,Branch 9 - Chandler/Gilbert South,Phoenix,85248,22,65,74.71
+East,Branch 10 - Mesa Central/Gilbert East,Phoenix,85213,21,50,70.42
+East,Branch 9 - Chandler/Gilbert South,Phoenix,85226,21,82,79.61
+East,Branch 8 - Tempe/Chandler West,Phoenix,85282,20,85,80.95
+East,Branch 8 - Tempe/Chandler West,Phoenix,85284,19,92,82.88
+East,Branch 11 - Mesa East/Pinal Outliers,Phoenix,85142,17,66,79.52
+East,Branch 8 - Tempe/Chandler West,Phoenix,85224,17,67,79.76
+East,Branch 9 - Chandler/Gilbert South,Phoenix,85233,16,53,76.81
+East,Branch 10 - Mesa Central/Gilbert East,Phoenix,85212,15,50,76.92
+East,Branch 8 - Tempe/Chandler West,Phoenix,85044,13,66,83.54
+East,Branch 10 - Mesa Central/Gilbert East,Phoenix,85203,12,39,76.47
+East,Branch 9 - Chandler/Gilbert South,Phoenix,85225,12,69,85.19
+East,Branch 10 - Mesa Central/Gilbert East,Phoenix,85297,12,47,79.66
+East,Branch 10 - Mesa Central/Gilbert East,Phoenix,85209,11,42,79.25
+East,Branch 8 - Tempe/Chandler West,Phoenix,85202,9,30,76.92
+East,Branch 10 - Mesa Central/Gilbert East,Phoenix,85205,9,30,76.92
+East,Branch 10 - Mesa Central/Gilbert East,Phoenix,85298,9,45,83.33
+East,Branch 11 - Mesa East/Pinal Outliers,Phoenix,85140,8,19,70.37
+East,Branch 10 - Mesa Central/Gilbert East,Phoenix,85210,7,38,84.44
+East,Branch 10 - Mesa Central/Gilbert East,Phoenix,85215,7,29,80.56
+East,Branch 8 - Tempe/Chandler West,Phoenix,85281,7,16,69.57
+East,Branch 8 - Tempe/Chandler West,Phoenix,85045,5,31,86.11
+East,Branch 10 - Mesa Central/Gilbert East,Phoenix,85204,5,19,79.17
+East,Branch 11 - Mesa East/Pinal Outliers,Phoenix,85206,5,8,61.54
+East,Branch 8 - Tempe/Chandler West,Phoenix,85201,4,22,84.62
+East,Branch 11 - Mesa East/Pinal Outliers,Phoenix,85120,3,2,40.0
+East,Branch 11 - Mesa East/Pinal Outliers,Phoenix,85118,2,18,90.0
+East,Branch 11 - Mesa East/Pinal Outliers,Phoenix,85119,2,16,88.89
+East,Branch 11 - Mesa East/Pinal Outliers,Phoenix,85208,1,29,96.67
+East,"Tucson Peripheral (Casa Grande, Maricopa, etc.)",Tucson-Unassigned,85122,92,330,78.2
+East,"Tucson Peripheral (Casa Grande, Maricopa, etc.)",Tucson-Unassigned,85123,10,33,76.74
+East,"Tucson Peripheral (Casa Grande, Maricopa, etc.)",Tucson-Unassigned,85128,12,37,75.51
+East,"Tucson Peripheral (Casa Grande, Maricopa, etc.)",Tucson-Unassigned,85131,7,9,56.25
+East,"Tucson Peripheral (Casa Grande, Maricopa, etc.)",Tucson-Unassigned,85132,2,21,91.3
+East,"Tucson Peripheral (Casa Grande, Maricopa, etc.)",Tucson-Unassigned,85138,12,74,86.05
+East,"Tucson Peripheral (Casa Grande, Maricopa, etc.)",Tucson-Unassigned,85139,6,13,68.42
+East,"Tucson Peripheral (Casa Grande, Maricopa, etc.)",Tucson-Unassigned,85143,7,51,87.93
+East,"Tucson Peripheral (Casa Grande, Maricopa, etc.)",Tucson-Unassigned,85143-6121,0,1,100.0
+East,"Tucson Peripheral (Casa Grande, Maricopa, etc.)",Tucson-Unassigned,85193,4,6,60.0
+East,"Tucson Peripheral (Casa Grande, Maricopa, etc.)",Tucson-Unassigned,85194,11,40,78.43

@@ -46,6 +46,7 @@ import { LoadingState } from './loading-state'
 import { EmptyState } from './empty-state'
 import { MiamiFilterBar } from './miami-filter-bar'
 import { FilterProvider } from '@/contexts/filter-context'
+import { TerritoryProvider } from '@/contexts/territory-context'
 
 type ViewMode = 'territory' | 'kmlScenario' | 'assignmentTool' | 'miamiFinal' | 'miami10pct' | 'miamiZipOptimized' | 'miamiZipOptimized2' | 'radicalReroute' | 'miamiCommercialRoutes' | 'miamiFutureCommercialRoutes' | 'density' | 'market' | 'revenue' | 'employees' | 'commercial' | 'routes' | 'lookup' | 'ancillarySales' | 'jaxRevenue' | 'jaxCommercial' | 'jaxRoutes' | 'locRevenue' | 'locCommercial' | 'locRoutes'
 type DensityMode = 'active' | 'terminated' | 'both' | 'lifetime'
@@ -222,16 +223,17 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
   const totalZipCodes = filteredData?.length || 0
 
   return (
-    <FilterProvider
-      value={{
-        areaFilter,
-        setAreaFilter,
-        densityMode,
-        setDensityMode,
-        accountType,
-        setAccountType,
-      }}
-    >
+    <TerritoryProvider initialLocation={location}>
+      <FilterProvider
+        value={{
+          areaFilter,
+          setAreaFilter,
+          densityMode,
+          setDensityMode,
+          accountType,
+          setAccountType,
+        }}
+      >
       <GoogleMapsProvider>
         <div className="space-y-6">
       {/* View Mode Toggle */}
@@ -1381,5 +1383,6 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
         </div>
       </GoogleMapsProvider>
     </FilterProvider>
+    </TerritoryProvider>
   )
 }

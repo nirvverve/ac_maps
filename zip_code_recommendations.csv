@@ -1,0 +1,22 @@
+ZIP_Code,Total_Accounts,Current_Active,Terminated,Recommended_Branch_ID,Recommended_Branch_Name,Reasoning
+85254,277.0,56.0,221.0,1,North Scottsdale,North Scottsdale adjacent area
+85028,156.0,23.0,133.0,3,North Phoenix I-17,North Phoenix near I-17 corridor
+85032,131.0,13.0,118.0,3,North Phoenix I-17,North Phoenix I-17 corridor
+85248,105.0,22.0,83.0,9,Chandler / Gilbert South,South Chandler area
+85257,95.0,14.0,81.0,2,Central Scottsdale / PV,Central Scottsdale adjacent
+85212,82.0,15.0,67.0,10,Mesa Central / Gilbert East,Central Mesa area
+85388,82.0,13.0,69.0,5,Peoria / Surprise North,Surprise/El Mirage area
+85024,77.0,10.0,67.0,3,North Phoenix I-17,North Central Phoenix near I-17
+85353,69.0,5.0,64.0,5,Peoria / Surprise North,Surprise/Sun City area
+85268,59.0,8.0,51.0,1,North Scottsdale,North Scottsdale/Fountain Hills area
+85037,56.0,6.0,50.0,6,Glendale / West PHX,West Phoenix area
+85045,49.0,5.0,44.0,8,Tempe / Chandler West,Tempe/Chandler area
+85355,32.0,8.0,24.0,7,Southwest Valley / Laveen,Southwest/Goodyear area
+85335,25.0,3.0,22.0,7,Southwest Valley / Laveen,Southwest Valley area
+85387,20.0,2.0,18.0,7,Southwest Valley / Laveen,Buckeye/Southwest area
+85307,16.0,0.0,16.0,6,Glendale / West PHX,West Glendale area
+85378,10.0,2.0,8.0,5,Peoria / Surprise North,North Peoria/Sun City area
+85256,2.0,1.0,1.0,2,Central Scottsdale / PV,Central Scottsdale/PV area
+85236,1.0,0.0,1.0,9,Chandler / Gilbert South,South Chandler area
+85363,1.0,0.0,1.0,NEEDS_REVIEW,NEEDS_REVIEW,Requires geographic review
+98032,1.0,0.0,1.0,NEEDS_REVIEW,NEEDS_REVIEW,Requires geographic review

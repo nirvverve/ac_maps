@@ -1,0 +1,1406 @@
+[
+  {
+    "ZIP": "85208",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 330.0,
+    "Total_Monthly_Revenue": 330.0,
+    "Account_Count": 1,
+    "Avg_Yearly_Price": 3960.0,
+    "Total_Yearly_Revenue": 3960.0
+  },
+  {
+    "ZIP": "85248",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 233.16,
+    "Total_Monthly_Revenue": 4896.38,
+    "Account_Count": 21,
+    "Avg_Yearly_Price": 2797.93,
+    "Total_Yearly_Revenue": 58756.6
+  },
+  {
+    "ZIP": "85326",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 199.14,
+    "Total_Monthly_Revenue": 995.71,
+    "Account_Count": 5,
+    "Avg_Yearly_Price": 2389.71,
+    "Total_Yearly_Revenue": 11948.56
+  },
+  {
+    "ZIP": "85206",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 197.0,
+    "Total_Monthly_Revenue": 984.99,
+    "Account_Count": 5,
+    "Avg_Yearly_Price": 2363.97,
+    "Total_Yearly_Revenue": 11819.84
+  },
+  {
+    "ZIP": "85051",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 188.34,
+    "Total_Monthly_Revenue": 1318.35,
+    "Account_Count": 7,
+    "Avg_Yearly_Price": 2260.02,
+    "Total_Yearly_Revenue": 15820.16
+  },
+  {
+    "ZIP": "85378",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 187.36,
+    "Total_Monthly_Revenue": 374.72,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 2248.34,
+    "Total_Yearly_Revenue": 4496.68
+  },
+  {
+    "ZIP": "85007",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 186.95,
+    "Total_Monthly_Revenue": 560.85,
+    "Account_Count": 3,
+    "Avg_Yearly_Price": 2243.4,
+    "Total_Yearly_Revenue": 6730.2
+  },
+  {
+    "ZIP": "85338",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 186.81,
+    "Total_Monthly_Revenue": 2802.08,
+    "Account_Count": 15,
+    "Avg_Yearly_Price": 2241.66,
+    "Total_Yearly_Revenue": 33624.96
+  },
+  {
+    "ZIP": "85298",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 186.25,
+    "Total_Monthly_Revenue": 1676.26,
+    "Account_Count": 9,
+    "Avg_Yearly_Price": 2235.01,
+    "Total_Yearly_Revenue": 20115.12
+  },
+  {
+    "ZIP": "85756",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 184.0,
+    "Total_Monthly_Revenue": 552.01,
+    "Account_Count": 3,
+    "Avg_Yearly_Price": 2208.03,
+    "Total_Yearly_Revenue": 6624.09
+  },
+  {
+    "ZIP": "85706",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 184.0,
+    "Total_Monthly_Revenue": 184.0,
+    "Account_Count": 1,
+    "Avg_Yearly_Price": 2208.03,
+    "Total_Yearly_Revenue": 2208.03
+  },
+  {
+    "ZIP": "85024",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 182.75,
+    "Total_Monthly_Revenue": 1827.49,
+    "Account_Count": 10,
+    "Avg_Yearly_Price": 2192.99,
+    "Total_Yearly_Revenue": 21929.92
+  },
+  {
+    "ZIP": "85746",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 181.32,
+    "Total_Monthly_Revenue": 362.65,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 2175.88,
+    "Total_Yearly_Revenue": 4351.75
+  },
+  {
+    "ZIP": "85255",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 181.18,
+    "Total_Monthly_Revenue": 6884.68,
+    "Account_Count": 38,
+    "Avg_Yearly_Price": 2174.11,
+    "Total_Yearly_Revenue": 82616.12
+  },
+  {
+    "ZIP": "85029",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 180.4,
+    "Total_Monthly_Revenue": 2706.01,
+    "Account_Count": 15,
+    "Avg_Yearly_Price": 2164.81,
+    "Total_Yearly_Revenue": 32472.16
+  },
+  {
+    "ZIP": "85641",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 179.36,
+    "Total_Monthly_Revenue": 358.73,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 2152.36,
+    "Total_Yearly_Revenue": 4304.71
+  },
+  {
+    "ZIP": "85140",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 178.02,
+    "Total_Monthly_Revenue": 1424.14,
+    "Account_Count": 8,
+    "Avg_Yearly_Price": 2136.22,
+    "Total_Yearly_Revenue": 17089.72
+  },
+  {
+    "ZIP": "85302",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 177.91,
+    "Total_Monthly_Revenue": 1601.18,
+    "Account_Count": 9,
+    "Avg_Yearly_Price": 2134.91,
+    "Total_Yearly_Revenue": 19214.16
+  },
+  {
+    "ZIP": "85021",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 177.37,
+    "Total_Monthly_Revenue": 3370.08,
+    "Account_Count": 19,
+    "Avg_Yearly_Price": 2128.47,
+    "Total_Yearly_Revenue": 40441.0
+  },
+  {
+    "ZIP": "85251",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 177.11,
+    "Total_Monthly_Revenue": 1239.74,
+    "Account_Count": 7,
+    "Avg_Yearly_Price": 2125.26,
+    "Total_Yearly_Revenue": 14876.84
+  },
+  {
+    "ZIP": "85331",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 177.05,
+    "Total_Monthly_Revenue": 3363.89,
+    "Account_Count": 19,
+    "Avg_Yearly_Price": 2124.56,
+    "Total_Yearly_Revenue": 40366.68
+  },
+  {
+    "ZIP": "85749",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 176.03,
+    "Total_Monthly_Revenue": 528.08,
+    "Account_Count": 3,
+    "Avg_Yearly_Price": 2112.33,
+    "Total_Yearly_Revenue": 6337.0
+  },
+  {
+    "ZIP": "85201",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 175.99,
+    "Total_Monthly_Revenue": 703.95,
+    "Account_Count": 4,
+    "Avg_Yearly_Price": 2111.84,
+    "Total_Yearly_Revenue": 8447.35
+  },
+  {
+    "ZIP": "85054",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 175.0,
+    "Total_Monthly_Revenue": 350.0,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 2100.0,
+    "Total_Yearly_Revenue": 4200.0
+  },
+  {
+    "ZIP": "85747",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 174.5,
+    "Total_Monthly_Revenue": 349.0,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 2094.02,
+    "Total_Yearly_Revenue": 4188.03
+  },
+  {
+    "ZIP": "85207",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 174.42,
+    "Total_Monthly_Revenue": 5581.29,
+    "Account_Count": 32,
+    "Avg_Yearly_Price": 2092.98,
+    "Total_Yearly_Revenue": 66975.49
+  },
+  {
+    "ZIP": "85710",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 174.11,
+    "Total_Monthly_Revenue": 348.22,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 2089.3,
+    "Total_Yearly_Revenue": 4178.6
+  },
+  {
+    "ZIP": "85037",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 173.92,
+    "Total_Monthly_Revenue": 1043.5,
+    "Account_Count": 6,
+    "Avg_Yearly_Price": 2086.99,
+    "Total_Yearly_Revenue": 12521.96
+  },
+  {
+    "ZIP": "85268",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 173.6,
+    "Total_Monthly_Revenue": 1215.18,
+    "Account_Count": 7,
+    "Avg_Yearly_Price": 2083.17,
+    "Total_Yearly_Revenue": 14582.2
+  },
+  {
+    "ZIP": "85225",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 172.88,
+    "Total_Monthly_Revenue": 2074.61,
+    "Account_Count": 12,
+    "Avg_Yearly_Price": 2074.61,
+    "Total_Yearly_Revenue": 24895.28
+  },
+  {
+    "ZIP": "85210",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 172.61,
+    "Total_Monthly_Revenue": 1208.3,
+    "Account_Count": 7,
+    "Avg_Yearly_Price": 2071.37,
+    "Total_Yearly_Revenue": 14499.56
+  },
+  {
+    "ZIP": "85194",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 171.91,
+    "Total_Monthly_Revenue": 1719.1,
+    "Account_Count": 10,
+    "Avg_Yearly_Price": 2062.92,
+    "Total_Yearly_Revenue": 20629.24
+  },
+  {
+    "ZIP": "85254",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 171.48,
+    "Total_Monthly_Revenue": 9431.41,
+    "Account_Count": 55,
+    "Avg_Yearly_Price": 2057.76,
+    "Total_Yearly_Revenue": 113176.94
+  },
+  {
+    "ZIP": "85259",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 171.47,
+    "Total_Monthly_Revenue": 3600.97,
+    "Account_Count": 21,
+    "Avg_Yearly_Price": 2057.7,
+    "Total_Yearly_Revenue": 43211.62
+  },
+  {
+    "ZIP": "85296",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 171.45,
+    "Total_Monthly_Revenue": 3771.8,
+    "Account_Count": 22,
+    "Avg_Yearly_Price": 2057.34,
+    "Total_Yearly_Revenue": 45261.58
+  },
+  {
+    "ZIP": "85373",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 171.4,
+    "Total_Monthly_Revenue": 857.0,
+    "Account_Count": 5,
+    "Avg_Yearly_Price": 2056.81,
+    "Total_Yearly_Revenue": 10284.04
+  },
+  {
+    "ZIP": "85023",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 171.36,
+    "Total_Monthly_Revenue": 1884.98,
+    "Account_Count": 11,
+    "Avg_Yearly_Price": 2056.34,
+    "Total_Yearly_Revenue": 22619.7
+  },
+  {
+    "ZIP": "85260",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 170.99,
+    "Total_Monthly_Revenue": 3590.82,
+    "Account_Count": 21,
+    "Avg_Yearly_Price": 2051.9,
+    "Total_Yearly_Revenue": 43089.84
+  },
+  {
+    "ZIP": "85755",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 170.97,
+    "Total_Monthly_Revenue": 341.94,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 2051.62,
+    "Total_Yearly_Revenue": 4103.24
+  },
+  {
+    "ZIP": "85283",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 170.96,
+    "Total_Monthly_Revenue": 3761.1,
+    "Account_Count": 22,
+    "Avg_Yearly_Price": 2051.51,
+    "Total_Yearly_Revenue": 45133.24
+  },
+  {
+    "ZIP": "85027",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 170.92,
+    "Total_Monthly_Revenue": 1367.33,
+    "Account_Count": 8,
+    "Avg_Yearly_Price": 2050.99,
+    "Total_Yearly_Revenue": 16407.92
+  },
+  {
+    "ZIP": "85730",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 170.87,
+    "Total_Monthly_Revenue": 683.48,
+    "Account_Count": 4,
+    "Avg_Yearly_Price": 2050.43,
+    "Total_Yearly_Revenue": 8201.71
+  },
+  {
+    "ZIP": "85006",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 170.87,
+    "Total_Monthly_Revenue": 683.5,
+    "Account_Count": 4,
+    "Avg_Yearly_Price": 2050.49,
+    "Total_Yearly_Revenue": 8201.96
+  },
+  {
+    "ZIP": "85303",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 170.61,
+    "Total_Monthly_Revenue": 1194.29,
+    "Account_Count": 7,
+    "Avg_Yearly_Price": 2047.35,
+    "Total_Yearly_Revenue": 14331.44
+  },
+  {
+    "ZIP": "85138",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 170.46,
+    "Total_Monthly_Revenue": 2045.57,
+    "Account_Count": 12,
+    "Avg_Yearly_Price": 2045.57,
+    "Total_Yearly_Revenue": 24546.83
+  },
+  {
+    "ZIP": "85234",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 170.34,
+    "Total_Monthly_Revenue": 3577.2,
+    "Account_Count": 21,
+    "Avg_Yearly_Price": 2044.11,
+    "Total_Yearly_Revenue": 42926.4
+  },
+  {
+    "ZIP": "85658",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 170.08,
+    "Total_Monthly_Revenue": 680.33,
+    "Account_Count": 4,
+    "Avg_Yearly_Price": 2040.99,
+    "Total_Yearly_Revenue": 8163.96
+  },
+  {
+    "ZIP": "85750",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 170.01,
+    "Total_Monthly_Revenue": 1530.07,
+    "Account_Count": 9,
+    "Avg_Yearly_Price": 2040.09,
+    "Total_Yearly_Revenue": 18360.84
+  },
+  {
+    "ZIP": "85215",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 170.01,
+    "Total_Monthly_Revenue": 1190.07,
+    "Account_Count": 7,
+    "Avg_Yearly_Price": 2040.13,
+    "Total_Yearly_Revenue": 14280.88
+  },
+  {
+    "ZIP": "85304",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 169.86,
+    "Total_Monthly_Revenue": 2717.83,
+    "Account_Count": 16,
+    "Avg_Yearly_Price": 2038.37,
+    "Total_Yearly_Revenue": 32613.96
+  },
+  {
+    "ZIP": "85712",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 169.86,
+    "Total_Monthly_Revenue": 339.72,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 2038.34,
+    "Total_Yearly_Revenue": 4076.68
+  },
+  {
+    "ZIP": "85122",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 169.82,
+    "Total_Monthly_Revenue": 14774.73,
+    "Account_Count": 87,
+    "Avg_Yearly_Price": 2037.89,
+    "Total_Yearly_Revenue": 177296.77
+  },
+  {
+    "ZIP": "85042",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 169.78,
+    "Total_Monthly_Revenue": 4414.17,
+    "Account_Count": 26,
+    "Avg_Yearly_Price": 2037.31,
+    "Total_Yearly_Revenue": 52969.99
+  },
+  {
+    "ZIP": "85015",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 169.75,
+    "Total_Monthly_Revenue": 1527.75,
+    "Account_Count": 9,
+    "Avg_Yearly_Price": 2037.01,
+    "Total_Yearly_Revenue": 18333.05
+  },
+  {
+    "ZIP": "85704",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 169.58,
+    "Total_Monthly_Revenue": 508.74,
+    "Account_Count": 3,
+    "Avg_Yearly_Price": 2034.97,
+    "Total_Yearly_Revenue": 6104.92
+  },
+  {
+    "ZIP": "85020",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 169.47,
+    "Total_Monthly_Revenue": 2880.92,
+    "Account_Count": 17,
+    "Avg_Yearly_Price": 2033.59,
+    "Total_Yearly_Revenue": 34571.01
+  },
+  {
+    "ZIP": "85142-6263",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 169.37,
+    "Total_Monthly_Revenue": 169.37,
+    "Account_Count": 1,
+    "Avg_Yearly_Price": 2032.48,
+    "Total_Yearly_Revenue": 2032.48
+  },
+  {
+    "ZIP": "85233",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 169.37,
+    "Total_Monthly_Revenue": 2540.52,
+    "Account_Count": 15,
+    "Avg_Yearly_Price": 2032.42,
+    "Total_Yearly_Revenue": 30486.24
+  },
+  {
+    "ZIP": "85119",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 169.36,
+    "Total_Monthly_Revenue": 338.72,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 2032.34,
+    "Total_Yearly_Revenue": 4064.68
+  },
+  {
+    "ZIP": "85050",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 169.29,
+    "Total_Monthly_Revenue": 3047.29,
+    "Account_Count": 18,
+    "Avg_Yearly_Price": 2031.53,
+    "Total_Yearly_Revenue": 36567.46
+  },
+  {
+    "ZIP": "85286",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 169.25,
+    "Total_Monthly_Revenue": 4061.9,
+    "Account_Count": 24,
+    "Avg_Yearly_Price": 2030.95,
+    "Total_Yearly_Revenue": 48742.8
+  },
+  {
+    "ZIP": "85718",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 168.82,
+    "Total_Monthly_Revenue": 1012.9,
+    "Account_Count": 6,
+    "Avg_Yearly_Price": 2025.81,
+    "Total_Yearly_Revenue": 12154.84
+  },
+  {
+    "ZIP": "85308",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 168.78,
+    "Total_Monthly_Revenue": 6582.39,
+    "Account_Count": 39,
+    "Avg_Yearly_Price": 2025.35,
+    "Total_Yearly_Revenue": 78988.72
+  },
+  {
+    "ZIP": "85310",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 168.71,
+    "Total_Monthly_Revenue": 2024.52,
+    "Account_Count": 12,
+    "Avg_Yearly_Price": 2024.52,
+    "Total_Yearly_Revenue": 24294.28
+  },
+  {
+    "ZIP": "85028",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 168.65,
+    "Total_Monthly_Revenue": 3372.97,
+    "Account_Count": 20,
+    "Avg_Yearly_Price": 2023.78,
+    "Total_Yearly_Revenue": 40475.6
+  },
+  {
+    "ZIP": "85392",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 168.58,
+    "Total_Monthly_Revenue": 1854.39,
+    "Account_Count": 11,
+    "Avg_Yearly_Price": 2022.97,
+    "Total_Yearly_Revenue": 22252.66
+  },
+  {
+    "ZIP": "85131",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 168.48,
+    "Total_Monthly_Revenue": 1010.88,
+    "Account_Count": 6,
+    "Avg_Yearly_Price": 2021.77,
+    "Total_Yearly_Revenue": 12130.6
+  },
+  {
+    "ZIP": "85142",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 167.69,
+    "Total_Monthly_Revenue": 2850.8,
+    "Account_Count": 17,
+    "Avg_Yearly_Price": 2012.33,
+    "Total_Yearly_Revenue": 34209.6
+  },
+  {
+    "ZIP": "85022",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 167.61,
+    "Total_Monthly_Revenue": 3519.9,
+    "Account_Count": 21,
+    "Avg_Yearly_Price": 2011.37,
+    "Total_Yearly_Revenue": 42238.76
+  },
+  {
+    "ZIP": "85226",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 167.5,
+    "Total_Monthly_Revenue": 3182.46,
+    "Account_Count": 19,
+    "Avg_Yearly_Price": 2009.97,
+    "Total_Yearly_Revenue": 38189.48
+  },
+  {
+    "ZIP": "85203",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 167.49,
+    "Total_Monthly_Revenue": 1674.88,
+    "Account_Count": 10,
+    "Avg_Yearly_Price": 2009.86,
+    "Total_Yearly_Revenue": 20098.57
+  },
+  {
+    "ZIP": "85085",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 167.15,
+    "Total_Monthly_Revenue": 2340.1,
+    "Account_Count": 14,
+    "Avg_Yearly_Price": 2005.8,
+    "Total_Yearly_Revenue": 28081.22
+  },
+  {
+    "ZIP": "85741",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 167.1,
+    "Total_Monthly_Revenue": 1169.7,
+    "Account_Count": 7,
+    "Avg_Yearly_Price": 2005.21,
+    "Total_Yearly_Revenue": 14036.44
+  },
+  {
+    "ZIP": "85128",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 167.09,
+    "Total_Monthly_Revenue": 1837.96,
+    "Account_Count": 11,
+    "Avg_Yearly_Price": 2005.05,
+    "Total_Yearly_Revenue": 22055.53
+  },
+  {
+    "ZIP": "85757",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 166.98,
+    "Total_Monthly_Revenue": 667.92,
+    "Account_Count": 4,
+    "Avg_Yearly_Price": 2003.75,
+    "Total_Yearly_Revenue": 8015.0
+  },
+  {
+    "ZIP": "85257",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 166.84,
+    "Total_Monthly_Revenue": 2335.73,
+    "Account_Count": 14,
+    "Avg_Yearly_Price": 2002.05,
+    "Total_Yearly_Revenue": 28028.72
+  },
+  {
+    "ZIP": "85374",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 166.6,
+    "Total_Monthly_Revenue": 666.39,
+    "Account_Count": 4,
+    "Avg_Yearly_Price": 1999.17,
+    "Total_Yearly_Revenue": 7996.68
+  },
+  {
+    "ZIP": "85205",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 166.54,
+    "Total_Monthly_Revenue": 1498.9,
+    "Account_Count": 9,
+    "Avg_Yearly_Price": 1998.53,
+    "Total_Yearly_Revenue": 17986.8
+  },
+  {
+    "ZIP": "85355",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 166.51,
+    "Total_Monthly_Revenue": 1332.1,
+    "Account_Count": 8,
+    "Avg_Yearly_Price": 1998.16,
+    "Total_Yearly_Revenue": 15985.24
+  },
+  {
+    "ZIP": "85737",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 166.49,
+    "Total_Monthly_Revenue": 499.47,
+    "Account_Count": 3,
+    "Avg_Yearly_Price": 1997.89,
+    "Total_Yearly_Revenue": 5993.68
+  },
+  {
+    "ZIP": "85383",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 166.35,
+    "Total_Monthly_Revenue": 3493.27,
+    "Account_Count": 21,
+    "Avg_Yearly_Price": 1996.16,
+    "Total_Yearly_Revenue": 41919.28
+  },
+  {
+    "ZIP": "85132",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 166.33,
+    "Total_Monthly_Revenue": 332.67,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 1996.0,
+    "Total_Yearly_Revenue": 3992.0
+  },
+  {
+    "ZIP": "85041",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 166.29,
+    "Total_Monthly_Revenue": 2826.95,
+    "Account_Count": 17,
+    "Avg_Yearly_Price": 1995.49,
+    "Total_Yearly_Revenue": 33923.4
+  },
+  {
+    "ZIP": "85033",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 166.23,
+    "Total_Monthly_Revenue": 166.23,
+    "Account_Count": 1,
+    "Avg_Yearly_Price": 1994.78,
+    "Total_Yearly_Revenue": 1994.78
+  },
+  {
+    "ZIP": "85086",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 166.23,
+    "Total_Monthly_Revenue": 2160.94,
+    "Account_Count": 13,
+    "Avg_Yearly_Price": 1994.71,
+    "Total_Yearly_Revenue": 25931.28
+  },
+  {
+    "ZIP": "85012",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 166.21,
+    "Total_Monthly_Revenue": 997.27,
+    "Account_Count": 6,
+    "Avg_Yearly_Price": 1994.54,
+    "Total_Yearly_Revenue": 11967.24
+  },
+  {
+    "ZIP": "85381",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 165.94,
+    "Total_Monthly_Revenue": 1493.45,
+    "Account_Count": 9,
+    "Avg_Yearly_Price": 1991.26,
+    "Total_Yearly_Revenue": 17921.36
+  },
+  {
+    "ZIP": "85396",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 165.83,
+    "Total_Monthly_Revenue": 1989.94,
+    "Account_Count": 12,
+    "Avg_Yearly_Price": 1989.94,
+    "Total_Yearly_Revenue": 23879.24
+  },
+  {
+    "ZIP": "85297",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 165.76,
+    "Total_Monthly_Revenue": 1823.34,
+    "Account_Count": 11,
+    "Avg_Yearly_Price": 1989.1,
+    "Total_Yearly_Revenue": 21880.09
+  },
+  {
+    "ZIP": "85083",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 165.74,
+    "Total_Monthly_Revenue": 994.44,
+    "Account_Count": 6,
+    "Avg_Yearly_Price": 1988.87,
+    "Total_Yearly_Revenue": 11933.24
+  },
+  {
+    "ZIP": "85048",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 165.52,
+    "Total_Monthly_Revenue": 4469.05,
+    "Account_Count": 27,
+    "Avg_Yearly_Price": 1986.24,
+    "Total_Yearly_Revenue": 53628.6
+  },
+  {
+    "ZIP": "85008",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 165.14,
+    "Total_Monthly_Revenue": 660.56,
+    "Account_Count": 4,
+    "Avg_Yearly_Price": 1981.69,
+    "Total_Yearly_Revenue": 7926.76
+  },
+  {
+    "ZIP": "85253",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 165.04,
+    "Total_Monthly_Revenue": 1155.29,
+    "Account_Count": 7,
+    "Avg_Yearly_Price": 1980.5,
+    "Total_Yearly_Revenue": 13863.48
+  },
+  {
+    "ZIP": "85017",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 165.0,
+    "Total_Monthly_Revenue": 165.0,
+    "Account_Count": 1,
+    "Avg_Yearly_Price": 1980.0,
+    "Total_Yearly_Revenue": 1980.0
+  },
+  {
+    "ZIP": "85256",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 165.0,
+    "Total_Monthly_Revenue": 165.0,
+    "Account_Count": 1,
+    "Avg_Yearly_Price": 1980.0,
+    "Total_Yearly_Revenue": 1980.0
+  },
+  {
+    "ZIP": "85351",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 165.0,
+    "Total_Monthly_Revenue": 165.0,
+    "Account_Count": 1,
+    "Avg_Yearly_Price": 1980.0,
+    "Total_Yearly_Revenue": 1980.0
+  },
+  {
+    "ZIP": "85043",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 165.0,
+    "Total_Monthly_Revenue": 495.0,
+    "Account_Count": 3,
+    "Avg_Yearly_Price": 1980.0,
+    "Total_Yearly_Revenue": 5940.0
+  },
+  {
+    "ZIP": "85705",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 165.0,
+    "Total_Monthly_Revenue": 165.0,
+    "Account_Count": 1,
+    "Avg_Yearly_Price": 1980.0,
+    "Total_Yearly_Revenue": 1980.0
+  },
+  {
+    "ZIP": "85120",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 165.0,
+    "Total_Monthly_Revenue": 495.0,
+    "Account_Count": 3,
+    "Avg_Yearly_Price": 1980.0,
+    "Total_Yearly_Revenue": 5940.0
+  },
+  {
+    "ZIP": "85282",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 164.97,
+    "Total_Monthly_Revenue": 3299.48,
+    "Account_Count": 20,
+    "Avg_Yearly_Price": 1979.69,
+    "Total_Yearly_Revenue": 39593.76
+  },
+  {
+    "ZIP": "85388",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 164.88,
+    "Total_Monthly_Revenue": 1813.63,
+    "Account_Count": 11,
+    "Avg_Yearly_Price": 1978.51,
+    "Total_Yearly_Revenue": 21763.6
+  },
+  {
+    "ZIP": "85031",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 164.72,
+    "Total_Monthly_Revenue": 164.72,
+    "Account_Count": 1,
+    "Avg_Yearly_Price": 1976.68,
+    "Total_Yearly_Revenue": 1976.68
+  },
+  {
+    "ZIP": "85003",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 164.7,
+    "Total_Monthly_Revenue": 988.2,
+    "Account_Count": 6,
+    "Avg_Yearly_Price": 1976.39,
+    "Total_Yearly_Revenue": 11858.36
+  },
+  {
+    "ZIP": "85340",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 164.65,
+    "Total_Monthly_Revenue": 2140.45,
+    "Account_Count": 13,
+    "Avg_Yearly_Price": 1975.8,
+    "Total_Yearly_Revenue": 25685.37
+  },
+  {
+    "ZIP": "85339",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 164.56,
+    "Total_Monthly_Revenue": 4936.66,
+    "Account_Count": 30,
+    "Avg_Yearly_Price": 1974.66,
+    "Total_Yearly_Revenue": 59239.89
+  },
+  {
+    "ZIP": "85379",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 164.46,
+    "Total_Monthly_Revenue": 1644.58,
+    "Account_Count": 10,
+    "Avg_Yearly_Price": 1973.49,
+    "Total_Yearly_Revenue": 19734.92
+  },
+  {
+    "ZIP": "85345",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 164.26,
+    "Total_Monthly_Revenue": 2299.66,
+    "Account_Count": 14,
+    "Avg_Yearly_Price": 1971.14,
+    "Total_Yearly_Revenue": 27595.96
+  },
+  {
+    "ZIP": "85014",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 164.25,
+    "Total_Monthly_Revenue": 1149.73,
+    "Account_Count": 7,
+    "Avg_Yearly_Price": 1970.96,
+    "Total_Yearly_Revenue": 13796.72
+  },
+  {
+    "ZIP": "85395",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 164.22,
+    "Total_Monthly_Revenue": 2134.9,
+    "Account_Count": 13,
+    "Avg_Yearly_Price": 1970.68,
+    "Total_Yearly_Revenue": 25618.8
+  },
+  {
+    "ZIP": "85284",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 164.01,
+    "Total_Monthly_Revenue": 3116.15,
+    "Account_Count": 19,
+    "Avg_Yearly_Price": 1968.1,
+    "Total_Yearly_Revenue": 37393.81
+  },
+  {
+    "ZIP": "85202",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 163.99,
+    "Total_Monthly_Revenue": 1475.89,
+    "Account_Count": 9,
+    "Avg_Yearly_Price": 1967.85,
+    "Total_Yearly_Revenue": 17710.68
+  },
+  {
+    "ZIP": "85305",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 163.92,
+    "Total_Monthly_Revenue": 819.61,
+    "Account_Count": 5,
+    "Avg_Yearly_Price": 1967.06,
+    "Total_Yearly_Revenue": 9835.32
+  },
+  {
+    "ZIP": "85209",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 163.83,
+    "Total_Monthly_Revenue": 1802.13,
+    "Account_Count": 11,
+    "Avg_Yearly_Price": 1965.96,
+    "Total_Yearly_Revenue": 21625.56
+  },
+  {
+    "ZIP": "85306",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 163.82,
+    "Total_Monthly_Revenue": 1146.77,
+    "Account_Count": 7,
+    "Avg_Yearly_Price": 1965.89,
+    "Total_Yearly_Revenue": 13761.2
+  },
+  {
+    "ZIP": "85249",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 163.72,
+    "Total_Monthly_Revenue": 5239.16,
+    "Account_Count": 32,
+    "Avg_Yearly_Price": 1964.68,
+    "Total_Yearly_Revenue": 62869.86
+  },
+  {
+    "ZIP": "85212",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 163.62,
+    "Total_Monthly_Revenue": 2290.63,
+    "Account_Count": 14,
+    "Avg_Yearly_Price": 1963.4,
+    "Total_Yearly_Revenue": 27487.55
+  },
+  {
+    "ZIP": "85295",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 163.6,
+    "Total_Monthly_Revenue": 3599.3,
+    "Account_Count": 22,
+    "Avg_Yearly_Price": 1963.25,
+    "Total_Yearly_Revenue": 43191.6
+  },
+  {
+    "ZIP": "85281",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 163.45,
+    "Total_Monthly_Revenue": 1144.13,
+    "Account_Count": 7,
+    "Avg_Yearly_Price": 1961.37,
+    "Total_Yearly_Revenue": 13729.6
+  },
+  {
+    "ZIP": "85013",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 163.43,
+    "Total_Monthly_Revenue": 817.14,
+    "Account_Count": 5,
+    "Avg_Yearly_Price": 1961.14,
+    "Total_Yearly_Revenue": 9805.72
+  },
+  {
+    "ZIP": "85224",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 163.39,
+    "Total_Monthly_Revenue": 2777.66,
+    "Account_Count": 17,
+    "Avg_Yearly_Price": 1960.7,
+    "Total_Yearly_Revenue": 33331.92
+  },
+  {
+    "ZIP": "85653",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 163.19,
+    "Total_Monthly_Revenue": 163.19,
+    "Account_Count": 1,
+    "Avg_Yearly_Price": 1958.32,
+    "Total_Yearly_Revenue": 1958.32
+  },
+  {
+    "ZIP": "85123",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 163.0,
+    "Total_Monthly_Revenue": 1466.99,
+    "Account_Count": 9,
+    "Avg_Yearly_Price": 1955.98,
+    "Total_Yearly_Revenue": 17603.84
+  },
+  {
+    "ZIP": "85044",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 162.9,
+    "Total_Monthly_Revenue": 2117.75,
+    "Account_Count": 13,
+    "Avg_Yearly_Price": 1954.85,
+    "Total_Yearly_Revenue": 25413.0
+  },
+  {
+    "ZIP": "85382",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 162.73,
+    "Total_Monthly_Revenue": 2278.27,
+    "Account_Count": 14,
+    "Avg_Yearly_Price": 1952.81,
+    "Total_Yearly_Revenue": 27339.28
+  },
+  {
+    "ZIP": "85143",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 162.26,
+    "Total_Monthly_Revenue": 1135.84,
+    "Account_Count": 7,
+    "Avg_Yearly_Price": 1947.16,
+    "Total_Yearly_Revenue": 13630.12
+  },
+  {
+    "ZIP": "85040",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 162.09,
+    "Total_Monthly_Revenue": 324.17,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 1945.04,
+    "Total_Yearly_Revenue": 3890.08
+  },
+  {
+    "ZIP": "85118",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 162.09,
+    "Total_Monthly_Revenue": 324.17,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 1945.04,
+    "Total_Yearly_Revenue": 3890.08
+  },
+  {
+    "ZIP": "85387",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 162.09,
+    "Total_Monthly_Revenue": 324.17,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 1945.04,
+    "Total_Yearly_Revenue": 3890.08
+  },
+  {
+    "ZIP": "85266",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 162.06,
+    "Total_Monthly_Revenue": 2268.91,
+    "Account_Count": 14,
+    "Avg_Yearly_Price": 1944.78,
+    "Total_Yearly_Revenue": 27226.86
+  },
+  {
+    "ZIP": "85018",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 162.03,
+    "Total_Monthly_Revenue": 4050.8,
+    "Account_Count": 25,
+    "Avg_Yearly_Price": 1944.38,
+    "Total_Yearly_Revenue": 48609.58
+  },
+  {
+    "ZIP": "85035",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 161.96,
+    "Total_Monthly_Revenue": 971.74,
+    "Account_Count": 6,
+    "Avg_Yearly_Price": 1943.49,
+    "Total_Yearly_Revenue": 11660.92
+  },
+  {
+    "ZIP": "85213",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 161.46,
+    "Total_Monthly_Revenue": 3390.59,
+    "Account_Count": 21,
+    "Avg_Yearly_Price": 1937.48,
+    "Total_Yearly_Revenue": 40687.12
+  },
+  {
+    "ZIP": "85301",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 161.35,
+    "Total_Monthly_Revenue": 806.74,
+    "Account_Count": 5,
+    "Avg_Yearly_Price": 1936.18,
+    "Total_Yearly_Revenue": 9680.92
+  },
+  {
+    "ZIP": "85335",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 161.12,
+    "Total_Monthly_Revenue": 483.35,
+    "Account_Count": 3,
+    "Avg_Yearly_Price": 1933.39,
+    "Total_Yearly_Revenue": 5800.16
+  },
+  {
+    "ZIP": "85087",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 161.11,
+    "Total_Monthly_Revenue": 483.33,
+    "Account_Count": 3,
+    "Avg_Yearly_Price": 1933.33,
+    "Total_Yearly_Revenue": 5800.0
+  },
+  {
+    "ZIP": "85204",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 160.89,
+    "Total_Monthly_Revenue": 804.47,
+    "Account_Count": 5,
+    "Avg_Yearly_Price": 1930.74,
+    "Total_Yearly_Revenue": 9653.68
+  },
+  {
+    "ZIP": "85258",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 160.39,
+    "Total_Monthly_Revenue": 2887.02,
+    "Account_Count": 18,
+    "Avg_Yearly_Price": 1924.68,
+    "Total_Yearly_Revenue": 34644.28
+  },
+  {
+    "ZIP": "85353",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 160.36,
+    "Total_Monthly_Revenue": 801.79,
+    "Account_Count": 5,
+    "Avg_Yearly_Price": 1924.3,
+    "Total_Yearly_Revenue": 9621.52
+  },
+  {
+    "ZIP": "85019",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 160.19,
+    "Total_Monthly_Revenue": 480.56,
+    "Account_Count": 3,
+    "Avg_Yearly_Price": 1922.25,
+    "Total_Yearly_Revenue": 5766.76
+  },
+  {
+    "ZIP": "85009",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 160.04,
+    "Total_Monthly_Revenue": 480.11,
+    "Account_Count": 3,
+    "Avg_Yearly_Price": 1920.45,
+    "Total_Yearly_Revenue": 5761.34
+  },
+  {
+    "ZIP": "85193",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 159.88,
+    "Total_Monthly_Revenue": 639.51,
+    "Account_Count": 4,
+    "Avg_Yearly_Price": 1918.52,
+    "Total_Yearly_Revenue": 7674.08
+  },
+  {
+    "ZIP": "85016",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 159.77,
+    "Total_Monthly_Revenue": 1437.96,
+    "Account_Count": 9,
+    "Avg_Yearly_Price": 1917.28,
+    "Total_Yearly_Revenue": 17255.48
+  },
+  {
+    "ZIP": "85053",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 159.2,
+    "Total_Monthly_Revenue": 2387.93,
+    "Account_Count": 15,
+    "Avg_Yearly_Price": 1910.34,
+    "Total_Yearly_Revenue": 28655.16
+  },
+  {
+    "ZIP": "85032",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 158.82,
+    "Total_Monthly_Revenue": 2064.62,
+    "Account_Count": 13,
+    "Avg_Yearly_Price": 1905.8,
+    "Total_Yearly_Revenue": 24775.4
+  },
+  {
+    "ZIP": "85045",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 158.41,
+    "Total_Monthly_Revenue": 792.07,
+    "Account_Count": 5,
+    "Avg_Yearly_Price": 1900.97,
+    "Total_Yearly_Revenue": 9504.84
+  },
+  {
+    "ZIP": "85323",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 155.79,
+    "Total_Monthly_Revenue": 1557.86,
+    "Account_Count": 10,
+    "Avg_Yearly_Price": 1869.43,
+    "Total_Yearly_Revenue": 18694.28
+  },
+  {
+    "ZIP": "85262",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 155.43,
+    "Total_Monthly_Revenue": 1709.74,
+    "Account_Count": 11,
+    "Avg_Yearly_Price": 1865.17,
+    "Total_Yearly_Revenue": 20516.89
+  },
+  {
+    "ZIP": "85745",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 154.36,
+    "Total_Monthly_Revenue": 308.72,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 1852.34,
+    "Total_Yearly_Revenue": 3704.68
+  },
+  {
+    "ZIP": "85375",
+    "Territory": "APS of Glendale",
+    "Avg_Monthly_Price": 154.02,
+    "Total_Monthly_Revenue": 154.02,
+    "Account_Count": 1,
+    "Avg_Yearly_Price": 1848.28,
+    "Total_Yearly_Revenue": 1848.28
+  },
+  {
+    "ZIP": "85739",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 153.33,
+    "Total_Monthly_Revenue": 460.0,
+    "Account_Count": 3,
+    "Avg_Yearly_Price": 1840.0,
+    "Total_Yearly_Revenue": 5520.0
+  },
+  {
+    "ZIP": "85743",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 152.99,
+    "Total_Monthly_Revenue": 152.99,
+    "Account_Count": 1,
+    "Avg_Yearly_Price": 1835.92,
+    "Total_Yearly_Revenue": 1835.92
+  },
+  {
+    "ZIP": "85139",
+    "Territory": "APS of Chandler",
+    "Avg_Monthly_Price": 151.91,
+    "Total_Monthly_Revenue": 911.49,
+    "Account_Count": 6,
+    "Avg_Yearly_Price": 1822.98,
+    "Total_Yearly_Revenue": 10937.85
+  },
+  {
+    "ZIP": "85250",
+    "Territory": "APS of Scottsdale",
+    "Avg_Monthly_Price": 151.76,
+    "Total_Monthly_Revenue": 1214.04,
+    "Account_Count": 8,
+    "Avg_Yearly_Price": 1821.06,
+    "Total_Yearly_Revenue": 14568.48
+  },
+  {
+    "ZIP": "85742",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 149.21,
+    "Total_Monthly_Revenue": 298.42,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 1790.54,
+    "Total_Yearly_Revenue": 3581.08
+  },
+  {
+    "ZIP": "85715",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 138.91,
+    "Total_Monthly_Revenue": 277.82,
+    "Account_Count": 2,
+    "Avg_Yearly_Price": 1666.94,
+    "Total_Yearly_Revenue": 3333.88
+  },
+  {
+    "ZIP": "85711",
+    "Territory": "APS of Tucson",
+    "Avg_Monthly_Price": 123.12,
+    "Total_Monthly_Revenue": 123.12,
+    "Account_Count": 1,
+    "Avg_Yearly_Price": 1477.48,
+    "Total_Yearly_Revenue": 1477.48
+  }
+]

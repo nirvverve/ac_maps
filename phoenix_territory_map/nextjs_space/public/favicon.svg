@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="pinGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1976D2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M128 20C89.3 20 58 51.3 58 90c0 52 70 126 70 126s70-74 70-126c0-38.7-31.3-70-70-70z" fill="url(#pinGrad)"/>
+  <circle cx="128" cy="90" r="45" fill="#fff"/>
+  <path d="M128 60c-16.5 0-30 13.5-30 30s13.5 30 30 30 30-13.5 30-30-13.5-30-30-30z" fill="#4CAF50"/>
+  <path d="M115 85l-8 8 8 8m18-16l8 8-8 8" stroke="#fff" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M110 90h26" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M128 75v30" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+</svg>

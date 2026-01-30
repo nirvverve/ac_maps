@@ -1,0 +1,28 @@
+{
+  "total_accounts": 232,
+  "total_active": 50,
+  "total_terminated": 182,
+  "overall_retention": 21.551724137931032,
+  "total_active_revenue": 96774.52,
+  "unassigned_accounts": 865,
+  "unassigned_active": 186,
+  "unassigned_terminated": 679,
+  "branches": [
+    {
+      "name": "Branch 1 - Tucson East & North (Foothills)",
+      "active": 27,
+      "terminated": 81,
+      "total": 108,
+      "retention_rate": 25.0,
+      "revenue": 52278.04
+    },
+    {
+      "name": "Branch 2 - Tucson West & Central (Urban & Growth)",
+      "active": 23,
+      "terminated": 101,
+      "total": 124,
+      "retention_rate": 18.548387096774192,
+      "revenue": 44496.48
+    }
+  ]
+}

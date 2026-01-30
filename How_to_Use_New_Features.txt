@@ -1,0 +1,196 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                   NEW MAP FEATURES - QUICK START GUIDE                     ║
+╔════════════════════════════════════════════════════════════════════════════╗
+
+🌐 APPLICATION URL: https://phoenixnewlocations.abacusai.app
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📍 FEATURE 1: ROUTES BY TECHNICIAN MAP
+
+Purpose: Evaluate which technicians need to be moved to align with new territories
+
+How to Access:
+1. Go to the map application
+2. Click the "Routes by Tech" button (pink/rose color with route icon)
+
+How to Use:
+┌─────────────────────────────────────────────────────────────────────────┐
+│ STEP 1: Select Territory                                                │
+│ ├─ Use "Territory" dropdown                                             │
+│ ├─ Options: All Territories, West, Central, East, Tucson                │
+│ └─ Filters all results to that territory                                │
+│                                                                          │
+│ STEP 2: Select Technician                                               │
+│ ├─ Use "Technician" dropdown (shows 33 technicians)                     │
+│ ├─ Account count shown next to each name                                │
+│ ├─ Map auto-centers on technician's route when selected                 │
+│ └─ Shows ALL customers assigned to that technician                      │
+│                                                                          │
+│ STEP 3: Filter by Day (Optional)                                        │
+│ ├─ Use "Day of Service" dropdown                                        │
+│ ├─ Options: All Days, Mon-Fri                                           │
+│ └─ Shows only customers serviced on selected day                        │
+│                                                                          │
+│ STEP 4: Explore the Map                                                 │
+│ ├─ Colored circles = Customer accounts                                  │
+│ │  └─ Blue (West), Green (Central), Orange (East), Pink (Tucson)       │
+│ ├─ Stars = Office locations                                             │
+│ │  └─ Red (2026), Orange (Future)                                       │
+│ └─ Click any circle for customer details                                │
+└─────────────────────────────────────────────────────────────────────────┘
+
+What You'll See:
+✓ Real-time stats: Total accounts, territories, ZIP codes
+✓ Territory boundaries overlaid on map
+✓ Current technician routes vs. new territory structure
+✓ Customer info: Name, account #, address, tech, days
+
+Example Use Cases:
+→ "Show me all of Mike Wall's customers"
+→ "Which technicians in East territory service on Fridays?"
+→ "How many of Ray Saltsman's accounts are in the new Central territory?"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 FEATURE 2: CUSTOMER LOOKUP TOOL
+
+Purpose: Instantly find any customer and see their territory assignment
+
+How to Access:
+1. Go to the map application
+2. Click the "Customer Lookup" button (cyan color with search icon)
+
+How to Use:
+┌─────────────────────────────────────────────────────────────────────────┐
+│ STEP 1: Search                                                           │
+│ ├─ Type in the search box (minimum 2 characters)                        │
+│ ├─ Searches: Customer name, Account number, Address                     │
+│ └─ Results appear in real-time                                          │
+│                                                                          │
+│ STEP 2: Browse Results                                                  │
+│ ├─ Left panel shows matching customers                                  │
+│ ├─ Shows up to 50 results                                               │
+│ ├─ Each result shows: Name, Account #, Territory badge                  │
+│ └─ Click any result to see details                                      │
+│                                                                          │
+│ STEP 3: View Details                                                    │
+│ ├─ Right panel shows complete customer information                      │
+│ ├─ Customer name and account number                                     │
+│ ├─ Full address (street, city, ZIP)                                     │
+│ ├─ Territory assignment with color-coded badge                          │
+│ └─ "View on Google Maps" button for directions                          │
+└─────────────────────────────────────────────────────────────────────────┘
+
+Search Examples:
+→ Search by name: "Linda Mahmoud"
+→ Search by account: "A-008725"
+→ Search by address: "4030 E La Cadena"
+→ Partial match: "Acacia" (finds all Acacia Properties accounts)
+
+Territory Badges:
+🟦 Blue Badge = APS of Glendale (West)
+🟩 Green Badge = APS of Scottsdale (Central)
+🟧 Orange Badge = APS of Chandler (East)
+🟪 Pink Badge = APS of Tucson
+🟣 Purple Badge = APS - Commercial
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 DATA COVERAGE
+
+Routes by Technician:
+├─ 1,671 customer routes geocoded
+├─ 33 active technicians tracked
+├─ Phoenix: 1,443 accounts
+├─ Tucson: 228 accounts
+└─ Service days: Monday through Friday
+
+Customer Lookup:
+├─ 1,773 active accounts searchable
+├─ All territories included
+├─ All branches: Glendale, Scottsdale, Chandler, Tucson, Commercial
+└─ 100% of active accounts included
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 TIPS & TRICKS
+
+Routes Map:
+• Select a territory first, then a technician for focused view
+• Use day filter to analyze route density by weekday
+• Map auto-zooms to technician's route area
+• Click territory boundaries to see ZIP code details
+
+Customer Lookup:
+• Search is instant - no need to press Enter
+• Partial names work great (e.g., "smith" finds all Smiths)
+• Account numbers must match exactly
+• Use "View on Google Maps" for driving directions
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 COMMON SCENARIOS
+
+Scenario 1: "Which technicians need to move?"
+→ Use Routes by Tech view
+→ Select a territory (e.g., "East")
+→ Review each technician in the dropdown
+→ Look for technicians with accounts far from the territory center
+
+Scenario 2: "Where is this customer assigned?"
+→ Use Customer Lookup
+→ Search by name or account number
+→ Territory shown in color-coded badge
+→ Click "View on Google Maps" for location
+
+Scenario 3: "Show me Friday routes in West territory"
+→ Routes by Tech view
+→ Territory = "West"
+→ Day of Service = "Friday"
+→ All Friday routes in West territory displayed
+
+Scenario 4: "How many accounts does a technician have in each territory?"
+→ Routes by Tech view
+→ Select the technician
+→ View stats panel (shows territories covered)
+→ Change territory filter to see distribution
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 NAVIGATION
+
+Switch Between Views:
+• Click any button at the top of the page
+• Your filters/selections reset when changing views
+• All views work on desktop and mobile devices
+
+Available Views:
+1. Territory Assignment (default)
+2. Density Analysis
+3. Market Size
+4. Employee Locations
+5. Commercial Accounts
+6. Routes by Tech (NEW)
+7. Customer Lookup (NEW)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📱 MOBILE FRIENDLY
+
+Both new features work great on phones and tablets:
+• Touch-friendly controls
+• Responsive layout adjusts to screen size
+• Pinch to zoom on maps
+• Swipe-friendly dropdowns
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ STATUS: LIVE AND READY TO USE
+
+🌐 Access Now: https://phoenixnewlocations.abacusai.app
+
+Questions? Refer to the detailed summary document:
+📄 Routes_and_Lookup_Feature_Summary.md
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

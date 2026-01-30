@@ -1,0 +1,172 @@
+================================================================================
+PHOENIX TERRITORY MAP - ZIP CODE AND ACCOUNT UPDATE SUMMARY
+================================================================================
+
+Date: November 24, 2025
+Source: Review New Items for Phoenix Maps.xlsx
+
+================================================================================
+1. NEW ZIP CODE ASSIGNMENTS
+================================================================================
+
+Total New Zip Codes Added: 17
+
+TUCSON (9 new zips):
+  85192, 85602, 85622, 85623, 85631, 85637, 85645, 85735, 85736
+
+WEST - APS of Glendale (4 new zips):
+  85322, 85342, 85354, 85361
+
+CENTRAL - APS of Scottsdale (4 new zips):
+  85034, 85263, 85264, 85377
+  Note: 85377 added to resolve customer assignment issue
+
+================================================================================
+2. CUSTOMER ACCOUNT CORRECTIONS
+================================================================================
+
+Total Customer Records Reviewed: 9
+
+Customer Corrections Made:
+
+  A-054165 - Lueken Residential - Maintenance - 02/ 22/2023
+    Territory: CENTRAL
+    Action: ADD ZIP CODE 85377 TO CENTRAL, CORRECT CUSTOMER RECORD TO 85377
+
+  A-007654 - McRoberts Residence - Maintenance - Ongoing (Winte...
+    Territory: CENTRAL
+    Action: ASSIGN TO CENTRAL
+
+  A-022508 - Peterson Residence - Maintenance - Ongoing (Winter...
+    Territory: CENTRAL
+    Action: ASSIGN TO CENTRAL
+
+  A-007694 - Becvar Residence - Maintenance - Ongoing (Winter a...
+    Territory: EAST
+    Action: ASSIGN TO EAST
+
+  A-025558 - Fullmer Residence - Maintenance - Ongoing (Winter ...
+    Territory: EAST
+    Action: ASSIGN TO EAST
+
+  A-007646 - Haug Residence - Maintenance - Ongoing (Winter and...
+    Territory: EAST
+    Action: ASSIGN TO EAST
+
+  A-014079 - Johnson Residence - Maintenance - Ongoing (Winter ...
+    Territory: EAST
+    Action: CORRECT CUSTOMER RECORD, ZIP is 85128
+
+  A-007754 - Molinar Residence - Maintenance - Ongoing (Winter ...
+    Territory: EAST
+    Action: ASSIGN TO EAST
+
+  A-031975 - PBAI-III LLC - Maintenance - 03/ 24/2021
+    Territory: EAST
+    Action: ASSIGN TO EAST
+
+================================================================================
+3. TERRITORY DISTRIBUTION (UPDATED)
+================================================================================
+
+Branch                     | Total Zips | Zips w/ Accounts | Total Accounts
+------------------------------------------------------------------------------
+APS of Glendale           |         47 |               43 |            493
+APS of Scottsdale         |         48 |               45 |            446
+APS of Chandler           |         43 |               43 |            678
+APS of Tucson             |         35 |               26 |             74
+------------------------------------------------------------------------------
+TOTAL                     |        173 |              157 |           1691
+
+================================================================================
+4. ACCOUNT FILE UPDATES
+================================================================================
+
+ACTIVE ACCOUNTS (Active_Accounts_by_Branch.xlsx):
+  Total Active Accounts: 1,774
+    - Commercial: 74
+    - Residential Assigned: 1,691 (was 1,690, +1)
+    - Residential Unassigned: 9 (was 10, -1)
+
+  Branch Distribution:
+    - APS - Commercial: 74 accounts
+    - APS of Glendale: 493 accounts
+    - APS of Scottsdale: 446 accounts (was 445, +1)
+    - APS of Chandler: 678 accounts
+    - APS of Tucson: 74 accounts
+    - Unassigned: 9 accounts
+
+TERMINATED ACCOUNTS (Terminated_Accounts_by_Branch.xlsx):
+  Total Terminated Accounts: 9,421
+    - Assigned: 9,371 (was 9,358, +13)
+    - Unassigned: 50 (was 63, -13)
+
+  Branch Distribution:
+    - APS of Glendale: 3,359 accounts
+    - APS of Scottsdale: 2,557 accounts (was 2,547, +10)
+    - APS of Chandler: 3,226 accounts
+    - APS of Tucson: 229 accounts (was 226, +3)
+    - Unassigned: 50 accounts
+
+================================================================================
+5. MAP DATA FILES UPDATED
+================================================================================
+
+The following map data files have been updated:
+
+  ✓ phoenix-tucson-map-data.json
+      - Now contains 173 zip codes (was 156, +17)
+      - Updated account counts for all territories
+
+  ✓ density-data.json
+      - Updated to reflect 157 active zip codes
+      - Includes all territories with current account data
+
+================================================================================
+6. KEY IMPROVEMENTS
+================================================================================
+
+Active Accounts:
+  • 1 additional account now properly assigned (85377 → Central)
+  • Unassigned accounts reduced from 10 to 9 (-10%)
+
+Terminated Accounts:
+  • 13 additional accounts now properly assigned to branches
+  • Unassigned accounts reduced from 63 to 50 (-21%)
+  • Scottsdale gained 10 accounts, Tucson gained 3 accounts
+
+Territory Coverage:
+  • West: +4 zip codes for better geographic coverage
+  • Central: +4 zip codes (including critical 85377)
+  • Tucson: +9 zip codes for expanded service area
+
+================================================================================
+7. REMAINING UNASSIGNED ACCOUNTS
+================================================================================
+
+Active Unassigned (9 accounts):
+  Primary zip code: 85218 (Apache Junction area)
+  Recommendation: Review if this area should be added to East territory
+
+Terminated Unassigned (50 accounts):
+  These accounts are in zip codes outside the defined service areas
+  Many are out-of-state or far from Phoenix/Tucson metro areas
+  Recommendation: Manual review to determine if expansion is warranted
+
+================================================================================
+8. NEXT STEPS
+================================================================================
+
+  ✓ All map data files updated
+  ✓ Customer account assignments corrected
+  ✓ Excel deliverables regenerated
+  ⏳ Deploy updated map application (in progress)
+
+  Pending Actions:
+    • Review 85218 (Apache Junction) for potential inclusion
+    • Manually review 50 terminated unassigned accounts
+    • Validate new zip codes on live map application
+
+================================================================================
+END OF REPORT
+================================================================================

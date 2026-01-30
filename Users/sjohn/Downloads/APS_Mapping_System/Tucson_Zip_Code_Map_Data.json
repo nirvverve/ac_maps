@@ -1,0 +1,184 @@
+[
+  {
+    "Zip_Code": 85750,
+    "Area": "Area 1 - East & North",
+    "Branch_Assignment": "Tucson Area 1 - East & North",
+    "Active_Accounts": 9,
+    "Special_Flag_Count": 9
+  },
+  {
+    "Zip_Code": 85741,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 7,
+    "Special_Flag_Count": 7
+  },
+  {
+    "Zip_Code": 85718,
+    "Area": "Area 1 - East & North",
+    "Branch_Assignment": "Tucson Area 1 - East & North",
+    "Active_Accounts": 6,
+    "Special_Flag_Count": 6
+  },
+  {
+    "Zip_Code": 85658,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 5,
+    "Special_Flag_Count": 5
+  },
+  {
+    "Zip_Code": 85730,
+    "Area": "Area 1 - East & North",
+    "Branch_Assignment": "Tucson Area 1 - East & North",
+    "Active_Accounts": 4,
+    "Special_Flag_Count": 4
+  },
+  {
+    "Zip_Code": 85756,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 4,
+    "Special_Flag_Count": 4
+  },
+  {
+    "Zip_Code": 85757,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 4,
+    "Special_Flag_Count": 4
+  },
+  {
+    "Zip_Code": 85739,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 3,
+    "Special_Flag_Count": 3
+  },
+  {
+    "Zip_Code": 85737,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 3,
+    "Special_Flag_Count": 3
+  },
+  {
+    "Zip_Code": 85704,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 3,
+    "Special_Flag_Count": 3
+  },
+  {
+    "Zip_Code": 85749,
+    "Area": "Area 1 - East & North",
+    "Branch_Assignment": "Tucson Area 1 - East & North",
+    "Active_Accounts": 3,
+    "Special_Flag_Count": 3
+  },
+  {
+    "Zip_Code": 85746,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85742,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85755,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85710,
+    "Area": "Area 1 - East & North",
+    "Branch_Assignment": "Tucson Area 1 - East & North",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85712,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85641,
+    "Area": "Area 1 - East & North",
+    "Branch_Assignment": "Tucson Area 1 - East & North",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85715,
+    "Area": "Area 1 - East & North",
+    "Branch_Assignment": "Tucson Area 1 - East & North",
+    "Active_Accounts": 2,
+    "Special_Flag_Count": 2
+  },
+  {
+    "Zip_Code": 85711,
+    "Area": "Area 1 - East & North",
+    "Branch_Assignment": "Tucson Area 1 - East & North",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85706,
+    "Area": "Area 1 - East & North",
+    "Branch_Assignment": "Tucson Area 1 - East & North",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85705,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85653,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85743,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85716,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85747,
+    "Area": "Area 1 - East & North",
+    "Branch_Assignment": "Tucson Area 1 - East & North",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  },
+  {
+    "Zip_Code": 85745,
+    "Area": "Area 2 - West & Central",
+    "Branch_Assignment": "Tucson Area 2 - West & Central",
+    "Active_Accounts": 1,
+    "Special_Flag_Count": 1
+  }
+]

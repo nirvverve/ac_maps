@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1yqAahc6hHQ3kzxmkrewI4c5Muq9MKavI">
+	<name>Miami Territory Breakout</name>
+	<gx:CascadingStyle kml:id="__managed_style_2E0DA456ED3CAAB16836">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>12</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_18278306FF3CAAB16836">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_53733D2A393CAAB16836">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>12</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02C7F5CC9A3CAAB16836">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_18278306FF3CAAB16836</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2E0DA456ED3CAAB16836</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_4EAF3734E33CAAB16836">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3611FAE6AA3CAAB16836">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4EAF3734E33CAAB16836</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_53733D2A393CAAB16836</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="078AE393C63CAA998229">
+		<name>NORTH BOUNDARY</name>
+		<LookAt>
+			<longitude>-80.38779999333835</longitude>
+			<latitude>25.8993450875171</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>11157.02085590135</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3611FAE6AA3CAAB16836</styleUrl>
+		<LineString>
+			<coordinates>
+				-80.12097570804319,25.90056076444091,0 -80.15071000908476,25.90013763041128,0 -80.16071411221429,25.89991174805952,0 -80.16184420377145,25.89999162290072,0 -80.16325102496793,25.90039096359031,0 -80.18679631048423,25.89942440077754,0 -80.20287154343328,25.89864126626882,0 -80.20471017910563,25.89984053810852,0 -80.21392111545434,25.89954936380219,0 -80.22952493136981,25.89902195924266,0 -80.23131091868485,25.89830106959369,0 -80.24424857257212,25.89797661448932,0 -80.24655000270496,25.89726679232919,0 -80.24793122004644,25.89706133183987,0 -80.25780633695604,25.8967427108306,0 -80.28135854357605,25.8960737234167,0 -80.28451382224746,25.89683735654018,0 -80.28695420343193,25.8969667008668,0 -80.29010332895051,25.89851325055524,0 -80.29760440797,25.89874808878478,0 -80.30684455501357,25.8987846139388,0 -80.30761003095199,25.89819014671335,0 -80.30874099752891,25.89814686794847,0 -80.30989869044275,25.89867573120044,0 -80.32390616782423,25.89855130981305,0 -80.32816740924564,25.8987935463315,0 -80.33287066225391,25.89797619604413,0 -80.34524467497747,25.89789956377614,0 -80.3502177650489,25.89858021046592,0 -80.35966785131065,25.89871365998751,0 -80.37576602694037,25.89865077344511,0 -80.37662534604945,25.89854045195091,0 -80.37886199906792,25.896412106793,0 -80.3848668308333,25.90065074795005,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0DA2EC394E3CAA918210">
+		<name>SOUTH BOUNDARY</name>
+		<LookAt>
+			<longitude>-80.38405573887422</longitude>
+			<latitude>25.8584866854516</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>13049.55276186147</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02C7F5CC9A3CAAB16836</styleUrl>
+		<LineString>
+			<coordinates>
+				-80.11923799379751,25.85615923129714,0 -80.13049845129932,25.855744882747,0 -80.13813935873947,25.85232227656378,0 -80.14218476692743,25.85192840537838,0 -80.14612515271685,25.8484206694038,0 -80.14793215220939,25.84803757721685,0 -80.1497178922788,25.84908246914359,0 -80.20771239528237,25.84706471488267,0 -80.27417896961953,25.84473390191905,0 -80.27430357807592,25.84094546073412,0 -80.28993451682454,25.84049741767575,0 -80.29607195214545,25.84131116857716,0 -80.30284613173056,25.8410527141184,0 -80.30732048949884,25.83979396038743,0 -80.3165267434261,25.84004986993872,0 -80.32133037117769,25.8408901327175,0 -80.34179388503115,25.84062737000586,0 -80.38680674931359,25.84052544184723,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

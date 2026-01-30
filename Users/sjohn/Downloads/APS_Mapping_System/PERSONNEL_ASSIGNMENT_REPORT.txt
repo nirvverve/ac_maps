@@ -1,0 +1,277 @@
+
+====================================================================================================
+PERSONNEL ASSIGNMENT ANALYSIS REPORT
+Phoenix Territory Reorganization - Route Assignment Study
+====================================================================================================
+
+Generated: November 06, 2025 at 11:22 PM
+
+====================================================================================================
+EXECUTIVE SUMMARY
+====================================================================================================
+
+This analysis examines how existing service routes and technicians align with the new four-branch 
+structure (West, Central, East, and Tucson). The goal is to understand personnel reassignment 
+requirements and identify which technicians can remain in their current assignments versus those 
+who will require significant route changes.
+
+KEY FINDINGS:
+
+Total Accounts Analyzed: 1,674
+Total Active Technicians: 32
+
+TECHNICIAN ALIGNMENT BREAKDOWN:
+
+• Fully Aligned (100% of accounts in one territory):     13 technicians (40.6%)
+  → These technicians can be assigned directly with NO route changes
+
+• Mostly Aligned (80-99% in one territory):              10 technicians (31.2%)
+  → These technicians can be assigned with MINIMAL route adjustments
+
+• Mixed Territory (50-79% in one territory):              9 technicians (28.1%)
+  → These technicians require SIGNIFICANT route restructuring
+
+• Highly Fragmented (<50% in any single territory):       0 technicians (0.0%)
+  → These technicians have accounts spread across multiple territories
+
+IMPLEMENTATION IMPACT:
+
+✓ LOW IMPACT: 23 technicians (71.9%) can transition smoothly
+⚠ MEDIUM-HIGH IMPACT: 9 technicians (28.1%) require careful planning
+
+
+====================================================================================================
+BRANCH-BY-BRANCH STAFFING RECOMMENDATIONS
+====================================================================================================
+
+
+----------------------------------------------------------------------------------------------------
+WEST BRANCH
+----------------------------------------------------------------------------------------------------
+
+Total Accounts: 519
+Recommended Technicians: 11
+Average Accounts per Technician: 47.2
+
+RECOMMENDED TECHNICIANS (11 total):
+
+Fully Aligned - NO route changes needed (4 technicians):
+  • Kyle Sparrgrove                -   1 accounts (1 in West)
+  • Jovany Cardenas                -   3 accounts (3 in West)
+  • Mason Constable                -  61 accounts (61 in West)
+  • Fernando Montes                -   1 accounts (1 in West)
+
+Mostly Aligned - MINIMAL route changes (5 technicians):
+  • Nicolas Cavazos                - 100 accounts (93 in West, 7 to reassign)
+  • Michael Vendetti               -  80 accounts (79 in West, 1 to reassign)
+  • Miranda Loveland               -  53 accounts (45 in West, 8 to reassign)
+  • Open                           -  10 accounts (9 in West, 1 to reassign)
+  • Reyandres Vega Mendoza         - 100 accounts (92 in West, 8 to reassign)
+
+Mixed Territory - SIGNIFICANT route changes needed (2 technicians):
+  • Ray "Pancho" Vega              -  56 accounts (39 in West, 17 in other territories)
+  • Charles Gay                    -   2 accounts (1 in West, 1 in other territories)
+
+----------------------------------------------------------------------------------------------------
+CENTRAL BRANCH
+----------------------------------------------------------------------------------------------------
+
+Total Accounts: 512
+Recommended Technicians: 10
+Average Accounts per Technician: 51.2
+
+RECOMMENDED TECHNICIANS (10 total):
+
+Fully Aligned - NO route changes needed (3 technicians):
+  • Christian Carlson              -  62 accounts (61 in Central)
+  • Doug Coplen                    -   1 accounts (1 in Central)
+  • Ray Saltsman                   -   2 accounts (2 in Central)
+
+Mostly Aligned - MINIMAL route changes (2 technicians):
+  • Angel Ortiz                    -  83 accounts (74 in Central, 9 to reassign)
+  • Tony Pangburn                  -  63 accounts (60 in Central, 3 to reassign)
+
+Mixed Territory - SIGNIFICANT route changes needed (5 technicians):
+  • David Bontrager                -  74 accounts (44 in Central, 30 in other territories)
+  • Johan Chavez                   -  84 accounts (63 in Central, 21 in other territories)
+  • William Odell                  -  67 accounts (40 in Central, 27 in other territories)
+  • Kenje Dalmacio                 -  75 accounts (43 in Central, 32 in other territories)
+  • Christian Nolan                -  18 accounts (10 in Central, 8 in other territories)
+
+----------------------------------------------------------------------------------------------------
+EAST BRANCH
+----------------------------------------------------------------------------------------------------
+
+Total Accounts: 557
+Recommended Technicians: 10
+Average Accounts per Technician: 55.7
+
+RECOMMENDED TECHNICIANS (10 total):
+
+Fully Aligned - NO route changes needed (5 technicians):
+  • Corey Cox                      -  46 accounts (46 in East)
+  • Ivan Martinez                  -  47 accounts (46 in East)
+  • Kenneth Felix                  -  62 accounts (62 in East)
+  • Gerrytt Nikolaus               -  86 accounts (85 in East)
+  • Miguel Rivero                  -   3 accounts (3 in East)
+
+Mostly Aligned - MINIMAL route changes (3 technicians):
+  • Anthony Garcia                 -  69 accounts (68 in East, 1 to reassign)
+  • Joseph Strong                  -  37 accounts (35 in East, 2 to reassign)
+  • Qualen Cunningham              -  66 accounts (61 in East, 5 to reassign)
+
+Mixed Territory - SIGNIFICANT route changes needed (2 technicians):
+  • Kent Armer                     -  66 accounts (48 in East, 18 in other territories)
+  • Mike Montgomery                -  81 accounts (45 in East, 36 in other territories)
+
+----------------------------------------------------------------------------------------------------
+TUCSON BRANCH
+----------------------------------------------------------------------------------------------------
+
+Total Accounts: 74
+Recommended Technicians: 1
+Average Accounts per Technician: 74.0
+
+RECOMMENDED TECHNICIANS (1 total):
+
+Fully Aligned - NO route changes needed (1 technicians):
+  • Mike Wall                      -  74 accounts (74 in Tucson)
+
+Mostly Aligned - MINIMAL route changes (0 technicians):
+
+
+====================================================================================================
+IMPLEMENTATION CONSIDERATIONS
+====================================================================================================
+
+1. TECHNICIANS REQUIRING SPLIT DECISIONS (Mixed Territory status):
+
+   These technicians have substantial account bases in multiple territories and require 
+   strategic decisions about their assignments:
+
+
+   Johan Chavez (Current: SC):
+   - Total Accounts: 84
+   - West: 20 | Central: 63 | East: 0 | Tucson: 0
+   - Recommended: Central (75.0% of accounts)
+
+   Mike Montgomery (Current: East):
+   - Total Accounts: 81
+   - West: 0 | Central: 35 | East: 45 | Tucson: 0
+   - Recommended: East (55.6% of accounts)
+
+   Kenje Dalmacio (Current: West):
+   - Total Accounts: 75
+   - West: 32 | Central: 43 | East: 0 | Tucson: 0
+   - Recommended: Central (57.3% of accounts)
+
+   David Bontrager (Current: East):
+   - Total Accounts: 74
+   - West: 0 | Central: 44 | East: 27 | Tucson: 0
+   - Recommended: Central (59.5% of accounts)
+
+   William Odell (Current: SC):
+   - Total Accounts: 67
+   - West: 19 | Central: 40 | East: 7 | Tucson: 0
+   - Recommended: Central (59.7% of accounts)
+
+   Kent Armer (Current: East):
+   - Total Accounts: 66
+   - West: 5 | Central: 13 | East: 48 | Tucson: 0
+   - Recommended: East (72.7% of accounts)
+
+   Ray "Pancho" Vega (Current: West):
+   - Total Accounts: 56
+   - West: 39 | Central: 17 | East: 0 | Tucson: 0
+   - Recommended: West (69.6% of accounts)
+
+   Christian Nolan (Current: Unknown):
+   - Total Accounts: 18
+   - West: 0 | Central: 10 | East: 8 | Tucson: 0
+   - Recommended: Central (55.6% of accounts)
+
+   Charles Gay (Current: Unknown):
+   - Total Accounts: 2
+   - West: 1 | Central: 0 | East: 1 | Tucson: 0
+   - Recommended: West (50.0% of accounts)
+
+
+2. ROUTE REASSIGNMENT VOLUME:
+
+   Accounts requiring reassignment to different technicians:
+
+   - Estimated accounts needing new technician assignment: 226
+   - Percentage of total accounts: 13.5%
+
+
+3. UNASSIGNED ACCOUNTS:
+
+   Accounts currently marked as "Unassigned": 41
+   These will need to be distributed among technicians in their respective territories.
+
+
+====================================================================================================
+NEXT STEPS & RECOMMENDATIONS
+====================================================================================================
+
+1. IMMEDIATE ACTIONS:
+   
+   ✓ Review the "Technician Summary" tab in the Excel workbook for complete details
+   ✓ Examine individual territory tabs for branch-specific assignments
+   ✓ Identify technicians willing to change territories (especially Mixed Territory cases)
+
+2. PLANNING PHASE:
+
+   a) For Fully Aligned technicians (13 total):
+      → Confirm their assignment to their natural territory
+      → No route changes required
+   
+   b) For Mostly Aligned technicians (10 total):
+      → Identify the 20% of accounts that need reassignment
+      → Transfer those accounts to other technicians in the appropriate territories
+   
+   c) For Mixed Territory technicians (9 total):
+      → CRITICAL: Make strategic decisions on each technician
+      → Option 1: Assign to primary territory and reassign other accounts
+      → Option 2: Consider splitting large routes if geographically feasible
+      → Option 3: Evaluate technician preferences and skills
+
+3. IMPLEMENTATION APPROACH:
+
+   Phase 1: Assign all Fully Aligned technicians (23 technicians, ~40% of workforce)
+   Phase 2: Resolve Mostly Aligned technicians and redistribute their minor accounts
+   Phase 3: Make strategic decisions on Mixed Territory technicians
+   Phase 4: Assign unassigned accounts to appropriate technicians
+   Phase 5: Balance workloads across technicians within each branch
+
+
+====================================================================================================
+DELIVERABLES PROVIDED
+====================================================================================================
+
+1. Personnel_Assignment_Analysis.xlsx - Comprehensive Excel workbook with:
+   - Executive Summary tab
+   - Technician Summary (all 32 technicians)
+   - Branch-specific recommendations (West, Central, East, Tucson)
+   - All Accounts Detail (complete account listing)
+
+2. Personnel_Assignment_Overview.png - Visual summary showing:
+   - Alignment status distribution
+   - Account distribution by territory
+   - Technician distribution by branch
+   - Top technicians by account count
+   - Route complexity analysis
+   - Branch comparison metrics
+
+3. Personnel_Territory_Distribution.png - Territory-specific visualizations showing:
+   - Technician rankings by accounts in each territory
+   - Color-coded recommendations (Assign/Primary/Consider/Reassign)
+
+4. personnel_analysis_all_accounts.csv - Raw data file with complete account details
+
+5. personnel_technician_summary.csv - Summary statistics for all technicians
+
+
+====================================================================================================
+DOCUMENT END
+====================================================================================================

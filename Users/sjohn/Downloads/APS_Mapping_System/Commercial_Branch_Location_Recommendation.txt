@@ -1,0 +1,118 @@
+
+COMMERCIAL BRANCH LOCATION RECOMMENDATION
+Generated: November 14, 2025
+
+==========================================
+EXECUTIVE RECOMMENDATION: CENTRAL OFFICE
+==========================================
+
+Based on comprehensive analysis of 73 commercial accounts and 5 commercial employees, 
+the CENTRAL office location is recommended for commercial operations.
+
+
+KEY FINDINGS:
+
+1. ACCOUNT DISTRIBUTION BY CLOSEST OFFICE
+   • East Office: 30 accounts (41.1%)
+   • West Office: 22 accounts (30.1%)
+   • Central Office: 21 accounts (28.8%)
+
+2. AVERAGE DISTANCES TO COMMERCIAL ACCOUNTS
+   • Central: 21.0 miles (BEST - most centralized)
+   • East: 23.1 miles
+   • West: 25.0 miles
+
+3. EMPLOYEE COMMUTE ANALYSIS (5 Commercial Employees)
+   • Central: 13.1 miles average (BEST)
+   • West: 13.8 miles average
+   • East: 21.2 miles average
+
+4. GEOGRAPHIC DISTRIBUTION
+   • Phoenix (28 accounts) - primarily served by Central
+   • Mesa (7 accounts) - primarily served by East
+   • Scottsdale (5 accounts) - primarily served by Central
+   • Chandler (5 accounts) - primarily served by East
+   • Casa Grande (4 accounts) - primarily served by East
+
+
+DETAILED RATIONALE:
+
+While the East office has the most accounts (30) in closest proximity, the Central 
+office provides the optimal balance for commercial operations:
+
+✓ BEST Average Customer Distance: 21.0 miles
+  - 4 miles closer than West (25.0 miles)
+  - 2 miles closer than East (23.1 miles)
+  - More efficient routing and reduced drive time
+
+✓ BEST Employee Commute: 13.1 miles average
+  - Minimal impact on employee quality of life
+  - Reduces turnover risk and supports recruitment
+  - 8 miles shorter than East office commutes
+
+✓ Strong Phoenix Metro Coverage
+  - 28 accounts in Phoenix proper
+  - Central Phoenix location provides quick access to Scottsdale, Tempe
+  - Natural hub for metropolitan area
+
+✓ Operational Efficiency
+  - Balanced account distribution (21 closest, but strong reach to all zones)
+  - Central location minimizes worst-case drive times
+  - Better positioned for growth in core metro
+
+
+EMPLOYEE LOCATIONS:
+1. Talynn Stewart (Assistant Director) - Phoenix 85023
+   • Central: 9.3 mi | West: 4.6 mi | East: 29.6 mi
+
+2. Michael Grant (Service Professional) - Phoenix 85021
+   • Central: 9.0 mi | West: 8.7 mi | East: 24.9 mi
+
+3. Wilfred Lambert (Commercial Service Professional) - Glendale 85305
+   • Central: 18.1 mi | West: 9.8 mi | East: 29.9 mi
+
+4. Hassan El bouqa (Service Professional I) - Tempe 85282
+   • Central: 15.5 mi | West: 23.8 mi | East: 9.8 mi
+
+5. Thomas Rau (Service Professional) - Tempe 85281
+   • Central: 13.4 mi | West: 22.1 mi | East: 11.7 mi
+
+
+ALTERNATIVE CONSIDERATION:
+
+If maximizing raw account proximity is prioritized over operational efficiency, 
+the EAST office would be the alternative choice:
+• 30 accounts closest (vs 21 for Central)
+• Strong coverage of Mesa, Chandler, Tempe markets
+• However: +2 miles avg customer distance, +8 miles avg employee commute
+
+
+IMPLEMENTATION NOTES:
+
+1. Central office location (85254 - North Scottsdale area) provides:
+   - Quick access to Loop 101, I-17, SR-51
+   - Central position between northern suburbs and metro core
+   - Professional image for commercial client base
+
+2. Account re-assignment may be needed for:
+   - 4 Casa Grande accounts (currently 84.6 miles from Central)
+   - Consider Tucson branch coverage or specialized routing
+
+3. Consider commercial-specific requirements:
+   - HOA management office proximity
+   - Multi-property account clustering
+   - After-hours emergency access
+
+
+CONCLUSION:
+
+The Central office provides the best overall solution for commercial operations, 
+balancing customer service quality, operational efficiency, and employee satisfaction. 
+This recommendation optimizes the long-term success of the commercial division while 
+maintaining flexibility for future growth.
+
+
+Data Sources:
+- Active Commercial in PHX.xlsx (74 accounts, 73 geocoded)
+- Employee Addresses with Troy's assignments
+- 2026 Office locations (West: 85308, Central: 85254, East: 85286)

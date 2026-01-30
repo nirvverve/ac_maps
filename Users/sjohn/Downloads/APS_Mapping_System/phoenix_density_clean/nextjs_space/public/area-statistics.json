@@ -1,0 +1,50 @@
+[
+  {
+    "area": "Central",
+    "zipCount": 49,
+    "activeAccounts": 527,
+    "terminatedAccounts": 3010,
+    "totalHistorical": 3537,
+    "avgChurnRate": 84.57,
+    "maxActiveZip": 85254,
+    "maxActiveCount": 56,
+    "maxTerminatedZip": 85254,
+    "maxTerminatedCount": 221
+  },
+  {
+    "area": "East",
+    "zipCount": 36,
+    "activeAccounts": 570,
+    "terminatedAccounts": 2527,
+    "totalHistorical": 3097,
+    "avgChurnRate": 80.86,
+    "maxActiveZip": 85122,
+    "maxActiveCount": 89,
+    "maxTerminatedZip": 85122,
+    "maxTerminatedCount": 333
+  },
+  {
+    "area": "Tucson",
+    "zipCount": 26,
+    "activeAccounts": 73,
+    "terminatedAccounts": 226,
+    "totalHistorical": 299,
+    "avgChurnRate": 72.45,
+    "maxActiveZip": 85750,
+    "maxActiveCount": 9,
+    "maxTerminatedZip": 85737,
+    "maxTerminatedCount": 19
+  },
+  {
+    "area": "West",
+    "zipCount": 45,
+    "activeAccounts": 529,
+    "terminatedAccounts": 3599,
+    "totalHistorical": 4128,
+    "avgChurnRate": 86.88,
+    "maxActiveZip": 85308,
+    "maxActiveCount": 40,
+    "maxTerminatedZip": 85308,
+    "maxTerminatedCount": 267
+  }
+]

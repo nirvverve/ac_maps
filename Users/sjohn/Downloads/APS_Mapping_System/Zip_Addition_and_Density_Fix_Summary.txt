@@ -1,0 +1,163 @@
+================================================================================
+TERRITORY UPDATE SUMMARY - ZIP ADDITIONS & DENSITY FIX
+================================================================================
+
+Date: November 24, 2025
+
+================================================================================
+1. NEW ZIP CODE ADDITIONS
+================================================================================
+
+Two zip codes have been added to the territory mapping:
+
+  ✓ ZIP 85218 → East Territory (APS of Chandler)
+    Location: Apache Junction area
+    Active accounts: 1
+    Impact: Resolved 1 previously unassigned account
+
+  ✓ ZIP 85004 → Central Territory (APS of Scottsdale)
+    Location: Phoenix (Downtown)
+    Active accounts: 0 (currently)
+    Impact: Prepared for future expansion in downtown Phoenix
+
+================================================================================
+2. DENSITY ANALYSIS - ISSUE RESOLVED
+================================================================================
+
+Problem Identified:
+  The density-data.json file had an incorrect structure that prevented
+  the density views from displaying data properly.
+
+Root Cause:
+  • File used 'zip' instead of 'zipCode'
+  • File used 'territory' instead of 'area'
+  • Missing fields: activeCount, terminatedCount, totalHistorical, churnRate
+
+Solution Implemented:
+  ✓ Regenerated density-data.json with correct structure
+  ✓ Loaded both active and terminated account data
+  ✓ Calculated churn rate for each zip code
+  ✓ Mapped all 161 zip codes with account history
+
+Density Views Now Working:
+  ✓ Active Accounts View - Shows current account density (green scale)
+  ✓ Terminated Accounts View - Shows terminated account density (red scale)
+  ✓ Churn Rate View - Shows retention performance (green to red scale)
+
+================================================================================
+3. UPDATED TERRITORY DISTRIBUTION
+================================================================================
+
+Zip Code Coverage:
+Territory            Total Zips   Change
+--------------------------------------------------
+APS of Glendale      47           -
+APS of Scottsdale    49           +1 (85004)
+APS of Chandler      44           +1 (85218)
+APS of Tucson        35           -
+--------------------------------------------------
+TOTAL                175          +2
+
+================================================================================
+4. ACCOUNT ASSIGNMENT IMPROVEMENTS
+================================================================================
+
+Active Accounts:
+  • Total: 1,774 accounts
+  • Assigned: 1,692 residential + 74 commercial = 1,766 (99.5%)
+  • Unassigned: 8 accounts (0.5%)
+  • Improvement: -1 unassigned account (from 9 to 8)
+
+Branch Distribution (Active Residential):
+  • APS of Glendale: 493 accounts
+  • APS of Scottsdale: 446 accounts
+  • APS of Chandler: 679 accounts (+1)
+  • APS of Tucson: 74 accounts
+
+Terminated Accounts:
+  • Total: 9,421 accounts
+  • Assigned: 9,375 (99.5%)
+  • Unassigned: 46 accounts (0.5%)
+  • Improvement: -4 unassigned accounts (from 50 to 46)
+
+================================================================================
+5. DENSITY ANALYSIS STATISTICS
+================================================================================
+
+Territory Performance Metrics:
+
+Territory            Active     Terminated   Total      Churn %
+----------------------------------------------------------------------
+APS of Glendale      493        3359         3852         87.2%
+APS of Scottsdale    446        2561         3007         85.2%
+APS of Chandler      679        3226         3905         82.6%
+APS of Tucson        74         229          303          75.6%
+----------------------------------------------------------------------
+SYSTEM TOTAL         1692       9375         11067        84.7%
+
+Key Insights:
+  • Overall churn rate: 84.7% (historical)
+  • Best retention: Tucson (75.6% churn)
+  • Highest churn: West/Glendale (87.2%)
+  • System-wide retention opportunity identified
+
+================================================================================
+6. FILES UPDATED
+================================================================================
+
+Map Data Files:
+  ✓ phoenix-tucson-map-data.json - Updated with 2 new zips (175 total)
+  ✓ density-data.json - Regenerated with correct structure (161 zips)
+
+Account Excel Files:
+  ✓ Active_Accounts_by_Branch.xlsx - Updated assignments
+  ✓ Terminated_Accounts_by_Branch.xlsx - Updated assignments
+
+Application Components:
+  ✓ All density map views now functional
+  ✓ Territory boundaries updated
+  ✓ Account counts refreshed
+
+================================================================================
+7. LIVE DEPLOYMENT
+================================================================================
+
+Status: DEPLOYED ✓
+
+URL: https://phoenixnewlocations.abacusai.app
+
+Active Features:
+  ✓ Territory Map View
+  ✓ Employee Assignment View
+  ✓ Commercial Accounts View
+  ✓ Market Size Analysis View
+  ✓ Density Analysis Views:
+    • Active Accounts (GREEN SCALE)
+    • Terminated Accounts (RED SCALE)
+    • Churn Rate Analysis (GREEN → RED SCALE)
+
+All views now display correctly with proper color coding and
+interactive zip code information windows.
+
+================================================================================
+8. NEXT STEPS & RECOMMENDATIONS
+================================================================================
+
+Remaining Unassigned Accounts (8 active):
+  Review these accounts to determine if additional zip codes
+  should be added or if they are outside service area.
+
+Churn Analysis Action Items:
+  • Investigate high churn rates in West/Glendale territory (87.2%)
+  • Study Tucson's lower churn rate (75.6%) for best practices
+  • Develop retention strategies for high-churn zip codes
+  • Monitor new accounts in recently added zips (85218, 85004)
+
+Data Quality:
+  • All density views now operational and accurate
+  • Account assignments 99.5% complete
+  • Territory coverage comprehensive
+
+================================================================================
+END OF REPORT
+================================================================================

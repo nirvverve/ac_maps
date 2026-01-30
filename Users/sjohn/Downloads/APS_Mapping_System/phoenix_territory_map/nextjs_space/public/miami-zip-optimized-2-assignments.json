@@ -1,0 +1,650 @@
+[
+  {
+    "zip": "33064",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Pompano Beach",
+    "latitude": 26.261001,
+    "longitude": -80.12054739999999
+  },
+  {
+    "zip": "33308",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Fort Lauderdale",
+    "latitude": 26.2022004,
+    "longitude": -80.1144267
+  },
+  {
+    "zip": "33309",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Oakland Park",
+    "latitude": 26.1789992,
+    "longitude": -80.1532158
+  },
+  {
+    "zip": "33319",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Lauderdale Lake",
+    "latitude": 26.1744321,
+    "longitude": -80.2164776
+  },
+  {
+    "zip": "33306",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Fort Lauderdale",
+    "latitude": 26.1622138,
+    "longitude": -80.1100987
+  },
+  {
+    "zip": "33305",
+    "territory": "North",
+    "accountCount": 2,
+    "city": "Wilton Manors",
+    "latitude": 26.152761650000002,
+    "longitude": -80.1352184
+  },
+  {
+    "zip": "33322",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Sunrise",
+    "latitude": 26.1509827,
+    "longitude": -80.2510587
+  },
+  {
+    "zip": "33311",
+    "territory": "North",
+    "accountCount": 2,
+    "city": "Fort Lauderdale",
+    "latitude": 26.145911650000002,
+    "longitude": -80.1777302
+  },
+  {
+    "zip": "33304",
+    "territory": "North",
+    "accountCount": 2,
+    "city": "Fort Lauderdale",
+    "latitude": 26.13836235,
+    "longitude": -80.11862744999999
+  },
+  {
+    "zip": "33327",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Weston",
+    "latitude": 26.1302005,
+    "longitude": -80.4056947
+  },
+  {
+    "zip": "33301",
+    "territory": "North",
+    "accountCount": 7,
+    "city": "Fort Lauderdale",
+    "latitude": 26.11907151428571,
+    "longitude": -80.11771139999999
+  },
+  {
+    "zip": "33317",
+    "territory": "North",
+    "accountCount": 2,
+    "city": "Plantation",
+    "latitude": 26.117487699999998,
+    "longitude": -80.23690894999999
+  },
+  {
+    "zip": "33316",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Fort Lauderdale",
+    "latitude": 26.1120137,
+    "longitude": -80.1358687
+  },
+  {
+    "zip": "33324",
+    "territory": "North",
+    "accountCount": 2,
+    "city": "Davie",
+    "latitude": 26.11110085,
+    "longitude": -80.29372945
+  },
+  {
+    "zip": "33326",
+    "territory": "North",
+    "accountCount": 4,
+    "city": "Weston",
+    "latitude": 26.11085415,
+    "longitude": -80.380651825
+  },
+  {
+    "zip": "33312",
+    "territory": "North",
+    "accountCount": 4,
+    "city": "Fort Lauderdale",
+    "latitude": 26.091959125,
+    "longitude": -80.18288845000001
+  },
+  {
+    "zip": "33328",
+    "territory": "North",
+    "accountCount": 2,
+    "city": "Davie",
+    "latitude": 26.0820835,
+    "longitude": -80.28003025
+  },
+  {
+    "zip": "33330",
+    "territory": "North",
+    "accountCount": 6,
+    "city": "Davie",
+    "latitude": 26.0761524,
+    "longitude": -80.31643125
+  },
+  {
+    "zip": "33332",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Southwest Ranches",
+    "latitude": 26.0605745,
+    "longitude": -80.41822289999999
+  },
+  {
+    "zip": "33314",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Davie",
+    "latitude": 26.0564186,
+    "longitude": -80.2210719
+  },
+  {
+    "zip": "33004",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Dania Beach",
+    "latitude": 26.046711,
+    "longitude": -80.1362558
+  },
+  {
+    "zip": "33331",
+    "territory": "North",
+    "accountCount": 2,
+    "city": "Davie",
+    "latitude": 26.04609475,
+    "longitude": -80.36681955
+  },
+  {
+    "zip": "33021",
+    "territory": "North",
+    "accountCount": 6,
+    "city": "Hollywood",
+    "latitude": 26.038925450000004,
+    "longitude": -80.18682753333334
+  },
+  {
+    "zip": "33026",
+    "territory": "North",
+    "accountCount": 3,
+    "city": "Pembroke Pines",
+    "latitude": 26.030015666666667,
+    "longitude": -80.29270293333333
+  },
+  {
+    "zip": "33024",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Pembroke Pines",
+    "latitude": 26.0285608,
+    "longitude": -80.2331987
+  },
+  {
+    "zip": "33028",
+    "territory": "North",
+    "accountCount": 3,
+    "city": "Pembroke Pines",
+    "latitude": 26.024304666666666,
+    "longitude": -80.3482473
+  },
+  {
+    "zip": "33019",
+    "territory": "North",
+    "accountCount": 5,
+    "city": "Hollywood",
+    "latitude": 26.011046540000002,
+    "longitude": -80.12896726
+  },
+  {
+    "zip": "33020",
+    "territory": "North",
+    "accountCount": 2,
+    "city": "Hollywood",
+    "latitude": 26.0066968,
+    "longitude": -80.15014065
+  },
+  {
+    "zip": "33029",
+    "territory": "North",
+    "accountCount": 4,
+    "city": "Miramar",
+    "latitude": 25.98848135,
+    "longitude": -80.39642565
+  },
+  {
+    "zip": "33025",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Miramar",
+    "latitude": 25.9809193,
+    "longitude": -80.258116
+  },
+  {
+    "zip": "33027",
+    "territory": "North",
+    "accountCount": 2,
+    "city": "Miramar",
+    "latitude": 25.9805687,
+    "longitude": -80.3415527
+  },
+  {
+    "zip": "33009",
+    "territory": "North",
+    "accountCount": 7,
+    "city": "Hallandale",
+    "latitude": 25.978344600000003,
+    "longitude": -80.13068985714287
+  },
+  {
+    "zip": "33179",
+    "territory": "North",
+    "accountCount": 22,
+    "city": "Miami",
+    "latitude": 25.96310545454546,
+    "longitude": -80.16983810454546
+  },
+  {
+    "zip": "33180",
+    "territory": "North",
+    "accountCount": 20,
+    "city": "Miami",
+    "latitude": 25.962087789999998,
+    "longitude": -80.151737615
+  },
+  {
+    "zip": "33160",
+    "territory": "North",
+    "accountCount": 23,
+    "city": "Golden Beach",
+    "latitude": 25.949803899999996,
+    "longitude": -80.12939212608696
+  },
+  {
+    "zip": "33056",
+    "territory": "North",
+    "accountCount": 4,
+    "city": "Miami",
+    "latitude": 25.9441807,
+    "longitude": -80.23713534999999
+  },
+  {
+    "zip": "33015",
+    "territory": "North",
+    "accountCount": 4,
+    "city": "Hialeah",
+    "latitude": 25.937029625,
+    "longitude": -80.32709285
+  },
+  {
+    "zip": "33169",
+    "territory": "North",
+    "accountCount": 4,
+    "city": "Miami Gardens",
+    "latitude": 25.936251400000003,
+    "longitude": -80.21955265
+  },
+  {
+    "zip": "33162",
+    "territory": "North",
+    "accountCount": 17,
+    "city": "North Miami Beach",
+    "latitude": 25.923244729411767,
+    "longitude": -80.1826231764706
+  },
+  {
+    "zip": "33016",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Hialeah",
+    "latitude": 25.9206422,
+    "longitude": -80.3272708
+  },
+  {
+    "zip": "33014",
+    "territory": "North",
+    "accountCount": 3,
+    "city": "Hialeah",
+    "latitude": 25.911444866666667,
+    "longitude": -80.31276113333332
+  },
+  {
+    "zip": "33167",
+    "territory": "Central",
+    "accountCount": 7,
+    "city": "Miami",
+    "latitude": 25.891365514285717,
+    "longitude": -80.23001684285714
+  },
+  {
+    "zip": "33168",
+    "territory": "Central",
+    "accountCount": 15,
+    "city": "Miami",
+    "latitude": 25.89097316,
+    "longitude": -80.20313028666666
+  },
+  {
+    "zip": "33181",
+    "territory": "Central",
+    "accountCount": 99,
+    "city": "North Miami",
+    "latitude": 25.89094030808081,
+    "longitude": -80.15567202626264
+  },
+  {
+    "zip": "33161",
+    "territory": "Central",
+    "accountCount": 65,
+    "city": "North Miami",
+    "latitude": 25.88816697538461,
+    "longitude": -80.18398856461542
+  },
+  {
+    "zip": "33154",
+    "territory": "Central",
+    "accountCount": 37,
+    "city": "Surfside",
+    "latitude": 25.8845493054054,
+    "longitude": -80.13016015405405
+  },
+  {
+    "zip": "33138",
+    "territory": "Central",
+    "accountCount": 120,
+    "city": "Miami Shores",
+    "latitude": 25.860182954166664,
+    "longitude": -80.18135099916667
+  },
+  {
+    "zip": "33150",
+    "territory": "Central",
+    "accountCount": 13,
+    "city": "Miami Shores",
+    "latitude": 25.85993740769231,
+    "longitude": -80.20208900769231
+  },
+  {
+    "zip": "33012",
+    "territory": "North",
+    "accountCount": 1,
+    "city": "Hialeah",
+    "latitude": 25.8589618,
+    "longitude": -80.2966824
+  },
+  {
+    "zip": "33141",
+    "territory": "Central",
+    "accountCount": 55,
+    "city": "Miami Beach",
+    "latitude": 25.85541391090909,
+    "longitude": -80.14145797636368
+  },
+  {
+    "zip": "33147",
+    "territory": "Central",
+    "accountCount": 7,
+    "city": "Miami",
+    "latitude": 25.851030100000003,
+    "longitude": -80.2285732
+  },
+  {
+    "zip": "33127",
+    "territory": "South",
+    "accountCount": 2,
+    "city": "Miami",
+    "latitude": 25.846821249999998,
+    "longitude": -80.20054005
+  },
+  {
+    "zip": "33178",
+    "territory": "South",
+    "accountCount": 2,
+    "city": "Miami",
+    "latitude": 25.83611105,
+    "longitude": -80.3751115
+  },
+  {
+    "zip": "33166",
+    "territory": "South",
+    "accountCount": 7,
+    "city": "Miami Springs",
+    "latitude": 25.82316918571428,
+    "longitude": -80.2968075
+  },
+  {
+    "zip": "33142",
+    "territory": "South",
+    "accountCount": 1,
+    "city": "Miami",
+    "latitude": 25.8210121,
+    "longitude": -80.2224403
+  },
+  {
+    "zip": "33137",
+    "territory": "Central",
+    "accountCount": 28,
+    "city": "Miami",
+    "latitude": 25.81995507857142,
+    "longitude": -80.18579532857142
+  },
+  {
+    "zip": "33140",
+    "territory": "South",
+    "accountCount": 77,
+    "city": "Miami Beach",
+    "latitude": 25.81935767272728,
+    "longitude": -80.13154594935067
+  },
+  {
+    "zip": "33135",
+    "territory": "South",
+    "accountCount": 2,
+    "city": "Miami",
+    "latitude": 25.8008072,
+    "longitude": -80.21314484999999
+  },
+  {
+    "zip": "33139",
+    "territory": "South",
+    "accountCount": 20,
+    "city": "Miami Beach",
+    "latitude": 25.786289885000002,
+    "longitude": -80.155104935
+  },
+  {
+    "zip": "33182",
+    "territory": "South",
+    "accountCount": 1,
+    "city": "Miami",
+    "latitude": 25.7793927,
+    "longitude": -80.4131476
+  },
+  {
+    "zip": "33131",
+    "territory": "South",
+    "accountCount": 1,
+    "city": "Miami",
+    "latitude": 25.7626943,
+    "longitude": -80.1908639
+  },
+  {
+    "zip": "33174",
+    "territory": "South",
+    "accountCount": 2,
+    "city": "Miami",
+    "latitude": 25.76088435,
+    "longitude": -80.34559815
+  },
+  {
+    "zip": "33134",
+    "territory": "South",
+    "accountCount": 8,
+    "city": "Coral Gables",
+    "latitude": 25.756991774999996,
+    "longitude": -80.27320149999998
+  },
+  {
+    "zip": "33129",
+    "territory": "South",
+    "accountCount": 12,
+    "city": "Miami",
+    "latitude": 25.754938225000004,
+    "longitude": -80.20540780833333
+  },
+  {
+    "zip": "33145",
+    "territory": "South",
+    "accountCount": 3,
+    "city": "Miami",
+    "latitude": 25.750764166666666,
+    "longitude": -80.2270836
+  },
+  {
+    "zip": "33153",
+    "territory": "South",
+    "accountCount": 1,
+    "city": "Coconut Grove",
+    "latitude": 25.7392488,
+    "longitude": -80.226402
+  },
+  {
+    "zip": "33155",
+    "territory": "South",
+    "accountCount": 8,
+    "city": "Miami",
+    "latitude": 25.735949287500002,
+    "longitude": -80.2975570625
+  },
+  {
+    "zip": "33146",
+    "territory": "South",
+    "accountCount": 2,
+    "city": "Miami",
+    "latitude": 25.73063355,
+    "longitude": -80.2742773
+  },
+  {
+    "zip": "33133",
+    "territory": "South",
+    "accountCount": 10,
+    "city": "Coconut Grove",
+    "latitude": 25.726831070000003,
+    "longitude": -80.24194899999999
+  },
+  {
+    "zip": "33185",
+    "territory": "South",
+    "accountCount": 1,
+    "city": "Miami",
+    "latitude": 25.723132,
+    "longitude": -80.4371939
+  },
+  {
+    "zip": "33143",
+    "territory": "South",
+    "accountCount": 11,
+    "city": "Miami",
+    "latitude": 25.703374990909094,
+    "longitude": -80.29073036363637
+  },
+  {
+    "zip": "33183",
+    "territory": "South",
+    "accountCount": 1,
+    "city": "Miami",
+    "latitude": 25.694274,
+    "longitude": -80.4195902
+  },
+  {
+    "zip": "33149",
+    "territory": "South",
+    "accountCount": 35,
+    "city": "Key Biscayne",
+    "latitude": 25.689925382857144,
+    "longitude": -80.16923668857142
+  },
+  {
+    "zip": "33196",
+    "territory": "South",
+    "accountCount": 1,
+    "city": "Miami",
+    "latitude": 25.6765755,
+    "longitude": -80.45486679999999
+  },
+  {
+    "zip": "33156",
+    "territory": "South",
+    "accountCount": 12,
+    "city": "Miami",
+    "latitude": 25.672829158333332,
+    "longitude": -80.29722592499999
+  },
+  {
+    "zip": "33176",
+    "territory": "South",
+    "accountCount": 8,
+    "city": "Miami",
+    "latitude": 25.660693000000002,
+    "longitude": -80.3561407375
+  },
+  {
+    "zip": "33158",
+    "territory": "South",
+    "accountCount": 5,
+    "city": "Miami",
+    "latitude": 25.635386920000002,
+    "longitude": -80.31810734
+  },
+  {
+    "zip": "33157",
+    "territory": "South",
+    "accountCount": 3,
+    "city": "Miami",
+    "latitude": 25.62380943333333,
+    "longitude": -80.32755346666667
+  },
+  {
+    "zip": "33187",
+    "territory": "South",
+    "accountCount": 1,
+    "city": "Miami",
+    "latitude": 25.619759,
+    "longitude": -80.4307553
+  },
+  {
+    "zip": "33177",
+    "territory": "South",
+    "accountCount": 1,
+    "city": "Miami",
+    "latitude": 25.594364,
+    "longitude": -80.3853697
+  },
+  {
+    "zip": "33190",
+    "territory": "South",
+    "accountCount": 1,
+    "city": "Cutler Bay",
+    "latitude": 25.5593548,
+    "longitude": -80.3452376
+  }
+]
