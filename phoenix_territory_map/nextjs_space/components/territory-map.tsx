@@ -44,6 +44,7 @@ import { LocationSelector } from './location-selector'
 import { TerritoryData, AreaFilter, AreaStats } from '@/lib/types'
 import { LoadingState } from './loading-state'
 import { EmptyState } from './empty-state'
+import { MiamiFilterBar } from './miami-filter-bar'
 
 type ViewMode = 'territory' | 'kmlScenario' | 'assignmentTool' | 'miamiFinal' | 'miami10pct' | 'miamiZipOptimized' | 'miamiZipOptimized2' | 'radicalReroute' | 'miamiCommercialRoutes' | 'miamiFutureCommercialRoutes' | 'density' | 'market' | 'revenue' | 'employees' | 'commercial' | 'routes' | 'lookup' | 'ancillarySales' | 'jaxRevenue' | 'jaxCommercial' | 'jaxRoutes' | 'locRevenue' | 'locCommercial' | 'locRoutes'
 type DensityMode = 'active' | 'terminated' | 'both' | 'lifetime'
@@ -721,69 +722,13 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
               </Card>
 
               {/* Miami Territory Filters */}
-              <Card className="bg-white/80 backdrop-blur-sm border-0 shadow-lg">
-                <CardContent className="p-6">
-                  <div className="flex flex-col lg:flex-row gap-6">
-                    <div className="flex-1">
-                      <div className="flex items-center gap-2 mb-4">
-                        <Filter className="h-4 w-4 text-slate-600" />
-                        <span className="text-sm font-medium text-slate-700">Territory Filters</span>
-                      </div>
-                      <div className="flex flex-wrap gap-3">
-                        {Object.entries(miamiAreaFilter).map(([territory, isActive]) => {
-                          const territoryData = miamiData.filter(z => z.territory === territory);
-                          const accountCount = territoryData.reduce((sum, z) => sum + z.accountCount, 0);
-                          const color = territory === 'North' ? 'blue' : territory === 'Central' ? 'green' : 'orange';
-                          
-                          return (
-                            <button
-                              key={territory}
-                              className={`cursor-pointer px-4 py-3 rounded-md border transition-all hover:shadow-md flex flex-col items-start ${
-                                isActive 
-                                  ? `bg-${color}-500 hover:bg-${color}-600 text-white border-${color}-600` 
-                                  : 'bg-white hover:bg-slate-100 text-slate-700 border-slate-300'
-                              }`}
-                              style={{
-                                backgroundColor: isActive ? (
-                                  territory === 'North' ? '#3B82F6' : 
-                                  territory === 'Central' ? '#10B981' : 
-                                  '#F59E0B'
-                                ) : undefined,
-                                borderColor: isActive ? (
-                                  territory === 'North' ? '#3B82F6' : 
-                                  territory === 'Central' ? '#10B981' : 
-                                  '#F59E0B'
-                                ) : undefined
-                              }}
-                              onClick={() => toggleMiamiAreaFilter(territory as keyof typeof miamiAreaFilter)}
-                            >
-                              <div className="flex items-center gap-2 font-medium">
-                                {territory === 'North' && '🟦'}
-                                {territory === 'Central' && '🟩'}
-                                {territory === 'South' && '🟧'}
-                                APS Miami - {territory}
-                                <span className="text-xs">({territoryData.length})</span>
-                              </div>
-                              <div className={`text-[10px] italic mt-0.5 ${isActive ? 'text-white/80' : 'text-slate-500'}`}>
-                                {accountCount} accounts
-                              </div>
-                            </button>
-                          );
-                        })}
-                      </div>
-                    </div>
-                    <div className="lg:w-auto">
-                      <Button 
-                        onClick={resetMiamiFilters} 
-                        variant="outline"
-                        className="w-full lg:w-auto"
-                      >
-                        Reset Filters
-                      </Button>
-                    </div>
-                  </div>
-                </CardContent>
-              </Card>
+              <MiamiFilterBar
+                variant="detailed"
+                areaFilter={miamiAreaFilter}
+                data={miamiData}
+                onToggle={toggleMiamiAreaFilter}
+                onReset={resetMiamiFilters}
+              />
 
               {/* Miami Territory Map */}
               <MiamiTerritoryView areaFilter={miamiAreaFilter} />
@@ -932,41 +877,12 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
           {location === 'miami' ? (
             <>
               {/* Miami Area Filters */}
-              <Card className="bg-white/80 backdrop-blur-sm border-0 shadow-lg mb-4">
-                <CardContent className="p-4">
-                  <div className="flex items-center gap-4">
-                    <div className="flex items-center gap-2">
-                      <Filter className="h-4 w-4 text-slate-600" />
-                      <span className="text-sm font-medium text-slate-700">Territory Filters</span>
-                    </div>
-                    <div className="flex flex-wrap gap-2">
-                      {Object.entries(miamiAreaFilter).map(([area, isActive]) => (
-                        <Badge
-                          key={area}
-                          variant={isActive ? "default" : "outline"}
-                          className={`cursor-pointer px-4 py-2 transition-all hover:shadow-md ${
-                            area === 'North' && isActive ? 'bg-blue-500 hover:bg-blue-600' :
-                            area === 'Central' && isActive ? 'bg-green-500 hover:bg-green-600' :
-                            area === 'South' && isActive ? 'bg-amber-500 hover:bg-amber-600' :
-                            'hover:bg-slate-100'
-                          }`}
-                          onClick={() => toggleMiamiAreaFilter(area as keyof typeof miamiAreaFilter)}
-                        >
-                          APS Miami - {area}
-                        </Badge>
-                      ))}
-                    </div>
-                    <Button
-                      variant="ghost"
-                      size="sm"
-                      onClick={resetMiamiFilters}
-                      className="text-xs"
-                    >
-                      Reset
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
+              <MiamiFilterBar
+                className="mb-4"
+                areaFilter={miamiAreaFilter}
+                onToggle={toggleMiamiAreaFilter}
+                onReset={resetMiamiFilters}
+              />
               <MiamiZipScenarioView areaFilter={miamiAreaFilter} />
             </>
           ) : (
@@ -987,41 +903,12 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
           {location === 'miami' ? (
             <>
               {/* Miami Area Filters */}
-              <Card className="bg-white/80 backdrop-blur-sm border-0 shadow-lg mb-4">
-                <CardContent className="p-4">
-                  <div className="flex items-center gap-4">
-                    <div className="flex items-center gap-2">
-                      <Filter className="h-4 w-4 text-slate-600" />
-                      <span className="text-sm font-medium text-slate-700">Territory Filters</span>
-                    </div>
-                    <div className="flex flex-wrap gap-2">
-                      {Object.entries(miamiAreaFilter).map(([area, isActive]) => (
-                        <Badge
-                          key={area}
-                          variant={isActive ? "default" : "outline"}
-                          className={`cursor-pointer px-4 py-2 transition-all hover:shadow-md ${
-                            area === 'North' && isActive ? 'bg-blue-500 hover:bg-blue-600' :
-                            area === 'Central' && isActive ? 'bg-green-500 hover:bg-green-600' :
-                            area === 'South' && isActive ? 'bg-amber-500 hover:bg-amber-600' :
-                            'hover:bg-slate-100'
-                          }`}
-                          onClick={() => toggleMiamiAreaFilter(area as keyof typeof miamiAreaFilter)}
-                        >
-                          APS Miami - {area}
-                        </Badge>
-                      ))}
-                    </div>
-                    <Button
-                      variant="ghost"
-                      size="sm"
-                      onClick={resetMiamiFilters}
-                      className="text-xs"
-                    >
-                      Reset
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
+              <MiamiFilterBar
+                className="mb-4"
+                areaFilter={miamiAreaFilter}
+                onToggle={toggleMiamiAreaFilter}
+                onReset={resetMiamiFilters}
+              />
               <MiamiFinalTerritoryView areaFilter={miamiAreaFilter} />
             </>
           ) : (
@@ -1042,41 +929,12 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
           {location === 'miami' ? (
             <>
               {/* Miami Area Filters */}
-              <Card className="bg-white/80 backdrop-blur-sm border-0 shadow-lg mb-4">
-                <CardContent className="p-4">
-                  <div className="flex items-center gap-4">
-                    <div className="flex items-center gap-2">
-                      <Filter className="h-4 w-4 text-slate-600" />
-                      <span className="text-sm font-medium text-slate-700">Territory Filters</span>
-                    </div>
-                    <div className="flex flex-wrap gap-2">
-                      {Object.entries(miamiAreaFilter).map(([area, isActive]) => (
-                        <Badge
-                          key={area}
-                          variant={isActive ? "default" : "outline"}
-                          className={`cursor-pointer px-4 py-2 transition-all hover:shadow-md ${
-                            area === 'North' && isActive ? 'bg-blue-500 hover:bg-blue-600' :
-                            area === 'Central' && isActive ? 'bg-green-500 hover:bg-green-600' :
-                            area === 'South' && isActive ? 'bg-amber-500 hover:bg-amber-600' :
-                            'hover:bg-slate-100'
-                          }`}
-                          onClick={() => toggleMiamiAreaFilter(area as keyof typeof miamiAreaFilter)}
-                        >
-                          APS Miami - {area}
-                        </Badge>
-                      ))}
-                    </div>
-                    <Button
-                      variant="ghost"
-                      size="sm"
-                      onClick={resetMiamiFilters}
-                      className="text-xs"
-                    >
-                      Reset
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
+              <MiamiFilterBar
+                className="mb-4"
+                areaFilter={miamiAreaFilter}
+                onToggle={toggleMiamiAreaFilter}
+                onReset={resetMiamiFilters}
+              />
               <Miami10PctReassignmentView areaFilter={miamiAreaFilter} />
             </>
           ) : (
@@ -1097,41 +955,12 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
           {location === 'miami' ? (
             <>
               {/* Miami Area Filters */}
-              <Card className="bg-white/80 backdrop-blur-sm border-0 shadow-lg mb-4">
-                <CardContent className="p-4">
-                  <div className="flex items-center gap-4">
-                    <div className="flex items-center gap-2">
-                      <Filter className="h-4 w-4 text-slate-600" />
-                      <span className="text-sm font-medium text-slate-700">Territory Filters</span>
-                    </div>
-                    <div className="flex flex-wrap gap-2">
-                      {Object.entries(miamiAreaFilter).map(([area, isActive]) => (
-                        <Badge
-                          key={area}
-                          variant={isActive ? "default" : "outline"}
-                          className={`cursor-pointer px-4 py-2 transition-all hover:shadow-md ${
-                            area === 'North' && isActive ? 'bg-blue-500 hover:bg-blue-600' :
-                            area === 'Central' && isActive ? 'bg-green-500 hover:bg-green-600' :
-                            area === 'South' && isActive ? 'bg-amber-500 hover:bg-amber-600' :
-                            'hover:bg-slate-100'
-                          }`}
-                          onClick={() => toggleMiamiAreaFilter(area as keyof typeof miamiAreaFilter)}
-                        >
-                          APS Miami - {area}
-                        </Badge>
-                      ))}
-                    </div>
-                    <Button
-                      variant="ghost"
-                      size="sm"
-                      onClick={resetMiamiFilters}
-                      className="text-xs"
-                    >
-                      Reset
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
+              <MiamiFilterBar
+                className="mb-4"
+                areaFilter={miamiAreaFilter}
+                onToggle={toggleMiamiAreaFilter}
+                onReset={resetMiamiFilters}
+              />
               <MiamiZipOptimizedView areaFilter={miamiAreaFilter} />
             </>
           ) : (
@@ -1152,41 +981,12 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
           {location === 'miami' ? (
             <>
               {/* Miami Area Filters */}
-              <Card className="bg-white/80 backdrop-blur-sm border-0 shadow-lg mb-4">
-                <CardContent className="p-4">
-                  <div className="flex items-center gap-4">
-                    <div className="flex items-center gap-2">
-                      <Filter className="h-4 w-4 text-slate-600" />
-                      <span className="text-sm font-medium text-slate-700">Territory Filters</span>
-                    </div>
-                    <div className="flex flex-wrap gap-2">
-                      {Object.entries(miamiAreaFilter).map(([area, isActive]) => (
-                        <Badge
-                          key={area}
-                          variant={isActive ? "default" : "outline"}
-                          className={`cursor-pointer px-4 py-2 transition-all hover:shadow-md ${
-                            area === 'North' && isActive ? 'bg-blue-500 hover:bg-blue-600' :
-                            area === 'Central' && isActive ? 'bg-green-500 hover:bg-green-600' :
-                            area === 'South' && isActive ? 'bg-amber-500 hover:bg-amber-600' :
-                            'hover:bg-slate-100'
-                          }`}
-                          onClick={() => toggleMiamiAreaFilter(area as keyof typeof miamiAreaFilter)}
-                        >
-                          APS Miami - {area}
-                        </Badge>
-                      ))}
-                    </div>
-                    <Button
-                      variant="ghost"
-                      size="sm"
-                      onClick={resetMiamiFilters}
-                      className="text-xs"
-                    >
-                      Reset
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
+              <MiamiFilterBar
+                className="mb-4"
+                areaFilter={miamiAreaFilter}
+                onToggle={toggleMiamiAreaFilter}
+                onReset={resetMiamiFilters}
+              />
               <MiamiZipOptimized2View areaFilter={miamiAreaFilter} />
             </>
           ) : (
@@ -1207,41 +1007,12 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
           {location === 'miami' ? (
             <>
               {/* Miami Area Filters */}
-              <Card className="bg-white/80 backdrop-blur-sm border-0 shadow-lg mb-4">
-                <CardContent className="p-4">
-                  <div className="flex items-center gap-4">
-                    <div className="flex items-center gap-2">
-                      <Filter className="h-4 w-4 text-slate-600" />
-                      <span className="text-sm font-medium text-slate-700">Territory Filters</span>
-                    </div>
-                    <div className="flex flex-wrap gap-2">
-                      {Object.entries(miamiAreaFilter).map(([area, isActive]) => (
-                        <Badge
-                          key={area}
-                          variant={isActive ? "default" : "outline"}
-                          className={`cursor-pointer px-4 py-2 transition-all hover:shadow-md ${
-                            area === 'North' && isActive ? 'bg-blue-500 hover:bg-blue-600' :
-                            area === 'Central' && isActive ? 'bg-green-500 hover:bg-green-600' :
-                            area === 'South' && isActive ? 'bg-amber-500 hover:bg-amber-600' :
-                            'hover:bg-slate-100'
-                          }`}
-                          onClick={() => toggleMiamiAreaFilter(area as keyof typeof miamiAreaFilter)}
-                        >
-                          APS Miami - {area}
-                        </Badge>
-                      ))}
-                    </div>
-                    <Button
-                      variant="ghost"
-                      size="sm"
-                      onClick={resetMiamiFilters}
-                      className="text-xs"
-                    >
-                      Reset
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
+              <MiamiFilterBar
+                className="mb-4"
+                areaFilter={miamiAreaFilter}
+                onToggle={toggleMiamiAreaFilter}
+                onReset={resetMiamiFilters}
+              />
               <MiamiRadicalRerouteView areaFilter={miamiAreaFilter} />
             </>
           ) : (
