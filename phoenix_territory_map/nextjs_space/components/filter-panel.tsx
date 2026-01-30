@@ -12,6 +12,7 @@ import { Card, CardContent } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Filter } from 'lucide-react'
+import { getLocationConfig, getTerritories, getTerritoryColor } from '@/config/locations.config'
 
 // ---------------------------------------------------------------------------
 // Types
@@ -40,100 +41,68 @@ export interface FilterPanelProps {
 }
 
 // ---------------------------------------------------------------------------
-// Default Filter Configurations
+// Dynamic Filter Configuration Helpers
 // ---------------------------------------------------------------------------
 
-// Arizona territories with Phoenix branding and colors matching the map
-export const ARIZONA_FILTER_CONFIGS: FilterConfig[] = [
-  {
-    key: 'West',
-    label: 'Phoenix West',
-    emoji: '🟦',
-    activeColor: 'bg-blue-500 hover:bg-blue-600',
-    hoverColor: 'hover:bg-blue-50',
-  },
-  {
-    key: 'Central',
-    label: 'Phoenix Central',
-    emoji: '🟩',
-    activeColor: 'bg-green-500 hover:bg-green-600',
-    hoverColor: 'hover:bg-green-50',
-  },
-  {
-    key: 'East',
-    label: 'Phoenix East',
-    emoji: '🟧',
-    activeColor: 'bg-orange-500 hover:bg-orange-600',
-    hoverColor: 'hover:bg-orange-50',
-  },
-  {
-    key: 'Tucson',
-    label: 'Tucson',
-    emoji: '🟪',
-    activeColor: 'bg-purple-500 hover:bg-purple-600',
-    hoverColor: 'hover:bg-purple-50',
-  },
-  {
-    key: 'Commercial',
-    label: 'Commercial',
-    emoji: '🏢',
-    activeColor: 'bg-amber-500 hover:bg-amber-600',
-    hoverColor: 'hover:bg-amber-50',
-  },
-]
+/**
+ * Convert hex color to Tailwind CSS classes
+ */
+function hexToTailwindClasses(hexColor: string) {
+  // Map common hex colors to Tailwind classes
+  const colorMap: Record<string, { active: string; hover: string }> = {
+    '#3B82F6': { active: 'bg-blue-500 hover:bg-blue-600', hover: 'hover:bg-blue-50' },
+    '#10B981': { active: 'bg-green-500 hover:bg-green-600', hover: 'hover:bg-green-50' },
+    '#F59E0B': { active: 'bg-orange-500 hover:bg-orange-600', hover: 'hover:bg-orange-50' },
+    '#A855F7': { active: 'bg-purple-500 hover:bg-purple-600', hover: 'hover:bg-purple-50' },
+    '#FBBF24': { active: 'bg-amber-500 hover:bg-amber-600', hover: 'hover:bg-amber-50' },
+    '#EF4444': { active: 'bg-red-500 hover:bg-red-600', hover: 'hover:bg-red-50' },
+    '#06B6D4': { active: 'bg-cyan-500 hover:bg-cyan-600', hover: 'hover:bg-cyan-50' },
+  }
 
-// Miami areas with territory-specific colors
-export const MIAMI_FILTER_CONFIGS: FilterConfig[] = [
-  {
-    key: 'North',
-    label: 'Miami North',
-    emoji: '🟦',
-    activeColor: 'bg-blue-500 hover:bg-blue-600',
-    hoverColor: 'hover:bg-blue-50',
-  },
-  {
-    key: 'Central',
-    label: 'Miami Central',
-    emoji: '🟩',
-    activeColor: 'bg-green-500 hover:bg-green-600',
-    hoverColor: 'hover:bg-green-50',
-  },
-  {
-    key: 'South',
-    label: 'Miami South',
-    emoji: '🟧',
-    activeColor: 'bg-orange-500 hover:bg-orange-600',
-    hoverColor: 'hover:bg-orange-50',
-  },
-]
+  return colorMap[hexColor] || { active: 'bg-slate-500 hover:bg-slate-600', hover: 'hover:bg-slate-50' }
+}
 
-// Generic areas (fallback for other locations)
-export const GENERIC_FILTER_CONFIGS: FilterConfig[] = [
-  {
-    key: 'all',
-    label: 'All Areas',
-    emoji: '🗺️',
-    activeColor: 'bg-slate-500 hover:bg-slate-600',
-    hoverColor: 'hover:bg-slate-50',
-  },
-]
+/**
+ * Generate filter configs from location territories
+ */
+export function generateFilterConfigsFromLocation(locationKey: string): FilterConfig[] {
+  const territories = getTerritories(locationKey)
+
+  if (territories.length === 0) {
+    return [{
+      key: 'all',
+      label: 'All Areas',
+      emoji: '🗺️',
+      activeColor: 'bg-slate-500 hover:bg-slate-600',
+      hoverColor: 'hover:bg-slate-50',
+    }]
+  }
+
+  const emojiList = ['🟦', '🟩', '🟧', '🟪', '🟨', '🟫', '⬛', '⬜']
+
+  return territories.map((territory, index) => {
+    const colors = hexToTailwindClasses(territory.color)
+    const emoji = territory.key === 'Commercial' ? '🏢' : emojiList[index % emojiList.length]
+
+    return {
+      key: territory.key,
+      label: territory.label,
+      emoji,
+      activeColor: colors.active,
+      hoverColor: colors.hover,
+    }
+  })
+}
 
 // ---------------------------------------------------------------------------
 // Helper Functions
 // ---------------------------------------------------------------------------
 
 /**
- * Get appropriate filter configs based on location.
+ * Get appropriate filter configs based on location (config-driven).
  */
 export function getFilterConfigs(location: string): FilterConfig[] {
-  switch (location) {
-    case 'arizona':
-      return ARIZONA_FILTER_CONFIGS
-    case 'miami':
-      return MIAMI_FILTER_CONFIGS
-    default:
-      return GENERIC_FILTER_CONFIGS
-  }
+  return generateFilterConfigsFromLocation(location)
 }
 
 /**
@@ -222,7 +191,33 @@ export function FilterPanel({
 // ---------------------------------------------------------------------------
 
 /**
- * Arizona-specific filter panel with pre-configured territory colors.
+ * Location-specific filter panel with config-driven territory colors.
+ */
+export function LocationFilterPanel({
+  location,
+  filters,
+  onToggleFilter,
+  onResetFilters,
+  className
+}: Omit<FilterPanelProps, 'filterConfigs'> & { location: string }) {
+  const config = getLocationConfig(location)
+  const filterConfigs = generateFilterConfigsFromLocation(location)
+
+  return (
+    <FilterPanel
+      title={`${config.shortLabel} Territory Filters`}
+      filters={filters}
+      onToggleFilter={onToggleFilter}
+      onResetFilters={onResetFilters}
+      filterConfigs={filterConfigs}
+      className={className}
+    />
+  )
+}
+
+/**
+ * Arizona-specific filter panel (legacy compatibility).
+ * @deprecated Use LocationFilterPanel with location="arizona" instead
  */
 export function ArizonaFilterPanel({
   filters,
@@ -231,19 +226,19 @@ export function ArizonaFilterPanel({
   className
 }: Omit<FilterPanelProps, 'filterConfigs'>) {
   return (
-    <FilterPanel
-      title="Arizona Territory Filters"
+    <LocationFilterPanel
+      location="arizona"
       filters={filters}
       onToggleFilter={onToggleFilter}
       onResetFilters={onResetFilters}
-      filterConfigs={ARIZONA_FILTER_CONFIGS}
       className={className}
     />
   )
 }
 
 /**
- * Miami-specific filter panel with pre-configured area colors.
+ * Miami-specific filter panel (legacy compatibility).
+ * @deprecated Use LocationFilterPanel with location="miami" instead
  */
 export function MiamiFilterPanel({
   filters,
@@ -252,12 +247,11 @@ export function MiamiFilterPanel({
   className
 }: Omit<FilterPanelProps, 'filterConfigs'>) {
   return (
-    <FilterPanel
-      title="Miami Area Filters"
+    <LocationFilterPanel
+      location="miami"
       filters={filters}
       onToggleFilter={onToggleFilter}
       onResetFilters={onResetFilters}
-      filterConfigs={MIAMI_FILTER_CONFIGS}
       className={className}
     />
   )

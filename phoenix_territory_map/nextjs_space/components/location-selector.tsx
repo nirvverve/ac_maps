@@ -2,6 +2,7 @@
 
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Label } from '@/components/ui/label';
+import { getAllLocationKeys, getLocationConfig } from '@/config/locations.config';
 
 interface LocationSelectorProps {
   selectedLocation: string;
@@ -19,12 +20,14 @@ export function LocationSelector({ selectedLocation, onLocationChange }: Locatio
           <SelectValue placeholder="Select location" />
         </SelectTrigger>
         <SelectContent>
-          <SelectItem value="arizona">Phoenix / Tucson AZ</SelectItem>
-          <SelectItem value="dallas">Dallas TX</SelectItem>
-          <SelectItem value="orlando">Orlando FL</SelectItem>
-          <SelectItem value="jacksonville">Jacksonville FL</SelectItem>
-          <SelectItem value="portCharlotte">Port Charlotte FL</SelectItem>
-          <SelectItem value="miami">Miami FL</SelectItem>
+          {getAllLocationKeys().map(locationKey => {
+            const config = getLocationConfig(locationKey)
+            return (
+              <SelectItem key={locationKey} value={locationKey}>
+                {config.label}
+              </SelectItem>
+            )
+          })}
         </SelectContent>
       </Select>
     </div>

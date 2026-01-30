@@ -41,20 +41,21 @@ import MarketSizeStats from './market-size-stats'
 import TerritoryLegend from './territory-legend'
 import TerritoryStats from './territory-stats'
 import { LocationSelector } from './location-selector'
-import { TerritoryData, AreaFilter, AreaStats } from '@/lib/types'
+import { TerritoryData, AreaFilter, AreaStats, LocationConfig, ViewModeKey } from '@/lib/types'
 import { LoadingState } from './loading-state'
 import { EmptyState } from './empty-state'
 import { MiamiFilterBar } from './miami-filter-bar'
 import { FilterProvider } from '@/contexts/filter-context'
 import { TerritoryProvider } from '@/contexts/territory-context'
 import { getViewComponent, ViewMode } from '@/lib/view-registry'
+import { getLocationConfig, getDataEndpoint, getTerritories, locationSupportsView } from '@/config/locations.config'
 
 type DensityMode = 'active' | 'terminated' | 'both' | 'lifetime'
-type Location = 'arizona' | 'miami' | 'dallas' | 'orlando' | 'jacksonville' | 'portCharlotte'
+type LocationKey = string
 
 interface TerritoryMapProps {
-  location: Location
-  onLocationChange: (location: Location) => void
+  location: LocationKey
+  onLocationChange: (location: LocationKey) => void
 }
 
 export default function TerritoryMap({ location, onLocationChange }: TerritoryMapProps) {
@@ -65,13 +66,16 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
   const [accountType, setAccountType] = useState<'residential' | 'commercial'>('residential')
   const [territoryData, setTerritoryData] = useState<TerritoryData[]>([])
   const [filteredData, setFilteredData] = useState<TerritoryData[]>([])
-  const [areaFilter, setAreaFilter] = useState<AreaFilter>({
-    West: true,
-    Central: true,
-    East: true,
-    Tucson: true,
-    Commercial: true
-  })
+  // Dynamic area filter based on location config
+  const getInitialAreaFilter = (currentLocation: LocationKey) => {
+    const config = getLocationConfig(currentLocation)
+    const filter: Record<string, boolean> = {}
+    config.territories.forEach(territory => {
+      filter[territory.key] = true
+    })
+    return filter
+  }
+  const [areaFilter, setAreaFilter] = useState<Record<string, boolean>>(() => getInitialAreaFilter(location))
   const [miamiAreaFilter, setMiamiAreaFilter] = useState<{
     North: boolean;
     Central: boolean;
@@ -88,6 +92,12 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
 
   useEffect(() => {
     loadTerritoryData()
+    // Reset area filter when location changes
+    setAreaFilter(getInitialAreaFilter(location))
+  }, [location])
+
+  useEffect(() => {
+    loadTerritoryData()
   }, [])
 
   useEffect(() => {
@@ -98,29 +108,38 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
 
   useEffect(() => {
     if (territoryData?.length) {
-      const filtered = territoryData.filter(item => 
-        areaFilter?.[item?.area as keyof AreaFilter] === true
+      const filtered = territoryData.filter(item =>
+        areaFilter?.[item?.area] === true
       )
       setFilteredData(filtered)
       calculateStats(territoryData)
     }
-  }, [territoryData, areaFilter])
+  }, [territoryData, areaFilter, location])
 
   const loadTerritoryData = async () => {
     try {
       setLoading(true)
-      console.log('📊 Starting to load territory data...')
-      const response = await fetch('/phoenix-tucson-map-data.json')
+      console.log('📊 Starting to load territory data for location:', location)
+
+      // Get data endpoint from location config
+      const endpoint = getDataEndpoint(location, 'territory')
+      if (!endpoint) {
+        console.log('📊 No territory endpoint configured for location:', location)
+        setTerritoryData([])
+        return
+      }
+
+      const response = await fetch(endpoint)
       console.log('📊 Fetch response received:', response?.status, response?.ok)
-      if (!response?.ok) throw new Error('Failed to load territory data')
-      
+      if (!response?.ok) throw new Error(`Failed to load territory data from ${endpoint}`)
+
       const data = await response.json()
       console.log('📊 Data loaded successfully:', data?.length, 'records')
       setTerritoryData(data || [])
       console.log('📊 State updated with data')
     } catch (error) {
       console.error('❌ Error loading territory data:', error)
-      setError('Failed to load territory data')
+      setError(`Failed to load territory data: ${error}`)
     } finally {
       setLoading(false)
       console.log('📊 Loading complete')
@@ -129,35 +148,47 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
 
   const loadMiamiData = async () => {
     try {
-      const response = await fetch('/miami-map-data.json')
-      if (!response?.ok) throw new Error('Failed to load Miami data')
+      // Get customers endpoint from location config
+      const endpoint = getDataEndpoint(location, 'customers')
+      if (!endpoint) {
+        console.log('📊 No customers endpoint configured for location:', location)
+        setMiamiData([])
+        return
+      }
+
+      const response = await fetch(endpoint)
+      if (!response?.ok) throw new Error(`Failed to load location data from ${endpoint}`)
       const data = await response.json()
       setMiamiData(data || [])
+      console.log('📊 Location data loaded successfully:', data?.length, 'records')
     } catch (error) {
-      console.error('❌ Error loading Miami data:', error)
+      console.error('❌ Error loading location data:', error)
+      setMiamiData([])
     }
   }
 
   const calculateStats = (data: TerritoryData[]) => {
-    const stats: AreaStats = {
-      West: { zipCodes: 0, totalAccounts: 0 },
-      Central: { zipCodes: 0, totalAccounts: 0 },
-      East: { zipCodes: 0, totalAccounts: 0 },
-      Tucson: { zipCodes: 0, totalAccounts: 0 }
-    }
+    // Dynamic stats based on location's territories
+    const config = getLocationConfig(location)
+    const stats: Record<string, { zipCodes: number; totalAccounts: number }> = {}
+
+    // Initialize stats for all territories
+    config.territories.forEach(territory => {
+      stats[territory.key] = { zipCodes: 0, totalAccounts: 0 }
+    })
 
     data?.forEach(item => {
-      const area = item?.area as keyof AreaStats
-      if (stats?.[area]) {
+      const area = item?.area
+      if (area && stats[area]) {
         stats[area].zipCodes += 1
         stats[area].totalAccounts += item?.accounts || 0
       }
     })
 
-    setAreaStats(stats)
+    setAreaStats(stats as AreaStats)
   }
 
-  const toggleAreaFilter = (area: keyof AreaFilter) => {
+  const toggleAreaFilter = (area: string) => {
     setAreaFilter(prev => ({
       ...prev,
       [area]: !prev?.[area]
@@ -165,13 +196,7 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
   }
 
   const resetFilters = () => {
-    setAreaFilter({
-      West: true,
-      Central: true,
-      East: true,
-      Tucson: true,
-      Commercial: true
-    })
+    setAreaFilter(getInitialAreaFilter(location))
   }
 
   const toggleMiamiAreaFilter = (area: keyof typeof miamiAreaFilter) => {
@@ -191,12 +216,21 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
 
   // Memoized callback for routes view territory changes to prevent infinite loops
   const handleRouteAreaChange = useCallback((area: string) => {
+    const config = getLocationConfig(location)
     if (area === 'all') {
-      setAreaFilter({ West: true, Central: true, East: true, Tucson: true, Commercial: true });
+      const allTrueFilter: Record<string, boolean> = {}
+      config.territories.forEach(territory => {
+        allTrueFilter[territory.key] = true
+      })
+      setAreaFilter(allTrueFilter)
     } else {
-      setAreaFilter({ West: false, Central: false, East: false, Tucson: false, Commercial: false, [area]: true });
+      const singleAreaFilter: Record<string, boolean> = {}
+      config.territories.forEach(territory => {
+        singleAreaFilter[territory.key] = territory.key === area
+      })
+      setAreaFilter(singleAreaFilter)
     }
-  }, []);
+  }, [location]);
 
   if (loading) {
     return <LoadingState message="Loading territory data..." />
