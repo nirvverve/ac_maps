@@ -84,6 +84,32 @@ export type ViewModeKey =
   | 'locCommercial'
   | 'locRoutes'
 
+// ---------------------------------------------------------------------------
+// Density Color Configuration Types (bd-h1b)
+// ---------------------------------------------------------------------------
+
+export interface ColorThreshold {
+  min: number
+  max: number
+  color: string
+}
+
+export interface ThresholdScale {
+  thresholds: ColorThreshold[]
+}
+
+export interface AccountTypeThresholds {
+  residential: ThresholdScale
+  commercial?: ThresholdScale  // Optional - some locations may only have residential
+}
+
+export interface DensityColorThresholds {
+  active: AccountTypeThresholds
+  terminated: AccountTypeThresholds
+  lifetime: ThresholdScale  // Lifetime is not split by account type
+  churn: ThresholdScale     // Churn rate is not split by account type
+}
+
 export interface LocationConfig {
   key: string
   label: string
@@ -94,4 +120,5 @@ export interface LocationConfig {
   availableViews: ViewModeKey[]
   dataEndpoints: DataEndpoints
   hasActiveTerritoryBreakup: boolean
+  colorThresholds: DensityColorThresholds
 }

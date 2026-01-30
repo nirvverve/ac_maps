@@ -6,6 +6,7 @@ import { GoogleMap, InfoWindowF, PolygonF, MarkerF } from '@react-google-maps/ap
 import { Card } from '@/components/ui/card'
 import { Building2, MapPin } from 'lucide-react'
 import { getAreaDisplayName } from '@/lib/utils'
+import { getDensityColor } from '@/config/locations.config'
 
 interface DensityData {
   zipCode: string
@@ -296,218 +297,16 @@ export default function DensityMapView({ densityMode, areaFilter, location, acco
   }
 
   const getColor = (item: DensityData): string => {
+    // Use config-driven color lookup (bd-h1b: replaces 213-line if/else chain)
     if (densityMode === 'active') {
-      const count = item.activeCount
-      
-      // Miami Commercial scale (max 17 accounts)
-      if (location === 'miami' && accountType === 'commercial') {
-        if (count === 0) return '#f0fdf4'
-        if (count <= 2) return '#d1fae5'
-        if (count <= 4) return '#a7f3d0'
-        if (count <= 6) return '#6ee7b7'
-        if (count <= 9) return '#34d399'
-        if (count <= 12) return '#10b981'
-        if (count <= 15) return '#059669'
-        if (count <= 18) return '#047857'
-        return '#065f46'  // 18+
-      }
-      
-      // Miami Residential scale (max 124 accounts)
-      if (location === 'miami') {
-        if (count === 0) return '#f0fdf4'
-        if (count <= 10) return '#d1fae5'
-        if (count <= 20) return '#a7f3d0'
-        if (count <= 35) return '#6ee7b7'
-        if (count <= 50) return '#34d399'
-        if (count <= 75) return '#10b981'
-        if (count <= 100) return '#059669'
-        if (count <= 125) return '#047857'
-        return '#065f46'  // 125+
-      }
-      
-      // Dallas Commercial scale (max 2 accounts) - very granular
-      if (location === 'dallas' && accountType === 'commercial') {
-        if (count === 0) return '#f0fdf4'
-        if (count === 1) return '#6ee7b7'
-        return '#10b981'  // 2+
-      }
-      
-      // Dallas Residential scale (max 50 accounts) - similar to Arizona
-      if (location === 'dallas') {
-        if (count === 0) return '#f0fdf4'
-        if (count <= 5) return '#d1fae5'
-        if (count <= 10) return '#a7f3d0'
-        if (count <= 20) return '#6ee7b7'
-        if (count <= 30) return '#34d399'
-        if (count <= 40) return '#10b981'
-        if (count <= 50) return '#059669'
-        return '#047857'  // 50+
-      }
-      
-      // Orlando Commercial scale (max 9 accounts) - granular
-      if (location === 'orlando' && accountType === 'commercial') {
-        if (count === 0) return '#f0fdf4'
-        if (count <= 2) return '#d1fae5'
-        if (count <= 4) return '#6ee7b7'
-        if (count <= 6) return '#34d399'
-        if (count <= 9) return '#10b981'
-        return '#059669'  // 9+
-      }
-      
-      // Orlando Residential scale (max 93 accounts) - 8 categories
-      if (location === 'orlando') {
-        if (count === 0) return '#f0fdf4'
-        if (count <= 10) return '#d1fae5'
-        if (count <= 20) return '#a7f3d0'
-        if (count <= 35) return '#6ee7b7'
-        if (count <= 50) return '#34d399'
-        if (count <= 70) return '#10b981'
-        if (count <= 90) return '#059669'
-        return '#047857'  // 90+
-      }
-      
-      // Jacksonville Commercial scale (max 2 accounts) - minimal
-      if (location === 'jacksonville' && accountType === 'commercial') {
-        if (count === 0) return '#f0fdf4'
-        if (count === 1) return '#6ee7b7'
-        return '#10b981'  // 2+
-      }
-      
-      // Jacksonville Residential scale (max 130 accounts) - 8 categories
-      if (location === 'jacksonville') {
-        if (count === 0) return '#f0fdf4'
-        if (count <= 10) return '#d1fae5'
-        if (count <= 25) return '#a7f3d0'
-        if (count <= 40) return '#6ee7b7'
-        if (count <= 60) return '#34d399'
-        if (count <= 80) return '#10b981'
-        if (count <= 110) return '#059669'
-        return '#047857'  // 110+
-      }
-      
-      // Arizona scale (original)
-      if (count === 0) return '#f0fdf4'
-      if (count <= 5) return '#d1fae5'
-      if (count <= 15) return '#86efac'
-      if (count <= 30) return '#22c55e'
-      if (count <= 50) return '#16a34a'
-      return '#15803d'
+      return getDensityColor(location, 'active', item.activeCount, accountType)
     } else if (densityMode === 'terminated') {
-      const count = item.terminatedCount
-      
-      // Miami Commercial scale (max 23 accounts)
-      if (location === 'miami' && accountType === 'commercial') {
-        if (count === 0) return '#fef2f2'
-        if (count <= 3) return '#fecaca'
-        if (count <= 6) return '#fca5a5'
-        if (count <= 9) return '#f87171'
-        if (count <= 12) return '#ef4444'
-        if (count <= 15) return '#dc2626'
-        if (count <= 18) return '#b91c1c'
-        if (count <= 21) return '#991b1b'
-        return '#7f1d1d'  // 21+
-      }
-      
-      // Miami Residential scale
-      if (location === 'miami') {
-        if (count === 0) return '#fef2f2'
-        if (count <= 15) return '#fecaca'
-        if (count <= 30) return '#fca5a5'
-        if (count <= 50) return '#f87171'
-        if (count <= 75) return '#ef4444'
-        if (count <= 100) return '#dc2626'
-        if (count <= 150) return '#b91c1c'
-        if (count <= 200) return '#991b1b'
-        return '#7f1d1d'  // 200+
-      }
-      
-      // Dallas Commercial scale (max ~10 terminated) - very granular
-      if (location === 'dallas' && accountType === 'commercial') {
-        if (count === 0) return '#fef2f2'
-        if (count <= 2) return '#fecaca'
-        if (count <= 4) return '#fca5a5'
-        if (count <= 6) return '#f87171'
-        if (count <= 8) return '#ef4444'
-        return '#dc2626'  // 8+
-      }
-      
-      // Dallas Residential scale (assume similar to other markets)
-      if (location === 'dallas') {
-        if (count === 0) return '#fef2f2'
-        if (count <= 20) return '#fecaca'
-        if (count <= 40) return '#fca5a5'
-        if (count <= 60) return '#f87171'
-        if (count <= 80) return '#ef4444'
-        if (count <= 100) return '#dc2626'
-        if (count <= 150) return '#b91c1c'
-        return '#991b1b'  // 150+
-      }
-      
-      // Orlando Commercial scale (max ~50 terminated) - granular
-      if (location === 'orlando' && accountType === 'commercial') {
-        if (count === 0) return '#fef2f2'
-        if (count <= 5) return '#fecaca'
-        if (count <= 10) return '#fca5a5'
-        if (count <= 15) return '#f87171'
-        if (count <= 20) return '#ef4444'
-        if (count <= 30) return '#dc2626'
-        return '#b91c1c'  // 30+
-      }
-      
-      // Orlando Residential scale (max ~100 terminated) - 7 categories
-      if (location === 'orlando') {
-        if (count === 0) return '#fef2f2'
-        if (count <= 10) return '#fecaca'
-        if (count <= 20) return '#fca5a5'
-        if (count <= 30) return '#f87171'
-        if (count <= 50) return '#ef4444'
-        if (count <= 75) return '#dc2626'
-        if (count <= 100) return '#b91c1c'
-        return '#991b1b'  // 100+
-      }
-      
-      // Jacksonville Commercial scale - NO terminated accounts
-      if (location === 'jacksonville' && accountType === 'commercial') {
-        return '#fef2f2'  // Always lightest (0 terminated)
-      }
-      
-      // Jacksonville Residential scale (max ~50 terminated) - 6 categories
-      if (location === 'jacksonville') {
-        if (count === 0) return '#fef2f2'
-        if (count <= 5) return '#fecaca'
-        if (count <= 10) return '#fca5a5'
-        if (count <= 20) return '#f87171'
-        if (count <= 30) return '#ef4444'
-        if (count <= 50) return '#dc2626'
-        return '#b91c1c'  // 50+
-      }
-      
-      // Arizona scale (original)
-      if (count === 0) return '#fef2f2'
-      if (count <= 20) return '#fecaca'
-      if (count <= 50) return '#fca5a5'
-      if (count <= 100) return '#f87171'
-      if (count <= 200) return '#dc2626'
-      return '#991b1b'
+      return getDensityColor(location, 'terminated', item.terminatedCount, accountType)
     } else if (densityMode === 'lifetime') {
-      // Customer Lifetime in months - higher is better (green)
-      const lifetime = item.avgCustomerLifetimeMonths || 0
-      if (lifetime === 0) return '#fef2f2'
-      if (lifetime < 12) return '#fbbf24'  // Less than 1 year - yellow
-      if (lifetime < 24) return '#a3e635'  // 1-2 years - lime
-      if (lifetime < 36) return '#86efac'  // 2-3 years - light green
-      if (lifetime < 60) return '#22c55e'  // 3-5 years - green
-      if (lifetime < 120) return '#16a34a' // 5-10 years - dark green
-      return '#15803d'                      // 10+ years - darkest green
+      return getDensityColor(location, 'lifetime', item.avgCustomerLifetimeMonths || 0)
     } else {
       // Churn rate
-      const rate = item.churnRate
-      if (rate === 0) return '#f0fdf4'
-      if (rate <= 50) return '#d1fae5'
-      if (rate <= 70) return '#fef3c7'
-      if (rate <= 85) return '#fbbf24'
-      if (rate <= 95) return '#f97316'
-      return '#991b1b'
+      return getDensityColor(location, 'churn', item.churnRate)
     }
   }
 
