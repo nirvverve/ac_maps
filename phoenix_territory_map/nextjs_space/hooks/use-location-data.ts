@@ -41,18 +41,25 @@ async function fetchLocationData<T = any>(
   dataType: keyof DataEndpoints
 ): Promise<T> {
   const endpoint = getDataEndpoint(location, dataType)
+  const dataTypeStr = String(dataType)
 
   if (!endpoint) {
-    throw new Error(`No ${dataType} endpoint configured for location: ${location}`)
+    throw new Error(`No ${dataTypeStr} endpoint configured for location: ${location}`)
   }
 
   const response = await fetch(endpoint)
 
   if (!response.ok) {
-    throw new Error(`Failed to fetch ${dataType} data for ${location}: ${response.status}`)
+    throw new Error(`Failed to fetch ${dataTypeStr} data for ${location}: ${response.status}`)
   }
 
-  return response.json()
+  // Validate JSON response
+  try {
+    const data = await response.json()
+    return data
+  } catch (error) {
+    throw new Error(`Invalid JSON response for ${dataTypeStr} data from ${location}`)
+  }
 }
 
 // ---------------------------------------------------------------------------

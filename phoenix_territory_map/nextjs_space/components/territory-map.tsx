@@ -93,15 +93,6 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
     return filter
   }
   const [areaFilter, setAreaFilter] = useState<Record<string, boolean>>(() => getInitialAreaFilter(location))
-  const [miamiAreaFilter, setMiamiAreaFilter] = useState<{
-    North: boolean;
-    Central: boolean;
-    South: boolean;
-  }>({
-    North: true,
-    Central: true,
-    South: true
-  })
   const [areaStats, setAreaStats] = useState<AreaStats | null>(null)
 
   // Computed loading and error states
@@ -156,19 +147,13 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
     setAreaFilter(getInitialAreaFilter(location))
   }
 
-  const toggleMiamiAreaFilter = (area: keyof typeof miamiAreaFilter) => {
-    setMiamiAreaFilter(prev => ({
-      ...prev,
-      [area]: !prev[area]
-    }))
+  // Legacy Miami filter functions now use unified area filter
+  const toggleMiamiAreaFilter = (area: string) => {
+    toggleAreaFilter(area)
   }
 
   const resetMiamiFilters = () => {
-    setMiamiAreaFilter({
-      North: true,
-      Central: true,
-      South: true
-    })
+    resetFilters()
   }
 
   // Memoized callback for routes view territory changes to prevent infinite loops
@@ -681,7 +666,7 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
         // Prepare props based on location and view
         const viewProps = {
           location,
-          areaFilter: location === 'miami' ? miamiAreaFilter : areaFilter,
+          areaFilter: location === 'miami' ? areaFilter : areaFilter,
           onAreaChange: location === 'miami' ? toggleMiamiAreaFilter : toggleAreaFilter,
           onResetFilters: location === 'miami' ? resetMiamiFilters : resetFilters,
           territoryData: filteredData,
@@ -709,14 +694,14 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
               {/* Miami Territory Filters */}
               <MiamiFilterBar
                 variant="detailed"
-                areaFilter={miamiAreaFilter}
+                areaFilter={areaFilter}
                 data={miamiData}
                 onToggle={toggleMiamiAreaFilter}
                 onReset={resetMiamiFilters}
               />
 
               {/* Miami Territory Map */}
-              <MiamiTerritoryView areaFilter={miamiAreaFilter} />
+              <MiamiTerritoryView areaFilter={areaFilter} />
             </>
           ) : (
             <>
@@ -843,7 +828,7 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
         <>
           {/* Miami KML Boundary Scenario */}
           {location === 'miami' ? (
-            <MiamiKMLScenarioView areaFilter={miamiAreaFilter} />
+            <MiamiKMLScenarioView areaFilter={areaFilter} />
           ) : (
             <Card className="max-w-md mx-auto">
               <CardContent className="p-6 text-center">
@@ -864,11 +849,11 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
               {/* Miami Area Filters */}
               <MiamiFilterBar
                 className="mb-4"
-                areaFilter={miamiAreaFilter}
+                areaFilter={areaFilter}
                 onToggle={toggleMiamiAreaFilter}
                 onReset={resetMiamiFilters}
               />
-              <MiamiZipScenarioView areaFilter={miamiAreaFilter} />
+              <MiamiZipScenarioView areaFilter={areaFilter} />
             </>
           ) : (
             <Card className="max-w-md mx-auto">
@@ -890,11 +875,11 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
               {/* Miami Area Filters */}
               <MiamiFilterBar
                 className="mb-4"
-                areaFilter={miamiAreaFilter}
+                areaFilter={areaFilter}
                 onToggle={toggleMiamiAreaFilter}
                 onReset={resetMiamiFilters}
               />
-              <MiamiFinalTerritoryView areaFilter={miamiAreaFilter} />
+              <MiamiFinalTerritoryView areaFilter={areaFilter} />
             </>
           ) : (
             <Card className="max-w-md mx-auto">
@@ -916,11 +901,11 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
               {/* Miami Area Filters */}
               <MiamiFilterBar
                 className="mb-4"
-                areaFilter={miamiAreaFilter}
+                areaFilter={areaFilter}
                 onToggle={toggleMiamiAreaFilter}
                 onReset={resetMiamiFilters}
               />
-              <Miami10PctReassignmentView areaFilter={miamiAreaFilter} />
+              <Miami10PctReassignmentView areaFilter={areaFilter} />
             </>
           ) : (
             <Card className="max-w-md mx-auto">
@@ -942,11 +927,11 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
               {/* Miami Area Filters */}
               <MiamiFilterBar
                 className="mb-4"
-                areaFilter={miamiAreaFilter}
+                areaFilter={areaFilter}
                 onToggle={toggleMiamiAreaFilter}
                 onReset={resetMiamiFilters}
               />
-              <MiamiZipOptimizedView areaFilter={miamiAreaFilter} />
+              <MiamiZipOptimizedView areaFilter={areaFilter} />
             </>
           ) : (
             <Card className="max-w-md mx-auto">
@@ -968,11 +953,11 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
               {/* Miami Area Filters */}
               <MiamiFilterBar
                 className="mb-4"
-                areaFilter={miamiAreaFilter}
+                areaFilter={areaFilter}
                 onToggle={toggleMiamiAreaFilter}
                 onReset={resetMiamiFilters}
               />
-              <MiamiZipOptimized2View areaFilter={miamiAreaFilter} />
+              <MiamiZipOptimized2View areaFilter={areaFilter} />
             </>
           ) : (
             <Card className="max-w-md mx-auto">
@@ -994,11 +979,11 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
               {/* Miami Area Filters */}
               <MiamiFilterBar
                 className="mb-4"
-                areaFilter={miamiAreaFilter}
+                areaFilter={areaFilter}
                 onToggle={toggleMiamiAreaFilter}
                 onReset={resetMiamiFilters}
               />
-              <MiamiRadicalRerouteView areaFilter={miamiAreaFilter} />
+              <MiamiRadicalRerouteView areaFilter={areaFilter} />
             </>
           ) : (
             <Card className="max-w-md mx-auto">

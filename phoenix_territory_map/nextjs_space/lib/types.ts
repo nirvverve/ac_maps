@@ -19,10 +19,7 @@ export interface AreaStat {
 }
 
 export interface AreaStats {
-  West: AreaStat
-  Central: AreaStat
-  East: AreaStat
-  Tucson: AreaStat
+  [territoryKey: string]: AreaStat
 }
 
 export interface MapMarkerData extends TerritoryData {
