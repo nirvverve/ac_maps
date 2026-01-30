@@ -45,6 +45,7 @@ import { TerritoryData, AreaFilter, AreaStats } from '@/lib/types'
 import { LoadingState } from './loading-state'
 import { EmptyState } from './empty-state'
 import { MiamiFilterBar } from './miami-filter-bar'
+import { FilterProvider } from '@/contexts/filter-context'
 
 type ViewMode = 'territory' | 'kmlScenario' | 'assignmentTool' | 'miamiFinal' | 'miami10pct' | 'miamiZipOptimized' | 'miamiZipOptimized2' | 'radicalReroute' | 'miamiCommercialRoutes' | 'miamiFutureCommercialRoutes' | 'density' | 'market' | 'revenue' | 'employees' | 'commercial' | 'routes' | 'lookup' | 'ancillarySales' | 'jaxRevenue' | 'jaxCommercial' | 'jaxRoutes' | 'locRevenue' | 'locCommercial' | 'locRoutes'
 type DensityMode = 'active' | 'terminated' | 'both' | 'lifetime'
@@ -221,8 +222,18 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
   const totalZipCodes = filteredData?.length || 0
 
   return (
-    <GoogleMapsProvider>
-      <div className="space-y-6">
+    <FilterProvider
+      value={{
+        areaFilter,
+        setAreaFilter,
+        densityMode,
+        setDensityMode,
+        accountType,
+        setAccountType,
+      }}
+    >
+      <GoogleMapsProvider>
+        <div className="space-y-6">
       {/* View Mode Toggle */}
       <Card className="bg-white/80 backdrop-blur-sm border-0 shadow-lg">
         <CardContent className="p-6">
@@ -1367,7 +1378,8 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
           <LocationRoutesView location={location} />
         </>
       ) : null}
-      </div>
-    </GoogleMapsProvider>
+        </div>
+      </GoogleMapsProvider>
+    </FilterProvider>
   )
 }
