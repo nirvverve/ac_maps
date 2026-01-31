@@ -3,8 +3,7 @@
 
 import { Card, CardContent } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
-import { Badge } from '@/components/ui/badge'
-import { Eye, EyeOff, Building2, Home } from 'lucide-react'
+import { Eye, Building2, Home } from 'lucide-react'
 
 interface DensityControlsProps {
   densityMode: 'active' | 'terminated' | 'both' | 'lifetime'

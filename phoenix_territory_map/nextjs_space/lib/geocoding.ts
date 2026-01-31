@@ -34,7 +34,7 @@ interface GeocodeResult {
 function hasCoordinates(record: GeocodableRecord): boolean {
   const lat = record.lat ?? record.latitude ?? record.Lat ?? record.Latitude
   const lng = record.lng ?? record.longitude ?? record.Lng ?? record.Longitude ?? record.lon ?? record.Lon
-  return lat != null && lng != null && !isNaN(Number(lat)) && !isNaN(Number(lng))
+  return lat !== null && lat !== undefined && lng !== null && lng !== undefined && !Number.isNaN(Number(lat)) && !Number.isNaN(Number(lng))
 }
 
 /**
@@ -58,7 +58,7 @@ function extractAddress(record: GeocodableRecord): string | null {
   if (street && typeof street === 'string') parts.push(street.trim())
   if (city && typeof city === 'string') parts.push(city.trim())
   if (state && typeof state === 'string') parts.push(state.trim())
-  if (zip != null) parts.push(String(zip).trim())
+  if (zip !== null && zip !== undefined) parts.push(String(zip).trim())
 
   return parts.length >= 2 ? parts.join(', ') : null
 }

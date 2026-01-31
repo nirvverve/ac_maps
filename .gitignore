@@ -16,6 +16,11 @@ vendor/
 venv/
 __pycache__/
 
+# Lock files (bun-only policy — use bun.lock)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
 # Build outputs
 dist/
 build/

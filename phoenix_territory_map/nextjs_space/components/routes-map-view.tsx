@@ -176,7 +176,7 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
         onAreaChange(singleTerritory);
       }
     }
-  }, [selectedTechnician, technicianTerritoryBreakdown, areaFilter]);
+  }, [selectedTechnician, technicianTerritoryBreakdown, areaFilter, onAreaChange]);
 
   // Update map center when technician is selected
   useEffect(() => {
@@ -483,8 +483,8 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
                 const hasValidCoords = 
                   route.latitude && 
                   route.longitude && 
-                  !isNaN(route.latitude) && 
-                  !isNaN(route.longitude) &&
+                  !Number.isNaN(route.latitude) &&
+                  !Number.isNaN(route.longitude) &&
                   route.latitude >= -90 && 
                   route.latitude <= 90 &&
                   route.longitude >= -180 && 

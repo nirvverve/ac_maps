@@ -56,7 +56,7 @@ export default function TerritoryLegend() {
                     {area.name}
                   </h4>
                   <span className="text-xs font-medium text-slate-600">
-                    {((area.accounts / total) * 100).toFixed(1)}%
+                    {(total > 0 ? (area.accounts / total) * 100 : 0).toFixed(1)}%
                   </span>
                 </div>
                 <p className="text-xs text-slate-600 leading-relaxed">

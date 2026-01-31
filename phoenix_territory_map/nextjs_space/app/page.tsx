@@ -49,11 +49,13 @@ export default function HomePage() {
 
   // Sync with URL params on mount and when searchParams change
   useEffect(() => {
-    const urlLocation = getInitialLocation()
-    if (urlLocation !== location) {
-      setLocationState(urlLocation)
+    const urlLocation = searchParams.get('location') as Location | null
+    const validLocations: Location[] = ['arizona', 'miami', 'dallas', 'orlando', 'jacksonville', 'portCharlotte']
+    const resolved = urlLocation && validLocations.includes(urlLocation) ? urlLocation : 'arizona'
+    if (resolved !== location) {
+      setLocationState(resolved)
     }
-  }, [searchParams]) // Only depend on searchParams
+  }, [searchParams, location])
 
   const getRoleBadge = () => {
     if (userRole === 'ADMIN') return { label: 'Administrator', color: 'bg-red-100 text-red-800', icon: Shield }

@@ -10,8 +10,6 @@ import plotly.express as px
 from plotly.subplots import make_subplots
 import json
 from collections import defaultdict
-import warnings
-warnings.filterwarnings('ignore')
 
 # Disable pandas truncation
 pd.set_option('display.max_rows', None)

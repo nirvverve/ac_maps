@@ -21,6 +21,14 @@ import { ViewSelector } from '@/components/view-selector'
 
 type DensityMode = 'active' | 'terminated' | 'both' | 'lifetime'
 
+/** Build an all-true area filter from location config (pure helper). */
+function buildAreaFilter(loc: LocationKey): Record<string, boolean> {
+  const config = getLocationConfig(loc)
+  const filter: Record<string, boolean> = {}
+  config.territories.forEach(t => { filter[t.key] = true })
+  return filter
+}
+
 interface TerritoryMapProps {
   location: LocationKey
   onLocationChange: (location: LocationKey) => void
@@ -68,10 +76,15 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
 
   // Sync with URL params on mount and when searchParams change
   useEffect(() => {
-    const urlViewMode = getInitialViewMode()
-    if (urlViewMode !== viewModeState) {
-      setViewModeState(urlViewMode)
-      updateViewModeURL(urlViewMode)
+    const urlView = searchParams.get('view')
+    const availableViews = getLocationConfig(location).availableViews as ViewMode[]
+    const resolved: ViewMode =
+      urlView && isValidViewMode(urlView) && availableViews.includes(urlView)
+        ? urlView
+        : availableViews[0] ?? 'territory'
+    if (resolved !== viewModeState) {
+      setViewModeState(resolved)
+      updateViewModeURL(resolved)
     }
   }, [searchParams, location, updateViewModeURL, viewModeState])
 
@@ -95,16 +108,7 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
 
   const [filteredData, setFilteredData] = useState<TerritoryData[]>([])
 
-  // Dynamic area filter based on location config
-  const getInitialAreaFilter = (currentLocation: LocationKey) => {
-    const config = getLocationConfig(currentLocation)
-    const filter: Record<string, boolean> = {}
-    config.territories.forEach(territory => {
-      filter[territory.key] = true
-    })
-    return filter
-  }
-  const [areaFilter, setAreaFilter] = useState<Record<string, boolean>>(() => getInitialAreaFilter(location))
+  const [areaFilter, setAreaFilter] = useState<Record<string, boolean>>(() => buildAreaFilter(location))
 
   // Computed loading and error states
   const loading = territoryLoading || customerLoading
@@ -112,7 +116,7 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
 
   useEffect(() => {
     // Reset area filter when location changes
-    setAreaFilter(getInitialAreaFilter(location))
+    setAreaFilter(buildAreaFilter(location))
   }, [location])
 
   useEffect(() => {
@@ -132,7 +136,7 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
   }
 
   const resetFilters = () => {
-    setAreaFilter(getInitialAreaFilter(location))
+    setAreaFilter(buildAreaFilter(location))
   }
 
   // Legacy Miami filter functions now use unified area filter
