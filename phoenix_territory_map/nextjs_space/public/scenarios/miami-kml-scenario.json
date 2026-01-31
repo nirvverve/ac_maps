@@ -1,0 +1,663 @@
+{
+  "id": "miami-kml-scenario",
+  "name": "KML Boundary Scenario",
+  "description": "Territory scenario based on imported KML boundary data",
+  "location": "miami",
+  "createdBy": "system-migration",
+  "createdAt": "2026-01-31T01:20:21.966Z",
+  "baselineDataVersion": "2026-01-31",
+  "reassignments": [
+    {
+      "zipCode": "33181",
+      "fromTerritory": "Central",
+      "toTerritory": "Central",
+      "accountCount": 38,
+      "revenueImpact": 169667
+    },
+    {
+      "zipCode": "33138",
+      "fromTerritory": "Central",
+      "toTerritory": "Central",
+      "accountCount": 116,
+      "revenueImpact": 217784
+    },
+    {
+      "zipCode": "33129",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 11,
+      "revenueImpact": 18704
+    },
+    {
+      "zipCode": "33019",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 4,
+      "revenueImpact": 8880
+    },
+    {
+      "zipCode": "33161",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 22,
+      "revenueImpact": 40881
+    },
+    {
+      "zipCode": "33015",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 4,
+      "revenueImpact": 6864
+    },
+    {
+      "zipCode": "33181",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 61,
+      "revenueImpact": 113571
+    },
+    {
+      "zipCode": "33169",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 4,
+      "revenueImpact": 6960
+    },
+    {
+      "zipCode": "33154",
+      "fromTerritory": "Central",
+      "toTerritory": "Central",
+      "accountCount": 26,
+      "revenueImpact": 47954
+    },
+    {
+      "zipCode": "33137",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 29,
+      "revenueImpact": 58596
+    },
+    {
+      "zipCode": "33161",
+      "fromTerritory": "Central",
+      "toTerritory": "Central",
+      "accountCount": 43,
+      "revenueImpact": 80208
+    },
+    {
+      "zipCode": "33179",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 23,
+      "revenueImpact": 39756
+    },
+    {
+      "zipCode": "33009",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 7,
+      "revenueImpact": 13712
+    },
+    {
+      "zipCode": "33160",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 23,
+      "revenueImpact": 42995
+    },
+    {
+      "zipCode": "33014",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 3,
+      "revenueImpact": 6888
+    },
+    {
+      "zipCode": "33141",
+      "fromTerritory": "Central",
+      "toTerritory": "Central",
+      "accountCount": 56,
+      "revenueImpact": 102648
+    },
+    {
+      "zipCode": "33021",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 6,
+      "revenueImpact": 9948
+    },
+    {
+      "zipCode": "33138",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 8,
+      "revenueImpact": 13872
+    },
+    {
+      "zipCode": "33025",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1632
+    },
+    {
+      "zipCode": "33140",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 78,
+      "revenueImpact": 147643
+    },
+    {
+      "zipCode": "33026",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 3,
+      "revenueImpact": 5100
+    },
+    {
+      "zipCode": "33027",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 2,
+      "revenueImpact": 3336
+    },
+    {
+      "zipCode": "33028",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 3,
+      "revenueImpact": 5232
+    },
+    {
+      "zipCode": "33029",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 4,
+      "revenueImpact": 6588
+    },
+    {
+      "zipCode": "33139",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 21,
+      "revenueImpact": 47905
+    },
+    {
+      "zipCode": "33139",
+      "fromTerritory": "Central",
+      "toTerritory": "Central",
+      "accountCount": 1,
+      "revenueImpact": 1548
+    },
+    {
+      "zipCode": "33056",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 4,
+      "revenueImpact": 7164
+    },
+    {
+      "zipCode": "33149",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 34,
+      "revenueImpact": 62816
+    },
+    {
+      "zipCode": "33158",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 5,
+      "revenueImpact": 8988
+    },
+    {
+      "zipCode": "33133",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 10,
+      "revenueImpact": 19488
+    },
+    {
+      "zipCode": "33134",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 9,
+      "revenueImpact": 15228
+    },
+    {
+      "zipCode": "33330",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 6,
+      "revenueImpact": 10872
+    },
+    {
+      "zipCode": "33331",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 2,
+      "revenueImpact": 3444
+    },
+    {
+      "zipCode": "33332",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1740
+    },
+    {
+      "zipCode": "33180",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 20,
+      "revenueImpact": 35510
+    },
+    {
+      "zipCode": "33181",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 2520
+    },
+    {
+      "zipCode": "33185",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 1776
+    },
+    {
+      "zipCode": "33301",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 7,
+      "revenueImpact": 12144
+    },
+    {
+      "zipCode": "33304",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 2,
+      "revenueImpact": 3552
+    },
+    {
+      "zipCode": "33306",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1632
+    },
+    {
+      "zipCode": "33311",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 2,
+      "revenueImpact": 3528
+    },
+    {
+      "zipCode": "33312",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 4,
+      "revenueImpact": 7272
+    },
+    {
+      "zipCode": "33314",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1668
+    },
+    {
+      "zipCode": "33316",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1740
+    },
+    {
+      "zipCode": "33317",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 2,
+      "revenueImpact": 3564
+    },
+    {
+      "zipCode": "33319",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1416
+    },
+    {
+      "zipCode": "33322",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1740
+    },
+    {
+      "zipCode": "33326",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 4,
+      "revenueImpact": 7764
+    },
+    {
+      "zipCode": "33327",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1596
+    },
+    {
+      "zipCode": "33328",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 2,
+      "revenueImpact": 3864
+    },
+    {
+      "zipCode": "33162",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 16,
+      "revenueImpact": 27516
+    },
+    {
+      "zipCode": "33166",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 7,
+      "revenueImpact": 12480
+    },
+    {
+      "zipCode": "33167",
+      "fromTerritory": "Central",
+      "toTerritory": "Central",
+      "accountCount": 3,
+      "revenueImpact": 5076
+    },
+    {
+      "zipCode": "33168",
+      "fromTerritory": "Central",
+      "toTerritory": "Central",
+      "accountCount": 9,
+      "revenueImpact": 18606
+    },
+    {
+      "zipCode": "33168",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 7,
+      "revenueImpact": 12840
+    },
+    {
+      "zipCode": "33176",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 8,
+      "revenueImpact": 13619
+    },
+    {
+      "zipCode": "33178",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 1776
+    },
+    {
+      "zipCode": "33178",
+      "fromTerritory": "Central",
+      "toTerritory": "Central",
+      "accountCount": 1,
+      "revenueImpact": 1644
+    },
+    {
+      "zipCode": "33147",
+      "fromTerritory": "Central",
+      "toTerritory": "Central",
+      "accountCount": 5,
+      "revenueImpact": 9240
+    },
+    {
+      "zipCode": "33147",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 2,
+      "revenueImpact": 3540
+    },
+    {
+      "zipCode": "33016",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1476
+    },
+    {
+      "zipCode": "33150",
+      "fromTerritory": "Central",
+      "toTerritory": "Central",
+      "accountCount": 12,
+      "revenueImpact": 21672
+    },
+    {
+      "zipCode": "33153",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 1860
+    },
+    {
+      "zipCode": "33127",
+      "fromTerritory": "Central",
+      "toTerritory": "Central",
+      "accountCount": 1,
+      "revenueImpact": 2040
+    },
+    {
+      "zipCode": "33024",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1608
+    },
+    {
+      "zipCode": "33154",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 11,
+      "revenueImpact": 19572
+    },
+    {
+      "zipCode": "33143",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 10,
+      "revenueImpact": 17952
+    },
+    {
+      "zipCode": "33155",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 11,
+      "revenueImpact": 21996
+    },
+    {
+      "zipCode": "33145",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 3,
+      "revenueImpact": 5196
+    },
+    {
+      "zipCode": "33146",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 2,
+      "revenueImpact": 3456
+    },
+    {
+      "zipCode": "33156",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 12,
+      "revenueImpact": 35640
+    },
+    {
+      "zipCode": "33157",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 3,
+      "revenueImpact": 5424
+    },
+    {
+      "zipCode": "33012",
+      "fromTerritory": "Central",
+      "toTerritory": "Central",
+      "accountCount": 1,
+      "revenueImpact": 1908
+    },
+    {
+      "zipCode": "33135",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 2,
+      "revenueImpact": 3540
+    },
+    {
+      "zipCode": "33142",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 1860
+    },
+    {
+      "zipCode": "33167",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 4,
+      "revenueImpact": 7500
+    },
+    {
+      "zipCode": "33190",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33182",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 1620
+    },
+    {
+      "zipCode": "33127",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 1860
+    },
+    {
+      "zipCode": "33308",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1980
+    },
+    {
+      "zipCode": "33064",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1980
+    },
+    {
+      "zipCode": "33305",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 2,
+      "revenueImpact": 3960
+    },
+    {
+      "zipCode": "33174",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 2,
+      "revenueImpact": 3480
+    },
+    {
+      "zipCode": "33309",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 2040
+    },
+    {
+      "zipCode": "33183",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 1740
+    },
+    {
+      "zipCode": "33196",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 3240
+    },
+    {
+      "zipCode": "33324",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1740
+    },
+    {
+      "zipCode": "33021",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 396228
+    },
+    {
+      "zipCode": "33004",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 1500
+    },
+    {
+      "zipCode": "33020",
+      "fromTerritory": "North",
+      "toTerritory": "North",
+      "accountCount": 2,
+      "revenueImpact": 3360
+    },
+    {
+      "zipCode": "33187",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 1439
+    },
+    {
+      "zipCode": "33193",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 1439
+    },
+    {
+      "zipCode": "33177",
+      "fromTerritory": "South",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 1740
+    }
+  ],
+  "status": "published"
+}

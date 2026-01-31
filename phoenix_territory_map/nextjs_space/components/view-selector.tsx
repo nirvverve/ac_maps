@@ -22,7 +22,7 @@ import {
   Activity
 } from 'lucide-react'
 import { ViewMode } from '@/lib/view-registry'
-import { getLocationConfig, getAvailableViews } from '@/config/locations.config'
+import { getAvailableViews } from '@/config/locations.config'
 
 // ---------------------------------------------------------------------------
 // Types
@@ -100,7 +100,7 @@ const VIEW_DISPLAY_MAP: Record<string, ViewDisplayInfo> = {
     icon: Search,
     colorScheme: { bg: 'bg-cyan-600', bgHover: 'hover:bg-cyan-700', text: 'text-white', hoverBg: 'hover:bg-cyan-50' },
   },
-  employeeLocations: {
+  employees: {
     label: 'Employee Locations',
     icon: Users,
     colorScheme: { bg: 'bg-orange-600', bgHover: 'hover:bg-orange-700', text: 'text-white', hoverBg: 'hover:bg-orange-50' },
@@ -212,7 +212,7 @@ export function ViewSelector({ location, viewMode, onViewModeChange, userRole, c
     .map(viewKey => ({ viewKey, displayInfo: VIEW_DISPLAY_MAP[viewKey] }))
     .filter(({ displayInfo }) => {
       if (!displayInfo) return false
-      const roleMatch = !displayInfo.roles || !userRole || displayInfo.roles.includes(userRole)
+      const roleMatch = !displayInfo.roles || (userRole && displayInfo.roles.includes(userRole))
       return roleMatch
     })
 

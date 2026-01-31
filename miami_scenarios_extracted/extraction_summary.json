@@ -1,0 +1,31 @@
+{
+  "extractedAt": "2026-01-31T01:18:36.456Z",
+  "totalScenarios": 5,
+  "scenarios": [
+    {
+      "id": "miami-10pct-optimization",
+      "name": "10% Reassignment Optimization",
+      "reassignmentCount": 21
+    },
+    {
+      "id": "miami-kml-scenario",
+      "name": "KML Boundary Scenario",
+      "reassignmentCount": 93
+    },
+    {
+      "id": "miami-zip-optimized",
+      "name": "ZIP Code Optimized",
+      "reassignmentCount": 21
+    },
+    {
+      "id": "miami-zip-optimized-2",
+      "name": "ZIP Code Optimized v2",
+      "reassignmentCount": 22
+    },
+    {
+      "id": "miami-zip-scenario",
+      "name": "ZIP Scenario Analysis",
+      "reassignmentCount": 81
+    }
+  ]
+}

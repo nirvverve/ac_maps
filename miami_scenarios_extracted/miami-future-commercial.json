@@ -1,0 +1,250 @@
+{
+  "id": "miami-future-commercial",
+  "name": "Future Commercial Routes",
+  "description": "Projected commercial account territory assignments",
+  "location": "miami",
+  "createdBy": "system-migration",
+  "createdAt": "2026-01-31T01:20:22.093Z",
+  "baselineDataVersion": "2026-01-31",
+  "reassignments": [
+    {
+      "zipCode": "33162",
+      "fromTerritory": "AFP - NW Miami",
+      "toTerritory": "AFP - NW Miami",
+      "accountCount": 4,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33137",
+      "fromTerritory": "AFP - Downtown Miami",
+      "toTerritory": "AFP - Downtown Miami",
+      "accountCount": 2,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33161",
+      "fromTerritory": "AFP - NW Miami",
+      "toTerritory": "AFP - NW Miami",
+      "accountCount": 8,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33169",
+      "fromTerritory": "AFP - NW Miami",
+      "toTerritory": "AFP - NW Miami",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33181",
+      "fromTerritory": "AFP - NW Miami",
+      "toTerritory": "AFP - NW Miami",
+      "accountCount": 5,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33179",
+      "fromTerritory": "AFP - NW Miami",
+      "toTerritory": "AFP - NW Miami",
+      "accountCount": 3,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33160",
+      "fromTerritory": "AFP - NW Miami",
+      "toTerritory": "AFP - NW Miami",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33160",
+      "fromTerritory": "AFP - Miami Beach",
+      "toTerritory": "AFP - Miami Beach",
+      "accountCount": 15,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33165",
+      "fromTerritory": "AFP - SW Miami",
+      "toTerritory": "AFP - SW Miami",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33172",
+      "fromTerritory": "AFP - Downtown Miami",
+      "toTerritory": "AFP - Downtown Miami",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33131",
+      "fromTerritory": "AFP - Downtown Miami",
+      "toTerritory": "AFP - Downtown Miami",
+      "accountCount": 3,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33133",
+      "fromTerritory": "AFP - SW Miami",
+      "toTerritory": "AFP - SW Miami",
+      "accountCount": 5,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33138",
+      "fromTerritory": "AFP - Downtown Miami",
+      "toTerritory": "AFP - Downtown Miami",
+      "accountCount": 2,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33139",
+      "fromTerritory": "AFP - Miami Beach",
+      "toTerritory": "AFP - Miami Beach",
+      "accountCount": 9,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33140",
+      "fromTerritory": "AFP - Miami Beach",
+      "toTerritory": "AFP - Miami Beach",
+      "accountCount": 6,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33141",
+      "fromTerritory": "AFP - Miami Beach",
+      "toTerritory": "AFP - Miami Beach",
+      "accountCount": 11,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33154",
+      "fromTerritory": "AFP - Miami Beach",
+      "toTerritory": "AFP - Miami Beach",
+      "accountCount": 11,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33180",
+      "fromTerritory": "AFP - NW Miami",
+      "toTerritory": "AFP - NW Miami",
+      "accountCount": 3,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33149",
+      "fromTerritory": "AFP - Key Biscayne",
+      "toTerritory": "AFP - Key Biscayne",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33143",
+      "fromTerritory": "AFP - SW Miami",
+      "toTerritory": "AFP - SW Miami",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33304",
+      "fromTerritory": "AFP - West Broward",
+      "toTerritory": "AFP - West Broward",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33330",
+      "fromTerritory": "AFP - West Broward",
+      "toTerritory": "AFP - West Broward",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33009",
+      "fromTerritory": "AFP - West Broward",
+      "toTerritory": "AFP - West Broward",
+      "accountCount": 4,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33025",
+      "fromTerritory": "AFP - West Broward",
+      "toTerritory": "AFP - West Broward",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33019",
+      "fromTerritory": "AFP - West Broward",
+      "toTerritory": "AFP - West Broward",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33315",
+      "fromTerritory": "AFP - West Broward",
+      "toTerritory": "AFP - West Broward",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33312",
+      "fromTerritory": "AFP - West Broward",
+      "toTerritory": "AFP - West Broward",
+      "accountCount": 2,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33056",
+      "fromTerritory": "AFP - NW Miami",
+      "toTerritory": "AFP - NW Miami",
+      "accountCount": 2,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33308",
+      "fromTerritory": "AFP - West Broward",
+      "toTerritory": "AFP - West Broward",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33173",
+      "fromTerritory": "AFP - SW Miami",
+      "toTerritory": "AFP - SW Miami",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33176",
+      "fromTerritory": "AFP - SW Miami",
+      "toTerritory": "AFP - SW Miami",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33126",
+      "fromTerritory": "AFP - Downtown Miami",
+      "toTerritory": "AFP - Downtown Miami",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33145",
+      "fromTerritory": "AFP - SW Miami",
+      "toTerritory": "AFP - SW Miami",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33015",
+      "fromTerritory": "AFP - NW Miami",
+      "toTerritory": "AFP - NW Miami",
+      "accountCount": 1,
+      "revenueImpact": 0
+    }
+  ],
+  "status": "published"
+}

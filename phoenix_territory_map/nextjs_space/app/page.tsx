@@ -1,6 +1,7 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect, useCallback } from 'react'
+import { useSearchParams, useRouter, usePathname } from 'next/navigation'
 import { useSession, signOut } from 'next-auth/react'
 import Link from 'next/link'
 import Image from 'next/image'
@@ -16,7 +17,43 @@ export default function HomePage() {
   const { data: session } = useSession()
   const userRole = (session?.user as any)?.role
   const userEmail = session?.user?.email
-  const [location, setLocation] = useState<Location>('arizona')
+
+  // URL state management
+  const searchParams = useSearchParams()
+  const router = useRouter()
+  const pathname = usePathname()
+
+  // Get initial location from URL or default to arizona
+  const getInitialLocation = (): Location => {
+    const urlLocation = searchParams.get('location') as Location | null
+    const validLocations: Location[] = ['arizona', 'miami', 'dallas', 'orlando', 'jacksonville', 'portCharlotte']
+    return urlLocation && validLocations.includes(urlLocation) ? urlLocation : 'arizona'
+  }
+
+  const [location, setLocationState] = useState<Location>(getInitialLocation)
+
+  // URL sync function
+  const updateURL = useCallback((newLocation: Location) => {
+    const current = new URLSearchParams(Array.from(searchParams.entries()))
+    current.set('location', newLocation)
+    const search = current.toString()
+    const query = search ? `?${search}` : ''
+    router.replace(`${pathname}${query}`, { scroll: false })
+  }, [searchParams, router, pathname])
+
+  // Combined location setter that updates both state and URL
+  const setLocation = useCallback((newLocation: Location) => {
+    setLocationState(newLocation)
+    updateURL(newLocation)
+  }, [updateURL])
+
+  // Sync with URL params on mount and when searchParams change
+  useEffect(() => {
+    const urlLocation = getInitialLocation()
+    if (urlLocation !== location) {
+      setLocationState(urlLocation)
+    }
+  }, [searchParams]) // Only depend on searchParams
 
   const getRoleBadge = () => {
     if (userRole === 'ADMIN') return { label: 'Administrator', color: 'bg-red-100 text-red-800', icon: Shield }

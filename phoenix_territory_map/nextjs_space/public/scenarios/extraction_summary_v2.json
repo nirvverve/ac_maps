@@ -1,0 +1,62 @@
+{
+  "extractedAt": "2026-01-31T01:20:22.387Z",
+  "totalScenarios": 9,
+  "totalReassignments": 461,
+  "totalRevenueImpact": 5284635,
+  "scenarios": [
+    {
+      "id": "miami-10pct-optimization",
+      "name": "10% Reassignment Optimization",
+      "reassignmentCount": 21,
+      "revenueImpact": 0
+    },
+    {
+      "id": "miami-final-territory",
+      "name": "Final Territory Assignments",
+      "reassignmentCount": 77,
+      "revenueImpact": 1578177
+    },
+    {
+      "id": "miami-kml-scenario",
+      "name": "KML Boundary Scenario",
+      "reassignmentCount": 93,
+      "revenueImpact": 2128281
+    },
+    {
+      "id": "miami-radical-reroute",
+      "name": "Radical Reroute Scenario",
+      "reassignmentCount": 77,
+      "revenueImpact": 1578177
+    },
+    {
+      "id": "miami-zip-optimized",
+      "name": "ZIP Code Optimized",
+      "reassignmentCount": 21,
+      "revenueImpact": 0
+    },
+    {
+      "id": "miami-zip-optimized-2",
+      "name": "ZIP Code Optimized v2",
+      "reassignmentCount": 22,
+      "revenueImpact": 0
+    },
+    {
+      "id": "miami-commercial-routes",
+      "name": "Commercial Route Optimization",
+      "reassignmentCount": 35,
+      "revenueImpact": 0
+    },
+    {
+      "id": "miami-future-commercial",
+      "name": "Future Commercial Routes",
+      "reassignmentCount": 34,
+      "revenueImpact": 0
+    },
+    {
+      "id": "miami-zip-scenario",
+      "name": "ZIP Scenario Analysis",
+      "reassignmentCount": 81,
+      "revenueImpact": 0
+    }
+  ]
+}

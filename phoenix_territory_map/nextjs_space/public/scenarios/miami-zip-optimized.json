@@ -1,0 +1,159 @@
+{
+  "id": "miami-zip-optimized",
+  "name": "ZIP Code Optimized",
+  "description": "Territory optimization focusing on ZIP code boundaries",
+  "location": "miami",
+  "createdBy": "system-migration",
+  "createdAt": "2026-01-31T01:20:22.083Z",
+  "baselineDataVersion": "2026-01-31",
+  "reassignments": [
+    {
+      "zipCode": "33015",
+      "fromTerritory": "unassigned",
+      "toTerritory": "North",
+      "accountCount": 3,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33014",
+      "fromTerritory": "unassigned",
+      "toTerritory": "North",
+      "accountCount": 2,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33140",
+      "fromTerritory": "unassigned",
+      "toTerritory": "South",
+      "accountCount": 10,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33139",
+      "fromTerritory": "unassigned",
+      "toTerritory": "South",
+      "accountCount": 2,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33137",
+      "fromTerritory": "unassigned",
+      "toTerritory": "Central",
+      "accountCount": 2,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33138",
+      "fromTerritory": "unassigned",
+      "toTerritory": "Central",
+      "accountCount": 2,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33179",
+      "fromTerritory": "unassigned",
+      "toTerritory": "North",
+      "accountCount": 3,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33180",
+      "fromTerritory": "unassigned",
+      "toTerritory": "North",
+      "accountCount": 3,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33181",
+      "fromTerritory": "unassigned",
+      "toTerritory": "Central",
+      "accountCount": 6,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33161",
+      "fromTerritory": "unassigned",
+      "toTerritory": "Central",
+      "accountCount": 10,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33162",
+      "fromTerritory": "unassigned",
+      "toTerritory": "North",
+      "accountCount": 10,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33167",
+      "fromTerritory": "unassigned",
+      "toTerritory": "Central",
+      "accountCount": 3,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33168",
+      "fromTerritory": "unassigned",
+      "toTerritory": "Central",
+      "accountCount": 4,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33147",
+      "fromTerritory": "unassigned",
+      "toTerritory": "Central",
+      "accountCount": 2,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33016",
+      "fromTerritory": "unassigned",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33127",
+      "fromTerritory": "unassigned",
+      "toTerritory": "South",
+      "accountCount": 2,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33141",
+      "fromTerritory": "unassigned",
+      "toTerritory": "Central",
+      "accountCount": 2,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33012",
+      "fromTerritory": "unassigned",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33135",
+      "fromTerritory": "unassigned",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33142",
+      "fromTerritory": "unassigned",
+      "toTerritory": "South",
+      "accountCount": 1,
+      "revenueImpact": 0
+    },
+    {
+      "zipCode": "33019",
+      "fromTerritory": "unassigned",
+      "toTerritory": "North",
+      "accountCount": 1,
+      "revenueImpact": 0
+    }
+  ],
+  "status": "published"
+}

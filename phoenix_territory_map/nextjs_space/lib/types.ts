@@ -58,7 +58,7 @@ export type ViewModeKey =
   | 'revenue'
   | 'routes'
   | 'customerLookup'
-  | 'employeeLocations'
+  | 'employees'
   | 'commercial'
   | 'ancillarySales'
   | 'scenarios'
@@ -116,3 +116,28 @@ export interface LocationConfig {
   hasActiveTerritoryBreakup: boolean
   colorThresholds: DensityColorThresholds
 }
+
+// ---------------------------------------------------------------------------
+// Data Upload System Types (Phase 4 - bd-3jf)
+// ---------------------------------------------------------------------------
+
+// Re-export validation types for consistency
+export type {
+  TerritoryData as ValidatedTerritoryData,
+  DensityData,
+  CustomerData,
+  RevenueData,
+  RoutesData,
+  EmployeeData,
+  CommercialData,
+  AncillarySalesData,
+  MarketSizeData,
+  UploadMetadata,
+  DataType
+} from './validation-schemas'
+
+export type {
+  ValidationResult,
+  ValidationError,
+  ValidationSummary
+} from './validation-utils'

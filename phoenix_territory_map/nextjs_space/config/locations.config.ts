@@ -35,7 +35,7 @@ export const LOCATIONS: Record<string, LocationConfig> = {
       'revenue',
       'routes',
       'customerLookup',
-      'employeeLocations',
+      'employees',
       'commercial',
       'ancillarySales',
     ],
@@ -114,11 +114,9 @@ export const LOCATIONS: Record<string, LocationConfig> = {
     availableViews: [
       'territory',
       'density',
-      'revenue',
-      'routes',
-      'customerLookup',
-      'commercial',
-      'ancillarySales',
+      'locRevenue',
+      'locCommercial',
+      'locRoutes',
       // Miami-specific scenario views
       'kmlScenario',
       'assignmentTool',
@@ -231,11 +229,9 @@ export const LOCATIONS: Record<string, LocationConfig> = {
     territories: [], // No active territory breakup yet
     availableViews: [
       'density',
-      'revenue',
-      'routes',
-      'customerLookup',
-      'commercial',
-      'ancillarySales',
+      'locRevenue',
+      'locCommercial',
+      'locRoutes',
     ],
     dataEndpoints: {
       density: '/dallas-density-data.json',
@@ -325,11 +321,8 @@ export const LOCATIONS: Record<string, LocationConfig> = {
     territories: [], // No active territory breakup yet
     availableViews: [
       'density',
-      'revenue',
-      'routes',
-      'customerLookup',
-      'commercial',
-      'ancillarySales',
+      'locRevenue',
+      'locRoutes',
     ],
     dataEndpoints: {
       density: '/orlando-density-data.json',
@@ -423,11 +416,6 @@ export const LOCATIONS: Record<string, LocationConfig> = {
     territories: [], // No active territory breakup yet
     availableViews: [
       'density',
-      'revenue',
-      'routes',
-      'customerLookup',
-      'commercial',
-      'ancillarySales',
       // Jacksonville-specific views
       'jaxRevenue',
       'jaxCommercial',
@@ -516,11 +504,8 @@ export const LOCATIONS: Record<string, LocationConfig> = {
     territories: [], // No active territory breakup yet
     availableViews: [
       'density',
-      'revenue',
-      'routes',
-      'customerLookup',
-      'commercial',
-      'ancillarySales',
+      'locRevenue',
+      'locRoutes',
     ],
     dataEndpoints: {
       density: '/port-charlotte-density-data.json',

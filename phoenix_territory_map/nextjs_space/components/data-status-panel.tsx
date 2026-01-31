@@ -13,7 +13,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { RefreshCw, CheckCircle, XCircle, Clock, Database } from 'lucide-react'
-import { getLocationConfig, getAvailableViews } from '@/config/locations.config'
+import { getLocationConfig } from '@/config/locations.config'
 import {
   useTerritoryData,
   useDensityData,
@@ -24,6 +24,7 @@ import {
   useAncillarySalesData
 } from '@/hooks/use-location-data'
 import type { LocationKey } from '@/lib/map-config'
+import type { DataEndpoints } from '@/lib/types'
 
 interface DataStatusPanelProps {
   location: LocationKey
@@ -52,12 +53,11 @@ export function DataStatusPanel({ location, className }: DataStatusPanelProps) {
     { key: 'ancillarySales', label: 'Ancillary Sales', hook: ancillary },
   ]
 
-  const availableViews = getAvailableViews(location)
+  const hasEndpoint = (key: keyof DataEndpoints) => Boolean(config.dataEndpoints[key])
 
   // Filter to only show data types that are available for this location
   const relevantData = dataHooks.filter(item =>
-    availableViews.includes(item.key as any) ||
-    item.key === 'customers' // customers always relevant for location data
+    hasEndpoint(item.key as keyof DataEndpoints)
   )
 
   const refetchAll = () => {

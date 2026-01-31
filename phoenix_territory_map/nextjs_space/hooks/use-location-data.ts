@@ -70,12 +70,15 @@ async function fetchLocationData<T = any>(
  * Fetch territory data for a location with automatic caching.
  */
 export function useTerritoryData(location: LocationKey) {
+  const endpoint = getDataEndpoint(location, 'territory')
+  const hasEndpoint = !!endpoint
+
   return useQuery({
     queryKey: dataQueryKeys.territory(location),
     queryFn: () => fetchLocationData<TerritoryData[]>(location, 'territory'),
     staleTime: 1000 * 60 * 5, // Consider fresh for 5 minutes
     gcTime: 1000 * 60 * 30, // Keep in cache for 30 minutes
-    enabled: !!location, // Only fetch if location is provided
+    enabled: hasEndpoint && !!location, // Only fetch if endpoint exists
   })
 }
 

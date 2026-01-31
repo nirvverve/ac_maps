@@ -1,0 +1,81 @@
+{
+  "validatedAt": "2026-01-31T01:35:12.426Z",
+  "totalScenarios": 9,
+  "validScenarios": 9,
+  "failedScenarios": 0,
+  "scenarioSummaries": [
+    {
+      "id": "miami-kml-scenario",
+      "name": "KML Boundary Scenario",
+      "location": "miami",
+      "status": "published",
+      "reassignmentCount": 93,
+      "totalRevenueImpact": 2128281
+    },
+    {
+      "id": "miami-zip-scenario",
+      "name": "ZIP Scenario Analysis",
+      "location": "miami",
+      "status": "published",
+      "reassignmentCount": 81,
+      "totalRevenueImpact": 0
+    },
+    {
+      "id": "miami-radical-reroute",
+      "name": "Radical Reroute Scenario",
+      "location": "miami",
+      "status": "published",
+      "reassignmentCount": 77,
+      "totalRevenueImpact": 1578177
+    },
+    {
+      "id": "miami-commercial-routes",
+      "name": "Commercial Route Optimization",
+      "location": "miami",
+      "status": "published",
+      "reassignmentCount": 35,
+      "totalRevenueImpact": 0
+    },
+    {
+      "id": "miami-final-territory",
+      "name": "Final Territory Assignments",
+      "location": "miami",
+      "status": "published",
+      "reassignmentCount": 77,
+      "totalRevenueImpact": 1578177
+    },
+    {
+      "id": "miami-future-commercial",
+      "name": "Future Commercial Routes",
+      "location": "miami",
+      "status": "published",
+      "reassignmentCount": 34,
+      "totalRevenueImpact": 0
+    },
+    {
+      "id": "miami-10pct-optimization",
+      "name": "10% Reassignment Optimization",
+      "location": "miami",
+      "status": "published",
+      "reassignmentCount": 21,
+      "totalRevenueImpact": 0
+    },
+    {
+      "id": "miami-zip-optimized",
+      "name": "ZIP Code Optimized",
+      "location": "miami",
+      "status": "published",
+      "reassignmentCount": 21,
+      "totalRevenueImpact": 0
+    },
+    {
+      "id": "miami-zip-optimized-2",
+      "name": "ZIP Code Optimized v2",
+      "location": "miami",
+      "status": "published",
+      "reassignmentCount": 22,
+      "totalRevenueImpact": 0
+    }
+  ],
+  "validationErrors": []
+}
