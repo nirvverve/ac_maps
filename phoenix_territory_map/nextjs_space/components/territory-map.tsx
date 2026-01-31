@@ -28,7 +28,7 @@ interface TerritoryMapProps {
 
 export default function TerritoryMap({ location, onLocationChange }: TerritoryMapProps) {
   const { data: session } = useSession()
-  const userRole = (session?.user as any)?.role
+  const userRole = session?.user?.role
 
   // URL state management for viewMode
   const searchParams = useSearchParams()

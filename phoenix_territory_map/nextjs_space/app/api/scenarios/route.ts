@@ -186,8 +186,8 @@ export async function GET(request: NextRequest) {
     const { searchParams } = new URL(request.url)
     const location = searchParams.get('location')
     const status = searchParams.get('status')
-    const limit = parseInt(searchParams.get('limit') || '50')
-    const offset = parseInt(searchParams.get('offset') || '0')
+    const limit = parseInt(searchParams.get('limit') || '50', 10)
+    const offset = parseInt(searchParams.get('offset') || '0', 10)
 
     // Validate parameters
     if (limit > 100) {
@@ -276,7 +276,7 @@ export async function POST(request: NextRequest) {
       )
     }
 
-    if ((session.user as any)?.role !== 'ADMIN') {
+    if (session.user?.role !== 'ADMIN') {
       return NextResponse.json(
         { error: 'Admin access required for scenario creation' },
         { status: 403 }

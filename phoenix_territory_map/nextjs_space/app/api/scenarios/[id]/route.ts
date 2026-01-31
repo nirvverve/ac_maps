@@ -221,7 +221,7 @@ export async function PUT(
       )
     }
 
-    if ((session.user as any)?.role !== 'ADMIN') {
+    if (session.user?.role !== 'ADMIN') {
       return NextResponse.json(
         { error: 'Admin access required for scenario updates' },
         { status: 403 }
@@ -317,7 +317,7 @@ export async function DELETE(
       )
     }
 
-    if ((session.user as any)?.role !== 'ADMIN') {
+    if (session.user?.role !== 'ADMIN') {
       return NextResponse.json(
         { error: 'Admin access required for scenario deletion' },
         { status: 403 }

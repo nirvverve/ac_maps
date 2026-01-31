@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { readFile } from 'fs/promises'
 import { join } from 'path'
 import { rateLimitGuard, RATE_LIMIT_CONFIGS } from '@/lib/rate-limit'
+import type { GeoJSONFeatureCollection, GeoJSONGeometry } from '@/lib/types'
 
 interface ZipCodeRequest {
   zip: number
@@ -16,25 +17,30 @@ interface ZipBoundary {
 }
 
 // Cache the GeoJSON data to avoid reading file repeatedly
-let cachedGeoJSON: any = null
+let cachedGeoJSON: GeoJSONFeatureCollection | null = null
 
-async function loadGeoJSON() {
+async function loadGeoJSON(): Promise<GeoJSONFeatureCollection> {
   if (!cachedGeoJSON) {
     const filePath = join(process.cwd(), 'public', 'az-zip-boundaries.json')
     const fileContent = await readFile(filePath, 'utf-8')
-    cachedGeoJSON = JSON.parse(fileContent)
+    try {
+      cachedGeoJSON = JSON.parse(fileContent) as GeoJSONFeatureCollection
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error)
+      throw new Error(`Failed to parse GeoJSON file at ${filePath}: ${message}`)
+    }
   }
   return cachedGeoJSON
 }
 
-function extractCoordinates(geometry: any): number[][][] {
+function extractCoordinates(geometry: GeoJSONGeometry): number[][][] {
   if (!geometry) return []
   
   if (geometry.type === 'Polygon') {
-    return [geometry.coordinates[0]]
+    return [(geometry.coordinates as number[][][])[0]]
   } else if (geometry.type === 'MultiPolygon') {
     // For multipolygons, return all outer rings
-    return geometry.coordinates.map((poly: any) => poly[0])
+    return (geometry.coordinates as number[][][][]).map((poly) => poly[0])
   }
   
   return []
@@ -80,11 +86,19 @@ export async function POST(request: NextRequest) {
     const boundaries: ZipBoundary[] = []
     
     for (const feature of geoJSON.features) {
-      const zipCode = feature.properties?.ZCTA5CE10 || feature.properties?.GEOID10 || feature.properties?.ZCTA
-      
+      const rawZipCode =
+        feature.properties?.ZCTA5CE10 ??
+        feature.properties?.GEOID10 ??
+        feature.properties?.ZCTA
+
+      const zipCode =
+        typeof rawZipCode === 'string' || typeof rawZipCode === 'number'
+          ? String(rawZipCode)
+          : null
+
       if (!zipCode) continue
-      
-      const area = zipToArea.get(zipCode.toString())
+
+      const area = zipToArea.get(zipCode)
       if (!area) continue
       
       const coordinateSets = extractCoordinates(feature.geometry)
@@ -100,7 +114,7 @@ export async function POST(request: NextRequest) {
           const center = calculateCenter(coordinates)
           
           boundaries.push({
-            zipCode: parseInt(zipCode),
+            zipCode: parseInt(zipCode, 10),
             area,
             paths,
             center
@@ -112,7 +126,9 @@ export async function POST(request: NextRequest) {
     // For any zip codes not found in GeoJSON, try Google Geocoding as fallback
     // With rate limiting to avoid overloading the API
     const foundZips = new Set(boundaries.map(b => b.zipCode))
-    const missingZips = zipCodes.filter(({ zip }) => !foundZips.has(parseInt(String(zip))))
+    const missingZips = zipCodes.filter(
+      ({ zip }) => !foundZips.has(parseInt(String(zip), 10))
+    )
     
     if (missingZips.length > 0) {
       const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY

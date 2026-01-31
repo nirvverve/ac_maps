@@ -15,7 +15,7 @@ type Location = 'arizona' | 'miami' | 'dallas' | 'orlando' | 'jacksonville' | 'p
 
 export default function HomePage() {
   const { data: session } = useSession()
-  const userRole = (session?.user as any)?.role
+  const userRole = session?.user?.role
   const userEmail = session?.user?.email
 
   // URL state management

@@ -118,6 +118,34 @@ export interface LocationConfig {
 }
 
 // ---------------------------------------------------------------------------
+// GeoJSON Types (Phase 6 - bd-1ja)
+// ---------------------------------------------------------------------------
+
+export interface GeoJSONGeometry {
+  type: 'Polygon' | 'MultiPolygon'
+  coordinates: number[][][] | number[][][][]
+}
+
+export interface GeoJSONFeatureProperties {
+  ZCTA5CE10?: string
+  [key: string]: unknown
+}
+
+export interface GeoJSONFeature {
+  type: 'Feature'
+  properties: GeoJSONFeatureProperties
+  geometry: GeoJSONGeometry
+}
+
+export interface GeoJSONFeatureCollection {
+  type: 'FeatureCollection'
+  features: GeoJSONFeature[]
+}
+
+/** ZIP boundary data keyed by ZIP code */
+export type ZipBoundaryMap = Record<string, GeoJSONGeometry>
+
+// ---------------------------------------------------------------------------
 // Data Upload System Types (Phase 4 - bd-3jf)
 // ---------------------------------------------------------------------------
 
