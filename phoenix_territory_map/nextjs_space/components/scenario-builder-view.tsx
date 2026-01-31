@@ -101,7 +101,7 @@ export default function ScenarioBuilderView({ location, territoryData, userRole 
 
   const [baselineFallback, setBaselineFallback] = useState<BaselineZipAssignment[]>([])
   const [scenarioList, setScenarioList] = useState<ScenarioSummary[]>([])
-  const [selectedScenarioId, setSelectedScenarioId] = useState<string>('new')
+  const [selectedScenarioId, setSelectedScenarioId] = useState<string | null>(null)
   const [scenarioDetails, setScenarioDetails] = useState<ScenarioDetails | null>(null)
   const [selectedZip, setSelectedZip] = useState<string | null>(null)
   const [boundaryPaths, setBoundaryPaths] = useState<Record<string, google.maps.LatLngLiteral[][]>>({})
@@ -140,11 +140,12 @@ export default function ScenarioBuilderView({ location, territoryData, userRole 
   }, [location])
 
   const baselineAssignments: BaselineZipAssignment[] = useMemo(() => {
-    if (territoryData?.length) {
+    const hasValidTerritoryData = Array.isArray(territoryData) && territoryData.some(item => item?.area)
+    if (hasValidTerritoryData) {
       return territoryData.map(item => ({
         zip: String(item.zip),
-        territory: item.area,
-        accountCount: item.accounts,
+        territory: item.area ?? (item as any).territory ?? 'Unassigned',
+        accountCount: Number((item as any).accounts ?? (item as any).accountCount ?? 0),
       }))
     }
     return baselineFallback
@@ -174,16 +175,18 @@ export default function ScenarioBuilderView({ location, territoryData, userRole 
 
   useEffect(() => {
     if (!scenarioList.length) {
-      setSelectedScenarioId('new')
+      setSelectedScenarioId(null)
       return
     }
 
-    if (selectedScenarioId !== 'new' && scenarioList.some(s => s.id === selectedScenarioId)) {
+    if (selectedScenarioId && selectedScenarioId !== 'new' && scenarioList.some(s => s.id === selectedScenarioId)) {
       return
     }
 
-    const preferred = scenarioList.find(s => s.status === 'published') ?? scenarioList[0]
-    setSelectedScenarioId(preferred?.id ?? 'new')
+    if (!selectedScenarioId) {
+      const preferred = scenarioList.find(s => s.status === 'published') ?? scenarioList[0]
+      setSelectedScenarioId(preferred?.id ?? 'new')
+    }
   }, [scenarioList, selectedScenarioId])
 
   useEffect(() => {
@@ -218,14 +221,23 @@ export default function ScenarioBuilderView({ location, territoryData, userRole 
 
     try {
       if (location === 'arizona') {
+        const zipPayload = baselineAssignments
+          .filter(item => item.zip)
+          .map(item => ({
+            zip: Number(item.zip),
+            area: item.territory,
+          }))
+
+        if (!zipPayload.length) {
+          setBoundaryPaths({})
+          return
+        }
+
         const response = await fetch('/api/zip-boundaries', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
-            zipCodes: baselineAssignments.map(item => ({
-              zip: Number(item.zip),
-              area: item.territory,
-            })),
+            zipCodes: zipPayload,
           }),
         })
 
@@ -387,7 +399,7 @@ export default function ScenarioBuilderView({ location, territoryData, userRole 
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-[1fr_auto] gap-3">
-            <Select value={selectedScenarioId} onValueChange={setSelectedScenarioId} disabled={isLoadingScenarios}>
+            <Select value={selectedScenarioId ?? 'new'} onValueChange={setSelectedScenarioId} disabled={isLoadingScenarios}>
               <SelectTrigger>
                 <SelectValue placeholder="Select a scenario" />
               </SelectTrigger>

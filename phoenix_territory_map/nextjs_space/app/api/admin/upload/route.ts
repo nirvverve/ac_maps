@@ -13,7 +13,6 @@ import { getServerSession } from 'next-auth'
 import { authOptions } from '@/lib/auth'
 import { getDataStore, createDataBackup, storeLocationData } from '@/lib/datastore'
 import {
-  validateData,
   safeValidateData,
   type DataType,
   type UploadMetadata,
@@ -264,7 +263,7 @@ export async function POST(request: NextRequest) {
     // 9. Get DataStore instance
     const dataStore = await getDataStore()
 
-    // 9. Create backup if requested and data exists
+    // 10. Create backup if requested and data exists
     let backupKey: string | null = null
     if (createBackup) {
       try {
@@ -275,11 +274,11 @@ export async function POST(request: NextRequest) {
       }
     }
 
-    // 10. Store the validated data
+    // 11. Store the validated (and optionally geocoded) data
     const storeSuccess = await storeLocationData(
       location,
       dataType as DataType,
-      validationResult.data,
+      dataToStore,
       {
         uploadedBy: uploadMetadata.uploadedBy,
         version: uploadMetadata.uploadedAt
@@ -293,14 +292,14 @@ export async function POST(request: NextRequest) {
       )
     }
 
-    // 11. Store upload metadata for tracking
+    // 12. Store upload metadata for tracking
     const uploadId = `upload-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`
     await dataStore.write(`uploads/${uploadId}`, uploadMetadata, {
       dataType: 'upload-metadata',
       uploadedBy: uploadMetadata.uploadedBy
     })
 
-    // 12. Return success response
+    // 13. Return success response
     return NextResponse.json(
       {
         success: true,
@@ -311,7 +310,8 @@ export async function POST(request: NextRequest) {
           recordCount: uploadMetadata.recordCount,
           fileName: uploadMetadata.fileName,
           uploadId,
-          ...(backupKey && { backupKey })
+          ...(backupKey && { backupKey }),
+          ...(geocodeStats && { geocoding: geocodeStats })
         }
       },
       { status: 201 }

@@ -65,6 +65,7 @@ interface UploadResult {
     fileName: string
     uploadId: string
     backupKey?: string
+    geocoding?: { geocoded: number; failed: number; skipped: number }
   }
 }
 
@@ -77,6 +78,7 @@ export default function AdminUploadPage() {
   const [location, setLocation] = useState('')
   const [dataType, setDataType] = useState('')
   const [createBackup, setCreateBackup] = useState(true)
+  const [enableGeocoding, setEnableGeocoding] = useState(false)
   const [selectedFile, setSelectedFile] = useState<File | null>(null)
   const [uploading, setUploading] = useState(false)
   const [result, setResult] = useState<UploadResult | null>(null)
@@ -137,6 +139,7 @@ export default function AdminUploadPage() {
       formData.append('location', location)
       formData.append('dataType', dataType)
       formData.append('createBackup', createBackup.toString())
+      if (enableGeocoding) formData.append('geocode', 'true')
 
       const response = await fetch('/api/admin/upload', {
         method: 'POST',
@@ -261,6 +264,20 @@ export default function AdminUploadPage() {
               </Label>
             </div>
 
+            <div className="flex items-center gap-3">
+              <input
+                type="checkbox"
+                id="geocode"
+                checked={enableGeocoding}
+                onChange={(e) => setEnableGeocoding(e.target.checked)}
+                disabled={uploading}
+                className="h-4 w-4 rounded border-gray-300"
+              />
+              <Label htmlFor="geocode" className="text-sm text-muted-foreground cursor-pointer">
+                Geocode records missing lat/lng coordinates (uses Google API)
+              </Label>
+            </div>
+
             {/* File drop zone */}
             <div
               onDragOver={(e) => {
@@ -355,6 +372,13 @@ export default function AdminUploadPage() {
                           <Badge variant="outline">{result.metadata.dataType}</Badge>
                           {result.metadata.backupKey && (
                             <Badge variant="secondary">Backup created</Badge>
+                          )}
+                          {result.metadata.geocoding && (
+                            <Badge variant="secondary">
+                              {result.metadata.geocoding.geocoded} geocoded
+                              {result.metadata.geocoding.failed > 0 &&
+                                `, ${result.metadata.geocoding.failed} failed`}
+                            </Badge>
                           )}
                         </div>
                       )}
