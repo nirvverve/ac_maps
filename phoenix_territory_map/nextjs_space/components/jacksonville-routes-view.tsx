@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useCallback, useMemo } from 'react';
-import { GoogleMap, MarkerF, InfoWindowF, PolygonF } from '@react-google-maps/api';
+import { GoogleMap, MarkerF, InfoWindowF, PolygonF as Polygon } from '@react-google-maps/api';
 import { Card } from '@/components/ui/card';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Badge } from '@/components/ui/badge';
@@ -300,7 +300,7 @@ export function JacksonvilleRoutesView() {
                   }));
 
                   return (
-                    <PolygonF
+                    <Polygon
                       key={`${zip}-${idx}`}
                       paths={paths}
                       options={{
