@@ -218,7 +218,7 @@ export default function RegisterPage() {
                   autoFocus
                 />
                 <p className="text-xs text-muted-foreground">
-                  We'll send a verification code to this email
+                  We&apos;ll send a verification code to this email
                 </p>
               </div>
             </CardContent>

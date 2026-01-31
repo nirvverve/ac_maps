@@ -176,7 +176,7 @@ export function CustomerLookup() {
           )}
 
           {searchTerm.length >= 2 && filteredCustomers.length === 0 && (
-            <p className="text-sm text-muted-foreground">No customers found matching "{searchTerm}"</p>
+            <p className="text-sm text-muted-foreground">No customers found matching &quot;{searchTerm}&quot;</p>
           )}
 
           {filteredCustomers.length > 0 && (

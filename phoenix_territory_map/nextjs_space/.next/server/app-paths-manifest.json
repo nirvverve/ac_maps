@@ -1,6 +1,5 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/(auth)/login/page": "app/(auth)/login/page.js",
   "/page": "app/page.js",
   "/api/zip-boundaries/route": "app/api/zip-boundaries/route.js",
   "/api/scenarios/route": "app/api/scenarios/route.js",
@@ -12,6 +11,7 @@
   "/api/admin/upload/route": "app/api/admin/upload/route.js",
   "/admin/page": "app/admin/page.js",
   "/(auth)/register/page": "app/(auth)/register/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
   "/api/auth/register/route": "app/api/auth/register/route.js",
   "/api/admin/users/route": "app/api/admin/users/route.js"
 }

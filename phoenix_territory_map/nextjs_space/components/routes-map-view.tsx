@@ -413,7 +413,7 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
           <div className="mt-4 p-3 bg-blue-50 dark:bg-blue-950/20 border border-blue-200 dark:border-blue-800 rounded-lg flex items-start gap-2">
             <AlertCircle className="h-5 w-5 text-blue-600 dark:text-blue-400 shrink-0 mt-0.5" />
             <div className="text-sm text-blue-900 dark:text-blue-100">
-              <strong>Select a technician to view their route</strong> - This shows how an individual's route 
+              <strong>Select a technician to view their route</strong> - This shows how an individual&apos;s route 
               crosses different territories and ZIP codes. The map will zoom to their service area.
             </div>
           </div>

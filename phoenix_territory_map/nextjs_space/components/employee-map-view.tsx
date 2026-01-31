@@ -256,7 +256,7 @@ export default function EmployeeMapView() {
         <div className="p-4 border-b bg-gray-50">
           <h2 className="text-xl font-bold mb-2">Employee Locations</h2>
           <p className="text-sm text-gray-600 mb-4">
-            Showing home addresses with Troy's branch assignments
+            Showing home addresses with Troy&apos;s branch assignments
           </p>
           
           <div className="space-y-2">
@@ -357,7 +357,7 @@ export default function EmployeeMapView() {
               <p className="text-xs text-gray-600 mt-1">{selectedEmployee.city}</p>
               <div className="mt-3 space-y-1">
                 <p className="text-xs">
-                  <span className="font-medium">Troy's Assignment:</span> {selectedEmployee.troyAssignment || 'N/A'}
+                  <span className="font-medium">Troy&apos;s Assignment:</span> {selectedEmployee.troyAssignment || 'N/A'}
                 </p>
                 <p className="text-xs">
                   <span className="font-medium">Manager:</span> {selectedEmployee.manager}
