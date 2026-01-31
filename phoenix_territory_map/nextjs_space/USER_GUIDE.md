@@ -162,5 +162,6 @@ reassignments.
 - **Rate limits** — uploads are limited to 5 per minute; ZIP boundary
   lookups to 30 per minute. If you see a 429 error, wait and retry.
 - **Data refresh** — after a pipeline run (see `pipeline/README.md`),
-  upload the new JSON/CSV files via the admin upload page or copy them
-  to the `public/` directory and redeploy.
+  upload the new CSV/XLSX files via the admin upload page. For static
+  fallback, you can also copy the generated JSON files to `public/`
+  and redeploy.

@@ -6,7 +6,7 @@
 
 ```bash
 cd phoenix_territory_map/nextjs_space
-cp .env.example .env.local          # fill in values (see §2)
+touch .env.local                    # fill in values (see §2)
 bun install
 bunx prisma generate
 bunx prisma migrate deploy
@@ -103,13 +103,7 @@ bun run build
 bun run start          # port 3000
 ```
 
-### With Node
-
-```bash
-npm install
-npm run build
-npm start
-```
+> Note: This project uses **Bun** for dependency management and scripts.
 
 ---
 
@@ -138,21 +132,16 @@ Notes:
 ## 6. Docker deployment
 
 ```dockerfile
-FROM node:20-alpine AS builder
+FROM oven/bun:1.1.27
 WORKDIR /app
 COPY package.json bun.lock ./
-RUN npm install
+RUN bun install --frozen-lockfile
 COPY . .
+ENV NODE_ENV=production
 ENV NEXT_OUTPUT_MODE=standalone
-RUN npx prisma generate && npm run build
-
-FROM node:20-alpine
-WORKDIR /app
-COPY --from=builder /app/.next/standalone ./
-COPY --from=builder /app/.next/static ./.next/static
-COPY --from=builder /app/public ./public
+RUN bunx prisma generate && bun run build
 EXPOSE 3000
-CMD ["node", "server.js"]
+CMD ["bun", "run", "start"]
 ```
 
 ```bash
@@ -191,7 +180,8 @@ Password hashing: bcryptjs, 10 salt rounds.
 | Route | Method | Purpose |
 |-------|--------|---------|
 | `/api/data/[location]/[dataType]` | GET | Serve territory/density/route JSON |
-| `/api/scenarios` | GET/POST | List or create scenarios |
+| `/api/scenarios` | GET | List scenarios |
+| `/api/scenarios` | POST | Create scenario (admin only) |
 | `/api/scenarios/[id]` | GET/PUT | Read or update a scenario |
 
 ### Admin (admin role only)
@@ -245,9 +235,9 @@ Alternatively, use the admin upload endpoint directly:
 ```bash
 curl -X POST https://maps.example.com/api/admin/upload \
   -H "Cookie: next-auth.session-token=..." \
-  -F "file=@Phoenix_Zip_Code_Map_Data.json" \
+  -F "file=@territory-data.csv" \
   -F "location=arizona" \
-  -F "dataType=territory-data"
+  -F "dataType=territory"
 ```
 
 ---
