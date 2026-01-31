@@ -120,12 +120,18 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
   }, [location])
 
   useEffect(() => {
-    if (territoryData?.length) {
-      const filtered = territoryData.filter(item =>
-        areaFilter?.[item?.area] === true
-      )
-      setFilteredData(filtered)
+    if (!territoryData?.length) {
+      setFilteredData([])
+      return
     }
+
+    if (!areaFilter || Object.keys(areaFilter).length === 0) {
+      setFilteredData(territoryData)
+      return
+    }
+
+    const filtered = territoryData.filter(item => areaFilter?.[item?.area] === true)
+    setFilteredData(filtered)
   }, [territoryData, areaFilter, location])
 
   const toggleAreaFilter = (area: string) => {

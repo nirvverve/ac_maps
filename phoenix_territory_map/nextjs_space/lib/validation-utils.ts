@@ -10,7 +10,6 @@
 import { ZodError } from 'zod'
 import {
   DataType,
-  safeValidateData,
   getValidationSchema,
   type UploadMetadata
 } from './validation-schemas'
@@ -64,18 +63,19 @@ export function validateDataArray(
   const warnings: string[] = []
 
   let processedRows = 0
+  const elementSchema = getValidationSchema(dataType).element
 
   for (let i = 0; i < data.length; i++) {
     const rowNumber = i + 1
     processedRows++
 
     try {
-      const result = safeValidateData(dataType, data)
+      const result = elementSchema.safeParse(data[i])
 
       if (result.success) {
-        validData.push(...result.data)
+        validData.push(result.data)
       } else {
-        const rowErrors = formatZodErrors(result.error, rowNumber)
+        const rowErrors = formatZodErrors(result.error, rowNumber, data[i])
         errors.push(...rowErrors)
 
         if (stopOnFirstError || errors.length >= maxErrors) {
@@ -102,7 +102,7 @@ export function validateDataArray(
   const summary: ValidationSummary = {
     totalRows: data.length,
     validRows: validData.length,
-    invalidRows: Math.min(data.length - validData.length, processedRows),
+    invalidRows: Math.max(processedRows - validData.length, 0),
     errorCount: errors.length,
     warnings
   }
@@ -118,11 +118,11 @@ export function validateDataArray(
 /**
  * Format Zod validation errors into user-friendly messages
  */
-function formatZodErrors(error: ZodError, rowNumber: number): ValidationError[] {
+function formatZodErrors(error: ZodError, rowNumber: number, rowData: unknown): ValidationError[] {
   return error.errors.map(err => ({
     row: rowNumber,
     field: err.path.join('.'),
-    value: err.path.length > 0 ? getValueAtPath(error, err.path) : undefined,
+    value: err.path.length > 0 ? getValueAtPath(rowData, err.path) : undefined,
     message: formatErrorMessage(err),
     code: err.code
   }))
@@ -147,28 +147,31 @@ function getValueAtPath(input: unknown, path: (string | number)[]): unknown {
  * Format Zod error messages for user display
  */
 function formatErrorMessage(error: any): string {
-  switch (error.code) {
-    case 'invalid_type':
-      return `Expected ${error.expected}, but received ${error.received}`
-    case 'invalid_string':
-      return error.validation === 'regex'
-        ? `Value does not match expected format`
-        : `Invalid string value`
-    case 'too_small':
-      return error.type === 'string'
-        ? `Must be at least ${error.minimum} characters long`
-        : `Must be at least ${error.minimum}`
-    case 'too_big':
-      return error.type === 'string'
-        ? `Must be at most ${error.maximum} characters long`
-        : `Must be at most ${error.maximum}`
-    case 'invalid_enum_value':
-      return `Must be one of: ${error.options.join(', ')}`
-    case 'custom':
-      return error.message || 'Invalid value'
-    default:
-      return error.message || 'Validation error'
+  if (error.code === 'invalid_type') {
+    return `Expected ${error.expected}, but received ${error.received}`
   }
+  if (error.code === 'invalid_string') {
+    return error.validation === 'regex'
+      ? `Value does not match expected format`
+      : `Invalid string value`
+  }
+  if (error.code === 'too_small') {
+    return error.type === 'string'
+      ? `Must be at least ${error.minimum} characters long`
+      : `Must be at least ${error.minimum}`
+  }
+  if (error.code === 'too_big') {
+    return error.type === 'string'
+      ? `Must be at most ${error.maximum} characters long`
+      : `Must be at most ${error.maximum}`
+  }
+  if (error.code === 'invalid_enum_value') {
+    return `Must be one of: ${error.options.join(', ')}`
+  }
+  if (error.code === 'custom') {
+    return error.message || 'Invalid value'
+  }
+  return error.message || 'Validation error'
 }
 
 // ---------------------------------------------------------------------------

@@ -13,29 +13,68 @@ import { z } from 'zod'
 // Common validation utilities
 // ---------------------------------------------------------------------------
 
+const normalizeString = (value: unknown) => {
+  if (value === null || value === undefined) return value
+  const str = String(value).trim()
+  return str === '' ? undefined : str
+}
+
+const emptyToUndefined = (value: unknown) => {
+  if (value === '' || value === null || value === undefined) return undefined
+  return value
+}
+
+const coerceNumber = (schema: z.ZodNumber) => z.preprocess(emptyToUndefined, schema)
+const coerceInt = (schema: z.ZodNumber) => z.preprocess(emptyToUndefined, schema.int())
+const coerceBoolean = z.preprocess((value) => {
+  if (value === '' || value === null || value === undefined) return undefined
+  if (typeof value === 'boolean') return value
+  if (typeof value === 'string') {
+    const normalized = value.trim().toLowerCase()
+    if (['true', 'yes', '1'].includes(normalized)) return true
+    if (['false', 'no', '0'].includes(normalized)) return false
+  }
+  return value
+}, z.boolean())
+
+const normalizeZip = (value: unknown) => {
+  const normalized = normalizeString(value)
+  if (typeof normalized !== 'string') return normalized
+  return normalized.replace(/\.0$/, '')
+}
+
 // US ZIP code validation (5 or 9 digit format)
-const zipCodeSchema = z.string().regex(/^\d{5}(-\d{4})?$/, 'Invalid ZIP code format')
+const zipCodeSchema = z.preprocess(
+  normalizeZip,
+  z.string().regex(/^\d{5}(-?\d{4})?$/, 'Invalid ZIP code format')
+)
 
 // Latitude validation (-90 to 90)
-const latitudeSchema = z.number().min(-90).max(90)
+const latitudeSchema = coerceNumber(z.coerce.number().min(-90).max(90))
 
 // Longitude validation (-180 to 180)
-const longitudeSchema = z.number().min(-180).max(180)
+const longitudeSchema = coerceNumber(z.coerce.number().min(-180).max(180))
 
 // Account number validation (flexible format)
-const accountNumberSchema = z.string().min(1).max(50)
+const accountNumberSchema = z.preprocess(
+  normalizeString,
+  z.string().min(1).max(50)
+)
 
 // Currency validation (positive numbers with up to 2 decimal places)
-const currencySchema = z.number().min(0).multipleOf(0.01)
+const currencySchema = coerceNumber(z.coerce.number().min(0).multipleOf(0.01))
 
 // Year validation (reasonable range for business data)
-const yearSchema = z.number().int().min(2000).max(2030)
+const yearSchema = coerceInt(z.coerce.number().min(2000).max(2030))
 
 // Status validation
 const accountStatusSchema = z.enum(['Active', 'Terminated', 'Suspended', 'Pending'])
 
 // Territory validation (flexible to support all locations)
-const territorySchema = z.string().min(1).max(50)
+const territorySchema = z.preprocess(
+  normalizeString,
+  z.string().min(1).max(50)
+)
 
 // ---------------------------------------------------------------------------
 // Core data type schemas
@@ -47,7 +86,7 @@ const territorySchema = z.string().min(1).max(50)
 export const territoryDataSchema = z.object({
   zip: zipCodeSchema,
   area: territorySchema,
-  accounts: z.number().int().min(0),
+  accounts: coerceInt(z.coerce.number().min(0)),
   city: z.string().optional(), // Some data includes city
   state: z.string().length(2).optional(), // Some data includes state
 })
@@ -57,7 +96,7 @@ export const territoryDataSchema = z.object({
  */
 export const densityDataSchema = z.object({
   zip: zipCodeSchema,
-  accountCount: z.number().int().min(0),
+  accountCount: coerceInt(z.coerce.number().min(0)),
   latitude: latitudeSchema,
   longitude: longitudeSchema,
   city: z.string().min(1).max(100),
@@ -93,9 +132,9 @@ export const revenueDataSchema = z.object({
   territory: territorySchema,
   city: z.string().min(1).max(100),
   year: yearSchema,
-  month: z.number().int().min(1).max(12).optional(),
+  month: coerceInt(z.coerce.number().min(1).max(12)).optional(),
   totalRevenue: currencySchema,
-  activeAccounts: z.number().int().min(0),
+  activeAccounts: coerceInt(z.coerce.number().min(0)),
   averageRevenue: currencySchema,
   latitude: latitudeSchema.optional(),
   longitude: longitudeSchema.optional(),
@@ -111,10 +150,10 @@ export const routesDataSchema = z.object({
   technicianName: z.string().min(1).max(200),
   territory: territorySchema,
   zip: zipCodeSchema,
-  accountCount: z.number().int().min(0),
-  estimatedDriveTime: z.number().min(0).optional(), // minutes
+  accountCount: coerceInt(z.coerce.number().min(0)),
+  estimatedDriveTime: coerceNumber(z.coerce.number().min(0)).optional(), // minutes
   serviceDay: z.enum(['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']).optional(),
-  isActive: z.boolean().default(true),
+  isActive: coerceBoolean.default(true),
 })
 
 /**
@@ -131,7 +170,7 @@ export const employeeDataSchema = z.object({
   longitude: longitudeSchema,
   assignedTerritory: territorySchema.optional(),
   branch: z.string().min(1).max(100),
-  isActive: z.boolean().default(true),
+  isActive: coerceBoolean.default(true),
   hireDate: z.string().optional(), // ISO date string
 })
 
@@ -150,7 +189,7 @@ export const commercialDataSchema = z.object({
   longitude: longitudeSchema,
   status: accountStatusSchema,
   monthlyRevenue: currencySchema,
-  poolCount: z.number().int().min(1).optional(),
+  poolCount: coerceInt(z.coerce.number().min(1)).optional(),
   propertyType: z.enum(['Hotel', 'Apartment', 'HOA', 'Country Club', 'Fitness Center', 'Other']).optional(),
   contractType: z.enum(['Full Service', 'Chemical Only', 'Maintenance Only']).optional(),
   installDate: z.string().optional(), // ISO date string
@@ -170,7 +209,7 @@ export const ancillarySalesDataSchema = z.object({
   total: currencySchema,
   latitude: latitudeSchema,
   longitude: longitudeSchema,
-  accountCount: z.number().int().min(0).optional(),
+  accountCount: coerceInt(z.coerce.number().min(0)).optional(),
   territory: territorySchema.optional(),
 })
 
@@ -181,10 +220,10 @@ export const marketSizeDataSchema = z.object({
   zip: zipCodeSchema,
   city: z.string().min(1).max(100),
   territory: territorySchema,
-  totalHouseholds: z.number().int().min(0),
-  estimatedPools: z.number().int().min(0),
-  marketPenetration: z.number().min(0).max(100), // percentage
-  competitorCount: z.number().int().min(0).optional(),
+  totalHouseholds: coerceInt(z.coerce.number().min(0)),
+  estimatedPools: coerceInt(z.coerce.number().min(0)),
+  marketPenetration: coerceNumber(z.coerce.number().min(0).max(100)), // percentage
+  competitorCount: coerceInt(z.coerce.number().min(0)).optional(),
   averageIncome: currencySchema.optional(),
   latitude: latitudeSchema,
   longitude: longitudeSchema,
@@ -215,8 +254,8 @@ export const scenarioReassignmentSchema = z.object({
   zipCode: zipCodeSchema,
   fromTerritory: territorySchema,
   toTerritory: territorySchema,
-  accountCount: z.number().int().min(0),
-  revenueImpact: z.number().min(0)
+  accountCount: coerceInt(z.coerce.number().min(0)),
+  revenueImpact: coerceNumber(z.coerce.number().min(0))
 })
 
 /**

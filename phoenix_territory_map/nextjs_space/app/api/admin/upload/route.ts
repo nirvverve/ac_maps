@@ -20,6 +20,7 @@ import {
 } from '@/lib/validation-schemas'
 import { rateLimitGuard, RATE_LIMIT_CONFIGS } from '@/lib/rate-limit'
 import { geocodeRecords, needsGeocoding } from '@/lib/geocoding'
+import { randomUUID } from 'crypto'
 import { parse } from 'papaparse'
 import * as XLSX from 'xlsx'
 
@@ -199,7 +200,11 @@ export async function POST(request: NextRequest) {
     // 5. Parse file content
     let parsedData: ParsedUpload
 
-    if (file.type === 'text/csv') {
+    const fileNameLower = file.name.toLowerCase()
+    const isCsv = fileNameLower.endsWith('.csv') || file.type === 'text/csv'
+    const isXlsx = fileNameLower.endsWith('.xlsx') || fileNameLower.endsWith('.xls')
+
+    if (isCsv && !isXlsx) {
       const content = await file.text()
       parsedData = parseCSV(content, file.name)
     } else {
@@ -293,7 +298,7 @@ export async function POST(request: NextRequest) {
     }
 
     // 12. Store upload metadata for tracking
-    const uploadId = `upload-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`
+    const uploadId = `upload-${randomUUID()}`
     await dataStore.write(`uploads/${uploadId}`, uploadMetadata, {
       dataType: 'upload-metadata',
       uploadedBy: uploadMetadata.uploadedBy
