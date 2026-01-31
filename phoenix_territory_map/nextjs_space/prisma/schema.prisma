@@ -25,6 +25,25 @@ model User {
   emailVerified     Boolean  @default(false) // Track if email has been verified
   createdAt         DateTime @default(now())
   updatedAt         DateTime @updatedAt
-  
+
+  uploadLogs        UploadLog[]
+
   @@index([email])
+}
+
+model UploadLog {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id])
+  location    String
+  dataType    String
+  fileName    String
+  fileSize    Int
+  recordCount Int
+  backupKey   String?
+  geocoded    Int      @default(0)
+  createdAt   DateTime @default(now())
+
+  @@index([userId])
+  @@index([createdAt])
 }

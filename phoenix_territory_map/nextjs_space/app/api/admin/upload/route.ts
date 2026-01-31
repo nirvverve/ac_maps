@@ -11,6 +11,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { getServerSession } from 'next-auth'
 import { authOptions } from '@/lib/auth'
+import { prisma } from '@/lib/db'
 import { getDataStore, createDataBackup, storeLocationData } from '@/lib/datastore'
 import {
   safeValidateData,
@@ -304,7 +305,26 @@ export async function POST(request: NextRequest) {
       uploadedBy: uploadMetadata.uploadedBy
     })
 
-    // 13. Return success response
+    // 13. Write audit log to database (bd-2to)
+    try {
+      await prisma.uploadLog.create({
+        data: {
+          userId: session.user.id,
+          location,
+          dataType,
+          fileName: uploadMetadata.fileName,
+          fileSize: uploadMetadata.fileSize,
+          recordCount: uploadMetadata.recordCount,
+          backupKey,
+          geocoded: geocodeStats?.geocoded ?? 0,
+        },
+      })
+    } catch (auditErr) {
+      // Audit failure must not block a successful upload
+      console.warn('Upload audit log write failed:', auditErr)
+    }
+
+    // 14. Return success response
     return NextResponse.json(
       {
         success: true,
