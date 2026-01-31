@@ -14,6 +14,7 @@ import {
   TableHeader,
   TableRow,
 } from '@/components/ui/table';
+import { MAP_CONTAINER_STYLE as mapContainerStyle } from '@/lib/map-config';
 
 interface FutureCommercialAccount {
   customerNumber: string;
@@ -34,11 +35,6 @@ interface FutureCommercialAccount {
   originalRoute: string;
   originalTech: string;
 }
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '550px',
-};
 
 const mapOptions = {
   styles: [{ featureType: 'poi', elementType: 'labels', stylers: [{ visibility: 'off' }] }],

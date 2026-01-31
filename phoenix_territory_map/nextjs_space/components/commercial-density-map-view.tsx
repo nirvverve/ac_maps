@@ -6,6 +6,7 @@ import { GoogleMap, InfoWindowF, PolygonF, MarkerF } from '@react-google-maps/ap
 import { Card } from '@/components/ui/card'
 import { Building2, MapPin } from 'lucide-react'
 import { getAreaDisplayName } from '@/lib/utils'
+import { MAP_CONTAINER_STYLE as mapContainerStyle } from '@/lib/map-config'
 
 interface CommercialAccount {
   customerNumber: string
@@ -47,11 +48,6 @@ interface CommercialDensityMapViewProps {
     Tucson: boolean
     Commercial: boolean
   }
-}
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '600px',
 }
 
 const center = {

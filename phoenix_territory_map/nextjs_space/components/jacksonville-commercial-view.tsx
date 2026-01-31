@@ -6,6 +6,7 @@ import { Card } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Table, TableHeader, TableBody, TableRow, TableHead, TableCell } from '@/components/ui/table';
 import { AlertCircle, Building2, MapPin, DollarSign } from 'lucide-react';
+import { MAP_CONTAINER_STYLE as mapContainerStyle } from '@/lib/map-config';
 
 interface CommercialAccount {
   customerNumber: string;
@@ -24,11 +25,6 @@ interface CommercialAccount {
   accountType: string;
   status: string;
 }
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '600px',
-};
 
 const jacksonvilleCenter = {
   lat: 30.3322,

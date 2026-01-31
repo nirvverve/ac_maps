@@ -8,6 +8,7 @@ import { Button } from '@/components/ui/button';
 import { Search, Download, RotateCcw, Info } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import { Alert, AlertDescription } from '@/components/ui/alert';
+import { MAP_CONTAINER_STYLE as mapContainerStyle } from '@/lib/map-config';
 
 interface ZipData {
   zip: string;
@@ -22,11 +23,6 @@ interface Boundary {
   type: string;
   coordinates: number[][][] | number[][][][]; // Polygon or MultiPolygon
 }
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '650px',
-};
 
 const mapOptions = {
   styles: [

@@ -7,6 +7,7 @@ import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Search, MapPin, Star } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
+import { MAP_CONTAINER_STYLE_TALL as mapContainerStyle } from '@/lib/map-config';
 
 interface MiamiTerritoryViewProps {
   areaFilter: {
@@ -34,11 +35,6 @@ interface OfficeLocation {
   lat: number;
   lng: number;
 }
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '700px',
-};
 
 const mapOptions = {
   styles: [

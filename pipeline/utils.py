@@ -47,6 +47,37 @@ def load_excel_safe(path: str | Path, sheet_name: str) -> pd.DataFrame:
         ) from exc
 
 
+def load_branch_definitions(path: str | Path) -> dict:
+    """Load shared branch/territory definitions from JSON."""
+    file_path = Path(path)
+    if not file_path.exists():
+        raise FileNotFoundError(
+            "Branch definitions file not found: "
+            f"{file_path}\nExpected location: {file_path.resolve()}"
+        )
+
+    with file_path.open("r", encoding="utf-8") as handle:
+        return json.load(handle)
+
+
+def build_branch_to_area_map(branch_definitions: Mapping[str, object]) -> dict[str, str]:
+    """Build a branch name -> area map from branch_definitions.json."""
+    locations = branch_definitions.get("locations") if isinstance(branch_definitions, dict) else {}
+    arizona = locations.get("arizona", {}) if isinstance(locations, dict) else {}
+    consolidation = arizona.get("consolidationMap", {}) if isinstance(arizona, dict) else {}
+    mapping: dict[str, str] = {}
+
+    if isinstance(consolidation, dict):
+        for branch_name, area in consolidation.items():
+            if not isinstance(branch_name, str) or not isinstance(area, str):
+                continue
+            mapping[branch_name] = area
+            if " - " in branch_name:
+                mapping[branch_name.split(" - ")[0]] = area
+
+    return mapping
+
+
 def validate_dataframe(
     df: pd.DataFrame,
     required_columns: Sequence[str],

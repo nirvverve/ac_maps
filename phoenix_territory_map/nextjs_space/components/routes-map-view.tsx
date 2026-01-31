@@ -6,6 +6,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Card } from '@/components/ui/card';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
 import { AlertCircle } from 'lucide-react';
+import { MAP_CONTAINER_STYLE as mapContainerStyle } from '@/lib/map-config';
 
 interface RouteAssignment {
   customerNumber: string;
@@ -39,11 +40,6 @@ interface RoutesMapViewProps {
   areaFilter: string;
   onAreaChange: (area: string) => void;
 }
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '600px',
-};
 
 const center = {
   lat: 33.4484,

@@ -5,13 +5,9 @@ import type { LucideIcon } from 'lucide-react'
 import { MapPin } from 'lucide-react'
 import { Card, CardContent } from '@/components/ui/card'
 import { cn } from '@/lib/utils'
+import { MAP_CONTAINER_STYLE } from '@/lib/map-config'
 import { LoadingState } from './loading-state'
 import { EmptyState } from './empty-state'
-
-const DEFAULT_MAP_STYLE: CSSProperties = {
-  width: '100%',
-  height: 'clamp(420px, 60vh, 720px)',
-}
 
 export interface MapContainerProps {
   children: ReactNode
@@ -62,7 +58,7 @@ export function MapContainer({
       <CardContent className={cn('p-6', contentClassName)}>
         <div
           className={cn('w-full rounded-lg overflow-hidden', mapClassName)}
-          style={mapStyle ?? DEFAULT_MAP_STYLE}
+          style={mapStyle ?? MAP_CONTAINER_STYLE}
         >
           {children}
         </div>

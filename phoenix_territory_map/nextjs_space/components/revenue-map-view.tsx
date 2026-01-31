@@ -7,6 +7,7 @@ import { Button } from '@/components/ui/button'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { DollarSign, TrendingUp, Users, Filter, MapPin, Building2, ArrowUpDown, ArrowUp, ArrowDown } from 'lucide-react'
 import type { AreaFilter } from '@/lib/types'
+import { MAP_CONTAINER_STYLE_XL as mapContainerStyle } from '@/lib/map-config'
 
 interface RevenueData {
   ZIP: string
@@ -37,11 +38,6 @@ interface RevenueMapViewProps {
   areaFilter: AreaFilter
   onToggleArea: (area: string) => void
   onResetFilters: () => void
-}
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '800px'
 }
 
 const center = {

@@ -6,6 +6,8 @@ import { Card } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Badge } from '@/components/ui/badge';
 import { Search, MapPin, User, Building } from 'lucide-react';
+import { useDebounce } from '@/hooks/use-debounce';
+import { MAP_CONTAINER_STYLE_COMPACT as mapContainerStyle } from '@/lib/map-config';
 
 interface Customer {
   accountNumber: string;
@@ -18,11 +20,6 @@ interface Customer {
   longitude: number;
   status: string;
 }
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '400px',
-};
 
 const getAreaColor = (area: string): string => {
   const colors: Record<string, string> = {
@@ -76,6 +73,7 @@ const getAreaDisplayName = (area: string): string => {
 export function CustomerLookup() {
   const [customers, setCustomers] = useState<Customer[]>([]);
   const [searchTerm, setSearchTerm] = useState('');
+  const debouncedSearch = useDebounce(searchTerm, 250);
   const [filteredCustomers, setFilteredCustomers] = useState<Customer[]>([]);
   const [selectedCustomer, setSelectedCustomer] = useState<Customer | null>(null);
   const [showMapInfo, setShowMapInfo] = useState(false);
@@ -99,7 +97,7 @@ export function CustomerLookup() {
           longitude: item.longitude,
           status: item.status || 'Active'
         }));
-        
+
         const allCustomers = [...arizonaData, ...jacksonvilleCustomers];
         setCustomers(allCustomers);
         setFilteredCustomers([]);
@@ -110,13 +108,13 @@ export function CustomerLookup() {
   }, []);
 
   useEffect(() => {
-    if (searchTerm.length < 2) {
+    if (debouncedSearch.length < 2) {
       setFilteredCustomers([]);
       setSelectedCustomer(null);
       return;
     }
 
-    const term = searchTerm.toLowerCase();
+    const term = debouncedSearch.toLowerCase();
     const results = customers.filter(
       (customer) => {
         const name = String(customer.customerName || '').toLowerCase();
@@ -128,12 +126,12 @@ export function CustomerLookup() {
 
     // Limit to 50 results for performance
     setFilteredCustomers(results.slice(0, 50));
-    
+
     // Auto-select if exact match
     if (results.length === 1) {
       setSelectedCustomer(results[0]);
     }
-  }, [searchTerm, customers]);
+  }, [debouncedSearch, customers]);
 
   const handleCustomerClick = (customer: Customer) => {
     setSelectedCustomer(customer);
@@ -171,12 +169,12 @@ export function CustomerLookup() {
             />
           </div>
 
-          {searchTerm.length > 0 && searchTerm.length < 2 && (
+          {searchTerm.length > 0 && debouncedSearch.length < 2 && (
             <p className="text-sm text-muted-foreground">Type at least 2 characters to search</p>
           )}
 
-          {searchTerm.length >= 2 && filteredCustomers.length === 0 && (
-            <p className="text-sm text-muted-foreground">No customers found matching &quot;{searchTerm}&quot;</p>
+          {debouncedSearch.length >= 2 && filteredCustomers.length === 0 && (
+            <p className="text-sm text-muted-foreground">No customers found matching &quot;{debouncedSearch}&quot;</p>
           )}
 
           {filteredCustomers.length > 0 && (

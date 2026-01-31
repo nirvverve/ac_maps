@@ -7,6 +7,7 @@ import { Card } from '@/components/ui/card'
 import { Building2, MapPin } from 'lucide-react'
 import { getAreaDisplayName } from '@/lib/utils'
 import { getDensityColor } from '@/config/locations.config'
+import { MAP_CONTAINER_STYLE as mapContainerStyle } from '@/lib/map-config'
 
 interface DensityData {
   zipCode: string
@@ -42,11 +43,6 @@ interface DensityMapViewProps {
   }
   location: 'arizona' | 'miami' | 'dallas' | 'orlando' | 'jacksonville' | 'portCharlotte'
   accountType?: 'residential' | 'commercial'
-}
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '600px',
 }
 
 const getMapCenter = (location: 'arizona' | 'miami' | 'dallas' | 'orlando' | 'jacksonville' | 'portCharlotte') => {

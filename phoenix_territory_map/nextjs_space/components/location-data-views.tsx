@@ -8,6 +8,7 @@ import { Badge } from '@/components/ui/badge';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Table, TableHeader, TableBody, TableRow, TableHead, TableCell } from '@/components/ui/table';
 import { AlertCircle, Building2, MapPin, DollarSign, Users, Calendar, TrendingUp, ArrowUpDown } from 'lucide-react';
+import { MAP_CONTAINER_STYLE as mapContainerStyle } from '@/lib/map-config';
 
 // Location configuration
 const LOCATION_CONFIG = {
@@ -36,11 +37,6 @@ const LOCATION_CONFIG = {
     center: { lat: 30.3322, lng: -81.6557 },
     zoom: 10,
   },
-};
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '600px',
 };
 
 const mapOptions = {

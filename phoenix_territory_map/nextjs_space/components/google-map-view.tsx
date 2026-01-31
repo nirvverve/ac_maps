@@ -10,15 +10,11 @@ import { MapPin, Users, Building2, Search, X } from 'lucide-react'
 import { toast } from 'sonner'
 import { TerritoryData, AreaFilter } from '@/lib/types'
 import { getAreaDisplayName } from '@/lib/utils'
+import { MAP_CONTAINER_STYLE as mapContainerStyle } from '@/lib/map-config'
 
 interface GoogleMapViewProps {
   territoryData: TerritoryData[]
   areaFilter: AreaFilter
-}
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '600px',
 }
 
 const center = {

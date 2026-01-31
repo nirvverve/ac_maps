@@ -7,6 +7,7 @@ import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { Table, TableHeader, TableBody, TableRow, TableHead, TableCell } from '@/components/ui/table';
 import { AlertCircle, DollarSign, MapPin, TrendingUp, ArrowUpDown } from 'lucide-react';
+import { MAP_CONTAINER_STYLE as mapContainerStyle } from '@/lib/map-config';
 
 interface ZipRevenueData {
   zip: string;
@@ -39,11 +40,6 @@ interface TerritoryFilter {
 }
 
 type SortOrder = 'none' | 'asc' | 'desc';
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '600px',
-};
 
 // Location configuration
 const LOCATION_CONFIG = {

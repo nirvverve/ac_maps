@@ -22,6 +22,7 @@ import {
   TableHeader,
   TableRow,
 } from '@/components/ui/table';
+import { MAP_CONTAINER_STYLE as mapContainerStyle } from '@/lib/map-config';
 
 interface CommercialAccount {
   customerNumber: string;
@@ -39,11 +40,6 @@ interface CommercialAccount {
   latitude: number;
   longitude: number;
 }
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '550px',
-};
 
 const mapOptions = {
   styles: [{ featureType: 'poi', elementType: 'labels', stylers: [{ visibility: 'off' }] }],

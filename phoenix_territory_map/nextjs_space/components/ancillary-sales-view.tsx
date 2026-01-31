@@ -8,6 +8,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
 import { Loader2, DollarSign, TrendingUp, Users, ArrowUpDown, ArrowUp, ArrowDown, Download } from 'lucide-react';
 import { Checkbox } from '@/components/ui/checkbox';
+import { MAP_CONTAINER_STYLE as mapContainerStyle } from '@/lib/map-config';
 
 interface AncillarySalesView1Data {
   zip: string;
@@ -60,11 +61,6 @@ interface ZipBoundary {
   geometry: BoundaryGeometry;
   properties: Record<string, any>;
 }
-
-const mapContainerStyle = {
-  width: '100%',
-  height: '600px',
-};
 
 const center = { lat: 33.4484, lng: -112.0740 };
 

@@ -75,17 +75,22 @@ export const LOCATION_MAP_CONFIG: Record<LocationKey, LocationMapConfig> = {
 
 export const MAP_CONTAINER_STYLE = {
   width: '100%' as const,
-  height: '600px' as const,
+  height: 'clamp(420px, 60vh, 720px)' as const,
+}
+
+export const MAP_CONTAINER_STYLE_COMPACT = {
+  width: '100%' as const,
+  height: 'clamp(300px, 40vh, 450px)' as const,
 }
 
 export const MAP_CONTAINER_STYLE_TALL = {
   width: '100%' as const,
-  height: '700px' as const,
+  height: 'clamp(480px, 65vh, 780px)' as const,
 }
 
 export const MAP_CONTAINER_STYLE_XL = {
   width: '100%' as const,
-  height: '800px' as const,
+  height: 'clamp(520px, 70vh, 850px)' as const,
 }
 
 // ---------------------------------------------------------------------------
