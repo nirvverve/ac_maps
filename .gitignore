@@ -19,6 +19,7 @@ __pycache__/
 # Build outputs
 dist/
 build/
+.next/
 *.exe
 *.dll
 *.so
@@ -39,3 +40,6 @@ coverage/
 
 # bv (beads viewer) local config and caches
 .bv/
+
+# Agent artifacts
+.ntm/

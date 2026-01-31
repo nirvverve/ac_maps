@@ -309,10 +309,10 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
             {/* Market Size - Arizona only */}
             {location === 'arizona' && (
               <Button
-                onClick={() => setViewMode('market')}
-                variant={viewMode === 'market' ? 'default' : 'outline'}
+                onClick={() => setViewMode('marketSize')}
+                variant={viewMode === 'marketSize' ? 'default' : 'outline'}
                 className={`px-5 py-5 text-sm ${
-                  viewMode === 'market' 
+                  viewMode === 'marketSize' 
                     ? 'bg-green-600 hover:bg-green-700 text-white shadow-lg' 
                     : 'hover:bg-green-50'
                 }`}
@@ -580,10 +580,10 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
             {/* Customer Lookup - Arizona only */}
             {location === 'arizona' && (
               <Button
-                onClick={() => setViewMode('lookup')}
-                variant={viewMode === 'lookup' ? 'default' : 'outline'}
+                onClick={() => setViewMode('customerLookup')}
+                variant={viewMode === 'customerLookup' ? 'default' : 'outline'}
                 className={`px-5 py-5 text-sm ${
-                  viewMode === 'lookup' 
+                  viewMode === 'customerLookup' 
                     ? 'bg-cyan-600 hover:bg-cyan-700 text-white shadow-lg' 
                     : 'hover:bg-cyan-50'
                 }`}

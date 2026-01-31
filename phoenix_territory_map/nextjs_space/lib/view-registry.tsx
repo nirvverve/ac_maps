@@ -63,12 +63,12 @@ export type ViewMode =
   // Core Arizona views
   | 'territory'
   | 'density'
-  | 'market'
+  | 'marketSize'
   | 'revenue'
   | 'employees'
   | 'commercial'
   | 'routes'
-  | 'lookup'
+  | 'customerLookup'
   | 'ancillarySales'
   // Miami scenarios
   | 'kmlScenario'
@@ -110,12 +110,12 @@ export const VIEW_REGISTRY: Record<ViewMode, ComponentType<any>> = {
   // Core Arizona views
   territory: GoogleMapView,
   density: DensityMapView,
-  market: MarketSizeMapView,
+  marketSize: MarketSizeMapView,
   revenue: RevenueMapView,
   employees: EmployeeMapView,
   commercial: CommercialDensityMapView,
   routes: RoutesMapView,
-  lookup: CustomerLookup,
+  customerLookup: CustomerLookup,
   ancillarySales: AncillarySalesView,
 
   // Miami scenarios (territory-breaking scenarios)

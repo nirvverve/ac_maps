@@ -173,6 +173,11 @@ export function TerritoryProvider({
     loadTerritoryData()
   }, [loadTerritoryData])
 
+  // Sync internal location state if parent prop changes
+  useEffect(() => {
+    setLocation(initialLocation)
+  }, [initialLocation])
+
   // Load Miami data when location is Miami
   useEffect(() => {
     if (location === 'miami') {
