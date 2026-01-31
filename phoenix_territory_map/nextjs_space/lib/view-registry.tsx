@@ -35,13 +35,7 @@ const AncillarySalesView = withMapLoading(() => import('../components/ancillary-
 
 // Miami views — named exports
 const MiamiTerritoryView = withMapLoading(() => import('../components/miami-territory-view').then(m => ({ default: m.MiamiTerritoryView })))
-const MiamiKMLScenarioView = withMapLoading(() => import('../components/miami-kml-scenario-view').then(m => ({ default: m.MiamiKMLScenarioView })))
 const MiamiTerritoryAssignmentTool = withMapLoading(() => import('../components/miami-territory-assignment-tool').then(m => ({ default: m.MiamiTerritoryAssignmentTool })))
-const MiamiFinalTerritoryView = withMapLoading(() => import('../components/miami-final-territory-view').then(m => ({ default: m.MiamiFinalTerritoryView })))
-const Miami10PctReassignmentView = withMapLoading(() => import('../components/miami-10pct-reassignment-view').then(m => ({ default: m.Miami10PctReassignmentView })))
-const MiamiZipOptimizedView = withMapLoading(() => import('../components/miami-zip-optimized-view').then(m => ({ default: m.MiamiZipOptimizedView })))
-const MiamiZipOptimized2View = withMapLoading(() => import('../components/miami-zip-optimized-2-view').then(m => ({ default: m.MiamiZipOptimized2View })))
-const MiamiRadicalRerouteView = withMapLoading(() => import('../components/miami-radical-reroute-view').then(m => ({ default: m.MiamiRadicalRerouteView })))
 const MiamiCommercialRoutesView = withMapLoading(() => import('../components/miami-commercial-routes-view').then(m => ({ default: m.MiamiCommercialRoutesView })))
 const MiamiFutureCommercialRoutesView = withMapLoading(() => import('../components/miami-future-commercial-routes-view').then(m => ({ default: m.MiamiFutureCommercialRoutesView })))
 
@@ -72,14 +66,8 @@ export type ViewMode =
   | 'customerLookup'
   | 'ancillarySales'
   | 'scenarios'
-  // Miami scenarios
-  | 'kmlScenario'
+  // Miami views
   | 'assignmentTool'
-  | 'miamiFinal'
-  | 'miami10pct'
-  | 'miamiZipOptimized'
-  | 'miamiZipOptimized2'
-  | 'radicalReroute'
   | 'miamiCommercialRoutes'
   | 'miamiFutureCommercialRoutes'
   // Jacksonville views
@@ -121,14 +109,8 @@ export const VIEW_REGISTRY: Record<ViewMode, ComponentType<any>> = {
   ancillarySales: AncillarySalesView,
   scenarios: ScenarioBuilderView,
 
-  // Miami scenarios (territory-breaking scenarios)
-  kmlScenario: MiamiKMLScenarioView,
+  // Miami views
   assignmentTool: MiamiTerritoryAssignmentTool,
-  miamiFinal: MiamiFinalTerritoryView,
-  miami10pct: Miami10PctReassignmentView,
-  miamiZipOptimized: MiamiZipOptimizedView,
-  miamiZipOptimized2: MiamiZipOptimized2View,
-  radicalReroute: MiamiRadicalRerouteView,
   miamiCommercialRoutes: MiamiCommercialRoutesView,
   miamiFutureCommercialRoutes: MiamiFutureCommercialRoutesView,
 
@@ -188,7 +170,7 @@ export function getViewModesForLocation(location: string): ViewMode[] {
       return allModes.filter(mode =>
         mode.startsWith('miami') ||
         mode.startsWith('loc') ||
-        ['territory', 'density', 'scenarios'].includes(mode)
+        ['territory', 'density', 'scenarios', 'assignmentTool'].includes(mode)
       )
 
     case 'jacksonville':

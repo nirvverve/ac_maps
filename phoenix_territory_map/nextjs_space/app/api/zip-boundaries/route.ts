@@ -131,7 +131,10 @@ export async function POST(request: NextRequest) {
     )
     
     if (missingZips.length > 0) {
-      const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY
+      const apiKey =
+        process.env.GOOGLE_GEOCODING_API_KEY ||
+        process.env.GOOGLE_MAPS_API_KEY ||
+        process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY
       
       // Rate limiting: process in batches with delays
       const batchSize = 10

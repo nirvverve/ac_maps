@@ -119,14 +119,8 @@ export const LOCATIONS: Record<string, LocationConfig> = {
       'locRevenue',
       'locCommercial',
       'locRoutes',
-      // Miami-specific scenario views
-      'kmlScenario',
+      // Miami-specific views
       'assignmentTool',
-      'miamiFinal',
-      'miami10pct',
-      'miamiZipOptimized',
-      'miamiZipOptimized2',
-      'radicalReroute',
       'miamiCommercialRoutes',
       'miamiFutureCommercialRoutes',
     ],

@@ -22,7 +22,7 @@ const SUPPORTED_LOCATIONS = [
   'dallas',
   'jacksonville',
   'orlando',
-  'portCharlotte'
+  'portcharlotte'
 ] as const
 
 // Common data types found in the system

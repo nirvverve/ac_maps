@@ -31,6 +31,12 @@ interface ScenarioSummary {
   totalRevenueImpact: number
 }
 
+function normalizeLocationFilter(value: string): string {
+  const normalized = value.toLowerCase()
+  if (normalized === 'port-charlotte') return 'portcharlotte'
+  return normalized
+}
+
 /**
  * Convert full scenario to summary object for list view
  */
@@ -204,7 +210,10 @@ export async function GET(request: NextRequest) {
     let filteredScenarios = allScenarios
 
     if (location) {
-      filteredScenarios = filteredScenarios.filter(s => s.location === location)
+      const normalizedLocation = normalizeLocationFilter(location)
+      filteredScenarios = filteredScenarios.filter(
+        s => normalizeLocationFilter(s.location) === normalizedLocation
+      )
     }
 
     if (status) {
