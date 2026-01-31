@@ -116,6 +116,11 @@ const VIEW_DISPLAY_MAP: Record<string, ViewDisplayInfo> = {
     icon: Activity,
     colorScheme: { bg: 'bg-amber-600', bgHover: 'hover:bg-amber-700', text: 'text-white', hoverBg: 'hover:bg-amber-50' },
   },
+  scenarios: {
+    label: 'Scenario Builder',
+    icon: MapIcon,
+    colorScheme: { bg: 'bg-slate-700', bgHover: 'hover:bg-slate-800', text: 'text-white', hoverBg: 'hover:bg-slate-50' },
+  },
 
   // Miami-specific scenario views
   kmlScenario: {

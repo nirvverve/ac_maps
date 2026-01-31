@@ -19,6 +19,8 @@ import {
   type UploadMetadata,
   uploadMetadataSchema
 } from '@/lib/validation-schemas'
+import { rateLimitGuard, RATE_LIMIT_CONFIGS } from '@/lib/rate-limit'
+import { geocodeRecords, needsGeocoding } from '@/lib/geocoding'
 import { parse } from 'papaparse'
 import * as XLSX from 'xlsx'
 
@@ -143,6 +145,10 @@ function validateUploadMetadata(
 }
 
 export async function POST(request: NextRequest) {
+  // Rate limit check (before auth to block brute-force attempts)
+  const rateLimited = rateLimitGuard('admin-upload', request, RATE_LIMIT_CONFIGS.adminUpload)
+  if (rateLimited) return rateLimited
+
   try {
     // 1. Authentication check
     const session = await getServerSession(authOptions)
@@ -159,6 +165,7 @@ export async function POST(request: NextRequest) {
     const location = formData.get('location') as string
     const dataType = formData.get('dataType') as string
     const createBackup = formData.get('createBackup') === 'true'
+    const enableGeocoding = formData.get('geocode') === 'true'
 
     // 3. Validate required fields
     if (!file) {
@@ -234,7 +241,27 @@ export async function POST(request: NextRequest) {
       )
     }
 
-    // 8. Get DataStore instance
+    // 8. Optional geocoding for records missing lat/lng (bd-1ok)
+    let geocodeStats = null
+    let dataToStore = validationResult.data
+    if (enableGeocoding) {
+      const assessment = needsGeocoding(parsedData.data as Record<string, unknown>[])
+      if (assessment.needsGeocoding > 0) {
+        const geocodeResult = await geocodeRecords(parsedData.data as Record<string, unknown>[])
+        geocodeStats = {
+          geocoded: geocodeResult.geocodedCount,
+          failed: geocodeResult.failedCount,
+          skipped: geocodeResult.skippedCount,
+        }
+        // Re-validate geocoded data
+        const revalidated = safeValidateData(dataType as DataType, geocodeResult.records)
+        if (revalidated.success) {
+          dataToStore = revalidated.data
+        }
+      }
+    }
+
+    // 9. Get DataStore instance
     const dataStore = await getDataStore()
 
     // 9. Create backup if requested and data exists

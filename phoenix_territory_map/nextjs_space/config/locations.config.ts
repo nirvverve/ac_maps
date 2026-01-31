@@ -38,6 +38,7 @@ export const LOCATIONS: Record<string, LocationConfig> = {
       'employees',
       'commercial',
       'ancillarySales',
+      'scenarios',
     ],
     dataEndpoints: {
       territory: '/phoenix-tucson-map-data.json',
@@ -114,6 +115,7 @@ export const LOCATIONS: Record<string, LocationConfig> = {
     availableViews: [
       'territory',
       'density',
+      'scenarios',
       'locRevenue',
       'locCommercial',
       'locRoutes',

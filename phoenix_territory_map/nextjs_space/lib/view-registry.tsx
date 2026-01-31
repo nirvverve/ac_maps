@@ -26,6 +26,7 @@ const MarketSizeMapView = withMapLoading(() => import('../components/market-size
 const RevenueMapView = withMapLoading(() => import('../components/revenue-map-view'))
 const EmployeeMapView = withMapLoading(() => import('../components/employee-map-view'))
 const CommercialDensityMapView = withMapLoading(() => import('../components/commercial-density-map-view'))
+const ScenarioBuilderView = withMapLoading(() => import('../components/scenario-builder-view'))
 
 // Core views (Arizona + shared) — named exports
 const RoutesMapView = withMapLoading(() => import('../components/routes-map-view').then(m => ({ default: m.RoutesMapView })))
@@ -70,6 +71,7 @@ export type ViewMode =
   | 'routes'
   | 'customerLookup'
   | 'ancillarySales'
+  | 'scenarios'
   // Miami scenarios
   | 'kmlScenario'
   | 'assignmentTool'
@@ -117,6 +119,7 @@ export const VIEW_REGISTRY: Record<ViewMode, ComponentType<any>> = {
   routes: RoutesMapView,
   customerLookup: CustomerLookup,
   ancillarySales: AncillarySalesView,
+  scenarios: ScenarioBuilderView,
 
   // Miami scenarios (territory-breaking scenarios)
   kmlScenario: MiamiKMLScenarioView,
@@ -185,7 +188,7 @@ export function getViewModesForLocation(location: string): ViewMode[] {
       return allModes.filter(mode =>
         mode.startsWith('miami') ||
         mode.startsWith('loc') ||
-        ['territory', 'density'].includes(mode)
+        ['territory', 'density', 'scenarios'].includes(mode)
       )
 
     case 'jacksonville':

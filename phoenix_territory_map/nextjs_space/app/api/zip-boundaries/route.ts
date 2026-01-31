@@ -1,7 +1,7 @@
-
 import { NextRequest, NextResponse } from 'next/server'
 import { readFile } from 'fs/promises'
 import { join } from 'path'
+import { rateLimitGuard, RATE_LIMIT_CONFIGS } from '@/lib/rate-limit'
 
 interface ZipCodeRequest {
   zip: number
@@ -58,6 +58,10 @@ function calculateCenter(coordinates: number[][]): google.maps.LatLngLiteral {
 }
 
 export async function POST(request: NextRequest) {
+  // Rate limit check (bd-4gs)
+  const rateLimited = rateLimitGuard('zip-boundaries', request, RATE_LIMIT_CONFIGS.zipBoundaries)
+  if (rateLimited) return rateLimited
+
   try {
     const body = await request.json()
     const zipCodes: ZipCodeRequest[] = body.zipCodes || []

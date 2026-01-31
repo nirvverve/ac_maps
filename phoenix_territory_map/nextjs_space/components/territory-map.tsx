@@ -213,6 +213,7 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
       {(() => {
         const ViewComponent = getViewComponent(viewMode)
         const isRoutesView = viewMode === 'routes'
+        const isScenarioView = viewMode === 'scenarios'
         const activeAreas = Object.entries(areaFilter).filter(([, isActive]) => isActive)
         const routeAreaFilter = activeAreas.length === 1 ? activeAreas[0][0] : 'all'
 
@@ -225,7 +226,7 @@ export default function TerritoryMap({ location, onLocationChange }: TerritoryMa
             : (location === 'miami' ? toggleMiamiAreaFilter : toggleAreaFilter),
           onResetFilters: location === 'miami' ? resetMiamiFilters : resetFilters,
           onToggleArea: toggleAreaFilter,
-          territoryData: filteredData,
+          territoryData: isScenarioView ? territoryData : filteredData,
           miamiData,
           userRole,
           densityMode,

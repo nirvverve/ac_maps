@@ -11,7 +11,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Alert, AlertDescription } from '@/components/ui/alert'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
 import { Badge } from '@/components/ui/badge'
-import { Loader2, UserPlus, ArrowLeft, Shield, UserCog, User, CheckCircle2 } from 'lucide-react'
+import { Loader2, UserPlus, ArrowLeft, Shield, UserCog, User, CheckCircle2, Upload } from 'lucide-react'
 import Link from 'next/link'
 
 type User = {
@@ -118,6 +118,16 @@ export default function AdminPage() {
         </div>
 
         <div className="grid gap-6">
+          {/* Quick Actions */}
+          <div className="flex gap-3">
+            <Link href="/admin/upload">
+              <Button variant="outline" className="gap-2">
+                <Upload className="h-4 w-4" />
+                Upload Data
+              </Button>
+            </Link>
+          </div>
+
           {/* Add User Card */}
           <Card>
             <CardHeader>
