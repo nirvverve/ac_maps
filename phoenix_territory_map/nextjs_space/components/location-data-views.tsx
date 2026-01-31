@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useCallback, useMemo } from 'react';
-import { GoogleMap, Marker, InfoWindow, Polygon } from '@react-google-maps/api';
+import { GoogleMap, MarkerF, InfoWindowF, PolygonF } from '@react-google-maps/api';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -186,7 +186,7 @@ export function LocationCommercialView({ location }: { location: string }) {
           options={mapOptions}
         >
           {accounts.map(account => (
-            <Marker
+            <MarkerF
               key={account.customerNumber}
               position={{
                 lat: account.latitude,
@@ -207,7 +207,7 @@ export function LocationCommercialView({ location }: { location: string }) {
           ))}
 
           {selectedAccount && (
-            <InfoWindow
+            <InfoWindowF
               position={{
                 lat: selectedAccount.latitude,
                 lng: selectedAccount.longitude,
@@ -243,7 +243,7 @@ export function LocationCommercialView({ location }: { location: string }) {
                   </div>
                 </div>
               </div>
-            </InfoWindow>
+            </InfoWindowF>
           )}
         </GoogleMap>
       </Card>
@@ -464,7 +464,7 @@ export function LocationRoutesView({ location }: { location: string }) {
             options={mapOptions}
           >
             {filteredRoutes.map((route, index) => (
-              <Marker
+              <MarkerF
                 key={route.customerNumber}
                 position={{
                   lat: route.latitude,
@@ -491,7 +491,7 @@ export function LocationRoutesView({ location }: { location: string }) {
             ))}
 
             {selectedCustomer && (
-              <InfoWindow
+              <InfoWindowF
                 position={{
                   lat: selectedCustomer.latitude,
                   lng: selectedCustomer.longitude,
@@ -523,7 +523,7 @@ export function LocationRoutesView({ location }: { location: string }) {
                     )}
                   </div>
                 </div>
-              </InfoWindow>
+              </InfoWindowF>
             )}
           </GoogleMap>
         </Card>

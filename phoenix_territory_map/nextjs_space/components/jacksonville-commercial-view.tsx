@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useCallback } from 'react';
-import { GoogleMap, Marker, InfoWindow } from '@react-google-maps/api';
+import { GoogleMap, MarkerF, InfoWindowF } from '@react-google-maps/api';
 import { Card } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Table, TableHeader, TableBody, TableRow, TableHead, TableCell } from '@/components/ui/table';
@@ -156,7 +156,7 @@ export function JacksonvilleCommercialView() {
           options={mapOptions}
         >
           {accounts.map(account => (
-            <Marker
+            <MarkerF
               key={account.customerNumber}
               position={{
                 lat: account.latitude,
@@ -177,7 +177,7 @@ export function JacksonvilleCommercialView() {
           ))}
 
           {selectedAccount && (
-            <InfoWindow
+            <InfoWindowF
               position={{
                 lat: selectedAccount.latitude,
                 lng: selectedAccount.longitude,
@@ -213,7 +213,7 @@ export function JacksonvilleCommercialView() {
                   </div>
                 </div>
               </div>
-            </InfoWindow>
+            </InfoWindowF>
           )}
         </GoogleMap>
       </Card>

@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useCallback, useMemo } from 'react';
-import { GoogleMap, Marker, InfoWindow, Polygon } from '@react-google-maps/api';
+import { GoogleMap, MarkerF, InfoWindowF, PolygonF } from '@react-google-maps/api';
 import { Card } from '@/components/ui/card';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Badge } from '@/components/ui/badge';
@@ -300,7 +300,7 @@ export function JacksonvilleRoutesView() {
                   }));
 
                   return (
-                    <Polygon
+                    <PolygonF
                       key={`${zip}-${idx}`}
                       paths={paths}
                       options={{
@@ -318,7 +318,7 @@ export function JacksonvilleRoutesView() {
 
               {/* Customer Markers */}
               {filteredRoutes.map(customer => (
-                <Marker
+                <MarkerF
                   key={customer.customerNumber}
                   position={{
                     lat: customer.latitude,
@@ -339,7 +339,7 @@ export function JacksonvilleRoutesView() {
               ))}
 
               {selectedCustomer && (
-                <InfoWindow
+                <InfoWindowF
                   position={{
                     lat: selectedCustomer.latitude,
                     lng: selectedCustomer.longitude,
@@ -375,7 +375,7 @@ export function JacksonvilleRoutesView() {
                       </div>
                     </div>
                   </div>
-                </InfoWindow>
+                </InfoWindowF>
               )}
             </GoogleMap>
 

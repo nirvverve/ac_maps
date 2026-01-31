@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useMemo } from 'react';
-import { GoogleMap, Marker, InfoWindow, Polygon } from '@react-google-maps/api';
+import { GoogleMap, MarkerF, InfoWindowF, PolygonF } from '@react-google-maps/api';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Card } from '@/components/ui/card';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
@@ -77,13 +77,11 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
     fetch('/route-assignments.json')
       .then((res) => res.json())
       .then((data) => {
-        console.log('📊 Routes data loaded:', data.length, 'records');
         setRoutes(data);
-        
+
         // Extract unique technicians and sort
         const uniqueTechs = Array.from(new Set(data.map((r: RouteAssignment) => r.technician))) as string[];
         uniqueTechs.sort();
-        console.log('👷 Technicians found:', uniqueTechs.length);
         setTechnicians(uniqueTechs);
       })
       .catch((error) => {
@@ -172,7 +170,6 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
       
       // If current filter is not in technician's territories, reset to 'all'
       if (areaFilter !== 'all' && !territoryList.includes(areaFilter)) {
-        console.log(`🔄 Resetting territory filter from ${areaFilter} to 'all'`);
         onAreaChange('all');
         return; // Exit early to prevent double updates
       }
@@ -180,7 +177,6 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
       // If technician only has one territory, auto-select it (only if not already selected)
       if (territoryList.length === 1 && areaFilter === 'all') {
         const singleTerritory = territoryList[0];
-        console.log(`🎯 Auto-selecting single territory: ${singleTerritory}`);
         onAreaChange(singleTerritory);
       }
     }
@@ -189,13 +185,9 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
   // Update map center when technician is selected
   useEffect(() => {
     if (selectedTechnician && filteredRoutes.length > 0) {
-      console.log(`🚗 Selected technician: ${selectedTechnician}, ${filteredRoutes.length} stops`);
-      
       // Calculate center of technician's route
       const avgLat = filteredRoutes.reduce((sum, r) => sum + r.latitude, 0) / filteredRoutes.length;
       const avgLng = filteredRoutes.reduce((sum, r) => sum + r.longitude, 0) / filteredRoutes.length;
-      
-      console.log(`📍 Map centering to: ${avgLat.toFixed(4)}, ${avgLng.toFixed(4)}`);
       setMapCenter({ lat: avgLat, lng: avgLng });
       setMapZoom(13); // Increased from 12 to 13 for better address-level visibility
     } else {
@@ -242,8 +234,6 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
         filteredRoutes.map((route) => route.zipCode)
       );
 
-      console.log(`🗺️ Rendering polygons for ${technicianZips.size} unique ZIP codes`);
-
       const polygons: any[] = [];
       const processedZips = new Set<string>();
 
@@ -281,7 +271,6 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
         }
       });
 
-      console.log(`✅ Generated ${polygons.length} polygon objects`);
       return polygons;
     } catch (error) {
       console.error('❌ Error in getTerritoryPolygons:', error);
@@ -457,7 +446,7 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
         >
             {/* Territory boundaries */}
             {territoryPolygons.map((polygon) => (
-              <Polygon
+              <PolygonF
                 key={polygon.key}
                 paths={polygon.paths}
                 options={{
@@ -476,7 +465,7 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
               .map((office) => {
                 const color = office.category === 'NEXT YEAR' ? '#ef4444' : '#f97316';
                 return (
-                  <Marker
+                  <MarkerF
                     key={office.zipCode}
                     position={{ lat: office.lat, lng: office.lng }}
                     icon={{
@@ -512,7 +501,7 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
                 return hasValidCoords && route.customerNumber;
               })
               .map((route) => (
-                <Marker
+                <MarkerF
                   key={route.customerNumber}
                   position={{ lat: route.latitude, lng: route.longitude }}
                   onClick={() => setSelectedAccount(route)}
@@ -529,7 +518,7 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
 
             {/* Info window */}
             {selectedAccount && (
-              <InfoWindow
+              <InfoWindowF
                 position={{ lat: selectedAccount.latitude, lng: selectedAccount.longitude }}
                 onCloseClick={() => setSelectedAccount(null)}
               >
@@ -562,7 +551,7 @@ export function RoutesMapView({ areaFilter, onAreaChange }: RoutesMapViewProps) 
                     )}
                   </div>
                 </div>
-              </InfoWindow>
+              </InfoWindowF>
             )}
         </GoogleMap>
       </Card>

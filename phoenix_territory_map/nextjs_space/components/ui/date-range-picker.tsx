@@ -1,5 +1,5 @@
 import * as React from "react";
-import { format } from "date-fns";
+import dayjs from "dayjs";
 import { Calendar as CalendarIcon } from "lucide-react";
 import { DateRange } from "react-day-picker";
 import { cn } from "@/lib/utils";
@@ -38,11 +38,11 @@ export function DateRangePicker({
             {value?.from ? (
               value.to ? (
                 <>
-                  {format(value.from, "LLL dd, y")} -{" "}
-                  {format(value.to, "LLL dd, y")}
+                  {dayjs(value.from).format("MMM DD, YYYY")} -{" "}
+                  {dayjs(value.to).format("MMM DD, YYYY")}
                 </>
               ) : (
-                format(value.from, "LLL dd, y")
+                dayjs(value.from).format("MMM DD, YYYY")
               )
             ) : (
               <span>Pick a date range</span>

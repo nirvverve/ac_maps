@@ -7,6 +7,7 @@ import { Card, CardContent } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { MapPin, Users, Building2, Search, X } from 'lucide-react'
+import { toast } from 'sonner'
 import { TerritoryData, AreaFilter } from '@/lib/types'
 import { getAreaDisplayName } from '@/lib/utils'
 
@@ -240,7 +241,7 @@ export default function GoogleMapView({ territoryData, areaFilter }: GoogleMapVi
         setSelectedMarker(foundZip)
       }
     } else {
-      alert(`ZIP code ${trimmedZip} not found in territory data.`)
+      toast.error(`ZIP code ${trimmedZip} not found in territory data.`)
     }
   }, [zipSearchInput, territoryData, zipCodeCoordinates])
 
@@ -254,7 +255,7 @@ export default function GoogleMapView({ territoryData, areaFilter }: GoogleMapVi
     }
   }, [])
 
-  const handleKeyPress = useCallback((e: React.KeyboardEvent<HTMLInputElement>) => {
+  const handleKeyDown = useCallback((e: React.KeyboardEvent<HTMLInputElement>) => {
     if (e.key === 'Enter') {
       handleZipSearch()
     }
@@ -276,7 +277,7 @@ export default function GoogleMapView({ territoryData, areaFilter }: GoogleMapVi
                 placeholder="Enter 5-digit ZIP code..."
                 value={zipSearchInput}
                 onChange={(e) => setZipSearchInput(e.target.value)}
-                onKeyPress={handleKeyPress}
+                onKeyDown={handleKeyDown}
                 className="max-w-xs"
                 maxLength={5}
               />

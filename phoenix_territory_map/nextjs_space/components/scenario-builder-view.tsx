@@ -103,6 +103,9 @@ export default function ScenarioBuilderView({ location, territoryData, userRole 
   const [scenarioList, setScenarioList] = useState<ScenarioSummary[]>([])
   const [selectedScenarioId, setSelectedScenarioId] = useState<string | null>(null)
   const [scenarioDetails, setScenarioDetails] = useState<ScenarioDetails | null>(null)
+  const [compareScenarioId, setCompareScenarioId] = useState<string | null>(null)
+  const [compareScenarioDetails, setCompareScenarioDetails] = useState<ScenarioDetails | null>(null)
+  const [isLoadingCompare, setIsLoadingCompare] = useState(false)
   const [selectedZip, setSelectedZip] = useState<string | null>(null)
   const [boundaryPaths, setBoundaryPaths] = useState<Record<string, google.maps.LatLngLiteral[][]>>({})
   const [scenarioOverrides, setScenarioOverrides] = useState<Record<string, string>>({})
@@ -213,6 +216,50 @@ export default function ScenarioBuilderView({ location, territoryData, userRole 
     }
   }, [selectedScenarioId])
 
+  useEffect(() => {
+    if (!compareScenarioId) {
+      setCompareScenarioDetails(null)
+      return
+    }
+
+    if (compareScenarioId === selectedScenarioId) {
+      setCompareScenarioId(null)
+      setCompareScenarioDetails(null)
+      return
+    }
+
+    if (!scenarioList.some(scenario => scenario.id === compareScenarioId)) {
+      setCompareScenarioId(null)
+      setCompareScenarioDetails(null)
+    }
+  }, [compareScenarioId, selectedScenarioId, scenarioList])
+
+  useEffect(() => {
+    if (!compareScenarioId) {
+      setCompareScenarioDetails(null)
+      return
+    }
+
+    let isMounted = true
+    setIsLoadingCompare(true)
+    fetch(`/api/scenarios/${compareScenarioId}`)
+      .then(res => res.json())
+      .then(data => {
+        if (!isMounted) return
+        setCompareScenarioDetails(data)
+      })
+      .catch(() => {
+        if (isMounted) setCompareScenarioDetails(null)
+      })
+      .finally(() => {
+        if (isMounted) setIsLoadingCompare(false)
+      })
+
+    return () => {
+      isMounted = false
+    }
+  }, [compareScenarioId])
+
   const loadBoundaries = useCallback(async () => {
     if (!baselineAssignments.length) return
 
@@ -320,6 +367,26 @@ export default function ScenarioBuilderView({ location, territoryData, userRole 
     return map
   }, [effectiveReassignments])
 
+  const compareRevenueByZip = useMemo(() => {
+    const map: Record<string, number> = {}
+    ;(compareScenarioDetails?.reassignments ?? []).forEach(item => {
+      map[item.zipCode] = item.revenueImpact
+    })
+    return map
+  }, [compareScenarioDetails])
+
+  const compareAssignmentByZip = useMemo(() => {
+    if (!compareScenarioDetails) return null
+    const map: Record<string, string> = {}
+    baselineAssignments.forEach(item => {
+      map[item.zip] = item.territory
+    })
+    compareScenarioDetails.reassignments.forEach(item => {
+      map[item.zipCode] = item.toTerritory
+    })
+    return map
+  }, [baselineAssignments, compareScenarioDetails])
+
   const totals = useMemo(() => {
     const baseline: Record<string, { accounts: number; revenue: number; zips: number }> = {}
     const scenario: Record<string, { accounts: number; revenue: number; zips: number }> = {}
@@ -352,6 +419,36 @@ export default function ScenarioBuilderView({ location, territoryData, userRole 
     return { baseline, scenario, delta }
   }, [baselineAssignments, assignmentByZip, revenueByZip, territoryKeys])
 
+  const compareTotals = useMemo(() => {
+    if (!compareAssignmentByZip) return null
+    const scenario: Record<string, { accounts: number; revenue: number; zips: number }> = {}
+
+    baselineAssignments.forEach(item => {
+      const territory = compareAssignmentByZip[item.zip] ?? item.territory
+      if (!scenario[territory]) scenario[territory] = { accounts: 0, revenue: 0, zips: 0 }
+      scenario[territory].accounts += item.accountCount
+      scenario[territory].revenue += compareRevenueByZip[item.zip] ?? 0
+      scenario[territory].zips += 1
+    })
+
+    return scenario
+  }, [baselineAssignments, compareAssignmentByZip, compareRevenueByZip])
+
+  const comparisonDelta = useMemo(() => {
+    if (!compareTotals) return null
+    const delta: Record<string, { accounts: number; revenue: number; zips: number }> = {}
+    territoryKeys.forEach(key => {
+      const current = totals.scenario[key] ?? { accounts: 0, revenue: 0, zips: 0 }
+      const compare = compareTotals[key] ?? { accounts: 0, revenue: 0, zips: 0 }
+      delta[key] = {
+        accounts: current.accounts - compare.accounts,
+        revenue: current.revenue - compare.revenue,
+        zips: current.zips - compare.zips,
+      }
+    })
+    return delta
+  }, [compareTotals, totals, territoryKeys])
+
   const selectedZipDetails = selectedZip ? baselineByZip[selectedZip] : null
   const selectedZipAssignment = selectedZip ? assignmentByZip[selectedZip] : null
   const selectedReassignment = selectedZip
@@ -360,6 +457,16 @@ export default function ScenarioBuilderView({ location, territoryData, userRole 
 
   const totalAccountsImpacted = effectiveReassignments.reduce((sum, item) => sum + item.accountCount, 0)
   const totalRevenueImpact = effectiveReassignments.reduce((sum, item) => sum + item.revenueImpact, 0)
+
+  const selectedScenarioName = useMemo(() => {
+    if (selectedScenarioId === 'new') return 'Draft Scenario'
+    return scenarioList.find(scenario => scenario.id === selectedScenarioId)?.name ?? 'Scenario'
+  }, [scenarioList, selectedScenarioId])
+
+  const compareScenarioName = useMemo(() => {
+    if (!compareScenarioId) return null
+    return scenarioList.find(scenario => scenario.id === compareScenarioId)?.name ?? 'Scenario'
+  }, [scenarioList, compareScenarioId])
 
   const handleTerritorySelect = (zip: string, territory: string) => {
     const baselineTerritory = baselineByZip[zip]?.territory
@@ -527,6 +634,88 @@ export default function ScenarioBuilderView({ location, territoryData, userRole 
                   )
                 })}
               </div>
+            </CardContent>
+          </Card>
+
+          <Card>
+            <CardContent className="p-4 space-y-3">
+              <div className="flex items-center justify-between">
+                <h3 className="text-sm font-semibold">Scenario Comparison</h3>
+                <Badge variant="secondary">
+                  {compareScenarioDetails ? 'Comparing' : 'Optional'}
+                </Badge>
+              </div>
+
+              <Select
+                value={compareScenarioId ?? 'none'}
+                onValueChange={(value) => setCompareScenarioId(value === 'none' ? null : value)}
+                disabled={isLoadingScenarios}
+              >
+                <SelectTrigger>
+                  <SelectValue placeholder="Select scenario to compare" />
+                </SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="none">No comparison</SelectItem>
+                  {scenarioList
+                    .filter(scenario => scenario.id !== selectedScenarioId)
+                    .map(scenario => (
+                      <SelectItem key={scenario.id} value={scenario.id}>
+                        {scenario.name}
+                      </SelectItem>
+                    ))}
+                </SelectContent>
+              </Select>
+
+              {isLoadingCompare && (
+                <p className="text-xs text-muted-foreground">Loading comparison scenario...</p>
+              )}
+
+              {!isLoadingCompare && compareScenarioDetails && compareTotals && comparisonDelta ? (
+                <div className="space-y-3">
+                  <div className="text-xs text-muted-foreground">
+                    {selectedScenarioName} vs {compareScenarioName ?? 'Scenario'}
+                  </div>
+                  <div className="space-y-2">
+                    {territoryKeys.map(key => {
+                      const current = totals.scenario[key] ?? { accounts: 0, revenue: 0 }
+                      const compare = compareTotals[key] ?? { accounts: 0, revenue: 0 }
+                      const delta = comparisonDelta[key] ?? { accounts: 0, revenue: 0 }
+                      const deltaClass = delta.accounts >= 0 ? 'text-emerald-600' : 'text-rose-600'
+
+                      return (
+                        <div key={key} className="rounded-lg border border-slate-200 p-3">
+                          <div className="flex items-center justify-between">
+                            <div className="flex items-center gap-2">
+                              <span
+                                className="h-3 w-3 rounded-full"
+                                style={{ backgroundColor: territoryColorMap[key] ?? '#94a3b8' }}
+                              />
+                              <span className="text-sm font-medium">{key}</span>
+                            </div>
+                            <Badge variant="secondary" className={`text-xs ${deltaClass}`}>
+                              {delta.accounts >= 0 ? '+' : ''}{delta.accounts} accounts
+                            </Badge>
+                          </div>
+                          <div className="mt-2 text-xs text-muted-foreground space-y-1">
+                            <div>
+                              Selected: {current.accounts} · Compare: {compare.accounts}
+                            </div>
+                            <div>
+                              Revenue Δ {delta.revenue >= 0 ? '+' : ''}{formatCurrency(delta.revenue)}
+                            </div>
+                          </div>
+                        </div>
+                      )
+                    })}
+                  </div>
+                </div>
+              ) : (
+                !isLoadingCompare && (
+                  <p className="text-xs text-muted-foreground">
+                    Choose another scenario to see side-by-side deltas.
+                  </p>
+                )
+              )}
             </CardContent>
           </Card>
 

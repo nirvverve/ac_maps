@@ -72,7 +72,6 @@ export default function MarketSizeMapView({ areaFilter }: MarketSizeMapViewProps
         const response = await fetch('/phoenix-tucson-map-data.json')
         if (!response.ok) throw new Error('Failed to load territory data')
         const data = await response.json()
-        console.log('Territory data loaded:', data?.length, 'records')
         setTerritoryData(data || [])
       } catch (error) {
         console.error('Error loading territory data:', error)
@@ -154,17 +153,6 @@ export default function MarketSizeMapView({ areaFilter }: MarketSizeMapViewProps
     return true
   })
 
-  // Debug logging
-  useEffect(() => {
-    console.log('Market Size View Debug:', {
-      zipBoundariesCount: zipBoundaries.length,
-      marketDataCount: marketData.length,
-      territoryDataCount: territoryData.length,
-      filteredBoundariesCount: filteredBoundaries.length,
-      sampleMarketZips: marketData.slice(0, 5).map(d => d.zipCode),
-      sampleBoundaryZips: zipBoundaries.slice(0, 5).map(f => f?.properties?.ZCTA5CE10)
-    })
-  }, [zipBoundaries, marketData, territoryData, filteredBoundaries])
 
   const handleZipClick = (zipCode: string) => {
     const marketInfo = marketData.find(d => d.zipCode === zipCode)

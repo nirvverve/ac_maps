@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { GoogleMap, Marker, InfoWindow } from '@react-google-maps/api';
+import { GoogleMap, MarkerF, InfoWindowF } from '@react-google-maps/api';
 import { Card } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { Badge } from '@/components/ui/badge';
@@ -298,7 +298,7 @@ export function CustomerLookup() {
                       mapTypeControl: true,
                     }}
                   >
-                    <Marker
+                    <MarkerF
                       position={{ lat: selectedCustomer.latitude, lng: selectedCustomer.longitude }}
                       onClick={() => setShowMapInfo(true)}
                       icon={{
@@ -312,7 +312,7 @@ export function CustomerLookup() {
                     />
                     
                     {showMapInfo && (
-                      <InfoWindow
+                      <InfoWindowF
                         position={{ lat: selectedCustomer.latitude, lng: selectedCustomer.longitude }}
                         onCloseClick={() => setShowMapInfo(false)}
                       >
@@ -340,7 +340,7 @@ export function CustomerLookup() {
                             }</p>
                           </div>
                         </div>
-                      </InfoWindow>
+                      </InfoWindowF>
                     )}
                   </GoogleMap>
                 ) : (

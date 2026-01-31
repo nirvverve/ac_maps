@@ -89,7 +89,6 @@ async function saveScenario(scenario: Scenario): Promise<void> {
     // Write file
     await fs.writeFile(filePath, JSON.stringify(scenario, null, 2))
 
-    console.log(`Scenario saved: ${scenario.id}`)
   } catch (error) {
     console.error(`Failed to save scenario ${scenario.id}:`, error)
     throw error
@@ -121,7 +120,6 @@ async function deleteScenario(scenarioId: string): Promise<void> {
       console.warn(`Static file delete failed for ${scenarioId}:`, error)
     }
 
-    console.log(`Scenario deleted: ${scenarioId}`)
   } catch (error) {
     console.error(`Failed to delete scenario ${scenarioId}:`, error)
     throw error

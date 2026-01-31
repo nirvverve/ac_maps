@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useCallback, useMemo } from 'react';
-import { GoogleMap, Polygon, InfoWindow } from '@react-google-maps/api';
+import { GoogleMap, PolygonF, InfoWindowF } from '@react-google-maps/api';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -276,7 +276,7 @@ export function JacksonvilleRevenueView() {
               const isHovered = hoveredZip === zipData.zip;
 
               return (
-                <Polygon
+                <PolygonF
                   key={`${zipData.zip}-${idx}`}
                   paths={paths}
                   options={{
@@ -296,7 +296,7 @@ export function JacksonvilleRevenueView() {
           })}
 
           {selectedZipData && (
-            <InfoWindow
+            <InfoWindowF
               position={{
                 lat: zipRevenue.find(z => z.zip === selectedZip)?.accounts[0]?.['latitude'] || jacksonvilleCenter.lat,
                 lng: zipRevenue.find(z => z.zip === selectedZip)?.accounts[0]?.['longitude'] || jacksonvilleCenter.lng,
@@ -326,7 +326,7 @@ export function JacksonvilleRevenueView() {
                   </p>
                 </div>
               </div>
-            </InfoWindow>
+            </InfoWindowF>
           )}
         </GoogleMap>
 
